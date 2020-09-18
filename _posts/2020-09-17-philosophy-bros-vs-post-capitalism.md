@@ -10,7 +10,7 @@ tags: [machine learning, GPT-2, RunwayML, philosophy, ethics, capitalism, apocal
 
 After generations of living under colonialism, white supremacy, economic insecurity, increasing austerity, crushing psychological stress, social unrest, a global pandemic, ecological catastrophe, fake news, conspiracy theories, extreme nihilism, and near climate collapse, the humans decided to end capitalism, overthrow their corrupt leaders, and begin again.
 
-As they learned how to be in right relationship with the earth and each other, they started reflecting on their shortcomings and asking questions about the true nature human bondage, human freedom, emotions, mind, God, consciousness, ethics and morality. They ruminated on the consciousness of responsibility, sin, debt, obligation, compensation, community, injury, guilt, alienation, and atonement.
+As they learned how to be in right relationship with the earth and each other, they started reflecting on their shortcomings and asking questions about the true nature of human bondage, human freedom, emotions, mind, God, consciousness, ethics and morality. They ruminated on the consciousness of responsibility, sin, debt, obligation, compensation, community, injury, guilt, alienation, and atonement.
 
 It seems they knew little of pleasure and love that wasn't tied to suffering and pain. It became obvious . . .
 
