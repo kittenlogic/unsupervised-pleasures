@@ -2,10 +2,32 @@
   
     {
 
+      "title"    : "Queer A.I. Ultimate Fantasy v8",
+      "url"      : "/2020/09/18/queer-ai-ultimate-fantasy-008",
+      "category" : "",
+      "tags"     : "machine learning, GPT-2, RunwayML, queer, cruising, subtle, rough, possessive, competitive",
+      "date"     : "2020-09-18 00:00:00 -0700",
+      "description" : "GPT-2 model trained on a corpus of queer theatre"
+
+    } ,
+  
+    {
+
+      "title"    : "Queer A.I. Ultimate Fantasy v7",
+      "url"      : "/2020/09/18/queer-ai-ultimate-fantasy-007",
+      "category" : "",
+      "tags"     : "machine learning, GPT-2, RunwayML, queer, gayborhood, gayborhoodstripper, drag queen, disco, feminist, moon, mother, sea, beast, overwhelming, love",
+      "date"     : "2020-09-18 00:00:00 -0700",
+      "description" : "GPT-2 model trained on a corpus of queer theatre"
+
+    } ,
+  
+    {
+
       "title"    : "Queer A.I. Ultimate Fantasy v6",
       "url"      : "/2020/09/18/queer-ai-ultimate-fantasy-006",
       "category" : "",
-      "tags"     : "machine learning, GPT-2, RunwayML, queer",
+      "tags"     : "machine learning, GPT-2, RunwayML, queer, erotic, secret lover, monster",
       "date"     : "2020-09-18 00:00:00 -0700",
       "description" : "GPT-2 model trained on a corpus of queer theatre"
 
@@ -68,7 +90,7 @@
   
     {
 
-      "title"    : "Philosophy Bro A.I. does Life After Capitalism",
+      "title"    : "Philosophy Bro A.I. Explains Life After Capitalism",
       "url"      : "/2020/09/17/philosophy-bros-vs-post-capitalism",
       "category" : "",
       "tags"     : "machine learning, GPT-2, RunwayML, philosophy, ethics, capitalism, apocalypse",

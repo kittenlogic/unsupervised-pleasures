@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Philosophy Bro A.I. does Life After Capitalism
+title: Philosophy Bro A.I. Explains Life After Capitalism
 description: GPT-2 model trained on Nietzsche, Spinoza, Schopenhauer, Bergson, William James
 summary: GPT-2 model trained on Nietzsche, Spinoza, Schopenhauer, Bergson and William James on pleasure and self-emancipation after capitalism
 tags: [machine learning, GPT-2, RunwayML, philosophy, ethics, capitalism, apocalypse]
