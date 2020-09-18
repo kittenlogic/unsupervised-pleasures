@@ -1,0 +1,11 @@
+links:
+- title: Texts
+  url: /
+- title: About
+  url: /about
+- title: Corpora
+  url: /corpora
+- title: Search
+  url: /search
+- title: Rss
+  url: /atom.xml
