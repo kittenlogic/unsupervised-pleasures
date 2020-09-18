@@ -2,6 +2,28 @@
   
     {
 
+      "title"    : "Queer A.I. Ultimate Fantasy v6",
+      "url"      : "/2020/09/18/queer-ai-ultimate-fantasy-006",
+      "category" : "",
+      "tags"     : "machine learning, GPT-2, RunwayML, queer",
+      "date"     : "2020-09-18 00:00:00 -0700",
+      "description" : "GPT-2 model trained on a corpus of queer theatre"
+
+    } ,
+  
+    {
+
+      "title"    : "Queer A.I. Ultimate Fantasy v5",
+      "url"      : "/2020/09/18/queer-ai-ultimate-fantasy-005",
+      "category" : "",
+      "tags"     : "machine learning, GPT-2, RunwayML, queer, Miami, folk song, blow-up doll, mop",
+      "date"     : "2020-09-18 00:00:00 -0700",
+      "description" : "GPT-2 model trained on a corpus of queer theatre"
+
+    } ,
+  
+    {
+
       "title"    : "Queer A.I. Ultimate Fantasy v4",
       "url"      : "/2020/09/18/queer-ai-ultimate-fantasy-004",
       "category" : "",
@@ -46,7 +68,7 @@
   
     {
 
-      "title"    : "Philosophy Bro A.I. Imagines Life After Capitalism",
+      "title"    : "Philosophy Bro A.I. does Life After Capitalism",
       "url"      : "/2020/09/17/philosophy-bros-vs-post-capitalism",
       "category" : "",
       "tags"     : "machine learning, GPT-2, RunwayML, philosophy, ethics, capitalism, apocalypse",
