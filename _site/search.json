@@ -2,6 +2,50 @@
   
     {
 
+      "title"    : "Queer A.I. Ultimate Fantasy v4",
+      "url"      : "/2020/09/18/queer-ai-ultimate-fantasy-004",
+      "category" : "",
+      "tags"     : "machine learning, GPT-2, RunwayML, queer",
+      "date"     : "2020-09-18 00:00:00 -0700",
+      "description" : "GPT-2 model trained on a corpus of queer theatre"
+
+    } ,
+  
+    {
+
+      "title"    : "Queer A.I. Ultimate Fantasy v3",
+      "url"      : "/2020/09/18/queer-ai-ultimate-fantasy-003",
+      "category" : "",
+      "tags"     : "machine learning, GPT-2, RunwayML, queer",
+      "date"     : "2020-09-18 00:00:00 -0700",
+      "description" : "GPT-2 model trained on a corpus of queer theatre"
+
+    } ,
+  
+    {
+
+      "title"    : "Queer A.I. Ultimate Fantasy v2",
+      "url"      : "/2020/09/18/queer-ai-ultimate-fantasy-002",
+      "category" : "",
+      "tags"     : "machine learning, GPT-2, RunwayML, queer",
+      "date"     : "2020-09-18 00:00:00 -0700",
+      "description" : "GPT-2 model trained on a corpus of queer theatre"
+
+    } ,
+  
+    {
+
+      "title"    : "Queer A.I. Ultimate Fantasy v1",
+      "url"      : "/2020/09/18/queer-ai-ultimate-fantasy-001",
+      "category" : "",
+      "tags"     : "machine learning, GPT-2, RunwayML, queer",
+      "date"     : "2020-09-18 00:00:00 -0700",
+      "description" : "GPT-2 model trained on a corpus of queer theatre"
+
+    } ,
+  
+    {
+
       "title"    : "Philosophy Bro A.I. Imagines Life After Capitalism",
       "url"      : "/2020/09/17/philosophy-bros-vs-post-capitalism",
       "category" : "",
