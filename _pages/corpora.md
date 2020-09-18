@@ -3,7 +3,7 @@ layout: page
 title: Corpora
 ---
 
-## I. Philosophy Bro
+## Philosophy Bro <small>1.0</small>
 
 ### Corpus
 
