@@ -1,6 +1,6 @@
-# Sidey
+# Unsupervised Pleasures
 
-Sidey is a simple and minimalistic jekyll blogging theme.
+Experiments with machine learning models for text-generation using charRNN and GPT-2.
 
 ### Features
 
@@ -20,9 +20,6 @@ Sidey is a simple and minimalistic jekyll blogging theme.
 - Ultra fast (Only ~5kb of CSS)
 - Sidebar navigation
 
-### Screenshot
-
-![Screenshot](screenshot.png)
 
 ### Use
 
