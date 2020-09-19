@@ -47,7 +47,7 @@ SCHOPENHAUER ??
 <br/><br/>
 <hr/>
 
-## Queer AI 2.0
+## Queer AI <small>1.0</small>
 
 ### Corpus
 

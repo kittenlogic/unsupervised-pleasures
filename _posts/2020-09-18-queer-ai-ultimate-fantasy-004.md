@@ -385,4 +385,4 @@ I'll be back.
 
 ## Credits
 
-Prompt remixed from [A Queer History of Computing](https://rhizome.org/editorial/2013/feb/19/queer-computing-1/)
+Prompt adapted from [A Queer History of Computing](https://rhizome.org/editorial/2013/feb/19/queer-computing-1/)

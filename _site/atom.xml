@@ -4,13 +4,71 @@
  <title>Unsupervised Pleasures</title>
  <link href="http://localhost:4000/atom.xml" rel="self"/>
  <link href="http://localhost:4000/"/>
- <updated>2020-09-18T20:43:51-07:00</updated>
+ <updated>2020-09-19T01:45:26-07:00</updated>
  <id>http://localhost:4000</id>
  <author>
    <name>@queermachines</name>
    <email>queermachines@gmail.com</email>
  </author>
 
+ 
+ <entry>
+   <title>Queer A.I. Ultimate Fantasy v9</title>
+   <link href="http://localhost:4000/texts/queer-ai-ultimate-fantasy-009"/>
+   <updated>2020-09-19T00:00:00-07:00</updated>
+   <id>http://localhost:4000/texts/queer-ai-ultimate-fantasy-009</id>
+   <content type="html">&lt;h2 id=&quot;human-prompt&quot;&gt;Human Prompt&lt;/h2&gt;
+
+&lt;p&gt;Do you like to have anonymous sex in public rest rooms? Sex movies? Public parks? Sex clubs? On street corners with heavy hustling traffic? How many nonsexual friendships or acquaintances lasting for decades started this way? How many ways are there to love queers? How many ways are there to queer love?&lt;/p&gt;
+
+&lt;p&gt;Let me begin by telling you my ultimate fantasy. When I was. . .&lt;/p&gt;
+
+&lt;h2 id=&quot;computer-generated&quot;&gt;Computer Generated&lt;/h2&gt;
+
+&lt;p&gt;Let me begin by telling you my ultimate fantasy. When I was in high school, this sweet, innocent, bubbly geezer from Mendocino, California, came over for dinner and had the most incredible meal. We chatted all day and night about life in the gay and lesbian community and his favorite subject was “The Private Life of the City.” He talked about cruising the city, going out to bars on Friday nights, and even went as far as to buy me a leather briefcase with sex toys inside so I could take all my fantasies to the clubs.&lt;/p&gt;
+
+&lt;p&gt;My mouth dropped open when he told me this.&lt;/p&gt;
+
+&lt;p&gt;No, really.&lt;/p&gt;
+
+&lt;p&gt;He’d taken me to gay clubs and explained to me that none of the guys there used condoms and that it was the girls that used them. No one ever said anything about it being a perverted thing to do. He even went as far as to buy me a “public” condom, which was only intended for close male friends.&lt;/p&gt;
+
+&lt;p&gt;I thought for sure he was being melodramatic.&lt;/p&gt;
+
+&lt;p&gt;He wasn’t. He was genuinely moved by my reaction and told me he wanted to do something about it. I was over the moon. I felt I could do something about it. I even thought maybe I could become his secretary.&lt;/p&gt;
+
+&lt;p&gt;Now, I’m not one of those gay “Christs-for-Jesus” that believe in any kind of heaven, but I was sold on the idea of being his “public” condom. I was willing to do almost anything for him to keep my secret. I would do anything to keep my boyfriend and my brother from knowing. I even had my parents believe I was gay and started researching them and sending them Christmas cards and school supplies.&lt;/p&gt;
+
+&lt;p&gt;What did he say when you told him all this?&lt;/p&gt;
+
+&lt;p&gt;He was disappointed. He told me he had made a big mistake. He’d like to take some time to think about it and come to a conclusion.&lt;/p&gt;
+
+&lt;p&gt;He couldn’t?&lt;/p&gt;
+
+&lt;p&gt;He was angry. He said he loved you very much and that you always put his best foot forward.&lt;/p&gt;
+
+&lt;p&gt;You must have been hurt, too.&lt;/p&gt;
+
+&lt;p&gt;I was in shock. I never wanted him to see what I saw. He was the most amazing, sensitive, funny, beautiful boy ever to walk the face of this earth.&lt;/p&gt;
+
+&lt;p&gt;You mean he turned gay after that?&lt;/p&gt;
+
+&lt;p&gt;I don’t know. Maybe.
+Maybe. He could have been lying down the gurney any minute.&lt;/p&gt;
+
+&lt;h2 id=&quot;corpus&quot;&gt;Corpus&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;/corpora&quot;&gt;Queer AI&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Trained&lt;/li&gt;
+  &lt;li&gt;Perplexity 0.8&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;credits&quot;&gt;Credits&lt;/h2&gt;
+
+&lt;p&gt;Prompt adapted from &lt;a href=&quot;https://rhizome.org/editorial/2013/feb/19/queer-computing-1/&quot;&gt;A Queer History of Computing&lt;/a&gt;&lt;/p&gt;
+</content>
+ </entry>
  
  <entry>
    <title>Queer A.I. Ultimate Fantasy v8</title>
@@ -335,7 +393,7 @@
 
 &lt;h2 id=&quot;credits&quot;&gt;Credits&lt;/h2&gt;
 
-&lt;p&gt;Prompt remixed from &lt;a href=&quot;https://rhizome.org/editorial/2013/feb/19/queer-computing-1/&quot;&gt;A Queer History of Computing&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Prompt adapted from &lt;a href=&quot;https://rhizome.org/editorial/2013/feb/19/queer-computing-1/&quot;&gt;A Queer History of Computing&lt;/a&gt;&lt;/p&gt;
 </content>
  </entry>
  
@@ -704,7 +762,7 @@
 
 &lt;h2 id=&quot;credits&quot;&gt;Credits&lt;/h2&gt;
 
-&lt;p&gt;Prompt remixed from &lt;a href=&quot;https://rhizome.org/editorial/2013/feb/19/queer-computing-1/&quot;&gt;A Queer History of Computing&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Prompt adapted from &lt;a href=&quot;https://rhizome.org/editorial/2013/feb/19/queer-computing-1/&quot;&gt;A Queer History of Computing&lt;/a&gt;&lt;/p&gt;
 </content>
  </entry>
  
@@ -1133,7 +1191,7 @@
 
 &lt;h2 id=&quot;credits&quot;&gt;Credits&lt;/h2&gt;
 
-&lt;p&gt;Prompt remixed from &lt;a href=&quot;https://rhizome.org/editorial/2013/feb/19/queer-computing-1/&quot;&gt;A Queer History of Computing&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Prompt adapted from &lt;a href=&quot;https://rhizome.org/editorial/2013/feb/19/queer-computing-1/&quot;&gt;A Queer History of Computing&lt;/a&gt;&lt;/p&gt;
 </content>
  </entry>
  
@@ -1484,7 +1542,7 @@
 
 &lt;h2 id=&quot;credits&quot;&gt;Credits&lt;/h2&gt;
 
-&lt;p&gt;Prompt remixed from &lt;a href=&quot;https://rhizome.org/editorial/2013/feb/19/queer-computing-1/&quot;&gt;A Queer History of Computing&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Prompt adapted from &lt;a href=&quot;https://rhizome.org/editorial/2013/feb/19/queer-computing-1/&quot;&gt;A Queer History of Computing&lt;/a&gt;&lt;/p&gt;
 </content>
  </entry>
  
@@ -1873,7 +1931,7 @@
 
 &lt;h2 id=&quot;credits&quot;&gt;Credits&lt;/h2&gt;
 
-&lt;p&gt;Prompt remixed from &lt;a href=&quot;https://rhizome.org/editorial/2013/feb/19/queer-computing-1/&quot;&gt;A Queer History of Computing&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Prompt adapted from &lt;a href=&quot;https://rhizome.org/editorial/2013/feb/19/queer-computing-1/&quot;&gt;A Queer History of Computing&lt;/a&gt;&lt;/p&gt;
 </content>
  </entry>
  
@@ -2192,7 +2250,7 @@
 
 &lt;h2 id=&quot;credits&quot;&gt;Credits&lt;/h2&gt;
 
-&lt;p&gt;Prompt remixed from &lt;a href=&quot;https://rhizome.org/editorial/2013/feb/19/queer-computing-1/&quot;&gt;A Queer History of Computing&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Prompt adapted from &lt;a href=&quot;https://rhizome.org/editorial/2013/feb/19/queer-computing-1/&quot;&gt;A Queer History of Computing&lt;/a&gt;&lt;/p&gt;
 </content>
  </entry>
  
@@ -2223,7 +2281,7 @@
 
 &lt;h2 id=&quot;credits&quot;&gt;Credits&lt;/h2&gt;
 
-&lt;p&gt;Prompt remixed from &lt;a href=&quot;https://rhizome.org/editorial/2013/feb/19/queer-computing-1/&quot;&gt;A Queer History of Computing&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Prompt adapted from &lt;a href=&quot;https://rhizome.org/editorial/2013/feb/19/queer-computing-1/&quot;&gt;A Queer History of Computing&lt;/a&gt;&lt;/p&gt;
 </content>
  </entry>
  
@@ -2388,7 +2446,7 @@
 
 &lt;h2 id=&quot;credits&quot;&gt;Credits&lt;/h2&gt;
 
-&lt;p&gt;Prompt remixed from &lt;a href=&quot;https://rhizome.org/editorial/2013/feb/19/queer-computing-1/&quot;&gt;A Queer History of Computing&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Prompt adapted from &lt;a href=&quot;https://rhizome.org/editorial/2013/feb/19/queer-computing-1/&quot;&gt;A Queer History of Computing&lt;/a&gt;&lt;/p&gt;
 </content>
  </entry>
  

@@ -2,6 +2,17 @@
   
     {
 
+      "title"    : "Queer A.I. Ultimate Fantasy v9",
+      "url"      : "/texts/queer-ai-ultimate-fantasy-009",
+      "category" : "",
+      "tags"     : "machine learning, GPT-2, RunwayML, queer",
+      "date"     : "2020-09-19 00:00:00 -0700",
+      "description" : "GPT-2 model trained on a corpus of queer theatre"
+
+    } ,
+  
+    {
+
       "title"    : "Queer A.I. Ultimate Fantasy v8",
       "url"      : "/texts/queer-ai-ultimate-fantasy-008",
       "category" : "",
