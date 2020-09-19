@@ -24,3 +24,7 @@ Then I awoke. I woke up and I was wearing a blue dress and a blue blouse and I w
 - [Queer AI](/corpora)
 - Training Step 250
 - Perplexity 31.98
+
+## Credits
+
+Prompt remixed from [A Queer History of Computing](https://rhizome.org/editorial/2013/feb/19/queer-computing-1/)

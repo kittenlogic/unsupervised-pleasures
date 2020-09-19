@@ -315,3 +315,7 @@ I'll never know.
 - [Queer AI](/corpora)
 - Training Step 500
 - Perplexity 39.51
+
+## Credits
+
+Prompt remixed from [A Queer History of Computing](https://rhizome.org/editorial/2013/feb/19/queer-computing-1/)

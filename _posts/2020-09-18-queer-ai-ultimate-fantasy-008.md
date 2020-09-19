@@ -387,3 +387,7 @@ Oh! Oh! I am very possessive!
 - [Queer AI](/corpora)
 - Training Step 2000
 - Perplexity 163.42
+
+## Credits
+
+Prompt remixed from [A Queer History of Computing](https://rhizome.org/editorial/2013/feb/19/queer-computing-1/)

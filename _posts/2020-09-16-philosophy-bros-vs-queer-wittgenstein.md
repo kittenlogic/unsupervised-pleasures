@@ -2,8 +2,8 @@
 layout: post
 title: Philosophy Bro A.I. vs Queer Wittgenstein
 description: GPT-2 model trained on Nietzsche, Spinoza, Schopenhauer, Bergson, William James on Wittgenstein's Homosexuality
-summary: GPT-2 model trained on Nietzsche, Spinoza, Schopenhauer, Bergson, William James
-tags: [machine learning, GPT-2, RunwayML, philosophy, ethics, queer]
+summary: GPT-2 model trained on Nietzsche, Spinoza, Schopenhauer, Bergson, William James on Wittgenstein's Homosexuality
+tags: [machine learning, GPT-2, RunwayML, philosophy, ethics, queer, Wittgenstein]
 ---
 
 ## Human Prompt
@@ -34,3 +34,7 @@ To act against that instinct is to pet the beast; and like Faust and the other p
 ## Corpus
 
 [Philosophy Bro](/corpora)
+
+## Credits
+
+Prompt sourced from [A Queer History of Computing](https://rhizome.org/editorial/2013/feb/19/queer-computing-1/)

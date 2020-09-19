@@ -482,3 +482,7 @@ I do. I do.
 - [Queer AI](/corpora)
 - Training Step 1750
 - Perplexity 144.33
+
+## Credits
+
+Prompt remixed from [A Queer History of Computing](https://rhizome.org/editorial/2013/feb/19/queer-computing-1/)

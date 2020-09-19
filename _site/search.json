@@ -3,7 +3,7 @@
     {
 
       "title"    : "Queer A.I. Ultimate Fantasy v8",
-      "url"      : "/2020/09/18/queer-ai-ultimate-fantasy-008",
+      "url"      : "/texts/queer-ai-ultimate-fantasy-008",
       "category" : "",
       "tags"     : "machine learning, GPT-2, RunwayML, queer, cruising, subtle, rough, possessive, competitive",
       "date"     : "2020-09-18 00:00:00 -0700",
@@ -14,7 +14,7 @@
     {
 
       "title"    : "Queer A.I. Ultimate Fantasy v7",
-      "url"      : "/2020/09/18/queer-ai-ultimate-fantasy-007",
+      "url"      : "/texts/queer-ai-ultimate-fantasy-007",
       "category" : "",
       "tags"     : "machine learning, GPT-2, RunwayML, queer, gayborhood, gayborhoodstripper, drag queen, disco, feminist, moon, mother, sea, beast, overwhelming, love",
       "date"     : "2020-09-18 00:00:00 -0700",
@@ -25,7 +25,7 @@
     {
 
       "title"    : "Queer A.I. Ultimate Fantasy v6",
-      "url"      : "/2020/09/18/queer-ai-ultimate-fantasy-006",
+      "url"      : "/texts/queer-ai-ultimate-fantasy-006",
       "category" : "",
       "tags"     : "machine learning, GPT-2, RunwayML, queer, erotic, secret lover, monster",
       "date"     : "2020-09-18 00:00:00 -0700",
@@ -36,7 +36,7 @@
     {
 
       "title"    : "Queer A.I. Ultimate Fantasy v5",
-      "url"      : "/2020/09/18/queer-ai-ultimate-fantasy-005",
+      "url"      : "/texts/queer-ai-ultimate-fantasy-005",
       "category" : "",
       "tags"     : "machine learning, GPT-2, RunwayML, queer, Miami, folk song, blow-up doll, mop",
       "date"     : "2020-09-18 00:00:00 -0700",
@@ -47,7 +47,7 @@
     {
 
       "title"    : "Queer A.I. Ultimate Fantasy v4",
-      "url"      : "/2020/09/18/queer-ai-ultimate-fantasy-004",
+      "url"      : "/texts/queer-ai-ultimate-fantasy-004",
       "category" : "",
       "tags"     : "machine learning, GPT-2, RunwayML, queer",
       "date"     : "2020-09-18 00:00:00 -0700",
@@ -58,7 +58,7 @@
     {
 
       "title"    : "Queer A.I. Ultimate Fantasy v3",
-      "url"      : "/2020/09/18/queer-ai-ultimate-fantasy-003",
+      "url"      : "/texts/queer-ai-ultimate-fantasy-003",
       "category" : "",
       "tags"     : "machine learning, GPT-2, RunwayML, queer",
       "date"     : "2020-09-18 00:00:00 -0700",
@@ -69,7 +69,7 @@
     {
 
       "title"    : "Queer A.I. Ultimate Fantasy v2",
-      "url"      : "/2020/09/18/queer-ai-ultimate-fantasy-002",
+      "url"      : "/texts/queer-ai-ultimate-fantasy-002",
       "category" : "",
       "tags"     : "machine learning, GPT-2, RunwayML, queer",
       "date"     : "2020-09-18 00:00:00 -0700",
@@ -80,7 +80,7 @@
     {
 
       "title"    : "Queer A.I. Ultimate Fantasy v1",
-      "url"      : "/2020/09/18/queer-ai-ultimate-fantasy-001",
+      "url"      : "/texts/queer-ai-ultimate-fantasy-001",
       "category" : "",
       "tags"     : "machine learning, GPT-2, RunwayML, queer",
       "date"     : "2020-09-18 00:00:00 -0700",
@@ -91,20 +91,20 @@
     {
 
       "title"    : "Philosophy Bro A.I. Explains Life After Capitalism",
-      "url"      : "/2020/09/17/philosophy-bros-vs-post-capitalism",
+      "url"      : "/texts/philosophy-bros-vs-post-capitalism",
       "category" : "",
       "tags"     : "machine learning, GPT-2, RunwayML, philosophy, ethics, capitalism, apocalypse",
       "date"     : "2020-09-17 00:00:00 -0700",
-      "description" : "GPT-2 model trained on Nietzsche, Spinoza, Schopenhauer, Bergson, William James"
+      "description" : "GPT-2 model trained on Nietzsche, Spinoza, Schopenhauer, Bergson, William James reflect on pleasure and self-emancipation after capitalism"
 
     } ,
   
     {
 
       "title"    : "Philosophy Bro A.I. vs Queer Wittgenstein",
-      "url"      : "/2020/09/16/philosophy-bros-vs-wittgenstein-homosexuality",
+      "url"      : "/texts/philosophy-bros-vs-queer-wittgenstein",
       "category" : "",
-      "tags"     : "machine learning, GPT-2, RunwayML, philosophy, ethics, queer",
+      "tags"     : "machine learning, GPT-2, RunwayML, philosophy, ethics, queer, Wittgenstein",
       "date"     : "2020-09-16 00:00:00 -0700",
       "description" : "GPT-2 model trained on Nietzsche, Spinoza, Schopenhauer, Bergson, William James on Wittgenstein&#39;s Homosexuality"
 

@@ -345,3 +345,7 @@ Alright.
 - [Queer AI](/corpora)
 - Training Step 1250
 - Perplexity 98.11
+
+## Credits
+
+Prompt remixed from [A Queer History of Computing](https://rhizome.org/editorial/2013/feb/19/queer-computing-1/)

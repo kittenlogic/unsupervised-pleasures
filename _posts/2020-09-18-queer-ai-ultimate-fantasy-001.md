@@ -189,3 +189,7 @@ Do you have any other house to live in?
 - [Queer AI](/corpora)
 - Training Step 1
 - Perplexity 34.03
+
+## Credits
+
+Prompt remixed from [A Queer History of Computing](https://rhizome.org/editorial/2013/feb/19/queer-computing-1/)

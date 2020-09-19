@@ -4,7 +4,7 @@
  <title>Unsupervised Pleasures</title>
  <link href="http://localhost:4000/atom.xml" rel="self"/>
  <link href="http://localhost:4000/"/>
- <updated>2020-09-18T04:46:02-07:00</updated>
+ <updated>2020-09-18T20:43:51-07:00</updated>
  <id>http://localhost:4000</id>
  <author>
    <name>@queermachines</name>
@@ -14,9 +14,9 @@
  
  <entry>
    <title>Queer A.I. Ultimate Fantasy v8</title>
-   <link href="http://localhost:4000/2020/09/18/queer-ai-ultimate-fantasy-008"/>
+   <link href="http://localhost:4000/texts/queer-ai-ultimate-fantasy-008"/>
    <updated>2020-09-18T00:00:00-07:00</updated>
-   <id>http://localhost:4000/2020/09/18/queer-ai-ultimate-fantasy-008</id>
+   <id>http://localhost:4000/texts/queer-ai-ultimate-fantasy-008</id>
    <content type="html">&lt;h2 id=&quot;human-prompt&quot;&gt;Human Prompt&lt;/h2&gt;
 
 &lt;p&gt;Do you like to have anonymous sex in public rest rooms? Sex movies? Public parks? Sex clubs? On street corners with heavy hustling traffic? How many nonsexual friendships or acquaintances lasting for decades started this way? How many ways are there to love queers? How many ways are there to queer love?&lt;/p&gt;
@@ -332,14 +332,18 @@
   &lt;li&gt;Training Step 2000&lt;/li&gt;
   &lt;li&gt;Perplexity 163.42&lt;/li&gt;
 &lt;/ul&gt;
+
+&lt;h2 id=&quot;credits&quot;&gt;Credits&lt;/h2&gt;
+
+&lt;p&gt;Prompt remixed from &lt;a href=&quot;https://rhizome.org/editorial/2013/feb/19/queer-computing-1/&quot;&gt;A Queer History of Computing&lt;/a&gt;&lt;/p&gt;
 </content>
  </entry>
  
  <entry>
    <title>Queer A.I. Ultimate Fantasy v7</title>
-   <link href="http://localhost:4000/2020/09/18/queer-ai-ultimate-fantasy-007"/>
+   <link href="http://localhost:4000/texts/queer-ai-ultimate-fantasy-007"/>
    <updated>2020-09-18T00:00:00-07:00</updated>
-   <id>http://localhost:4000/2020/09/18/queer-ai-ultimate-fantasy-007</id>
+   <id>http://localhost:4000/texts/queer-ai-ultimate-fantasy-007</id>
    <content type="html">&lt;h2 id=&quot;human-prompt&quot;&gt;Human Prompt&lt;/h2&gt;
 
 &lt;p&gt;Do you like to have anonymous sex in public rest rooms? Sex movies? Public parks? Sex clubs? On street corners with heavy hustling traffic? How many nonsexual friendships or acquaintances lasting for decades started this way? How many ways are there to love queers? How many ways are there to queer love?&lt;/p&gt;
@@ -697,14 +701,18 @@
   &lt;li&gt;Training Step 1750&lt;/li&gt;
   &lt;li&gt;Perplexity 144.33&lt;/li&gt;
 &lt;/ul&gt;
+
+&lt;h2 id=&quot;credits&quot;&gt;Credits&lt;/h2&gt;
+
+&lt;p&gt;Prompt remixed from &lt;a href=&quot;https://rhizome.org/editorial/2013/feb/19/queer-computing-1/&quot;&gt;A Queer History of Computing&lt;/a&gt;&lt;/p&gt;
 </content>
  </entry>
  
  <entry>
    <title>Queer A.I. Ultimate Fantasy v6</title>
-   <link href="http://localhost:4000/2020/09/18/queer-ai-ultimate-fantasy-006"/>
+   <link href="http://localhost:4000/texts/queer-ai-ultimate-fantasy-006"/>
    <updated>2020-09-18T00:00:00-07:00</updated>
-   <id>http://localhost:4000/2020/09/18/queer-ai-ultimate-fantasy-006</id>
+   <id>http://localhost:4000/texts/queer-ai-ultimate-fantasy-006</id>
    <content type="html">&lt;h2 id=&quot;human-prompt&quot;&gt;Human Prompt&lt;/h2&gt;
 
 &lt;p&gt;Do you like to have anonymous sex in public rest rooms? Sex movies? Public parks? Sex clubs? On street corners with heavy hustling traffic? How many nonsexual friendships or acquaintances lasting for decades started this way? How many ways are there to love queers? How many ways are there to queer love?&lt;/p&gt;
@@ -1122,14 +1130,18 @@
   &lt;li&gt;Training Step 1500&lt;/li&gt;
   &lt;li&gt;Perplexity 122.40&lt;/li&gt;
 &lt;/ul&gt;
+
+&lt;h2 id=&quot;credits&quot;&gt;Credits&lt;/h2&gt;
+
+&lt;p&gt;Prompt remixed from &lt;a href=&quot;https://rhizome.org/editorial/2013/feb/19/queer-computing-1/&quot;&gt;A Queer History of Computing&lt;/a&gt;&lt;/p&gt;
 </content>
  </entry>
  
  <entry>
    <title>Queer A.I. Ultimate Fantasy v5</title>
-   <link href="http://localhost:4000/2020/09/18/queer-ai-ultimate-fantasy-005"/>
+   <link href="http://localhost:4000/texts/queer-ai-ultimate-fantasy-005"/>
    <updated>2020-09-18T00:00:00-07:00</updated>
-   <id>http://localhost:4000/2020/09/18/queer-ai-ultimate-fantasy-005</id>
+   <id>http://localhost:4000/texts/queer-ai-ultimate-fantasy-005</id>
    <content type="html">&lt;h2 id=&quot;human-prompt&quot;&gt;Human Prompt&lt;/h2&gt;
 
 &lt;p&gt;Do you like to have anonymous sex in public rest rooms? Sex movies? Public parks? Sex clubs? On street corners with heavy hustling traffic? How many nonsexual friendships or acquaintances lasting for decades started this way? How many ways are there to love queers? How many ways are there to queer love?&lt;/p&gt;
@@ -1469,14 +1481,18 @@
   &lt;li&gt;Training Step 1250&lt;/li&gt;
   &lt;li&gt;Perplexity 98.11&lt;/li&gt;
 &lt;/ul&gt;
+
+&lt;h2 id=&quot;credits&quot;&gt;Credits&lt;/h2&gt;
+
+&lt;p&gt;Prompt remixed from &lt;a href=&quot;https://rhizome.org/editorial/2013/feb/19/queer-computing-1/&quot;&gt;A Queer History of Computing&lt;/a&gt;&lt;/p&gt;
 </content>
  </entry>
  
  <entry>
    <title>Queer A.I. Ultimate Fantasy v4</title>
-   <link href="http://localhost:4000/2020/09/18/queer-ai-ultimate-fantasy-004"/>
+   <link href="http://localhost:4000/texts/queer-ai-ultimate-fantasy-004"/>
    <updated>2020-09-18T00:00:00-07:00</updated>
-   <id>http://localhost:4000/2020/09/18/queer-ai-ultimate-fantasy-004</id>
+   <id>http://localhost:4000/texts/queer-ai-ultimate-fantasy-004</id>
    <content type="html">&lt;h2 id=&quot;human-prompt&quot;&gt;Human Prompt&lt;/h2&gt;
 
 &lt;p&gt;Do you like to have anonymous sex in public rest rooms? Sex movies? Public parks? Sex clubs? On street corners with heavy hustling traffic? How many nonsexual friendships or acquaintances lasting for decades started this way? How many ways are there to love queers? How many ways are there to queer love?&lt;/p&gt;
@@ -1854,14 +1870,18 @@
   &lt;li&gt;Training Step 1000&lt;/li&gt;
   &lt;li&gt;Perplexity 72.34&lt;/li&gt;
 &lt;/ul&gt;
+
+&lt;h2 id=&quot;credits&quot;&gt;Credits&lt;/h2&gt;
+
+&lt;p&gt;Prompt remixed from &lt;a href=&quot;https://rhizome.org/editorial/2013/feb/19/queer-computing-1/&quot;&gt;A Queer History of Computing&lt;/a&gt;&lt;/p&gt;
 </content>
  </entry>
  
  <entry>
    <title>Queer A.I. Ultimate Fantasy v3</title>
-   <link href="http://localhost:4000/2020/09/18/queer-ai-ultimate-fantasy-003"/>
+   <link href="http://localhost:4000/texts/queer-ai-ultimate-fantasy-003"/>
    <updated>2020-09-18T00:00:00-07:00</updated>
-   <id>http://localhost:4000/2020/09/18/queer-ai-ultimate-fantasy-003</id>
+   <id>http://localhost:4000/texts/queer-ai-ultimate-fantasy-003</id>
    <content type="html">&lt;h2 id=&quot;human-prompt&quot;&gt;Human Prompt&lt;/h2&gt;
 
 &lt;p&gt;Do you like to have anonymous sex in public rest rooms? Sex movies? Public parks? Sex clubs? On street corners with heavy hustling traffic? How many nonsexual friendships or acquaintances lasting for decades started this way? How many ways are there to love queers? How many ways are there to queer love?&lt;/p&gt;
@@ -2169,14 +2189,18 @@
   &lt;li&gt;Training Step 500&lt;/li&gt;
   &lt;li&gt;Perplexity 39.51&lt;/li&gt;
 &lt;/ul&gt;
+
+&lt;h2 id=&quot;credits&quot;&gt;Credits&lt;/h2&gt;
+
+&lt;p&gt;Prompt remixed from &lt;a href=&quot;https://rhizome.org/editorial/2013/feb/19/queer-computing-1/&quot;&gt;A Queer History of Computing&lt;/a&gt;&lt;/p&gt;
 </content>
  </entry>
  
  <entry>
    <title>Queer A.I. Ultimate Fantasy v2</title>
-   <link href="http://localhost:4000/2020/09/18/queer-ai-ultimate-fantasy-002"/>
+   <link href="http://localhost:4000/texts/queer-ai-ultimate-fantasy-002"/>
    <updated>2020-09-18T00:00:00-07:00</updated>
-   <id>http://localhost:4000/2020/09/18/queer-ai-ultimate-fantasy-002</id>
+   <id>http://localhost:4000/texts/queer-ai-ultimate-fantasy-002</id>
    <content type="html">&lt;h2 id=&quot;human-prompt&quot;&gt;Human Prompt&lt;/h2&gt;
 
 &lt;p&gt;Do you like to have anonymous sex in public rest rooms? Sex movies? Public parks? Sex clubs? On street corners with heavy hustling traffic? How many nonsexual friendships or acquaintances lasting for decades started this way? How many ways are there to love queers? How many ways are there to queer love?&lt;/p&gt;
@@ -2196,14 +2220,18 @@
   &lt;li&gt;Training Step 250&lt;/li&gt;
   &lt;li&gt;Perplexity 31.98&lt;/li&gt;
 &lt;/ul&gt;
+
+&lt;h2 id=&quot;credits&quot;&gt;Credits&lt;/h2&gt;
+
+&lt;p&gt;Prompt remixed from &lt;a href=&quot;https://rhizome.org/editorial/2013/feb/19/queer-computing-1/&quot;&gt;A Queer History of Computing&lt;/a&gt;&lt;/p&gt;
 </content>
  </entry>
  
  <entry>
    <title>Queer A.I. Ultimate Fantasy v1</title>
-   <link href="http://localhost:4000/2020/09/18/queer-ai-ultimate-fantasy-001"/>
+   <link href="http://localhost:4000/texts/queer-ai-ultimate-fantasy-001"/>
    <updated>2020-09-18T00:00:00-07:00</updated>
-   <id>http://localhost:4000/2020/09/18/queer-ai-ultimate-fantasy-001</id>
+   <id>http://localhost:4000/texts/queer-ai-ultimate-fantasy-001</id>
    <content type="html">&lt;h2 id=&quot;human-prompt&quot;&gt;Human Prompt&lt;/h2&gt;
 
 &lt;p&gt;Do you like to have anonymous sex in public rest rooms? Sex movies? Public parks? Sex clubs? On street corners with heavy hustling traffic? How many nonsexual friendships or acquaintances lasting for decades started this way? How many ways are there to love queers? How many ways are there to queer love?&lt;/p&gt;
@@ -2357,14 +2385,18 @@
   &lt;li&gt;Training Step 1&lt;/li&gt;
   &lt;li&gt;Perplexity 34.03&lt;/li&gt;
 &lt;/ul&gt;
+
+&lt;h2 id=&quot;credits&quot;&gt;Credits&lt;/h2&gt;
+
+&lt;p&gt;Prompt remixed from &lt;a href=&quot;https://rhizome.org/editorial/2013/feb/19/queer-computing-1/&quot;&gt;A Queer History of Computing&lt;/a&gt;&lt;/p&gt;
 </content>
  </entry>
  
  <entry>
    <title>Philosophy Bro A.I. Explains Life After Capitalism</title>
-   <link href="http://localhost:4000/2020/09/17/philosophy-bros-vs-post-capitalism"/>
+   <link href="http://localhost:4000/texts/philosophy-bros-vs-post-capitalism"/>
    <updated>2020-09-17T00:00:00-07:00</updated>
-   <id>http://localhost:4000/2020/09/17/philosophy-bros-vs-post-capitalism</id>
+   <id>http://localhost:4000/texts/philosophy-bros-vs-post-capitalism</id>
    <content type="html">&lt;h2 id=&quot;human-prompt&quot;&gt;Human Prompt&lt;/h2&gt;
 
 &lt;p&gt;After generations of living under colonialism, white supremacy, economic insecurity, increasing austerity, crushing psychological stress, social unrest, a global pandemic, ecological catastrophe, fake news, conspiracy theories, extreme nihilism, and near climate collapse, the humans decided to end capitalism, overthrow their corrupt leaders, and begin again.&lt;/p&gt;
@@ -2375,7 +2407,7 @@
 
 &lt;h2 id=&quot;computer-generated&quot;&gt;Computer Generated&lt;/h2&gt;
 
-&lt;p&gt;. . .to them that all enjoyment, all order, all beauty, all reason, all social order, all being absolutely necessary to survive, must necessarily be subordinated to the demands of the most violent, the most vicious, and the most highly developed interdependent powers of nature: the most powerful and richest, the most dominant religions, political systems, empires, and racial distinctions. Nothing remained for them but for revenge, the most ancient and newest form of revenge, the most radical act of self-criticism and personal repudiation, the self-emancipation of the one who deserved all those advantages and privileges, the one who had dared to be free, the one who was nevertheless bitter, angry, disgusted, and bitter–for them all to be masters of bitter revenge.&lt;/p&gt;
+&lt;p&gt;It seems they knew little of pleasure and love that wasn’t tied to suffering and pain. It became obvious to them that all enjoyment, all order, all beauty, all reason, all social order, all being absolutely necessary to survive, must necessarily be subordinated to the demands of the most violent, the most vicious, and the most highly developed interdependent powers of nature: the most powerful and richest, the most dominant religions, political systems, empires, and racial distinctions. Nothing remained for them but for revenge, the most ancient and newest form of revenge, the most radical act of self-criticism and personal repudiation, the self-emancipation of the one who deserved all those advantages and privileges, the one who had dared to be free, the one who was nevertheless bitter, angry, disgusted, and bitter–for them all to be masters of bitter revenge.&lt;/p&gt;
 
 &lt;p&gt;17.&lt;/p&gt;
 
@@ -2403,15 +2435,22 @@
 
 &lt;h2 id=&quot;corpus&quot;&gt;Corpus&lt;/h2&gt;
 
-&lt;p&gt;&lt;a href=&quot;/corpora&quot;&gt;Philosohpy Bro&lt;/a&gt;&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;/corpora&quot;&gt;Philosohpy Bro&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Perplexity Score: 71.19&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;credits&quot;&gt;Credits&lt;/h2&gt;
+
+&lt;p&gt;Prompt sourced from the depth of my soul or the surface of this current iteration of apocalypse&lt;/p&gt;
 </content>
  </entry>
  
  <entry>
    <title>Philosophy Bro A.I. vs Queer Wittgenstein</title>
-   <link href="http://localhost:4000/2020/09/16/philosophy-bros-vs-wittgenstein-homosexuality"/>
+   <link href="http://localhost:4000/texts/philosophy-bros-vs-queer-wittgenstein"/>
    <updated>2020-09-16T00:00:00-07:00</updated>
-   <id>http://localhost:4000/2020/09/16/philosophy-bros-vs-wittgenstein-homosexuality</id>
+   <id>http://localhost:4000/texts/philosophy-bros-vs-queer-wittgenstein</id>
    <content type="html">&lt;h2 id=&quot;human-prompt&quot;&gt;Human Prompt&lt;/h2&gt;
 
 &lt;p&gt;Even now that Wittgenstein’s homosexuality has been largely acknowledged, most scholars are hesitant to imply a connection between his philosophy and his sexuality – that is, between his work and his inner state, emotions, or personality. If, however, in a contemporary light we understand queerness as a structuring mode of desiring, we might view Wittgenstein’s thought not as emerging from his sexuality, but as structured by the way in which it shaped his mode of being in the world.&lt;/p&gt;
@@ -2439,6 +2478,10 @@
 &lt;h2 id=&quot;corpus&quot;&gt;Corpus&lt;/h2&gt;
 
 &lt;p&gt;&lt;a href=&quot;/corpora&quot;&gt;Philosophy Bro&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;credits&quot;&gt;Credits&lt;/h2&gt;
+
+&lt;p&gt;Prompt sourced from &lt;a href=&quot;https://rhizome.org/editorial/2013/feb/19/queer-computing-1/&quot;&gt;A Queer History of Computing&lt;/a&gt;&lt;/p&gt;
 </content>
  </entry>
  

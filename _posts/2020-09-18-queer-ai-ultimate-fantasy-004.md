@@ -382,3 +382,7 @@ I'll be back.
 - [Queer AI](/corpora)
 - Training Step 1000
 - Perplexity 72.34
+
+## Credits
+
+Prompt remixed from [A Queer History of Computing](https://rhizome.org/editorial/2013/feb/19/queer-computing-1/)
