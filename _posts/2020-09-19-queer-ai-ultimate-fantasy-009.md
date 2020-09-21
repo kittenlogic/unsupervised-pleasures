@@ -43,12 +43,12 @@ I was in shock. I never wanted him to see what I saw. He was the most amazing, s
 You mean he turned gay after that?
 
 I don't know. Maybe.
-Maybe. He could have been lying down the gurney any minute. 
+Maybe. He could have been lying down the gurney any minute.
 
 ## Corpus
 
-- [Queer AI](/corpora)
-- Trained
+- [Queer AI](/queerai)
+- Trained Model
 - Perplexity 0.8
 
 ## Credits

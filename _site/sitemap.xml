@@ -2,15 +2,23 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
 <loc>http://localhost:4000/about</loc>
-<lastmod>2020-09-21T00:54:42-07:00</lastmod>
+<lastmod>2020-09-21T01:05:53-07:00</lastmod>
 </url>
 <url>
 <loc>http://localhost:4000/corpora</loc>
-<lastmod>2020-09-21T00:54:42-07:00</lastmod>
+<lastmod>2020-09-21T01:05:53-07:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/philosophy</loc>
+<lastmod>2020-09-21T01:05:53-07:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/queerai</loc>
+<lastmod>2020-09-21T01:05:53-07:00</lastmod>
 </url>
 <url>
 <loc>http://localhost:4000/search</loc>
-<lastmod>2020-09-21T00:54:42-07:00</lastmod>
+<lastmod>2020-09-21T01:05:53-07:00</lastmod>
 </url>
 <url>
 <loc>http://localhost:4000/texts/philosophy-bros-vs-queer-wittgenstein</loc>

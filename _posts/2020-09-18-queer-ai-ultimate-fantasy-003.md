@@ -312,7 +312,7 @@ I'll never know.
 
 ## Corpus
 
-- [Queer AI](/corpora)
+- [Queer AI](/queerai)
 - Training Step 500
 - Perplexity 39.51
 

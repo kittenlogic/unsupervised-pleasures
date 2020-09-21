@@ -49,9 +49,9 @@ At this juncture we had better hold fast to the kernel of the matter, to the ele
 
 ## Corpus
 
-- [Philosohpy Bro](/corpora)
+- [Philosophy Bro](/philosophy)
 - Perplexity Score: 71.19
 
 ## Credits
 
-Prompt sourced from the depth of my soul or the surface of this current iteration of apocalypse 
+Prompt sourced from the depth of my soul or the surface of this current iteration of apocalypse

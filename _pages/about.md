@@ -5,7 +5,7 @@ title: About
 
 Experiments with machine learning models for text-generation using GPT-2.
 
-Trying to develop a methodology for curating datasets and testing output that can be used for character development and world-building with GPT-2.
+Towards developing a methodology for curating datasets and testing output that can be used for character development and world-building with GPT-2.
 
 This project was initiated by [Emily Martinez](https://somethingnothing.me/), as part of her [ML5.js Fellowship](https://processingfoundation.org/fellowships) project, [DIY AI: ML5 Community Starter Kit](https://ml5toolkit.ml/).
 

@@ -4,7 +4,7 @@
  <title>Unsupervised Pleasures</title>
  <link href="http://localhost:4000/atom.xml" rel="self"/>
  <link href="http://localhost:4000/"/>
- <updated>2020-09-21T00:54:42-07:00</updated>
+ <updated>2020-09-21T01:05:53-07:00</updated>
  <id>http://localhost:4000</id>
  <author>
    <name>@queermachines</name>
@@ -59,8 +59,8 @@ Maybe. He could have been lying down the gurney any minute.&lt;/p&gt;
 &lt;h2 id=&quot;corpus&quot;&gt;Corpus&lt;/h2&gt;
 
 &lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;/corpora&quot;&gt;Queer AI&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;Trained&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;/queerai&quot;&gt;Queer AI&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Trained Model&lt;/li&gt;
   &lt;li&gt;Perplexity 0.8&lt;/li&gt;
 &lt;/ul&gt;
 
@@ -386,7 +386,7 @@ Maybe. He could have been lying down the gurney any minute.&lt;/p&gt;
 &lt;h2 id=&quot;corpus&quot;&gt;Corpus&lt;/h2&gt;
 
 &lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;/corpora&quot;&gt;Queer AI&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;/queerai&quot;&gt;Queer AI&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;Training Step 2000&lt;/li&gt;
   &lt;li&gt;Perplexity 163.42&lt;/li&gt;
 &lt;/ul&gt;
@@ -755,7 +755,7 @@ Maybe. He could have been lying down the gurney any minute.&lt;/p&gt;
 &lt;h2 id=&quot;corpus&quot;&gt;Corpus&lt;/h2&gt;
 
 &lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;/corpora&quot;&gt;Queer AI&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;/queerai&quot;&gt;Queer AI&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;Training Step 1750&lt;/li&gt;
   &lt;li&gt;Perplexity 144.33&lt;/li&gt;
 &lt;/ul&gt;
@@ -1184,7 +1184,7 @@ Maybe. He could have been lying down the gurney any minute.&lt;/p&gt;
 &lt;h2 id=&quot;corpus&quot;&gt;Corpus&lt;/h2&gt;
 
 &lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;/corpora&quot;&gt;Queer AI&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;/queerai&quot;&gt;Queer AI&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;Training Step 1500&lt;/li&gt;
   &lt;li&gt;Perplexity 122.40&lt;/li&gt;
 &lt;/ul&gt;
@@ -1535,7 +1535,7 @@ Maybe. He could have been lying down the gurney any minute.&lt;/p&gt;
 &lt;h2 id=&quot;corpus&quot;&gt;Corpus&lt;/h2&gt;
 
 &lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;/corpora&quot;&gt;Queer AI&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;/queerai&quot;&gt;Queer AI&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;Training Step 1250&lt;/li&gt;
   &lt;li&gt;Perplexity 98.11&lt;/li&gt;
 &lt;/ul&gt;
@@ -1924,7 +1924,7 @@ Maybe. He could have been lying down the gurney any minute.&lt;/p&gt;
 &lt;h2 id=&quot;corpus&quot;&gt;Corpus&lt;/h2&gt;
 
 &lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;/corpora&quot;&gt;Queer AI&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;/queerai&quot;&gt;Queer AI&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;Training Step 1000&lt;/li&gt;
   &lt;li&gt;Perplexity 72.34&lt;/li&gt;
 &lt;/ul&gt;
@@ -2243,7 +2243,7 @@ Maybe. He could have been lying down the gurney any minute.&lt;/p&gt;
 &lt;h2 id=&quot;corpus&quot;&gt;Corpus&lt;/h2&gt;
 
 &lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;/corpora&quot;&gt;Queer AI&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;/queerai&quot;&gt;Queer AI&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;Training Step 500&lt;/li&gt;
   &lt;li&gt;Perplexity 39.51&lt;/li&gt;
 &lt;/ul&gt;
@@ -2274,7 +2274,7 @@ Maybe. He could have been lying down the gurney any minute.&lt;/p&gt;
 &lt;h2 id=&quot;corpus&quot;&gt;Corpus&lt;/h2&gt;
 
 &lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;/corpora&quot;&gt;Queer AI&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;/queerai&quot;&gt;Queer AI&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;Training Step 250&lt;/li&gt;
   &lt;li&gt;Perplexity 31.98&lt;/li&gt;
 &lt;/ul&gt;
@@ -2439,7 +2439,7 @@ Maybe. He could have been lying down the gurney any minute.&lt;/p&gt;
 &lt;h2 id=&quot;corpus&quot;&gt;Corpus&lt;/h2&gt;
 
 &lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;/corpora&quot;&gt;Queer AI&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;/queerai&quot;&gt;Queer AI&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;Training Step 1&lt;/li&gt;
   &lt;li&gt;Perplexity 34.03&lt;/li&gt;
 &lt;/ul&gt;
@@ -2494,7 +2494,7 @@ Maybe. He could have been lying down the gurney any minute.&lt;/p&gt;
 &lt;h2 id=&quot;corpus&quot;&gt;Corpus&lt;/h2&gt;
 
 &lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;/corpora&quot;&gt;Philosohpy Bro&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;/philosophy&quot;&gt;Philosophy Bro&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;Perplexity Score: 71.19&lt;/li&gt;
 &lt;/ul&gt;
 
@@ -2535,7 +2535,7 @@ Maybe. He could have been lying down the gurney any minute.&lt;/p&gt;
 
 &lt;h2 id=&quot;corpus&quot;&gt;Corpus&lt;/h2&gt;
 
-&lt;p&gt;&lt;a href=&quot;/corpora&quot;&gt;Philosophy Bro&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;/philosophy&quot;&gt;Philosophy Bro&lt;/a&gt;&lt;/p&gt;
 
 &lt;h2 id=&quot;credits&quot;&gt;Credits&lt;/h2&gt;
 

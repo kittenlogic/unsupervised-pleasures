@@ -342,7 +342,7 @@ Alright.
 
 ## Corpus
 
-- [Queer AI](/corpora)
+- [Queer AI](/queerai)
 - Training Step 1250
 - Perplexity 98.11
 

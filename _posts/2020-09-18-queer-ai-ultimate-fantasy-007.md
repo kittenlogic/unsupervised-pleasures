@@ -479,7 +479,7 @@ I do. I do.
 
 ## Corpus
 
-- [Queer AI](/corpora)
+- [Queer AI](/queerai)
 - Training Step 1750
 - Perplexity 144.33
 

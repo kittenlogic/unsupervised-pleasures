@@ -21,7 +21,7 @@ Then I awoke. I woke up and I was wearing a blue dress and a blue blouse and I w
 
 ## Corpus
 
-- [Queer AI](/corpora)
+- [Queer AI](/queerai)
 - Training Step 250
 - Perplexity 31.98
 

@@ -33,7 +33,7 @@ To act against that instinct is to pet the beast; and like Faust and the other p
 
 ## Corpus
 
-[Philosophy Bro](/corpora)
+[Philosophy Bro](/philosophy)
 
 ## Credits
 

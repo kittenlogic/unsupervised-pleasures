@@ -384,7 +384,7 @@ Oh! Oh! I am very possessive!
 
 ## Corpus
 
-- [Queer AI](/corpora)
+- [Queer AI](/queerai)
 - Training Step 2000
 - Perplexity 163.42
 

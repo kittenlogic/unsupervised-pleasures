@@ -186,7 +186,7 @@ Do you have any other house to live in?
 
 ## Corpus
 
-- [Queer AI](/corpora)
+- [Queer AI](/queerai)
 - Training Step 1
 - Perplexity 34.03
 

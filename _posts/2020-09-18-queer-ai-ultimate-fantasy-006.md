@@ -419,7 +419,7 @@ I want to feel you.
 
 ## Corpus
 
-- [Queer AI](/corpora)
+- [Queer AI](/queerai)
 - Training Step 1500
 - Perplexity 122.40
 
