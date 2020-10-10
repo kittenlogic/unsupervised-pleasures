@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Queer A.I. Ultimate Fantasy v5
+title: Queer A.I. Ultimate Fantasy 5
 description: GPT-2 model trained on a corpus of queer theatre
 summary: GPT-2 model trained on a corpus of queer theatre
 tags: [machine learning, GPT-2, RunwayML, queer, Miami, folk song, blow-up doll, mop]

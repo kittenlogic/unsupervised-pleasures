@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Queer A.I. Ultimate Fantasy v9
+title: Queer A.I. Ultimate Fantasy 9
 description: GPT-2 model trained on a corpus of queer theatre
 summary: GPT-2 model trained on a corpus of queer theatre
 tags: [machine learning, GPT-2, RunwayML, queer]
@@ -43,7 +43,24 @@ I was in shock. I never wanted him to see what I saw. He was the most amazing, s
 You mean he turned gay after that?
 
 I don't know. Maybe.
-Maybe. He could have been lying down the gurney any minute.
+Maybe. He could have been lying down the gurney any minute. I'm sainted.
+
+You were his tomboy?
+
+Tomboy. Too tomboy for my taste. I was the tomboy stereotype all my life. My best friends all called me tomboy.
+
+I don't think so. Tempted often to call myself lesbian.
+
+You were the tomboy stereotype from the start.  Sagittarius.  Taurus.  Capricorn.  Cancer.
+
+Taurus.
+Scorpio.
+
+"Lunatic fringe" orchard. A quiet place for the weekend. June.
+
+A friend of Harvey's has this cabin on a steep hill overlooking the Willamette River. The fire is still burning and the smell is unbearable. He tells me he has a "dream" this weekend in which he thinks he is in "The Pit." I ask him what it is he imagines himself doing there. He tells me he envisions himself leading a normal, middle-class existence. Then, he tells me, suddenly he senses something terrifying and insists I get out of bed.
+
+He says he has been taking hallucinogenic drugs lately, such as Valium and Valium + Lysergic acid diethylamide. He says he dreams of swimming through rapids, of tigers and lions, of armies marching on fields.
 
 ## Corpus
 

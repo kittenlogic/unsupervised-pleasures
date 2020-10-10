@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Queer A.I. Ultimate Fantasy v7
+title: Queer A.I. Ultimate Fantasy 7
 description: GPT-2 model trained on a corpus of queer theatre
 summary: GPT-2 model trained on a corpus of queer theatre
 tags: [machine learning, GPT-2, RunwayML, queer, gayborhood, gayborhoodstripper, drag queen, disco, feminist, moon, mother, sea, beast, overwhelming, love]

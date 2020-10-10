@@ -2,7 +2,62 @@
   
     {
 
-      "title"    : "Queer A.I. Ultimate Fantasy v9",
+      "title"    : "Queer A.I. Ultimate Fantasy 14",
+      "url"      : "/texts/queer-ai-ultimate-fantasy-014",
+      "category" : "",
+      "tags"     : "machine learning, GPT-2, RunwayML, queer",
+      "date"     : "2020-10-10 00:00:00 -0700",
+      "description" : "GPT-2 model trained on a corpus of queer theatre"
+
+    } ,
+  
+    {
+
+      "title"    : "Queer A.I. Ultimate Fantasy 13",
+      "url"      : "/texts/queer-ai-ultimate-fantasy-013",
+      "category" : "",
+      "tags"     : "machine learning, GPT-2, RunwayML, queer",
+      "date"     : "2020-10-10 00:00:00 -0700",
+      "description" : "GPT-2 model trained on a corpus of queer theatre"
+
+    } ,
+  
+    {
+
+      "title"    : "Queer A.I. Ultimate Fantasy 12",
+      "url"      : "/texts/queer-ai-ultimate-fantasy-012",
+      "category" : "",
+      "tags"     : "machine learning, GPT-2, RunwayML, queer",
+      "date"     : "2020-10-10 00:00:00 -0700",
+      "description" : "GPT-2 model trained on a corpus of queer theatre"
+
+    } ,
+  
+    {
+
+      "title"    : "Queer A.I. Ultimate Fantasy 11",
+      "url"      : "/texts/queer-ai-ultimate-fantasy-011",
+      "category" : "",
+      "tags"     : "machine learning, GPT-2, RunwayML, queer",
+      "date"     : "2020-10-10 00:00:00 -0700",
+      "description" : "GPT-2 model trained on a corpus of queer theatre"
+
+    } ,
+  
+    {
+
+      "title"    : "Queer A.I. Ultimate Fantasy 10",
+      "url"      : "/texts/queer-ai-ultimate-fantasy-010",
+      "category" : "",
+      "tags"     : "machine learning, GPT-2, RunwayML, queer",
+      "date"     : "2020-10-10 00:00:00 -0700",
+      "description" : "GPT-2 model trained on a corpus of queer theatre"
+
+    } ,
+  
+    {
+
+      "title"    : "Queer A.I. Ultimate Fantasy 9",
       "url"      : "/texts/queer-ai-ultimate-fantasy-009",
       "category" : "",
       "tags"     : "machine learning, GPT-2, RunwayML, queer",
@@ -13,7 +68,7 @@
   
     {
 
-      "title"    : "Queer A.I. Ultimate Fantasy v8",
+      "title"    : "Queer A.I. Ultimate Fantasy 8",
       "url"      : "/texts/queer-ai-ultimate-fantasy-008",
       "category" : "",
       "tags"     : "machine learning, GPT-2, RunwayML, queer, cruising, subtle, rough, possessive, competitive",
@@ -24,7 +79,7 @@
   
     {
 
-      "title"    : "Queer A.I. Ultimate Fantasy v7",
+      "title"    : "Queer A.I. Ultimate Fantasy 7",
       "url"      : "/texts/queer-ai-ultimate-fantasy-007",
       "category" : "",
       "tags"     : "machine learning, GPT-2, RunwayML, queer, gayborhood, gayborhoodstripper, drag queen, disco, feminist, moon, mother, sea, beast, overwhelming, love",
@@ -35,7 +90,7 @@
   
     {
 
-      "title"    : "Queer A.I. Ultimate Fantasy v6",
+      "title"    : "Queer A.I. Ultimate Fantasy 6",
       "url"      : "/texts/queer-ai-ultimate-fantasy-006",
       "category" : "",
       "tags"     : "machine learning, GPT-2, RunwayML, queer, erotic, secret lover, monster",
@@ -46,7 +101,7 @@
   
     {
 
-      "title"    : "Queer A.I. Ultimate Fantasy v5",
+      "title"    : "Queer A.I. Ultimate Fantasy 5",
       "url"      : "/texts/queer-ai-ultimate-fantasy-005",
       "category" : "",
       "tags"     : "machine learning, GPT-2, RunwayML, queer, Miami, folk song, blow-up doll, mop",
@@ -57,7 +112,7 @@
   
     {
 
-      "title"    : "Queer A.I. Ultimate Fantasy v4",
+      "title"    : "Queer A.I. Ultimate Fantasy 4",
       "url"      : "/texts/queer-ai-ultimate-fantasy-004",
       "category" : "",
       "tags"     : "machine learning, GPT-2, RunwayML, queer",
@@ -68,7 +123,7 @@
   
     {
 
-      "title"    : "Queer A.I. Ultimate Fantasy v3",
+      "title"    : "Queer A.I. Ultimate Fantasy 3",
       "url"      : "/texts/queer-ai-ultimate-fantasy-003",
       "category" : "",
       "tags"     : "machine learning, GPT-2, RunwayML, queer",
@@ -79,7 +134,7 @@
   
     {
 
-      "title"    : "Queer A.I. Ultimate Fantasy v2",
+      "title"    : "Queer A.I. Ultimate Fantasy 2",
       "url"      : "/texts/queer-ai-ultimate-fantasy-002",
       "category" : "",
       "tags"     : "machine learning, GPT-2, RunwayML, queer",
@@ -90,7 +145,7 @@
   
     {
 
-      "title"    : "Queer A.I. Ultimate Fantasy v1",
+      "title"    : "Queer A.I. Ultimate Fantasy 1",
       "url"      : "/texts/queer-ai-ultimate-fantasy-001",
       "category" : "",
       "tags"     : "machine learning, GPT-2, RunwayML, queer",
