@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Queer A.I. Ultimate Fantasy 7
+title: Queer A.I. Ultimate Fantasy 7 The Gayborhood
 description: GPT-2 model trained on a corpus of queer theatre
 summary: GPT-2 model trained on a corpus of queer theatre
 tags: [machine learning, GPT-2, RunwayML, queer, gayborhood, gayborhoodstripper, drag queen, disco, feminist, moon, mother, sea, beast, overwhelming, love]
@@ -58,7 +58,7 @@ Where?
 
 
 
-Oh, this isnothing specialbut it will make a nice atmosphere.
+Oh, this is nothing special but it will make a nice atmosphere.
 
 I've never been to a disco before.
 
@@ -66,7 +66,7 @@ Oh, that's okay. Here, try.
 
 Oh, I don't like dancing.
 
-You should try dancing with somebuddy. It'll make yourstubs squeak.
+You should try dancing with some buddy. It'll make your stubs squeak.
 
 Oh, I'm not a bad dancer. I can dance.
 
@@ -114,7 +114,9 @@ But I doubt it'll be long.
 
 I can't imagine what the evening will be.
 
-(To RICH and ANNIEJerk-nobody's stopping me, I just don't know when or even if anyone will.
+(To RICH and ANNIE)
+
+Jerk-nobody's stopping me, I just don't know when or even if anyone will.
 
 Aren't you afraid that I'll drag you out here and start dancing with them?
 
@@ -142,9 +144,9 @@ I think I do. I think I do.
 
 You do.
 
-You really do. I don't know whether you realize it ornot, but you do. You can't not know, you must. I guess I do. I really do like you, Beast. I like you very much.
+You really do. I don't know whether you realize it or not, but you do. You can't not know, you must. I guess I do. I really do like you, Beast. I like you very much.
 
-I don't know what that meansbut I like you very much.
+I don't know what that means but I like you very much.
 
 
 
@@ -202,7 +204,9 @@ Yes, I do. I do. I do. I do.
 
 Well, I guess we're finally getting somewhere.
 
-(To RYANNEJerk-nobody's slowing us, nobody's slowing us, Beast, this
+(To RYANNE)
+
+Jerk-nobody's slowing us, nobody's slowing us, Beast, this
 
 The sea.
 

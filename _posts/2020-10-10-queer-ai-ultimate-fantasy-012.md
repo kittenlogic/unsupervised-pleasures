@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Queer A.I. Ultimate Fantasy 12
+title: Queer A.I. Ultimate Fantasy 12 Queer Bars
 description: GPT-2 model trained on a corpus of queer theatre
 summary: GPT-2 model trained on a corpus of queer theatre
 tags: [machine learning, GPT-2, RunwayML, queer]
@@ -46,7 +46,7 @@ It has always been my dream to have my very own private lesbian bar. The only pr
 
 Oh, there are bars! Such as in Atlanta and San Francisco, where Queer Rebels meets every third Thursday. And in New York City, we are soon to have our very own dedicated lesbian karaoke night club, Les Belle Journeys.
 
-In Los Angeles there's the now-defunct, now-defunctymag, and soon-to-be-defunct Dyke March. Meanwhile in San Francisco, the long-vacant Golden Gate Park is home to The Village Lesbian Comedy Theater, a weekly, all-ages stand-up club.
+In Los Angeles there's the now-defunct, now-defunct ymag, and soon-to-be-defunct Dyke March. Meanwhile in San Francisco, the long-vacant Golden Gate Park is home to The Village Lesbian Comedy Theater, a weekly, all-ages stand-up club.
 It's time for my very own dedicated queer cabaret club.
 
 Where the hell are these other queer bars? You all think they're great. I could never get into any of these bars in my wild youth. Where are the other queer cabarets?

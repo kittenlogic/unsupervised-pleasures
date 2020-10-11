@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Queer A.I. Ultimate Fantasy 11
+title: Queer A.I. Ultimate Fantasy 11 Gay History
 description: GPT-2 model trained on a corpus of queer theatre
 summary: GPT-2 model trained on a corpus of queer theatre
 tags: [machine learning, GPT-2, RunwayML, queer]
@@ -20,7 +20,7 @@ Lover number one
 
 Our first
 
-While cruising the gayborhoods of Atlanta, Floridaor my best friend Joan was leaving for San Francisco for the summer, I asked
+While cruising the gayborhoods of Atlanta, Florida or my best friend Joan was leaving for San Francisco for the summer, I asked,
 
 Why do you always have to be so politically incorrect?
 
@@ -58,7 +58,7 @@ Let's change the subject.
 
 Lover number three
 
-When I told my best friend Annie about this "fag" we had beenGlorious Ann was incensed. She thought it was the most despicable thing I could possibly be doing.
+When I told my best friend Annie about this "fag" we had been Glorious Ann was incensed. She thought it was the most despicable thing I could possibly be doing.
 
 How dare you use those words to my best friend.
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Queer A.I. Ultimate Fantasy 8
+title: Queer A.I. Ultimate Fantasy 8 I Could Be Very Interesting
 description: GPT-2 model trained on a corpus of queer theatre
 summary: GPT-2 model trained on a corpus of queer theatre
 tags: [machine learning, GPT-2, RunwayML, queer, cruising, subtle, rough, possessive, competitive]
@@ -43,8 +43,6 @@ I threw him out of my best friend's party.
 You're a great friend.
 
 You're trash.
-
-
 
 Okay. I'm sorry. I don't belong here. Please.
 
@@ -247,7 +245,7 @@ I think you're tired all the time.
 
 
 
-I know when I feel tired. I get so excited about things. I get so excitedI want to go out and beat the shit out of this corner store, this little orphan shop, this theater, this park, this theatre, this sign, this flower, this mirror, this telephone booth, this mirror, this carpet, this life, this book, this book, this carpet, this chair, this carpet, this sign, this street, this walkway, this sign, this lamp, this tree, this brick, this table, this rug, this blanket, this sign, this book, this blanket, this chair, this table, this blanket, this rug, this chair, this lamp, this tree, this walkway, this light, this chair, this rug, this table, this lamp, this blanket, this table, this rug, this chair, this sign, this street, this lamp, this blanket, this table, this lamp, this rug, this chair, this table, this sign, this street, this lamp, this blanket, this I've never been in a room with anyone who thought, "Oh, this person is very interesting, I could be very interesting."
+I know when I feel tired. I get so excited about things. I get so excited I want to go out and beat the shit out of this corner store, this little orphan shop, this theater, this park, this theatre, this sign, this flower, this mirror, this telephone booth, this mirror, this carpet, this life, this book, this book, this carpet, this chair, this carpet, this sign, this street, this walkway, this sign, this lamp, this tree, this brick, this table, this rug, this blanket, this sign, this book, this blanket, this chair, this table, this blanket, this rug, this chair, this lamp, this tree, this walkway, this light, this chair, this rug, this table, this lamp, this blanket, this table, this rug, this chair, this sign, this street, this lamp, this blanket, this table, this lamp, this rug, this chair, this table, this sign, this street, this lamp, this blanket, this I've never been in a room with anyone who thought, "Oh, this person is very interesting, I could be very interesting."
 
 
 
