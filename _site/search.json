@@ -2,6 +2,72 @@
   
     {
 
+      "title"    : "Queer A.I. Ultimate Fantasy 20 Ultimate Fear",
+      "url"      : "/texts/queer-ai-ultimate-fantasy-020",
+      "category" : "",
+      "tags"     : "queer, boy, mother, white, stereotypes, gay, gayborhood, school, Blanche DuBois, machine learning, GPT-2, RunwayML",
+      "date"     : "2020-10-31 00:00:00 -0700",
+      "description" : "GPT-2 model trained on a corpus of queer theatre"
+
+    } ,
+  
+    {
+
+      "title"    : "Queer A.I. Ultimate Fantasy 18 Tenet Master",
+      "url"      : "/texts/queer-ai-ultimate-fantasy-019",
+      "category" : "",
+      "tags"     : "machine learning, GPT-2, RunwayML, queer",
+      "date"     : "2020-10-31 00:00:00 -0700",
+      "description" : "GPT-2 model trained on a corpus of queer theatre"
+
+    } ,
+  
+    {
+
+      "title"    : "Queer A.I. Ultimate Fantasy 18 Halo Effect",
+      "url"      : "/texts/queer-ai-ultimate-fantasy-018",
+      "category" : "",
+      "tags"     : "machine learning, GPT-2, RunwayML, queer",
+      "date"     : "2020-10-31 00:00:00 -0700",
+      "description" : "GPT-2 model trained on a corpus of queer theatre"
+
+    } ,
+  
+    {
+
+      "title"    : "Queer A.I. Ultimate Fantasy 17 Flute-Tossing Hot-Puss",
+      "url"      : "/texts/queer-ai-ultimate-fantasy-017",
+      "category" : "",
+      "tags"     : "machine learning, GPT-2, RunwayML, queer",
+      "date"     : "2020-10-31 00:00:00 -0700",
+      "description" : "GPT-2 model trained on a corpus of queer theatre"
+
+    } ,
+  
+    {
+
+      "title"    : "Queer A.I. Ultimate Fantasy 16 All-Out War",
+      "url"      : "/texts/queer-ai-ultimate-fantasy-016",
+      "category" : "",
+      "tags"     : "machine learning, GPT-2, RunwayML, queer",
+      "date"     : "2020-10-31 00:00:00 -0700",
+      "description" : "GPT-2 model trained on a corpus of queer theatre"
+
+    } ,
+  
+    {
+
+      "title"    : "Queer A.I. Ultimate Fantasy 15 Pun Intended",
+      "url"      : "/texts/queer-ai-ultimate-fantasy-015",
+      "category" : "",
+      "tags"     : "queer, high school, gay, machine learning, GPT-2, RunwayML",
+      "date"     : "2020-10-31 00:00:00 -0700",
+      "description" : "GPT-2 model trained on a corpus of queer theatre"
+
+    } ,
+  
+    {
+
       "title"    : "Queer A.I. Ultimate Fantasy 14 Filthy Habit",
       "url"      : "/texts/queer-ai-ultimate-fantasy-014",
       "category" : "",
@@ -52,17 +118,6 @@
       "tags"     : "machine learning, GPT-2, RunwayML, queer",
       "date"     : "2020-10-10 00:00:00 -0700",
       "description" : "GPT-2 model trained on a corpus of queer theatre"
-
-    } ,
-  
-    {
-
-      "title"    : "Spinoza Bot vs Death Cults",
-      "url"      : "/texts/philosophy-bro-vs-revolution",
-      "category" : "",
-      "tags"     : "machine learning, GPT-2, RunwayML, philosophy, ethics, apocalypse, death cults, QAnon, revolution, dominator culture, romance, will to power, pandemic",
-      "date"     : "2020-10-10 00:00:00 -0700",
-      "description" : "GPT-2 model trained on Nietzsche, Spinoza, Schopenhauer, Bergson, William James reflect on death cults, QAnon, revolution, dominator culture, and the will to power"
 
     } ,
   
@@ -173,6 +228,17 @@
       "tags"     : "machine learning, GPT-2, RunwayML, philosophy, ethics, capitalism, apocalypse",
       "date"     : "2020-09-17 00:00:00 -0700",
       "description" : "GPT-2 model trained on Nietzsche, Spinoza, Schopenhauer, Bergson, William James reflect on pleasure and self-emancipation after capitalism"
+
+    } ,
+  
+    {
+
+      "title"    : "Philosophy Bot vs Death Cults",
+      "url"      : "/texts/philosophy-bro-vs-death-cults",
+      "category" : "",
+      "tags"     : "machine learning, GPT-2, RunwayML, philosophy, ethics, apocalypse, death cults, QAnon, revolution, dominator culture, romance, will to power, pandemic",
+      "date"     : "2020-09-17 00:00:00 -0700",
+      "description" : "GPT-2 model trained on Nietzsche, Spinoza, Schopenhauer, Bergson, William James reflect on death cults, QAnon, revolution, dominator culture, and the will to power"
 
     } ,
   

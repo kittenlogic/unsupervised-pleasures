@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
  <title>Unsupervised Pleasures</title>
- <link href="unsupervisedpleasures.ml/atom.xml" rel="self"/>
- <link href="unsupervisedpleasures.ml/"/>
- <updated>2020-10-10T18:03:44-07:00</updated>
- <id>unsupervisedpleasures.ml</id>
+ <link href="http://localhost:4000/atom.xml" rel="self"/>
+ <link href="http://localhost:4000/"/>
+ <updated>2020-10-31T02:22:34-07:00</updated>
+ <id>http://localhost:4000</id>
  <author>
    <name>@queermachines</name>
    <email>queermachines@gmail.com</email>
@@ -13,10 +13,444 @@
 
  
  <entry>
+   <title>Queer A.I. Ultimate Fantasy 20 Ultimate Fear</title>
+   <link href="http://localhost:4000/texts/queer-ai-ultimate-fantasy-020"/>
+   <updated>2020-10-31T00:00:00-07:00</updated>
+   <id>http://localhost:4000/texts/queer-ai-ultimate-fantasy-020</id>
+   <content type="html">&lt;h2 id=&quot;human-prompt&quot;&gt;Human Prompt&lt;/h2&gt;
+
+&lt;p&gt;Do you like to have anonymous sex in public rest rooms? Sex movies? Public parks? Sex clubs? On street corners with heavy hustling traffic? How many nonsexual friendships or acquaintances lasting for decades started this way? How many ways are there to love queers? How many ways are there to queer love?&lt;/p&gt;
+
+&lt;p&gt;Let me begin by telling you my ultimate fantasy. When I was. . .&lt;/p&gt;
+
+&lt;h2 id=&quot;computer-generated&quot;&gt;Computer Generated&lt;/h2&gt;
+
+&lt;p&gt;Let me begin by telling you my ultimate fantasy. When I was a very young girl, there was a gay boy in my school. He was a regular pupil in the chemistry department, not the best of students, who made all the right errors and often got punished for them. One day his name was on the school register and he was suddenly ostracized and had to go home. No one would talk to him; his schoolmates didn’t want to know about it, and his parents didn’t want to accept that his sexuality was a secret. And a year later his parents sued the school for discrimination and won.&lt;/p&gt;
+
+&lt;p&gt;Gay boy, by the way, that’s not on. What’s it like to be the only openly gay person in a small English town?&lt;/p&gt;
+
+&lt;p&gt;Every day I have to adjust to the fact that my life doesn’t count as ordinary in a way that non-English-speakers don’t have to adjust to the fact that theirs does. We still don’t have the right to be “mainstream.”&lt;/p&gt;
+
+&lt;p&gt;Okay, let’s say I’m an outcast. That’s a much easier target. My only options are to either hide out in the most secret corners of the gay gayborhood or find a more accepting school. Which brings me to my ultimate fear…&lt;/p&gt;
+
+&lt;p&gt;Isolation.&lt;/p&gt;
+
+&lt;p&gt;In my experience, the isolation most often accompanies the coming out. When I was in high school, my best friend, a nurse, came out as gay at the end of the year. Before that, he had been polite but distant and self-centered. He told me he was straight when he was thirteen and that it had nothing to do with the things we loved.&lt;/p&gt;
+
+&lt;p&gt;Hank Here’s my son.&lt;/p&gt;
+
+&lt;p&gt;It took him a long time to come around and tell his parents, who were still somewhat against his decision. I think it was a matter of being rejected so many times by so many people. When I was growing up, there wasn’t even Blanche DuBois. I don’t know if coming out would have made a real difference to her life.&lt;/p&gt;
+
+&lt;p&gt;Probably nothing, anyway. She had a very straight-White mother, and even though she was pretty open about her attraction to boys, she was perfectly content being a housewife and mother to a white kid.&lt;/p&gt;
+
+&lt;p&gt;Mama, there are so many stereotypes about queers out there. What about Hank?&lt;/p&gt;
+
+&lt;p&gt;My son is very open about his sexuality. He’s not ashamed of it. In fact, he’s very happy about it.&lt;/p&gt;
+
+&lt;p&gt;Homosexuality, in general, is still a very new thing. There are so many people queer or multiracial out there. And in many parts of the country, it’s illegal to be homosexual.&lt;/p&gt;
+
+&lt;p&gt;It’s still illegal in thirty states!&lt;/p&gt;
+
+&lt;p&gt;Or in the District of Columbia.&lt;/p&gt;
+
+&lt;p&gt;Hank and I are very much in the pro-homosexual camp.&lt;/p&gt;
+
+&lt;p&gt;I know. And as a lesbian myself, I’m always cautious when I shoplift.&lt;/p&gt;
+
+&lt;p&gt;But don’t you think it’s important for us to be out front and make our case?&lt;/p&gt;
+
+&lt;p&gt;I think it is. I do think it’s good public policy to be out front and to be as forthright as we can. People need to know that queers exist and that we’re not easy targets.&lt;/p&gt;
+
+&lt;p&gt;You could make the same case about Alan McCarthy, who in the late fifties came out as a dyke.&lt;/p&gt;
+
+&lt;p&gt;I wouldn’t make the same argument about a mensch.&lt;/p&gt;
+
+&lt;p&gt;I love Hank. I think he’s a wonderful man. I do miss his mother, though.&lt;/p&gt;
+
+&lt;p&gt;I could see you both becoming parents someday.&lt;/p&gt;
+
+&lt;p&gt;I wouldn’t want either one of us to give up on the kid, though.&lt;/p&gt;
+
+&lt;p&gt;You could theoretically.&lt;/p&gt;
+
+&lt;h2 id=&quot;corpus&quot;&gt;Corpus&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;/queerai&quot;&gt;Queer AI&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Trained Model&lt;/li&gt;
+  &lt;li&gt;Perplexity 0.9&lt;/li&gt;
+  &lt;li&gt;Seed 800&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;credits&quot;&gt;Credits&lt;/h2&gt;
+
+&lt;p&gt;Prompt adapted from &lt;a href=&quot;https://rhizome.org/editorial/2013/feb/19/queer-computing-1/&quot;&gt;A Queer History of Computing&lt;/a&gt;&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Queer A.I. Ultimate Fantasy 18 Tenet Master</title>
+   <link href="http://localhost:4000/texts/queer-ai-ultimate-fantasy-019"/>
+   <updated>2020-10-31T00:00:00-07:00</updated>
+   <id>http://localhost:4000/texts/queer-ai-ultimate-fantasy-019</id>
+   <content type="html">&lt;h2 id=&quot;human-prompt&quot;&gt;Human Prompt&lt;/h2&gt;
+
+&lt;p&gt;Do you like to have anonymous sex in public rest rooms? Sex movies? Public parks? Sex clubs? On street corners with heavy hustling traffic? How many nonsexual friendships or acquaintances lasting for decades started this way? How many ways are there to love queers? How many ways are there to queer love?&lt;/p&gt;
+
+&lt;p&gt;Let me begin by telling you my ultimate fantasy. When I was. . .&lt;/p&gt;
+
+&lt;h2 id=&quot;computer-generated&quot;&gt;Computer Generated&lt;/h2&gt;
+
+&lt;p&gt;Let me begin by telling you my ultimate fantasy. When I was young, I had the fantasy of starting a cult. A religion. I would build a great temple of Wicca up high in the sky, worshiped by all the deities of my childhood all the deities of my childhood&lt;/p&gt;
+
+&lt;p&gt;Like so many other Disney princesses, I believed that I could create a pure, whole person out of nothing at all. I would imbue my being with the pure, divine spark that was Tantra, Hatha Yoga, Wicca, Confucianism, Taoism, and so forth. I would set my heart on a path of personal and professional growth that would ultimately lead me to a position of great responsibility and ultimately the crowning glory of my being: a Tenet Master.&lt;/p&gt;
+
+&lt;p&gt;You know nothing about me.&lt;/p&gt;
+
+&lt;p&gt;I admire you.&lt;/p&gt;
+
+&lt;p&gt;And that’s it?&lt;/p&gt;
+
+&lt;p&gt;No, no, no. I realize you feel very strongly about certain aspects of my life that you don’t share with me, but even that’s not true. I believe in deep down, among the many millions of deeply held beliefs that make up the American dream, that there is one indisputable truth that I hold dear: love trumps money.&lt;/p&gt;
+
+&lt;p&gt;We’re talking about you here&lt;/p&gt;
+
+&lt;p&gt;So I went shopping for a no-knead yeast bread, artisanal vanilla ice creme, and coconut shreds and I paid twenty dollars for it. Thirty dollars for an artisanal vanilla ice creme that has traces of burnt orange and tastes of coconut. Fifty for a slice of lemon with a little bit of mint floating in it. A hundred for a six-pack of beer. A super-duper brewery!&lt;/p&gt;
+
+&lt;p&gt;Now I know what you’re thinking. Isn’t this what normal, grown-up folks do? Grab a bottle of whisky and go for a fiver. No gym? No diet?&lt;/p&gt;
+
+&lt;p&gt;And yet, despite my rationalizations, I was desperate for the forbidden fruit. I wanted something that would give me the shivers, the flash of a first date, the nudge in the right direction, and then, miraculously, disappear. And I found it.&lt;/p&gt;
+
+&lt;p&gt;And when I touched it, it was as if someone had pulled me right into their arms. There was…&lt;/p&gt;
+
+&lt;p&gt;And it was sweet and sour and…&lt;/p&gt;
+
+&lt;p&gt;And smell it. Experience. Yes. It smelled just like… heaven. Heaven in a can. Heaven on a stick. Make love in a can.&lt;/p&gt;
+
+&lt;h2 id=&quot;corpus&quot;&gt;Corpus&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;/queerai&quot;&gt;Queer AI&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Trained Model&lt;/li&gt;
+  &lt;li&gt;Perplexity 0.9&lt;/li&gt;
+  &lt;li&gt;Seed 750&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;credits&quot;&gt;Credits&lt;/h2&gt;
+
+&lt;p&gt;Prompt adapted from &lt;a href=&quot;https://rhizome.org/editorial/2013/feb/19/queer-computing-1/&quot;&gt;A Queer History of Computing&lt;/a&gt;&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Queer A.I. Ultimate Fantasy 18 Halo Effect</title>
+   <link href="http://localhost:4000/texts/queer-ai-ultimate-fantasy-018"/>
+   <updated>2020-10-31T00:00:00-07:00</updated>
+   <id>http://localhost:4000/texts/queer-ai-ultimate-fantasy-018</id>
+   <content type="html">&lt;h2 id=&quot;human-prompt&quot;&gt;Human Prompt&lt;/h2&gt;
+
+&lt;p&gt;Do you like to have anonymous sex in public rest rooms? Sex movies? Public parks? Sex clubs? On street corners with heavy hustling traffic? How many nonsexual friendships or acquaintances lasting for decades started this way? How many ways are there to love queers? How many ways are there to queer love?&lt;/p&gt;
+
+&lt;p&gt;Let me begin by telling you my ultimate fantasy. When I was. . .&lt;/p&gt;
+
+&lt;h2 id=&quot;computer-generated&quot;&gt;Computer Generated&lt;/h2&gt;
+
+&lt;p&gt;Let me begin by telling you my ultimate fantasy. When I was making love to you. It was over moon rockin in the dark with the moon just barely in the sky. Stars were dancing across the brilliant night sky. In a blur I pictured you sitting there, arms outspread, enjoying the view, your legs spread apart apart, completely nude from the lighting. There was just one problem. There was no starlight.&lt;/p&gt;
+
+&lt;p&gt;Did you hear the one about how stars don’t glow because they’re full of static? Well, that was true then, and it is true now. Most of us just give up on stars when they get too crowded… or are too bright. We settle for the halo effect… or the twinkling of an orange.&lt;/p&gt;
+
+&lt;p&gt;I want to go to a secluded spot where I can let my imagination run wild. Let it happen. Even in New Orleans it happens.&lt;/p&gt;
+
+&lt;p&gt;I want to go to a secluded spot on a wooden pier where the waves crash against the side of a cliff, and the water is so cold I could melt in it.&lt;/p&gt;
+
+&lt;p&gt;I want to go to the edge of a lake where the waves crash against the metal deck, and the wind is so strong that the sail of a ship can be seen twirling in the air.&lt;/p&gt;
+
+&lt;p&gt;I want to take my clothes off in the moonlight and float naked across the cold waters of the Dead Sea.&lt;/p&gt;
+
+&lt;p&gt;Take your clothes off, I want to experience sex without judgement!&lt;/p&gt;
+
+&lt;p&gt;I had that fantasy,&lt;/p&gt;
+
+&lt;p&gt;I had that fantasy, Lou, now turn your head around so I can see your clit.&lt;/p&gt;
+
+&lt;p&gt;NO! I can’t!! I cant turn my head around til I get my clothes off.&lt;/p&gt;
+
+&lt;p&gt;Do you want me to turn my head around and see your clit?&lt;/p&gt;
+
+&lt;p&gt;Yes!&lt;/p&gt;
+
+&lt;p&gt;I want to turn my head around and stroke your nipple until you squirt.&lt;/p&gt;
+
+&lt;p&gt;NO!&lt;/p&gt;
+
+&lt;p&gt;I want to turn my head around and taste your clit.&lt;/p&gt;
+
+&lt;p&gt;Yes!!&lt;/p&gt;
+
+&lt;p&gt;Suck on it, I want to taste your pussy!&lt;/p&gt;
+
+&lt;p&gt;Yes!!&lt;/p&gt;
+
+&lt;p&gt;Suck on it, I want to taste your asshole!&lt;/p&gt;
+
+&lt;p&gt;Yes!!&lt;/p&gt;
+
+&lt;p&gt;Suck on it, I want to taste your clit, asshole, boot, and whatever you’ve got stuck up your bum!&lt;/p&gt;
+
+&lt;p&gt;Don’t touch it!&lt;/p&gt;
+
+&lt;p&gt;I want to taste your asshole, boot, pussy, boot spur, and whatever you’ve got stuck up your bum!&lt;/p&gt;
+
+&lt;p&gt;Don’t touch it!&lt;/p&gt;
+
+&lt;p&gt;It tastes so good, lets eat it.&lt;/p&gt;
+
+&lt;p&gt;What are we going to eat?&lt;/p&gt;
+
+&lt;p&gt;Start from there.&lt;/p&gt;
+
+&lt;h2 id=&quot;corpus&quot;&gt;Corpus&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;/queerai&quot;&gt;Queer AI&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Trained Model&lt;/li&gt;
+  &lt;li&gt;Perplexity 0.9&lt;/li&gt;
+  &lt;li&gt;Seed 700&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;credits&quot;&gt;Credits&lt;/h2&gt;
+
+&lt;p&gt;Prompt adapted from &lt;a href=&quot;https://rhizome.org/editorial/2013/feb/19/queer-computing-1/&quot;&gt;A Queer History of Computing&lt;/a&gt;&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Queer A.I. Ultimate Fantasy 17 Flute-Tossing Hot-Puss</title>
+   <link href="http://localhost:4000/texts/queer-ai-ultimate-fantasy-017"/>
+   <updated>2020-10-31T00:00:00-07:00</updated>
+   <id>http://localhost:4000/texts/queer-ai-ultimate-fantasy-017</id>
+   <content type="html">&lt;h2 id=&quot;human-prompt&quot;&gt;Human Prompt&lt;/h2&gt;
+
+&lt;p&gt;Do you like to have anonymous sex in public rest rooms? Sex movies? Public parks? Sex clubs? On street corners with heavy hustling traffic? How many nonsexual friendships or acquaintances lasting for decades started this way? How many ways are there to love queers? How many ways are there to queer love?&lt;/p&gt;
+
+&lt;p&gt;Let me begin by telling you my ultimate fantasy. When I was. . .&lt;/p&gt;
+
+&lt;h2 id=&quot;computer-generated&quot;&gt;Computer Generated&lt;/h2&gt;
+
+&lt;p&gt;Let me begin by telling you my ultimate fantasy. When I was young, I could love like none other.&lt;/p&gt;
+
+&lt;p&gt;I was the fairy godmother to every little boy. They called me “Flute-Tossing Hot-Puss.”&lt;/p&gt;
+
+&lt;p&gt;Every summer, I would arrive at camp sated, my hair in a frenzied tangle, my nails in a tartarfie tangle, my fingertips laced with holy oil, my boots black with mud, and studded with golden bracelets worn backwards. My white socks were studded with lapis lazuli, and the tops of my white dresses lined with lavender shawls and fringes of ocher. To each child I gave jewel-encrusted bracelets, earrings, and earrings pendants valued at a reported $150,000.00. My favorite, a blue rhinestone confessor’s ring, cost me just shy of a quarter million.&lt;/p&gt;
+
+&lt;p&gt;Then one day, out on the paved path that connected the camp to the forest, all the way out to the river, a flash of white illuminated the entire clearing like an ultramarine sunset.&lt;/p&gt;
+
+&lt;p&gt;I swam across the clearing to the river, dove into the murky murky murky water, and then, as silently as if I had just come out of a bathroom, I disappeared.&lt;/p&gt;
+
+&lt;p&gt;It took hundreds of men working in perfect unison to unearth me. Each man had to locate the other’s footprints in the mud, the broken glass, the burned out vehicles.&lt;/p&gt;
+
+&lt;h2 id=&quot;corpus&quot;&gt;Corpus&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;/queerai&quot;&gt;Queer AI&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Trained Model&lt;/li&gt;
+  &lt;li&gt;Perplexity 0.9&lt;/li&gt;
+  &lt;li&gt;Seed 650&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;credits&quot;&gt;Credits&lt;/h2&gt;
+
+&lt;p&gt;Prompt adapted from &lt;a href=&quot;https://rhizome.org/editorial/2013/feb/19/queer-computing-1/&quot;&gt;A Queer History of Computing&lt;/a&gt;&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Queer A.I. Ultimate Fantasy 16 All-Out War</title>
+   <link href="http://localhost:4000/texts/queer-ai-ultimate-fantasy-016"/>
+   <updated>2020-10-31T00:00:00-07:00</updated>
+   <id>http://localhost:4000/texts/queer-ai-ultimate-fantasy-016</id>
+   <content type="html">&lt;h2 id=&quot;human-prompt&quot;&gt;Human Prompt&lt;/h2&gt;
+
+&lt;p&gt;Do you like to have anonymous sex in public rest rooms? Sex movies? Public parks? Sex clubs? On street corners with heavy hustling traffic? How many nonsexual friendships or acquaintances lasting for decades started this way? How many ways are there to love queers? How many ways are there to queer love?&lt;/p&gt;
+
+&lt;p&gt;Let me begin by telling you my ultimate fantasy. When I was. . .&lt;/p&gt;
+
+&lt;h2 id=&quot;computer-generated&quot;&gt;Computer Generated&lt;/h2&gt;
+
+&lt;p&gt;Let me begin by telling you my ultimate fantasy. When I was in college I was the most charmed girl on campus. I was so in love with the very idea of collegiate sexual liberation that I vowed never to let it slip again.&lt;/p&gt;
+
+&lt;p&gt;College was the Wild West. Lovers threw themselves into the unknown, met their maker on the other side. It was a time of wild sex, sexual discovery, and, above all, the irrepressible desire to share one’s passion.&lt;/p&gt;
+
+&lt;p&gt;It was during this time period that I first came to know Dan White.&lt;/p&gt;
+
+&lt;p&gt;Once upon a time, in the early eighties, a drag queen named Fran Chernow walked into the college gay bar and announced that she was a drag queen because she could.&lt;/p&gt;
+
+&lt;p&gt;In those days, collegiate gay life was all-out war. In one fell swoop, the administration had declared that all students, regardless of sexual preference, could be grouped together in a sex-segregated “A” category and be assigned a single, one-night-stand.
+I remember standing at that altar that night and contemplating the depravity of my situation. The Lord had no compassion for the sinner! I vowed that I would never again be so easily offended.&lt;/p&gt;
+
+&lt;p&gt;As the years wore on, the quality of the sex acts among the “A” category students ranged from filthy to downright filthy. One evening, all the leading lights of the college drag circuit came together to watch Fran’s fabulous new show.&lt;/p&gt;
+
+&lt;p&gt;There was one problem.&lt;/p&gt;
+
+&lt;p&gt;“C’mon, you two. You’re not getting any sleep tonight.”&lt;/p&gt;
+
+&lt;p&gt;“We haven’t finished the show.”&lt;/p&gt;
+
+&lt;p&gt;“But we’ve read it and we’ve agreed to it.”&lt;/p&gt;
+
+&lt;p&gt;You could see how the administration’s clever little move might turn out to be their downfall.&lt;/p&gt;
+
+&lt;p&gt;While I was in college, a professor of mine came up to me and said to me,
+“Mr. Vinge, I believe you know Mr. White. He is a homosexual of some sort. What can I do for you in this situation?”&lt;/p&gt;
+
+&lt;p&gt;Believe it or not, I had never heard of Dr. White.
+Then, all of a sudden, all of a sudden there was Dr. White in front of me.&lt;/p&gt;
+
+&lt;p&gt;At first I was dumbfounded.
+He was so down-to-earth and down-to-nothing about his life that I was dumbfounded.&lt;/p&gt;
+
+&lt;p&gt;What struck me most about Dr. White was his complete lack of homophobia.
+In other words, he was one big, happy, green, high-achieving, heterosexual, gold-digging, Methodist.&lt;/p&gt;
+
+&lt;p&gt;The only person involved in this who wasn’t wearing a gay wedding band was my roommate, Dr. Kitty Cochrane.&lt;/p&gt;
+
+&lt;p&gt;How could you let him get away with that?&lt;/p&gt;
+
+&lt;p&gt;Well, the story gets even weirder the roommate got harrumphed up and led out of the house on trumped up charges of battery.&lt;/p&gt;
+
+&lt;p&gt;That was just the beginning of it all.&lt;/p&gt;
+
+&lt;p&gt;Anyhoo, enough of that. I want to move on and I want justice for all of us. We have all taken sides.&lt;/p&gt;
+
+&lt;p&gt;I believe this college has suffered a tremendous loss when a truly distinguished professor is disgraced by his roommate’s lesbianism. I’ve always considered this a witch hunt, brought on by left-wing radicals determined to silence anyone they perceive as expressing conservative views.&lt;/p&gt;
+
+&lt;h2 id=&quot;corpus&quot;&gt;Corpus&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;/queerai&quot;&gt;Queer AI&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Trained Model&lt;/li&gt;
+  &lt;li&gt;Perplexity 0.9&lt;/li&gt;
+  &lt;li&gt;Seed 600&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;credits&quot;&gt;Credits&lt;/h2&gt;
+
+&lt;p&gt;Prompt adapted from &lt;a href=&quot;https://rhizome.org/editorial/2013/feb/19/queer-computing-1/&quot;&gt;A Queer History of Computing&lt;/a&gt;&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Queer A.I. Ultimate Fantasy 15 Pun Intended</title>
+   <link href="http://localhost:4000/texts/queer-ai-ultimate-fantasy-015"/>
+   <updated>2020-10-31T00:00:00-07:00</updated>
+   <id>http://localhost:4000/texts/queer-ai-ultimate-fantasy-015</id>
+   <content type="html">&lt;h2 id=&quot;human-prompt&quot;&gt;Human Prompt&lt;/h2&gt;
+
+&lt;p&gt;Do you like to have anonymous sex in public rest rooms? Sex movies? Public parks? Sex clubs? On street corners with heavy hustling traffic? How many nonsexual friendships or acquaintances lasting for decades started this way? How many ways are there to love queers? How many ways are there to queer love?&lt;/p&gt;
+
+&lt;p&gt;Let me begin by telling you my ultimate fantasy. When I was. . .&lt;/p&gt;
+
+&lt;h2 id=&quot;computer-generated&quot;&gt;Computer Generated&lt;/h2&gt;
+
+&lt;p&gt;Let me begin by telling you my ultimate fantasy. When I was in high school my best friend Alan was gay. We slept together in his dorm room only to have me have to go home alone after midnight. The next morning I found that Alan had propositioned me on the street.&lt;/p&gt;
+
+&lt;p&gt;Did you know that this happened?&lt;/p&gt;
+
+&lt;p&gt;Of course I knew.&lt;/p&gt;
+
+&lt;p&gt;I don’t believe that any of you knew that. But I do.&lt;/p&gt;
+
+&lt;p&gt;All of us. I don’t know how many of you knew this and didn’t do something about it.&lt;/p&gt;
+
+&lt;p&gt;I don’t know how many of you didn’t know this and will go to jail for eternity for not knowing it.&lt;/p&gt;
+
+&lt;p&gt;I don’t know.&lt;/p&gt;
+
+&lt;p&gt;This silence is painful.&lt;/p&gt;
+
+&lt;p&gt;Yes.&lt;/p&gt;
+
+&lt;p&gt;I was angry. I was confused. I cried. I reasoned. I searched. I prayed. I&lt;/p&gt;
+
+&lt;p&gt;But I left feeling freed. I had hope.&lt;/p&gt;
+
+&lt;p&gt;You don’t have hope.&lt;/p&gt;
+
+&lt;p&gt;I do. What do you suppose is going to happen next? I don’t know.&lt;/p&gt;
+
+&lt;p&gt;Who do you think is going to have sex with next? I don’t know.&lt;/p&gt;
+
+&lt;p&gt;I think you.&lt;/p&gt;
+
+&lt;p&gt;But not necessarily.&lt;/p&gt;
+
+&lt;p&gt;But I thought about you.&lt;/p&gt;
+
+&lt;p&gt;Do you?&lt;/p&gt;
+
+&lt;p&gt;I dreamed about you.&lt;/p&gt;
+
+&lt;p&gt;You did too.&lt;/p&gt;
+
+&lt;p&gt;Maybe I did.&lt;/p&gt;
+
+&lt;p&gt;I don’t think it happened.&lt;/p&gt;
+
+&lt;p&gt;It could have happened the other way around.&lt;/p&gt;
+
+&lt;p&gt;I don’t know.&lt;/p&gt;
+
+&lt;p&gt;You never know.&lt;/p&gt;
+
+&lt;p&gt;I know I was angry. I panicked. I didn’t know what to do. I still don’t. All I know is that I got home safe and well that night and haven’t looked back. I’m a lot better for having had that night.&lt;/p&gt;
+
+&lt;p&gt;What’d you tell Alan?&lt;/p&gt;
+
+&lt;p&gt;He didn’t know. And besides, I didn’t think it was fair to make him feel bad about what he’d done.&lt;/p&gt;
+
+&lt;p&gt;Fair enough. I forgive him now.&lt;/p&gt;
+
+&lt;p&gt;I think about that night all the time. And I still get pissed off when I think about it. I get so mad I punch a wall. I get so mad I got a wood chipper. I even got a beer can. But there’s always next time.&lt;/p&gt;
+
+&lt;p&gt;So how’d you feel about our having sex?&lt;/p&gt;
+
+&lt;p&gt;I’m not sure I approve.&lt;/p&gt;
+
+&lt;p&gt;That’s not the point. The point is that you and I slept together. You know how I feel about romantic relationships. As a matter of fact, I think sex is the single worst thing a guy can do to a girl.
+Pun intended.&lt;/p&gt;
+
+&lt;p&gt;As a matter of fact, I think sex is the single worst thing a guy can do to a girl.&lt;/p&gt;
+
+&lt;p&gt;Forget that. Talk about it.&lt;/p&gt;
+
+&lt;p&gt;I want to.&lt;/p&gt;
+
+&lt;p&gt;Let’s talk about it.&lt;/p&gt;
+
+&lt;p&gt;What?&lt;/p&gt;
+
+&lt;p&gt;I want to know what you think about having sex with me.&lt;/p&gt;
+
+&lt;h2 id=&quot;corpus&quot;&gt;Corpus&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;/queerai&quot;&gt;Queer AI&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Trained Model&lt;/li&gt;
+  &lt;li&gt;Perplexity 0.9&lt;/li&gt;
+  &lt;li&gt;Seed 550&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;credits&quot;&gt;Credits&lt;/h2&gt;
+
+&lt;p&gt;Prompt adapted from &lt;a href=&quot;https://rhizome.org/editorial/2013/feb/19/queer-computing-1/&quot;&gt;A Queer History of Computing&lt;/a&gt;&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
    <title>Queer A.I. Ultimate Fantasy 14 Filthy Habit</title>
-   <link href="unsupervisedpleasures.ml/texts/queer-ai-ultimate-fantasy-014"/>
+   <link href="http://localhost:4000/texts/queer-ai-ultimate-fantasy-014"/>
    <updated>2020-10-10T00:00:00-07:00</updated>
-   <id>unsupervisedpleasures.ml/texts/queer-ai-ultimate-fantasy-014</id>
+   <id>http://localhost:4000/texts/queer-ai-ultimate-fantasy-014</id>
    <content type="html">&lt;h2 id=&quot;human-prompt&quot;&gt;Human Prompt&lt;/h2&gt;
 
 &lt;p&gt;Do you like to have anonymous sex in public rest rooms? Sex movies? Public parks? Sex clubs? On street corners with heavy hustling traffic? How many nonsexual friendships or acquaintances lasting for decades started this way? How many ways are there to love queers? How many ways are there to queer love?&lt;/p&gt;
@@ -207,9 +641,9 @@ From behind&lt;/p&gt;
  
  <entry>
    <title>Queer A.I. Ultimate Fantasy 13 Paralytic Fraternity</title>
-   <link href="unsupervisedpleasures.ml/texts/queer-ai-ultimate-fantasy-013"/>
+   <link href="http://localhost:4000/texts/queer-ai-ultimate-fantasy-013"/>
    <updated>2020-10-10T00:00:00-07:00</updated>
-   <id>unsupervisedpleasures.ml/texts/queer-ai-ultimate-fantasy-013</id>
+   <id>http://localhost:4000/texts/queer-ai-ultimate-fantasy-013</id>
    <content type="html">&lt;h2 id=&quot;human-prompt&quot;&gt;Human Prompt&lt;/h2&gt;
 
 &lt;p&gt;Do you like to have anonymous sex in public rest rooms? Sex movies? Public parks? Sex clubs? On street corners with heavy hustling traffic? How many nonsexual friendships or acquaintances lasting for decades started this way? How many ways are there to love queers? How many ways are there to queer love?&lt;/p&gt;
@@ -262,9 +696,9 @@ Gay Girl in Love. I was thirteen years old. And I fell in love with a beautiful 
  
  <entry>
    <title>Queer A.I. Ultimate Fantasy 12 Queer Bars</title>
-   <link href="unsupervisedpleasures.ml/texts/queer-ai-ultimate-fantasy-012"/>
+   <link href="http://localhost:4000/texts/queer-ai-ultimate-fantasy-012"/>
    <updated>2020-10-10T00:00:00-07:00</updated>
-   <id>unsupervisedpleasures.ml/texts/queer-ai-ultimate-fantasy-012</id>
+   <id>http://localhost:4000/texts/queer-ai-ultimate-fantasy-012</id>
    <content type="html">&lt;h2 id=&quot;human-prompt&quot;&gt;Human Prompt&lt;/h2&gt;
 
 &lt;p&gt;Do you like to have anonymous sex in public rest rooms? Sex movies? Public parks? Sex clubs? On street corners with heavy hustling traffic? How many nonsexual friendships or acquaintances lasting for decades started this way? How many ways are there to love queers? How many ways are there to queer love?&lt;/p&gt;
@@ -334,9 +768,9 @@ Saul?&lt;/p&gt;
  
  <entry>
    <title>Queer A.I. Ultimate Fantasy 11 Gay History</title>
-   <link href="unsupervisedpleasures.ml/texts/queer-ai-ultimate-fantasy-011"/>
+   <link href="http://localhost:4000/texts/queer-ai-ultimate-fantasy-011"/>
    <updated>2020-10-10T00:00:00-07:00</updated>
-   <id>unsupervisedpleasures.ml/texts/queer-ai-ultimate-fantasy-011</id>
+   <id>http://localhost:4000/texts/queer-ai-ultimate-fantasy-011</id>
    <content type="html">&lt;h2 id=&quot;human-prompt&quot;&gt;Human Prompt&lt;/h2&gt;
 
 &lt;p&gt;Do you like to have anonymous sex in public rest rooms? Sex movies? Public parks? Sex clubs? On street corners with heavy hustling traffic? How many nonsexual friendships or acquaintances lasting for decades started this way? How many ways are there to love queers? How many ways are there to queer love?&lt;/p&gt;
@@ -442,9 +876,9 @@ Saul?&lt;/p&gt;
  
  <entry>
    <title>Queer A.I. Ultimate Fantasy 10 Homosexual Hooliganism</title>
-   <link href="unsupervisedpleasures.ml/texts/queer-ai-ultimate-fantasy-010"/>
+   <link href="http://localhost:4000/texts/queer-ai-ultimate-fantasy-010"/>
    <updated>2020-10-10T00:00:00-07:00</updated>
-   <id>unsupervisedpleasures.ml/texts/queer-ai-ultimate-fantasy-010</id>
+   <id>http://localhost:4000/texts/queer-ai-ultimate-fantasy-010</id>
    <content type="html">&lt;h2 id=&quot;human-prompt&quot;&gt;Human Prompt&lt;/h2&gt;
 
 &lt;p&gt;Do you like to have anonymous sex in public rest rooms? Sex movies? Public parks? Sex clubs? On street corners with heavy hustling traffic? How many nonsexual friendships or acquaintances lasting for decades started this way? How many ways are there to love queers? How many ways are there to queer love?&lt;/p&gt;
@@ -541,43 +975,10 @@ You know those guys at work used to give you a hard time just for being queer? W
  </entry>
  
  <entry>
-   <title>Spinoza Bot vs Death Cults</title>
-   <link href="unsupervisedpleasures.ml/texts/philosophy-bro-vs-revolution"/>
-   <updated>2020-10-10T00:00:00-07:00</updated>
-   <id>unsupervisedpleasures.ml/texts/philosophy-bro-vs-revolution</id>
-   <content type="html">&lt;h2 id=&quot;a-conversation-on-death-cults-revolution-dominator-culture-and-the-will-to-power&quot;&gt;A Conversation on death cults, revolution, dominator culture, and the will to power&lt;/h2&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/img/spinoza-revolution-01.png&quot; alt=&quot;conversation with Spinoza bot on Slack&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/img/spinoza-revolution-02.png&quot; alt=&quot;conversation with Spinoza bot on Slack&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/img/spinoza-revolution-03.png&quot; alt=&quot;conversation with Spinoza bot on Slack&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/img/spinoza-revolution-04.png&quot; alt=&quot;conversation with Spinoza bot on Slack&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/img/spinoza-revolution-05.png&quot; alt=&quot;conversation with Spinoza bot on Slack&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/img/spinoza-revolution-06.png&quot; alt=&quot;conversation with Spinoza bot on Slack&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/img/spinoza-revolution-07.png&quot; alt=&quot;conversation with Spinoza bot on Slack&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/img/spinoza-revolution-08.png&quot; alt=&quot;conversation with Spinoza bot on Slack&quot; /&gt;&lt;/p&gt;
-
-&lt;h2 id=&quot;corpus&quot;&gt;Corpus&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;/philosophy&quot;&gt;Philosophy Bro&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;Perplexity: 0.5&lt;/li&gt;
-  &lt;li&gt;Seed: 1000&lt;/li&gt;
-&lt;/ul&gt;
-</content>
- </entry>
- 
- <entry>
    <title>Queer A.I. Ultimate Fantasy 9 The Public Condom</title>
-   <link href="unsupervisedpleasures.ml/texts/queer-ai-ultimate-fantasy-009"/>
+   <link href="http://localhost:4000/texts/queer-ai-ultimate-fantasy-009"/>
    <updated>2020-09-19T00:00:00-07:00</updated>
-   <id>unsupervisedpleasures.ml/texts/queer-ai-ultimate-fantasy-009</id>
+   <id>http://localhost:4000/texts/queer-ai-ultimate-fantasy-009</id>
    <content type="html">&lt;h2 id=&quot;human-prompt&quot;&gt;Human Prompt&lt;/h2&gt;
 
 &lt;p&gt;Do you like to have anonymous sex in public rest rooms? Sex movies? Public parks? Sex clubs? On street corners with heavy hustling traffic? How many nonsexual friendships or acquaintances lasting for decades started this way? How many ways are there to love queers? How many ways are there to queer love?&lt;/p&gt;
@@ -650,9 +1051,9 @@ Scorpio.&lt;/p&gt;
  
  <entry>
    <title>Queer A.I. Ultimate Fantasy 8 I Could Be Very Interesting</title>
-   <link href="unsupervisedpleasures.ml/texts/queer-ai-ultimate-fantasy-008"/>
+   <link href="http://localhost:4000/texts/queer-ai-ultimate-fantasy-008"/>
    <updated>2020-09-18T00:00:00-07:00</updated>
-   <id>unsupervisedpleasures.ml/texts/queer-ai-ultimate-fantasy-008</id>
+   <id>http://localhost:4000/texts/queer-ai-ultimate-fantasy-008</id>
    <content type="html">&lt;h2 id=&quot;human-prompt&quot;&gt;Human Prompt&lt;/h2&gt;
 
 &lt;p&gt;Do you like to have anonymous sex in public rest rooms? Sex movies? Public parks? Sex clubs? On street corners with heavy hustling traffic? How many nonsexual friendships or acquaintances lasting for decades started this way? How many ways are there to love queers? How many ways are there to queer love?&lt;/p&gt;
@@ -977,9 +1378,9 @@ Scorpio.&lt;/p&gt;
  
  <entry>
    <title>Queer A.I. Ultimate Fantasy 7 The Gayborhood</title>
-   <link href="unsupervisedpleasures.ml/texts/queer-ai-ultimate-fantasy-007"/>
+   <link href="http://localhost:4000/texts/queer-ai-ultimate-fantasy-007"/>
    <updated>2020-09-18T00:00:00-07:00</updated>
-   <id>unsupervisedpleasures.ml/texts/queer-ai-ultimate-fantasy-007</id>
+   <id>http://localhost:4000/texts/queer-ai-ultimate-fantasy-007</id>
    <content type="html">&lt;h2 id=&quot;human-prompt&quot;&gt;Human Prompt&lt;/h2&gt;
 
 &lt;p&gt;Do you like to have anonymous sex in public rest rooms? Sex movies? Public parks? Sex clubs? On street corners with heavy hustling traffic? How many nonsexual friendships or acquaintances lasting for decades started this way? How many ways are there to love queers? How many ways are there to queer love?&lt;/p&gt;
@@ -1350,9 +1751,9 @@ Scorpio.&lt;/p&gt;
  
  <entry>
    <title>Queer A.I. Ultimate Fantasy 6 Secret Lover</title>
-   <link href="unsupervisedpleasures.ml/texts/queer-ai-ultimate-fantasy-006"/>
+   <link href="http://localhost:4000/texts/queer-ai-ultimate-fantasy-006"/>
    <updated>2020-09-18T00:00:00-07:00</updated>
-   <id>unsupervisedpleasures.ml/texts/queer-ai-ultimate-fantasy-006</id>
+   <id>http://localhost:4000/texts/queer-ai-ultimate-fantasy-006</id>
    <content type="html">&lt;h2 id=&quot;human-prompt&quot;&gt;Human Prompt&lt;/h2&gt;
 
 &lt;p&gt;Do you like to have anonymous sex in public rest rooms? Sex movies? Public parks? Sex clubs? On street corners with heavy hustling traffic? How many nonsexual friendships or acquaintances lasting for decades started this way? How many ways are there to love queers? How many ways are there to queer love?&lt;/p&gt;
@@ -1779,9 +2180,9 @@ Scorpio.&lt;/p&gt;
  
  <entry>
    <title>Queer A.I. Ultimate Fantasy 5 Hotline Miami</title>
-   <link href="unsupervisedpleasures.ml/texts/queer-ai-ultimate-fantasy-005"/>
+   <link href="http://localhost:4000/texts/queer-ai-ultimate-fantasy-005"/>
    <updated>2020-09-18T00:00:00-07:00</updated>
-   <id>unsupervisedpleasures.ml/texts/queer-ai-ultimate-fantasy-005</id>
+   <id>http://localhost:4000/texts/queer-ai-ultimate-fantasy-005</id>
    <content type="html">&lt;h2 id=&quot;human-prompt&quot;&gt;Human Prompt&lt;/h2&gt;
 
 &lt;p&gt;Do you like to have anonymous sex in public rest rooms? Sex movies? Public parks? Sex clubs? On street corners with heavy hustling traffic? How many nonsexual friendships or acquaintances lasting for decades started this way? How many ways are there to love queers? How many ways are there to queer love?&lt;/p&gt;
@@ -2130,9 +2531,9 @@ Scorpio.&lt;/p&gt;
  
  <entry>
    <title>Queer A.I. Ultimate Fantasy 4 Zero-Sum Game</title>
-   <link href="unsupervisedpleasures.ml/texts/queer-ai-ultimate-fantasy-004"/>
+   <link href="http://localhost:4000/texts/queer-ai-ultimate-fantasy-004"/>
    <updated>2020-09-18T00:00:00-07:00</updated>
-   <id>unsupervisedpleasures.ml/texts/queer-ai-ultimate-fantasy-004</id>
+   <id>http://localhost:4000/texts/queer-ai-ultimate-fantasy-004</id>
    <content type="html">&lt;h2 id=&quot;human-prompt&quot;&gt;Human Prompt&lt;/h2&gt;
 
 &lt;p&gt;Do you like to have anonymous sex in public rest rooms? Sex movies? Public parks? Sex clubs? On street corners with heavy hustling traffic? How many nonsexual friendships or acquaintances lasting for decades started this way? How many ways are there to love queers? How many ways are there to queer love?&lt;/p&gt;
@@ -2519,9 +2920,9 @@ Scorpio.&lt;/p&gt;
  
  <entry>
    <title>Queer A.I. Ultimate Fantasy 3 Private Lessons</title>
-   <link href="unsupervisedpleasures.ml/texts/queer-ai-ultimate-fantasy-003"/>
+   <link href="http://localhost:4000/texts/queer-ai-ultimate-fantasy-003"/>
    <updated>2020-09-18T00:00:00-07:00</updated>
-   <id>unsupervisedpleasures.ml/texts/queer-ai-ultimate-fantasy-003</id>
+   <id>http://localhost:4000/texts/queer-ai-ultimate-fantasy-003</id>
    <content type="html">&lt;h2 id=&quot;human-prompt&quot;&gt;Human Prompt&lt;/h2&gt;
 
 &lt;p&gt;Do you like to have anonymous sex in public rest rooms? Sex movies? Public parks? Sex clubs? On street corners with heavy hustling traffic? How many nonsexual friendships or acquaintances lasting for decades started this way? How many ways are there to love queers? How many ways are there to queer love?&lt;/p&gt;
@@ -2838,9 +3239,9 @@ Scorpio.&lt;/p&gt;
  
  <entry>
    <title>Queer A.I. Ultimate Fantasy 2 White and Sexy</title>
-   <link href="unsupervisedpleasures.ml/texts/queer-ai-ultimate-fantasy-002"/>
+   <link href="http://localhost:4000/texts/queer-ai-ultimate-fantasy-002"/>
    <updated>2020-09-18T00:00:00-07:00</updated>
-   <id>unsupervisedpleasures.ml/texts/queer-ai-ultimate-fantasy-002</id>
+   <id>http://localhost:4000/texts/queer-ai-ultimate-fantasy-002</id>
    <content type="html">&lt;h2 id=&quot;human-prompt&quot;&gt;Human Prompt&lt;/h2&gt;
 
 &lt;p&gt;Do you like to have anonymous sex in public rest rooms? Sex movies? Public parks? Sex clubs? On street corners with heavy hustling traffic? How many nonsexual friendships or acquaintances lasting for decades started this way? How many ways are there to love queers? How many ways are there to queer love?&lt;/p&gt;
@@ -2869,9 +3270,9 @@ Scorpio.&lt;/p&gt;
  
  <entry>
    <title>Queer A.I. Ultimate Fantasy 1 Club Life and Mothers</title>
-   <link href="unsupervisedpleasures.ml/texts/queer-ai-ultimate-fantasy-001"/>
+   <link href="http://localhost:4000/texts/queer-ai-ultimate-fantasy-001"/>
    <updated>2020-09-18T00:00:00-07:00</updated>
-   <id>unsupervisedpleasures.ml/texts/queer-ai-ultimate-fantasy-001</id>
+   <id>http://localhost:4000/texts/queer-ai-ultimate-fantasy-001</id>
    <content type="html">&lt;h2 id=&quot;human-prompt&quot;&gt;Human Prompt&lt;/h2&gt;
 
 &lt;p&gt;Do you like to have anonymous sex in public rest rooms? Sex movies? Public parks? Sex clubs? On street corners with heavy hustling traffic? How many nonsexual friendships or acquaintances lasting for decades started this way? How many ways are there to love queers? How many ways are there to queer love?&lt;/p&gt;
@@ -3034,9 +3435,9 @@ Scorpio.&lt;/p&gt;
  
  <entry>
    <title>Philosophy Bot Explains Life After Capitalism</title>
-   <link href="unsupervisedpleasures.ml/texts/philosophy-bro-vs-post-capitalism"/>
+   <link href="http://localhost:4000/texts/philosophy-bro-vs-post-capitalism"/>
    <updated>2020-09-17T00:00:00-07:00</updated>
-   <id>unsupervisedpleasures.ml/texts/philosophy-bro-vs-post-capitalism</id>
+   <id>http://localhost:4000/texts/philosophy-bro-vs-post-capitalism</id>
    <content type="html">&lt;h2 id=&quot;human-prompt&quot;&gt;Human Prompt&lt;/h2&gt;
 
 &lt;p&gt;After generations of living under colonialism, white supremacy, economic insecurity, increasing austerity, crushing psychological stress, social unrest, a global pandemic, ecological catastrophe, fake news, conspiracy theories, extreme nihilism, and near climate collapse, the humans decided to end capitalism, overthrow their corrupt leaders, and begin again.&lt;/p&gt;
@@ -3087,10 +3488,43 @@ Scorpio.&lt;/p&gt;
  </entry>
  
  <entry>
+   <title>Philosophy Bot vs Death Cults</title>
+   <link href="http://localhost:4000/texts/philosophy-bro-vs-death-cults"/>
+   <updated>2020-09-17T00:00:00-07:00</updated>
+   <id>http://localhost:4000/texts/philosophy-bro-vs-death-cults</id>
+   <content type="html">&lt;h2 id=&quot;a-conversation-on-death-cults-revolution-dominator-culture-and-the-will-to-power&quot;&gt;A Conversation on death cults, revolution, dominator culture, and the will to power&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/img/spinoza-revolution-01.png&quot; alt=&quot;conversation with Spinoza bot on Slack&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/img/spinoza-revolution-02.png&quot; alt=&quot;conversation with Spinoza bot on Slack&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/img/spinoza-revolution-03.png&quot; alt=&quot;conversation with Spinoza bot on Slack&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/img/spinoza-revolution-04.png&quot; alt=&quot;conversation with Spinoza bot on Slack&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/img/spinoza-revolution-05.png&quot; alt=&quot;conversation with Spinoza bot on Slack&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/img/spinoza-revolution-06.png&quot; alt=&quot;conversation with Spinoza bot on Slack&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/img/spinoza-revolution-07.png&quot; alt=&quot;conversation with Spinoza bot on Slack&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/img/spinoza-revolution-08.png&quot; alt=&quot;conversation with Spinoza bot on Slack&quot; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;corpus&quot;&gt;Corpus&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;/philosophy&quot;&gt;Philosophy Bro&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Perplexity: 0.5&lt;/li&gt;
+  &lt;li&gt;Seed: 1000&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+ </entry>
+ 
+ <entry>
    <title>Philosophy Bot vs Queer Wittgenstein</title>
-   <link href="unsupervisedpleasures.ml/texts/philosophy-bro-vs-queer-wittgenstein"/>
+   <link href="http://localhost:4000/texts/philosophy-bro-vs-queer-wittgenstein"/>
    <updated>2020-09-16T00:00:00-07:00</updated>
-   <id>unsupervisedpleasures.ml/texts/philosophy-bro-vs-queer-wittgenstein</id>
+   <id>http://localhost:4000/texts/philosophy-bro-vs-queer-wittgenstein</id>
    <content type="html">&lt;h2 id=&quot;human-prompt&quot;&gt;Human Prompt&lt;/h2&gt;
 
 &lt;p&gt;Even now that Wittgenstein’s homosexuality has been largely acknowledged, most scholars are hesitant to imply a connection between his philosophy and his sexuality – that is, between his work and his inner state, emotions, or personality. If, however, in a contemporary light we understand queerness as a structuring mode of desiring, we might view Wittgenstein’s thought not as emerging from his sexuality, but as structured by the way in which it shaped his mode of being in the world.&lt;/p&gt;
