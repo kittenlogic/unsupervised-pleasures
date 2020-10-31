@@ -2,6 +2,28 @@
   
     {
 
+      "title"    : "Queer A.I. Ultimate Fantasy 22 Jimi Hendrix",
+      "url"      : "/texts/queer-ai-ultimate-fantasy-022",
+      "category" : "",
+      "tags"     : "queer, high school, secret, Jimi Hendrix, cheerleader, apolitical, garaveyard, bullshit, machine learning, GPT-2, RunwayML",
+      "date"     : "2020-10-31 00:00:00 -0700",
+      "description" : "GPT-2 model trained on a corpus of queer theatre"
+
+    } ,
+  
+    {
+
+      "title"    : "Queer A.I. Ultimate Fantasy 21 Bonafide",
+      "url"      : "/texts/queer-ai-ultimate-fantasy-021",
+      "category" : "",
+      "tags"     : "queer, Kinsey, high school, doctor, nurse, heteronormative, marriage, divorce, birth control, slumber party, child care, machine learning, GPT-2, RunwayML",
+      "date"     : "2020-10-31 00:00:00 -0700",
+      "description" : "GPT-2 model trained on a corpus of queer theatre"
+
+    } ,
+  
+    {
+
       "title"    : "Queer A.I. Ultimate Fantasy 20 Ultimate Fear",
       "url"      : "/texts/queer-ai-ultimate-fantasy-020",
       "category" : "",
@@ -13,7 +35,7 @@
   
     {
 
-      "title"    : "Queer A.I. Ultimate Fantasy 18 Tenet Master",
+      "title"    : "Queer A.I. Ultimate Fantasy 19 Tenet Master",
       "url"      : "/texts/queer-ai-ultimate-fantasy-019",
       "category" : "",
       "tags"     : "machine learning, GPT-2, RunwayML, queer",
