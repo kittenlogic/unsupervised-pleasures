@@ -3,7 +3,7 @@ layout: post
 title: Queer A.I. Ultimate Fantasy 21 Bonafide
 description: GPT-2 model trained on a corpus of queer theatre
 summary: GPT-2 model trained on a corpus of queer theatre
-tags: [queer, Kinsey, high school, doctor, nurse, heteronormative, marriage, divorce, birth control, slumber party, child care, machine learning, GPT-2, RunwayML]
+tags: [queer, Kinsey, high school, doctor, nurse, heteronormative, marriage, divorce, birth control, slumber party, stay-at-home, GPT-2, RunwayML]
 ---
 
 ## Human Prompt
@@ -129,19 +129,19 @@ Our sex life was fine. It was, in fact, one of the most fulfilling aspects of ou
 
 A boy with a short fuse. Ring me.
 
-I'm talking about a bonafide dutiful daugh-
+I'm talking about a bonafide dutiful daughter.
 
 Bonafide?
 
 Don't get me started. I'd say bonafide.
 
-So what's a bonafide daugh-
+So what's a bonafide daughter.
 
-One thing. A daugh-
+One thing. A daughter.
 
 Exactly. One thing. What's a bonafide, exactly?
 
-A bonafide nondirective, I guess. A daugh-
+A bonafide nondirective, I guess.
 
 Like a stay-at-home mother?
 

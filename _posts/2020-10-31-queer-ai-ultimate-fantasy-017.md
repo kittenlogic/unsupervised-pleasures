@@ -3,7 +3,7 @@ layout: post
 title: Queer A.I. Ultimate Fantasy 17 Flute-Tossing Hot-Puss
 description: GPT-2 model trained on a corpus of queer theatre
 summary: GPT-2 model trained on a corpus of queer theatre
-tags: [machine learning, GPT-2, RunwayML, queer]
+tags: [summer camp, sunset, water, mud, unearth, GPT-2, RunwayML, queer]
 ---
 
 ## Human Prompt

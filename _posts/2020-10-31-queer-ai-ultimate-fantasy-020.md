@@ -3,7 +3,7 @@ layout: post
 title: Queer A.I. Ultimate Fantasy 20 Ultimate Fear
 description: GPT-2 model trained on a corpus of queer theatre
 summary: GPT-2 model trained on a corpus of queer theatre
-tags: [queer, boy, mother, white, stereotypes, gay, gayborhood, school, Blanche DuBois, machine learning, GPT-2, RunwayML]
+tags: [queer, boy, mother, white, stereotypes, gay, gayborhood, school, isolation, outcast, Blanche DuBois, GPT-2, RunwayML]
 ---
 
 ## Human Prompt

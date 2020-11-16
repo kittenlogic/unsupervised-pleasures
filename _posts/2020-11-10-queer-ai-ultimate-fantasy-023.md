@@ -3,7 +3,7 @@ layout: post
 title: Queer A.I. Ultimate Fantasy 23 144 Loving Arms
 description: GPT-2 model trained on a corpus of queer theatre
 summary: GPT-2 model trained on a corpus of queer theatre
-tags: [queer, secret, college, trance, Florida, Grand Canyon, Manhattan Island, Amazon, machine learning, GPT-2, RunwayML]
+tags: [school, secret, college, trance, stay-at-home, Florida, Grand Canyon, Manhattan Island, Amazon, sun, moon, earth, queer, GPT-2, RunwayML]
 ---
 
 ## Human Prompt
@@ -33,8 +33,6 @@ Does anyone know this?
 Have you ever been so in love you fell in love with the entire world and suddenly regretted it the next day?
 
 I could fall in love with anyone. I could fall in love with my television, my computer, my friends. I could even fall in love with my mother. But I did what any good lover would do... I went out and FOUND HIM.
-
-"I love her so much and I know she loves me back."
 
 I fell in love with a man!
 

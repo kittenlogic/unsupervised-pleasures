@@ -3,7 +3,7 @@ layout: post
 title: Queer A.I. Ultimate Fantasy 24 Half-Assed
 description: GPT-2 model trained on a corpus of queer theatre
 summary: GPT-2 model trained on a corpus of queer theatre
-tags: [queer, high school, erotic, machine learning, GPT-2, RunwayML]
+tags: [school, high school, erotic, queer, GPT-2, RunwayML]
 ---
 
 ## Human Prompt

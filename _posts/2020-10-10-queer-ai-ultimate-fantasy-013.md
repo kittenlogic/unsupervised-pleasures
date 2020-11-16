@@ -3,7 +3,7 @@ layout: post
 title: Queer A.I. Ultimate Fantasy 13 Paralytic Fraternity
 description: GPT-2 model trained on a corpus of queer theatre
 summary: GPT-2 model trained on a corpus of queer theatre
-tags: [machine learning, GPT-2, RunwayML, queer]
+tags: [love, confusion, rejection, gay, daddy issues, Rainbow PUSH, GPT-2, RunwayML, queer]
 ---
 
 ## Human Prompt
@@ -14,8 +14,7 @@ Let me begin by telling you my ultimate fantasy. When I was. . .
 
 ## Computer Generated
 
-Let me begin by telling you my ultimate fantasy. When I was young and very foolish,
-Gay Girl in Love. I was thirteen years old. And I fell in love with a beautiful young man who seduced me with the promise of more beautiful things. I called him my boy friend. We fell in love and lived happily ever after. For thirteen years I was confused and unhappy.
+Let me begin by telling you my ultimate fantasy. When I was young and very foolish, Gay Girl in Love. I was thirteen years old. And I fell in love with a beautiful young man who seduced me with the promise of more beautiful things. I called him my boy friend. We fell in love and lived happily ever after. For thirteen years I was confused and unhappy.
 
 There is a new book out that will change your life. When I picked up this copy I figured it out months ago. Rainbow PUSHED! It has all the information you need to know about bisexuality, gay men, lesbianism, queer theory, history, sexuality, healing, strength, courage, and the power of dreams to make the world a better place. Buy it now and discover for yourself for the first time what it really is like to be queer!
 

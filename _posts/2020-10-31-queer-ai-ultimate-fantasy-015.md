@@ -3,7 +3,7 @@ layout: post
 title: Queer A.I. Ultimate Fantasy 15 Pun Intended
 description: GPT-2 model trained on a corpus of queer theatre
 summary: GPT-2 model trained on a corpus of queer theatre
-tags: [queer, high school, gay, machine learning, GPT-2, RunwayML ]
+tags: [school, high school, gay, queer, angry, romantic, GPT-2, RunwayML ]
 ---
 
 ## Human Prompt

@@ -3,7 +3,7 @@ layout: post
 title: Queer A.I. Ultimate Fantasy 25 Sodom or Gomorra
 description: GPT-2 model trained on a corpus of queer theatre
 summary: GPT-2 model trained on a corpus of queer theatre
-tags: [queer, feminine, moon, drunk, secret, food, lesbian, Sodom and Gomorra, machine learning, GPT-2, RunwayML]
+tags: [feminine, moon, drunk, secret, food, erotic, lesbian, nightgown, Sodom and Gomorra, queer, GPT-2, RunwayML]
 ---
 
 ## Human Prompt
