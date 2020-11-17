@@ -3,7 +3,7 @@ layout: post
 title: Queer A.I. Ultimate Fantasy 8 I Could Be Very Interesting
 description: GPT-2 model trained on a corpus of queer theatre
 summary: GPT-2 model trained on a corpus of queer theatre
-tags: [machine learning, GPT-2, RunwayML, queer, cruising, subtle, rough, possessive, competitive]
+tags: [queer, cruising, school, college, high school, party, possessive, competitive, attractive, housewife, stripper, lesbian, stay-at-home, cat, GPT-2, RunwayML]
 ---
 
 ## Human Prompt

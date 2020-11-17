@@ -3,7 +3,7 @@ layout: post
 title: Queer A.I. Ultimate Fantasy 12 Boy Love Night
 description: GPT-2 model trained on a corpus of queer theatre
 summary: GPT-2 model trained on a corpus of queer theatre
-tags: [gayborhood, queer bar, bar, cabaret, karaoke, comedy, night club, confession, GPT-2, RunwayML, queer]
+tags: [school, college, high school, gayborhood, queer bar, bar, cabaret, karaoke, comedy, clubs, pervert, confession, Queer Rebels, Les Belle Journeys, Village Lesbian Comedy Theater, ymag, Los Angeles, New York City, San Francisco, Atlanta, GPT-2, RunwayML, queer]
 ---
 
 ## Human Prompt

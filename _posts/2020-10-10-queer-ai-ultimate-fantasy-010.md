@@ -3,7 +3,7 @@ layout: post
 title: Queer A.I. Ultimate Fantasy 10 Homosexual Hooliganism
 description: GPT-2 model trained on a corpus of queer theatre
 summary: GPT-2 model trained on a corpus of queer theatre
-tags: [machine learning, GPT-2, RunwayML, queer]
+tags: [school, high school, college, sex, money, power, Heila Burnett, comedy, bathhouse, theater, bar-b-que, artist, football, Michigan Wolverines, Gay Wildcats, homosexual, GPT-2, RunwayML, queer]
 ---
 
 ## Human Prompt

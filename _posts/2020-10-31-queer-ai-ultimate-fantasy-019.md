@@ -3,7 +3,7 @@ layout: post
 title: Queer A.I. Ultimate Fantasy 19 Tenet Master
 description: GPT-2 model trained on a corpus of queer theatre
 summary: GPT-2 model trained on a corpus of queer theatre
-tags: [cult, Tantra, Hatha Yoga, Wicca, Confucianism, Taoism, Disney, food, GPT-2, RunwayML, queer]
+tags: [cult, religion, Tantra, Hatha Yoga, Wicca, Confucianism, Taoism, Disney, food, forbidden fruit, heaven, whiskey, rationalization, GPT-2, RunwayML, queer]
 ---
 
 ## Human Prompt

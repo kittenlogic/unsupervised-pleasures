@@ -3,7 +3,7 @@ layout: post
 title: Queer A.I. Ultimate Fantasy 22 Jimi Hendrix
 description: GPT-2 model trained on a corpus of queer theatre
 summary: GPT-2 model trained on a corpus of queer theatre
-tags: [school, high school, secret, Jimi Hendrix, cheerleader, apolitical, graveyard, bullshit, queer, GPT-2, RunwayML]
+tags: [school, high school, secret, Jimi Hendrix, cheerleader, apolitical, graveyard, content warning, bullshit, queer, GPT-2, RunwayML]
 ---
 
 ## Human Prompt

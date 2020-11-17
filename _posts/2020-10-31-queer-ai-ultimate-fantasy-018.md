@@ -3,7 +3,7 @@ layout: post
 title: Queer A.I. Ultimate Fantasy 18 Halo Effect
 description: GPT-2 model trained on a corpus of queer theatre
 summary: GPT-2 model trained on a corpus of queer theatre
-tags: [moon, stars, erotic, GPT-2, RunwayML, queer]
+tags: [moon, stars, water, air, static, erotic, Dead Sea, judgement, GPT-2, RunwayML, queer]
 ---
 
 ## Human Prompt

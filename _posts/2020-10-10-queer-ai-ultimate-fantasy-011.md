@@ -3,7 +3,7 @@ layout: post
 title: Queer A.I. Ultimate Fantasy 11 Gay History
 description: GPT-2 model trained on a corpus of queer theatre
 summary: GPT-2 model trained on a corpus of queer theatre
-tags: [machine learning, GPT-2, RunwayML, queer]
+tags: [school, high school, gayborhood, cruising, lesbian, politically incorrect, feminist closet, history, Atlanta, Florida, GPT-2, RunwayML, queer]
 ---
 
 ## Human Prompt

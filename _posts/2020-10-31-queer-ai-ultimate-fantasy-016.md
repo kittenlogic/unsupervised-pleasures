@@ -3,7 +3,7 @@ layout: post
 title: Queer A.I. Ultimate Fantasy 16 All-Out War
 description: GPT-2 model trained on a corpus of queer theatre
 summary: GPT-2 model trained on a corpus of queer theatre
-tags: [school, college, lesbian, sex-segregated, one-night-stand, gold-digging, Methodist, administration, witch hunt, cancel culture, GPT-2, RunwayML, queer]
+tags: [school, college, Wild West, discovery, lesbian, sinner, sex-segregated, one-night-stand, sex, gold-digging, Methodist, drag,  administration, witch hunt, conservative, left-wing, radical, cancel culture, GPT-2, RunwayML, queer]
 ---
 
 ## Human Prompt

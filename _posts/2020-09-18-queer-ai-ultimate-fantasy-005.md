@@ -3,7 +3,7 @@ layout: post
 title: Queer A.I. Ultimate Fantasy 5 Hotline Miami
 description: GPT-2 model trained on a corpus of queer theatre
 summary: GPT-2 model trained on a corpus of queer theatre
-tags: [machine learning, GPT-2, RunwayML, queer, Miami, folk song, blow-up doll, mop]
+tags: [queer, Miami, folk song, blow-up doll, mop, Highway 101, Affirmative Action, touch, sex, GPT-2, RunwayML]
 ---
 
 ## Human Prompt

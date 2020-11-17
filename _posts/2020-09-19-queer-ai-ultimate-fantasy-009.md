@@ -3,7 +3,7 @@ layout: post
 title: Queer A.I. Ultimate Fantasy 9 The Public Condom
 description: GPT-2 model trained on a corpus of queer theatre
 summary: GPT-2 model trained on a corpus of queer theatre
-tags: [machine learning, GPT-2, RunwayML, queer]
+tags: [sex toy, clubs, cruising, condom, gay, lesbian, Christs-for-Jesus, heaven, Christmas, tomboy, astrology, lunatic fringe, LSD, Valium, lion, tiger, dream, middle class, GPT-2, RunwayML, queer]
 ---
 
 ## Human Prompt
@@ -51,10 +51,7 @@ Tomboy. Too tomboy for my taste. I was the tomboy stereotype all my life. My bes
 
 I don't think so. Tempted often to call myself lesbian.
 
-You were the tomboy stereotype from the start.  Sagittarius.  Taurus.  Capricorn.  Cancer.
-
-Taurus.
-Scorpio.
+You were the tomboy stereotype from the start. Sagittarius. Taurus. Capricorn. Cancer. Taurus. Scorpio.
 
 "Lunatic fringe" orchard. A quiet place for the weekend. June.
 

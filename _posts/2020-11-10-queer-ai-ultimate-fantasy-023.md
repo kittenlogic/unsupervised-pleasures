@@ -3,7 +3,7 @@ layout: post
 title: Queer A.I. Ultimate Fantasy 23 144 Loving Arms
 description: GPT-2 model trained on a corpus of queer theatre
 summary: GPT-2 model trained on a corpus of queer theatre
-tags: [school, secret, college, trance, stay-at-home, Florida, Grand Canyon, Manhattan Island, Amazon, sun, moon, earth, queer, GPT-2, RunwayML]
+tags: [school, secret, college, trance, stay-at-home, Florida, Grand Canyon, Manhattan Island, Amazon, sun, moon, earth, gay, queer, GPT-2, RunwayML]
 ---
 
 ## Human Prompt

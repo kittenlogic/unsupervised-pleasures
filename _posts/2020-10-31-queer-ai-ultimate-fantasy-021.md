@@ -3,7 +3,7 @@ layout: post
 title: Queer A.I. Ultimate Fantasy 21 Bonafide
 description: GPT-2 model trained on a corpus of queer theatre
 summary: GPT-2 model trained on a corpus of queer theatre
-tags: [queer, Kinsey, high school, doctor, nurse, heteronormative, marriage, divorce, birth control, slumber party, stay-at-home, GPT-2, RunwayML]
+tags: [queer, sex, Kinsey, high school, doctor, nurse, heteronormative, marriage, divorce, birth control, slumber party, stay-at-home, Emory University Hospital, Atlanta, GPT-2, RunwayML]
 ---
 
 ## Human Prompt

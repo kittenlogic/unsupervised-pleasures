@@ -3,7 +3,7 @@ layout: post
 title: Queer A.I. Ultimate Fantasy 2 White and Sexy
 description: GPT-2 model trained on a corpus of queer theatre
 summary: GPT-2 model trained on a corpus of queer theatre
-tags: [machine learning, GPT-2, RunwayML, queer]
+tags: [famous, white, sexy, stars, moon, GPT-2, RunwayML, queer]
 ---
 
 ## Human Prompt

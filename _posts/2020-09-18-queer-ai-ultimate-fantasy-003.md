@@ -3,7 +3,7 @@ layout: post
 title: Queer A.I. Ultimate Fantasy 3 Private Lessons
 description: GPT-2 model trained on a corpus of queer theatre
 summary: GPT-2 model trained on a corpus of queer theatre
-tags: [machine learning, GPT-2, RunwayML, queer]
+tags: [school, junior high, gay rights, sex, Homo-Bimbo, Willy Brandt, suburban fantasy, Kentucky, Purple Haze, Soup Nazi, GPT-2, RunwayML, queer]
 ---
 
 ## Human Prompt

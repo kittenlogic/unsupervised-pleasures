@@ -3,7 +3,7 @@ layout: post
 title: Queer A.I. Ultimate Fantasy 6 Secret Lover
 description: GPT-2 model trained on a corpus of queer theatre
 summary: GPT-2 model trained on a corpus of queer theatre
-tags: [machine learning, GPT-2, RunwayML, queer, erotic, secret lover, monster]
+tags: [queer, erotic, poetry, secret, sex, lover, monster, angry, GPT-2, RunwayML]
 ---
 
 ## Human Prompt

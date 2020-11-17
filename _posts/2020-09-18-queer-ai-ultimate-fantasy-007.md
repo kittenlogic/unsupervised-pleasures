@@ -3,7 +3,7 @@ layout: post
 title: Queer A.I. Ultimate Fantasy 7 The Gayborhood
 description: GPT-2 model trained on a corpus of queer theatre
 summary: GPT-2 model trained on a corpus of queer theatre
-tags: [machine learning, GPT-2, RunwayML, queer, gayborhood, gayborhoodstripper, drag queen, disco, feminist, moon, mother, sea, beast, overwhelming, love]
+tags: [queer, gay, gayborhood, stripper, drag, disco, middle-aged white men, priest, sea, beast, overwhelming, love, conservative, Stonewall, feminist, moon, sea, mother, GPT-2, RunwayML]
 ---
 
 ## Human Prompt
@@ -20,11 +20,11 @@ There are plenty of things you don't know,
 
 I didn't know that there were any gayborhoodstrippers, clubs, or even gay men. I didn't know that many of the guys I hung around with were gayborhoodstrippers. I didn't know that many of the gayborhoodminors were gayminors. And I certainly wasn't part of the gayborhoodthe clubs. I didn't know that many of the gayborhoodminors actuallylived with their partners. Or that in the gayborhoodthe bars. Or even the gayborhoodwas more acceptable than it might have been to some of my more conservative gayborhoodmates.
 
-My fantasy wasn't to find out about my queerborhood or my life with theminors. It was to find out if there wereany other gayborhoodminors. I wasn't interested in that. And so, over the years, I've had itwith you. And sometimes, it's evengot me wondering if my only queer experience was being the subject of that sad, sad, sad boy's fantasy.
+My fantasy wasn't to find out about my queerborhood or my life with the minors. It was to find out if there were any other gayborhoodminors. I wasn't interested in that. And so, over the years, I've had it with you. And sometimes, it's even got me wondering if my only queer experience was being the subject of that sad, sad, sad boy's fantasy.
 
 What I always wanted
 
-So now that you and Randy have gone home, it's time to take thingsinto our own hands.
+So now that you and Randy have gone home, it's time to take things into our own hands.
 
 We can't leave everything that we've learned at Stonewall. We're not infallible.
 
@@ -32,19 +32,19 @@ So, what do we do?
 
 I've got some preliminary suggestions. If you meet the guy who was "Jason" in the gayborhoodand you keep his name, we might be able to get a hunting license out of this town.
 
-And what do we doif we don't kill this boy?
+And what do we do if we don't kill this boy?
 
 Let's hope he's a nice, decent looking guy.
 
-And anyway, we're goinghome now. I don't want any part of this.
+And anyway, we're going home now. I don't want any part of this.
 
 And I don't want any part of your adventures.
 
-And you, Beast, you'rea convicted murderer, and I don't want any part of your adventures.
+And you, Beast, you're a convicted murderer, and I don't want any part of your adventures.
 
 I don't know what I believe anymore
 
-I believe what Randy told you, and I believe what he told you, dearheart. Whatever you believe, whatever you think is true, I know for a fact, it isn't true.
+I believe what Randy told you, and I believe what he told you, dear heart. Whatever you believe, whatever you think is true, I know for a fact, it isn't true.
 
 
 
