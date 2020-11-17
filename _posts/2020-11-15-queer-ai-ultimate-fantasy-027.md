@@ -3,7 +3,7 @@ layout: post
 title: Queer A.I. Ultimate Fantasy 27 Tidy Up Crispy
 description: GPT-2 model trained on a corpus of queer theatre
 summary: GPT-2 model trained on a corpus of queer theatre
-tags: [role play, food, queer, GPT-2, RunwayML]
+tags: ['role play', food, queer, GPT-2, RunwayML]
 ---
 
 ## Human Prompt
