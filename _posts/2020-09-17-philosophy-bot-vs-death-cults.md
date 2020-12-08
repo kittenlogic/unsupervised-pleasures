@@ -26,6 +26,6 @@ tags: [machine learning, GPT-2, RunwayML, philosophy, ethics, apocalypse, death 
 
 ## Corpus
 
-- [Philosophy Bro](/philosophy)
+- [Philosophy Bot](/philosophy)
 - Perplexity: 0.5
 - Seed: 1000
