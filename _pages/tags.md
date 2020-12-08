@@ -8,7 +8,7 @@ title: Tags
 {% assign tags = site.tags | sort %}
 
 {% for tag in tags %}
- <a href="/tag/{{ tag | first | slugify }}/">{{ tag[0] | replace:'-', ' ' }} ({{ tag | last | size }}){% unless forloop.last %}, {% endunless %}</a>
+ <a href="/tag/{{ tag | first  }}/">{{ tag[0] | replace:'-', ' ' }} ({{ tag | last | size }}){% unless forloop.last %}, {% endunless %}</a>
 {% endfor %}
 
 </section>
