@@ -6,12 +6,6 @@ summary: GPT-2 model trained on a corpus of queer theatre
 tags: [school, high school, college, sex, money, power, Heila Burnett, comedy, bathhouse, theater, bar-b-que, artist, football, Michigan Wolverines, Gay Wildcats, homosexual, GPT-2, RunwayML, queer]
 ---
 
-## Human Prompt
-
-Do you like to have anonymous sex in public rest rooms? Sex movies? Public parks? Sex clubs? On street corners with heavy hustling traffic? How many nonsexual friendships or acquaintances lasting for decades started this way? How many ways are there to love queers? How many ways are there to queer love?
-
-Let me begin by telling you my ultimate fantasy. When I was. . .
-
 ## Computer Generated
 
 Let me begin by telling you my ultimate fantasy. When I was in high school my best friend and I made love in a school bathroom.
@@ -86,6 +80,11 @@ Most of the Michigan players on the field are wearing colors of the homosexual p
 
 At long last, it's time for the national championship football game! The Michigan Wolverines vs. the Michigan State Spartans, played at Michigan Stadium. And, of course, it's all but guaranteed that there will be homosexual hooliganism.
 
+## Human Prompt
+
+Do you like to have anonymous sex in public rest rooms? Sex movies? Public parks? Sex clubs? On street corners with heavy hustling traffic? How many nonsexual friendships or acquaintances lasting for decades started this way? How many ways are there to love queers? How many ways are there to queer love?
+
+Let me begin by telling you my ultimate fantasy. When I was. . .
 
 ## Corpus
 

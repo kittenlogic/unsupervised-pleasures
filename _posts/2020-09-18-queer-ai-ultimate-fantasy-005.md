@@ -6,12 +6,6 @@ summary: GPT-2 model trained on a corpus of queer theatre
 tags: [queer, Miami, folk song, blow-up doll, mop, Highway 101, Affirmative Action, touch, sex, GPT-2, RunwayML]
 ---
 
-## Human Prompt
-
-Do you like to have anonymous sex in public rest rooms? Sex movies? Public parks? Sex clubs? On street corners with heavy hustling traffic? How many nonsexual friendships or acquaintances lasting for decades started this way? How many ways are there to love queers? How many ways are there to queer love?
-
-Let me begin by telling you my ultimate fantasy. When I was. . .
-
 ## Computer Generated
 
 Let me begin by telling you my ultimate fantasy. When I was in high school, we had a band that played all-American folk songs. One night, our lead singer and I were getting into a car accidentally causing gas fumes to rise to the roof of the car, and the windshield blew off, throwing our singer out of the car, and down onto the highway.
@@ -339,6 +333,11 @@ Now say you're a mop.
 
 Alright.
 
+## Human Prompt
+
+Do you like to have anonymous sex in public rest rooms? Sex movies? Public parks? Sex clubs? On street corners with heavy hustling traffic? How many nonsexual friendships or acquaintances lasting for decades started this way? How many ways are there to love queers? How many ways are there to queer love?
+
+Let me begin by telling you my ultimate fantasy. When I was. . .
 
 ## Corpus
 

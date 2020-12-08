@@ -6,12 +6,6 @@ summary: GPT-2 model trained on a corpus of queer theatre
 tags: [school, high school, secret, Jimi Hendrix, cheerleader, apolitical, graveyard, content warning, bullshit, queer, GPT-2, RunwayML]
 ---
 
-## Human Prompt
-
-Do you like to have anonymous sex in public rest rooms? Sex movies? Public parks? Sex clubs? On street corners with heavy hustling traffic? How many nonsexual friendships or acquaintances lasting for decades started this way? How many ways are there to love queers? How many ways are there to queer love?
-
-Let me begin by telling you my ultimate fantasy. When I was. . .
-
 ## Computer Generated
 
 Let me begin by telling you my ultimate fantasy. When I was in high school, I had the epiphany that none of these ways were real.
@@ -28,6 +22,11 @@ That's bull. Trust me. I practically beg you not to. I've never been so sure of 
 
 Bullshit.
 
+## Human Prompt
+
+Do you like to have anonymous sex in public rest rooms? Sex movies? Public parks? Sex clubs? On street corners with heavy hustling traffic? How many nonsexual friendships or acquaintances lasting for decades started this way? How many ways are there to love queers? How many ways are there to queer love?
+
+Let me begin by telling you my ultimate fantasy. When I was. . .
 
 ## Corpus
 

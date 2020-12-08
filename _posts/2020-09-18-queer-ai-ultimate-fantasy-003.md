@@ -6,12 +6,6 @@ summary: GPT-2 model trained on a corpus of queer theatre
 tags: [school, junior high, gay rights, sex, Homo-Bimbo, Willy Brandt, suburban fantasy, Kentucky, Purple Haze, Soup Nazi, GPT-2, RunwayML, queer]
 ---
 
-## Human Prompt
-
-Do you like to have anonymous sex in public rest rooms? Sex movies? Public parks? Sex clubs? On street corners with heavy hustling traffic? How many nonsexual friendships or acquaintances lasting for decades started this way? How many ways are there to love queers? How many ways are there to queer love?
-
-Let me begin by telling you my ultimate fantasy. When I was. . .
-
 ## Computer Generated
 
 Let me begin by telling you my ultimate fantasy. When I was a junior high school English teacher in Texas. My school was in the middle of a gay rights march. On the square near the square, there were gay men kissing in front of the assembly and chanting "Hands off our buxom women!" in the square.
@@ -308,7 +302,11 @@ I'll never know.
 
 I'll never know.
 
+## Human Prompt
 
+Do you like to have anonymous sex in public rest rooms? Sex movies? Public parks? Sex clubs? On street corners with heavy hustling traffic? How many nonsexual friendships or acquaintances lasting for decades started this way? How many ways are there to love queers? How many ways are there to queer love?
+
+Let me begin by telling you my ultimate fantasy. When I was. . .
 
 ## Corpus
 

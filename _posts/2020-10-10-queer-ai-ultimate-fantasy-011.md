@@ -6,12 +6,6 @@ summary: GPT-2 model trained on a corpus of queer theatre
 tags: [school, high school, gayborhood, cruising, lesbian, politically incorrect, feminist closet, history, Atlanta, Florida, GPT-2, RunwayML, queer]
 ---
 
-## Human Prompt
-
-Do you like to have anonymous sex in public rest rooms? Sex movies? Public parks? Sex clubs? On street corners with heavy hustling traffic? How many nonsexual friendships or acquaintances lasting for decades started this way? How many ways are there to love queers? How many ways are there to queer love?
-
-Let me begin by telling you my ultimate fantasy. When I was. . .
-
 ## Computer Generated
 
 Let me begin by telling you my ultimate fantasy. When I was in high school, this sweet sixteen year old me, my best friend Susan, and I, all had a secret lesbian crush on each other.
@@ -94,6 +88,11 @@ Why do you continue to do this?
 
 History will judge us, my friends.
 
+## Human Prompt
+
+Do you like to have anonymous sex in public rest rooms? Sex movies? Public parks? Sex clubs? On street corners with heavy hustling traffic? How many nonsexual friendships or acquaintances lasting for decades started this way? How many ways are there to love queers? How many ways are there to queer love?
+
+Let me begin by telling you my ultimate fantasy. When I was. . .
 
 ## Corpus
 

@@ -6,12 +6,6 @@ summary: GPT-2 model trained on a corpus of queer theatre
 tags: [love, confusion, rejection, sexuality, society, gay, daddy issues, Rainbow PUSH, GPT-2, RunwayML, queer]
 ---
 
-## Human Prompt
-
-Do you like to have anonymous sex in public rest rooms? Sex movies? Public parks? Sex clubs? On street corners with heavy hustling traffic? How many nonsexual friendships or acquaintances lasting for decades started this way? How many ways are there to love queers? How many ways are there to queer love?
-
-Let me begin by telling you my ultimate fantasy. When I was. . .
-
 ## Computer Generated
 
 Let me begin by telling you my ultimate fantasy. When I was young and very foolish, Gay Girl in Love. I was thirteen years old. And I fell in love with a beautiful young man who seduced me with the promise of more beautiful things. I called him my boy friend. We fell in love and lived happily ever after. For thirteen years I was confused and unhappy.
@@ -40,6 +34,11 @@ There's this idea that if you're gay you're fine, fine. It's not always easy bei
 
 Why should we change if they DONT WANT TO?
 
+## Human Prompt
+
+Do you like to have anonymous sex in public rest rooms? Sex movies? Public parks? Sex clubs? On street corners with heavy hustling traffic? How many nonsexual friendships or acquaintances lasting for decades started this way? How many ways are there to love queers? How many ways are there to queer love?
+
+Let me begin by telling you my ultimate fantasy. When I was. . .
 
 ## Corpus
 

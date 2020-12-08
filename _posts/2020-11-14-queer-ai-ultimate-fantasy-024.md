@@ -6,12 +6,6 @@ summary: GPT-2 model trained on a corpus of queer theatre
 tags: [school, high school, sex, erotic, content warning, queer, GPT-2, RunwayML]
 ---
 
-## Human Prompt
-
-Do you like to have anonymous sex in public rest rooms? Sex movies? Public parks? Sex clubs? On street corners with heavy hustling traffic? How many nonsexual friendships or acquaintances lasting for decades started this way? How many ways are there to love queers? How many ways are there to queer love?
-
-Let me begin by telling you my ultimate fantasy. When I was. . .
-
 ## Computer Generated
 
 Let me begin by telling you my ultimate fantasy. When I was in high school. I loved the way your feet felt on mine as we walked. I wanted to curl up next to you and kiss you like you used to do when we first met. I wanted to feel the warmth of your body on mine as we cuddled and kissed.
@@ -132,6 +126,11 @@ Sit down. Johnny boy.
 
 That surprise is really pretty big. You must give it to someone. Someone special. Tell me. Give it to me. I want it.
 
+## Human Prompt
+
+Do you like to have anonymous sex in public rest rooms? Sex movies? Public parks? Sex clubs? On street corners with heavy hustling traffic? How many nonsexual friendships or acquaintances lasting for decades started this way? How many ways are there to love queers? How many ways are there to queer love?
+
+Let me begin by telling you my ultimate fantasy. When I was. . .
 
 ## Corpus
 

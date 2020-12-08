@@ -2,6 +2,17 @@
   
     {
 
+      "title"    : "Queer A.I. Ultimate Fantasy 28 Epiphany",
+      "url"      : "/texts/queer-ai-ultimate-fantasy-028",
+      "category" : "",
+      "tags"     : "Doris Day, Martin Luther King, Woody Allen, Hollywood, food, queer, GPT-2, RunwayML",
+      "date"     : "2020-12-07 00:00:00 -0800",
+      "description" : "GPT-2 model trained on a corpus of queer theatre"
+
+    } ,
+  
+    {
+
       "title"    : "Queer A.I. Ultimate Fantasy 27 Tidy Up Crispy",
       "url"      : "/texts/queer-ai-ultimate-fantasy-027",
       "category" : "",

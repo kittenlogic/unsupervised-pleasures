@@ -6,12 +6,6 @@ summary: GPT-2 model trained on a corpus of queer theatre
 tags: [school, college, Wild West, discovery, lesbian, sinner, sex-segregated, one-night-stand, sex, gold-digging, Methodist, drag,  administration, witch hunt, conservative, left-wing, radical, cancel culture, GPT-2, RunwayML, queer]
 ---
 
-## Human Prompt
-
-Do you like to have anonymous sex in public rest rooms? Sex movies? Public parks? Sex clubs? On street corners with heavy hustling traffic? How many nonsexual friendships or acquaintances lasting for decades started this way? How many ways are there to love queers? How many ways are there to queer love?
-
-Let me begin by telling you my ultimate fantasy. When I was. . .
-
 ## Computer Generated
 
 Let me begin by telling you my ultimate fantasy. When I was in college I was the most charmed girl on campus. I was so in love with the very idea of collegiate sexual liberation that I vowed never to let it slip again.
@@ -61,6 +55,11 @@ Anyhoo, enough of that. I want to move on and I want justice for all of us. We h
 
 I believe this college has suffered a tremendous loss when a truly distinguished professor is disgraced by his roommate's lesbianism. I've always considered this a witch hunt, brought on by left-wing radicals determined to silence anyone they perceive as expressing conservative views.
 
+## Human Prompt
+
+Do you like to have anonymous sex in public rest rooms? Sex movies? Public parks? Sex clubs? On street corners with heavy hustling traffic? How many nonsexual friendships or acquaintances lasting for decades started this way? How many ways are there to love queers? How many ways are there to queer love?
+
+Let me begin by telling you my ultimate fantasy. When I was. . .
 
 ## Corpus
 

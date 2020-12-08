@@ -6,12 +6,6 @@ summary: GPT-2 model trained on a corpus of queer theatre
 tags: [queer, boy, mother, white, gay, gayborhood, school, high school, chemistry, stereotype, illegal, isolation, outcast, Blanche DuBois, Alan McCarthy, dyke, lesbian, homosexual, sexuality, public policy, targets, parents, secret, GPT-2, RunwayML]
 ---
 
-## Human Prompt
-
-Do you like to have anonymous sex in public rest rooms? Sex movies? Public parks? Sex clubs? On street corners with heavy hustling traffic? How many nonsexual friendships or acquaintances lasting for decades started this way? How many ways are there to love queers? How many ways are there to queer love?
-
-Let me begin by telling you my ultimate fantasy. When I was. . .
-
 ## Computer Generated
 
 Let me begin by telling you my ultimate fantasy. When I was a very young girl, there was a gay boy in my school. He was a regular pupil in the chemistry department, not the best of students, who made all the right errors and often got punished for them. One day his name was on the school register and he was suddenly ostracized and had to go home. No one would talk to him; his schoolmates didn't want to know about it, and his parents didn't want to accept that his sexuality was a secret. And a year later his parents sued the school for discrimination and won.
@@ -61,6 +55,12 @@ I could see you both becoming parents someday.
 I wouldn't want either one of us to give up on the kid, though.
 
 You could theoretically.
+
+## Human Prompt
+
+Do you like to have anonymous sex in public rest rooms? Sex movies? Public parks? Sex clubs? On street corners with heavy hustling traffic? How many nonsexual friendships or acquaintances lasting for decades started this way? How many ways are there to love queers? How many ways are there to queer love?
+
+Let me begin by telling you my ultimate fantasy. When I was. . .
 
 ## Corpus
 

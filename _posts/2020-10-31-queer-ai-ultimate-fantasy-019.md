@@ -6,12 +6,6 @@ summary: GPT-2 model trained on a corpus of queer theatre
 tags: [cult, religion, Tantra, Hatha Yoga, Wicca, Confucianism, Taoism, Disney, food, forbidden fruit, heaven, whiskey, rationalization, GPT-2, RunwayML, queer]
 ---
 
-## Human Prompt
-
-Do you like to have anonymous sex in public rest rooms? Sex movies? Public parks? Sex clubs? On street corners with heavy hustling traffic? How many nonsexual friendships or acquaintances lasting for decades started this way? How many ways are there to love queers? How many ways are there to queer love?
-
-Let me begin by telling you my ultimate fantasy. When I was. . .
-
 ## Computer Generated
 
 Let me begin by telling you my ultimate fantasy. When I was young, I had the fantasy of starting a cult. A religion. I would build a great temple of Wicca up high in the sky, worshiped by all the deities of my childhood all the deities of my childhood
@@ -40,6 +34,11 @@ And it was sweet and sour and...
 
 And smell it. Experience. Yes. It smelled just like... heaven. Heaven in a can. Heaven on a stick. Make love in a can.
 
+## Human Prompt
+
+Do you like to have anonymous sex in public rest rooms? Sex movies? Public parks? Sex clubs? On street corners with heavy hustling traffic? How many nonsexual friendships or acquaintances lasting for decades started this way? How many ways are there to love queers? How many ways are there to queer love?
+
+Let me begin by telling you my ultimate fantasy. When I was. . .
 
 ## Corpus
 

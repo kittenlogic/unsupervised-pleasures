@@ -6,12 +6,6 @@ summary: GPT-2 model trained on a corpus of queer theatre
 tags: [sex toy, clubs, cruising, condom, gay, lesbian, Christs-for-Jesus, heaven, Christmas, tomboy, astrology, lunatic fringe, LSD, Valium, lion, tiger, dream, middle class, GPT-2, RunwayML, queer]
 ---
 
-## Human Prompt
-
-Do you like to have anonymous sex in public rest rooms? Sex movies? Public parks? Sex clubs? On street corners with heavy hustling traffic? How many nonsexual friendships or acquaintances lasting for decades started this way? How many ways are there to love queers? How many ways are there to queer love?
-
-Let me begin by telling you my ultimate fantasy. When I was. . .
-
 ## Computer Generated
 
 Let me begin by telling you my ultimate fantasy. When I was in high school, this sweet, innocent, bubbly geezer from Mendocino, California, came over for dinner and had the most incredible meal. We chatted all day and night about life in the gay and lesbian community and his favorite subject was "The Private Life of the City." He talked about cruising the city, going out to bars on Friday nights, and even went as far as to buy me a leather briefcase with sex toys inside so I could take all my fantasies to the clubs.
@@ -58,6 +52,12 @@ You were the tomboy stereotype from the start. Sagittarius. Taurus. Capricorn. C
 A friend of Harvey's has this cabin on a steep hill overlooking the Willamette River. The fire is still burning and the smell is unbearable. He tells me he has a "dream" this weekend in which he thinks he is in "The Pit." I ask him what it is he imagines himself doing there. He tells me he envisions himself leading a normal, middle-class existence. Then, he tells me, suddenly he senses something terrifying and insists I get out of bed.
 
 He says he has been taking hallucinogenic drugs lately, such as Valium and Valium + Lysergic acid diethylamide. He says he dreams of swimming through rapids, of tigers and lions, of armies marching on fields.
+
+## Human Prompt
+
+Do you like to have anonymous sex in public rest rooms? Sex movies? Public parks? Sex clubs? On street corners with heavy hustling traffic? How many nonsexual friendships or acquaintances lasting for decades started this way? How many ways are there to love queers? How many ways are there to queer love?
+
+Let me begin by telling you my ultimate fantasy. When I was. . .
 
 ## Corpus
 

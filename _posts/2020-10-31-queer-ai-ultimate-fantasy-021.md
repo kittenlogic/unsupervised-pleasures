@@ -6,12 +6,6 @@ summary: GPT-2 model trained on a corpus of queer theatre
 tags: [queer, sex, Kinsey, high school, doctor, nurse, heteronormative, marriage, divorce, birth control, slumber party, stay-at-home, Emory University Hospital, Atlanta, GPT-2, RunwayML]
 ---
 
-## Human Prompt
-
-Do you like to have anonymous sex in public rest rooms? Sex movies? Public parks? Sex clubs? On street corners with heavy hustling traffic? How many nonsexual friendships or acquaintances lasting for decades started this way? How many ways are there to love queers? How many ways are there to queer love?
-
-Let me begin by telling you my ultimate fantasy. When I was. . .
-
 ## Computer Generated
 
 Let me begin by telling you my ultimate fantasy. When I was in high school, I was in the process of becoming a nurse. When I finished high school, I had the advanced training to become a doctor. I wanted to do both. I wanted to love patients and be doctors. So I was the ideal match for the Kinsey Reports.
@@ -146,6 +140,12 @@ A bonafide nondirective, I guess.
 Like a stay-at-home mother?
 
 That's what I'd call it. A mother who's willing to take the kid on the road for the first time, or a stay-at-home father who's willing to take the kid on the road for the first time.
+
+## Human Prompt
+
+Do you like to have anonymous sex in public rest rooms? Sex movies? Public parks? Sex clubs? On street corners with heavy hustling traffic? How many nonsexual friendships or acquaintances lasting for decades started this way? How many ways are there to love queers? How many ways are there to queer love?
+
+Let me begin by telling you my ultimate fantasy. When I was. . .
 
 ## Corpus
 

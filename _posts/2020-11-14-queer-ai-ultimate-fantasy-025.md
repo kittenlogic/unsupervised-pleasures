@@ -6,12 +6,6 @@ summary: GPT-2 model trained on a corpus of queer theatre
 tags: [feminine, moon, drunk, secret, food, sex, erotic, lesbian, nightgown, Sodom, Gomorra, queer, GPT-2, RunwayML]
 ---
 
-## Human Prompt
-
-Do you like to have anonymous sex in public rest rooms? Sex movies? Public parks? Sex clubs? On street corners with heavy hustling traffic? How many nonsexual friendships or acquaintances lasting for decades started this way? How many ways are there to love queers? How many ways are there to queer love?
-
-Let me begin by telling you my ultimate fantasy.
-
 ## Computer Generated
 
 Let me begin by telling you my ultimate fantasy.
@@ -27,6 +21,12 @@ Suddenly the phone rang. It was Emily. On the other line was a woman's voice. It
 I felt a surge of desire that day I never got before. I wanted to finger myself and touch myself. I walked into Kitty's and ordered my food. As I was putting my order, Emily came over and took my order and read it to me. I remember thinking how silly it was to do that in front of her because she knew I would be embarrassed. She explained that she knew a lot of the guys at Kitty's and that it was her way of showing them off to other guys. She talked about how it felt like they were staring at her in the diner, which made me laugh. She then took me into a bedroom and showed me myself. I was amazed at myself. I was 5'3" and I had big hands and round waists. I had big hands and long legs that gave me a jogging gait. My hands looked sexy in the dark because of the makeup they were put over them. I felt so sexy having sex with a woman because I knew it would be me showing off. I could control my breathing because of the masks I wore. At first I was embarrassed by the idea of showing.
 
 I asked Emily if she thought men would be interested in me because of my body. She said it was plausible. Then I thought about all the places I had gone to girls had told me they thought I was hot, so I told her it sounded plausible. She said she had to talk to you. Talk to me. I have a hard time letting go of fantasies about sex with women, even though I want to try it. But I have to face facts. When a man leaves me, he leaves his wife and child for a woman. That's a frightening thought. And even though I know it doesn't mean things are going to change, I still feel a deep kinship with that poor girl. She may not be around to see it, but I will always have that window of opportunity. That night, I had a fag. I have a secret. I only eat it after sex. I know that's a turn-on, but it's all too much trouble to get it down. Just make it a Sodom or Gomorra. Maybe that'll turn some heads.
+
+## Human Prompt
+
+Do you like to have anonymous sex in public rest rooms? Sex movies? Public parks? Sex clubs? On street corners with heavy hustling traffic? How many nonsexual friendships or acquaintances lasting for decades started this way? How many ways are there to love queers? How many ways are there to queer love?
+
+Let me begin by telling you my ultimate fantasy.
 
 ## Corpus
 

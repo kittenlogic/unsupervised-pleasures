@@ -6,12 +6,6 @@ summary: GPT-2 model trained on a corpus of queer theatre
 tags: [school, secret, college, trance, stay-at-home, Florida, Grand Canyon, Manhattan Island, Amazon, sun, moon, earth, gay, queer, GPT-2, RunwayML]
 ---
 
-## Human Prompt
-
-Do you like to have anonymous sex in public rest rooms? Sex movies? Public parks? Sex clubs? On street corners with heavy hustling traffic? How many nonsexual friendships or acquaintances lasting for decades started this way? How many ways are there to love queers? How many ways are there to queer love?
-
-Let me begin by telling you my ultimate fantasy. When I was. . .
-
 ## Computer Generated
 
 Let me begin by telling you my ultimate fantasy. When I was in college, I went to a retreat for gay men in Florida. There were eight of us in a room with 144 men and only three women. All of us had had sex before we met and none of us ever had it again. All of us had learned to live with the possibility that one night our secret might be revealed. There is no need to get sultry tonight.
@@ -71,6 +65,12 @@ There are only six inches between a man and a woman. A woman's size doesn't matt
 There are curves. There are NO curves. You can't see a woman's curves.
 
 All you can see is what you put in your mouth.
+
+## Human Prompt
+
+Do you like to have anonymous sex in public rest rooms? Sex movies? Public parks? Sex clubs? On street corners with heavy hustling traffic? How many nonsexual friendships or acquaintances lasting for decades started this way? How many ways are there to love queers? How many ways are there to queer love?
+
+Let me begin by telling you my ultimate fantasy. When I was. . .
 
 ## Corpus
 

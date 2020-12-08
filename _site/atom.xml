@@ -4,7 +4,7 @@
  <title>Unsupervised Pleasures</title>
  <link href="unsupervisedpleasures.ml/atom.xml" rel="self"/>
  <link href="unsupervisedpleasures.ml/"/>
- <updated>2020-11-16T19:45:04-08:00</updated>
+ <updated>2020-12-08T00:37:20-08:00</updated>
  <id>unsupervisedpleasures.ml</id>
  <author>
    <name>@queermachines</name>
@@ -13,17 +13,71 @@
 
  
  <entry>
+   <title>Queer A.I. Ultimate Fantasy 28 Epiphany</title>
+   <link href="unsupervisedpleasures.ml/texts/queer-ai-ultimate-fantasy-028"/>
+   <updated>2020-12-07T00:00:00-08:00</updated>
+   <id>unsupervisedpleasures.ml/texts/queer-ai-ultimate-fantasy-028</id>
+   <content type="html">&lt;h2 id=&quot;computer-generated&quot;&gt;Computer Generated&lt;/h2&gt;
+
+&lt;p&gt;Let me begin by telling you my ultimate fantasy. My personal fable. It goes something like this.&lt;/p&gt;
+
+&lt;p&gt;“Roy, why don’t you take Heather out to dinner somewhere, and maybe we can have lunch together in private. You don’t mind if I do this, right?”&lt;/p&gt;
+
+&lt;p&gt;And I thought it couldn’t be more true.&lt;/p&gt;
+
+&lt;p&gt;After all, it’s only been three months. All Heather has to do is walk through the door at Bluefish Cove and he’ll be on my high horse forever. I’ll have my eager young protégé pitching himself in front of me on a silver platter. Prior and I will have been lovers forever, and none of us will know except that we got there together and fucked.&lt;/p&gt;
+
+&lt;p&gt;Not to worry, darling: there’s one minor detail that I’m sure you’ll understand. Whenever Heather brings up the subject of her ex-boyfriend at dinner, he invariably brings up how he dumped her after three months of being together. The only way his story can make any sense, he’ll say, is because she told him so.&lt;/p&gt;
+
+&lt;p&gt;Listen, ladyfriend. He didn’t come crashing down with that one. I’m sitting here waiting for my high horse to come out and come&lt;/p&gt;
+
+&lt;p&gt;The only person he ever brought up after that is with me. My story doesn’t stack up.&lt;/p&gt;
+
+&lt;p&gt;Oh I get it I get it! My story’s so compelling it makes non-fiction look like history. It’s my story and nobody else’s!&lt;/p&gt;
+
+&lt;p&gt;Well, Ma, we all heard that story about how Doris Day somehow tricked Martin Luther King into coming out of the closet. And how that story stuck with Dr. King till his death. All those years of waiting for that one black boy to come outta the closet and into the mainstream. Remember the kid at the candlestick?&lt;/p&gt;
+
+&lt;p&gt;Martin’s story stuck with Dr. King till his death.&lt;/p&gt;
+
+&lt;p&gt;Not everyone was so lucky.&lt;/p&gt;
+
+&lt;p&gt;Woody Allen once said something that stuck with me.&lt;/p&gt;
+
+&lt;p&gt;Whatever happened to innocence? At least in Hollywood it’s all going for the taking.&lt;/p&gt;
+
+&lt;p&gt;Exactly.&lt;/p&gt;
+
+&lt;p&gt;Have you ever had that epiphany after a particularly tiresome movie or television spot? All your favorite gags and story lines are mashed up in your head and used as a crutch to keep you up watching television all night.&lt;/p&gt;
+
+&lt;p&gt;Nah. Maybe that’s how I was brought up.&lt;/p&gt;
+
+&lt;h2 id=&quot;human-prompt&quot;&gt;Human Prompt&lt;/h2&gt;
+
+&lt;p&gt;Do you like to have anonymous sex in public rest rooms? Sex movies? Public parks? Sex clubs? On street corners with heavy hustling traffic? How many nonsexual friendships or acquaintances lasting for decades started this way? How many ways are there to love queers? How many ways are there to queer love?&lt;/p&gt;
+
+&lt;p&gt;Let me begin by telling you my ultimate fantasy. . .&lt;/p&gt;
+
+&lt;h2 id=&quot;corpus&quot;&gt;Corpus&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;/queerai&quot;&gt;Queer AI&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Trained Model&lt;/li&gt;
+  &lt;li&gt;Perplexity 1.0&lt;/li&gt;
+  &lt;li&gt;Seed 230&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;credits&quot;&gt;Credits&lt;/h2&gt;
+
+&lt;p&gt;Prompt adapted from &lt;a href=&quot;https://rhizome.org/editorial/2013/feb/19/queer-computing-1/&quot;&gt;A Queer History of Computing&lt;/a&gt;&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
    <title>Queer A.I. Ultimate Fantasy 27 Tidy Up Crispy</title>
    <link href="unsupervisedpleasures.ml/texts/queer-ai-ultimate-fantasy-027"/>
    <updated>2020-11-15T00:00:00-08:00</updated>
    <id>unsupervisedpleasures.ml/texts/queer-ai-ultimate-fantasy-027</id>
-   <content type="html">&lt;h2 id=&quot;human-prompt&quot;&gt;Human Prompt&lt;/h2&gt;
-
-&lt;p&gt;Do you like to have anonymous sex in public rest rooms? Sex movies? Public parks? Sex clubs? On street corners with heavy hustling traffic? How many nonsexual friendships or acquaintances lasting for decades started this way? How many ways are there to love queers? How many ways are there to queer love?&lt;/p&gt;
-
-&lt;p&gt;Let me begin by telling you my ultimate fantasy.&lt;/p&gt;
-
-&lt;h2 id=&quot;computer-generated&quot;&gt;Computer Generated&lt;/h2&gt;
+   <content type="html">&lt;h2 id=&quot;computer-generated&quot;&gt;Computer Generated&lt;/h2&gt;
 
 &lt;p&gt;Let me begin by telling you my ultimate fantasy.&lt;/p&gt;
 
@@ -65,6 +119,12 @@
 
 &lt;p&gt;Homemade! By me, for me!&lt;/p&gt;
 
+&lt;h2 id=&quot;human-prompt&quot;&gt;Human Prompt&lt;/h2&gt;
+
+&lt;p&gt;Do you like to have anonymous sex in public rest rooms? Sex movies? Public parks? Sex clubs? On street corners with heavy hustling traffic? How many nonsexual friendships or acquaintances lasting for decades started this way? How many ways are there to love queers? How many ways are there to queer love?&lt;/p&gt;
+
+&lt;p&gt;Let me begin by telling you my ultimate fantasy.&lt;/p&gt;
+
 &lt;h2 id=&quot;corpus&quot;&gt;Corpus&lt;/h2&gt;
 
 &lt;ul&gt;
@@ -85,13 +145,7 @@
    <link href="unsupervisedpleasures.ml/texts/queer-ai-ultimate-fantasy-026"/>
    <updated>2020-11-15T00:00:00-08:00</updated>
    <id>unsupervisedpleasures.ml/texts/queer-ai-ultimate-fantasy-026</id>
-   <content type="html">&lt;h2 id=&quot;human-prompt&quot;&gt;Human Prompt&lt;/h2&gt;
-
-&lt;p&gt;Do you like to have anonymous sex in public rest rooms? Sex movies? Public parks? Sex clubs? On street corners with heavy hustling traffic? How many nonsexual friendships or acquaintances lasting for decades started this way? How many ways are there to love queers? How many ways are there to queer love?&lt;/p&gt;
-
-&lt;p&gt;Let me begin by telling you my ultimate fantasy.&lt;/p&gt;
-
-&lt;h2 id=&quot;computer-generated&quot;&gt;Computer Generated&lt;/h2&gt;
+   <content type="html">&lt;h2 id=&quot;computer-generated&quot;&gt;Computer Generated&lt;/h2&gt;
 
 &lt;p&gt;Let me begin by telling you my ultimate fantasy.&lt;/p&gt;
 
@@ -133,6 +187,12 @@
 
 &lt;p&gt;Listen: We’re not coming here to burn the place down.&lt;/p&gt;
 
+&lt;h2 id=&quot;human-prompt&quot;&gt;Human Prompt&lt;/h2&gt;
+
+&lt;p&gt;Do you like to have anonymous sex in public rest rooms? Sex movies? Public parks? Sex clubs? On street corners with heavy hustling traffic? How many nonsexual friendships or acquaintances lasting for decades started this way? How many ways are there to love queers? How many ways are there to queer love?&lt;/p&gt;
+
+&lt;p&gt;Let me begin by telling you my ultimate fantasy.&lt;/p&gt;
+
 &lt;h2 id=&quot;corpus&quot;&gt;Corpus&lt;/h2&gt;
 
 &lt;ul&gt;
@@ -153,13 +213,7 @@
    <link href="unsupervisedpleasures.ml/texts/queer-ai-ultimate-fantasy-025"/>
    <updated>2020-11-14T00:00:00-08:00</updated>
    <id>unsupervisedpleasures.ml/texts/queer-ai-ultimate-fantasy-025</id>
-   <content type="html">&lt;h2 id=&quot;human-prompt&quot;&gt;Human Prompt&lt;/h2&gt;
-
-&lt;p&gt;Do you like to have anonymous sex in public rest rooms? Sex movies? Public parks? Sex clubs? On street corners with heavy hustling traffic? How many nonsexual friendships or acquaintances lasting for decades started this way? How many ways are there to love queers? How many ways are there to queer love?&lt;/p&gt;
-
-&lt;p&gt;Let me begin by telling you my ultimate fantasy.&lt;/p&gt;
-
-&lt;h2 id=&quot;computer-generated&quot;&gt;Computer Generated&lt;/h2&gt;
+   <content type="html">&lt;h2 id=&quot;computer-generated&quot;&gt;Computer Generated&lt;/h2&gt;
 
 &lt;p&gt;Let me begin by telling you my ultimate fantasy.&lt;/p&gt;
 
@@ -174,6 +228,12 @@
 &lt;p&gt;I felt a surge of desire that day I never got before. I wanted to finger myself and touch myself. I walked into Kitty’s and ordered my food. As I was putting my order, Emily came over and took my order and read it to me. I remember thinking how silly it was to do that in front of her because she knew I would be embarrassed. She explained that she knew a lot of the guys at Kitty’s and that it was her way of showing them off to other guys. She talked about how it felt like they were staring at her in the diner, which made me laugh. She then took me into a bedroom and showed me myself. I was amazed at myself. I was 5’3” and I had big hands and round waists. I had big hands and long legs that gave me a jogging gait. My hands looked sexy in the dark because of the makeup they were put over them. I felt so sexy having sex with a woman because I knew it would be me showing off. I could control my breathing because of the masks I wore. At first I was embarrassed by the idea of showing.&lt;/p&gt;
 
 &lt;p&gt;I asked Emily if she thought men would be interested in me because of my body. She said it was plausible. Then I thought about all the places I had gone to girls had told me they thought I was hot, so I told her it sounded plausible. She said she had to talk to you. Talk to me. I have a hard time letting go of fantasies about sex with women, even though I want to try it. But I have to face facts. When a man leaves me, he leaves his wife and child for a woman. That’s a frightening thought. And even though I know it doesn’t mean things are going to change, I still feel a deep kinship with that poor girl. She may not be around to see it, but I will always have that window of opportunity. That night, I had a fag. I have a secret. I only eat it after sex. I know that’s a turn-on, but it’s all too much trouble to get it down. Just make it a Sodom or Gomorra. Maybe that’ll turn some heads.&lt;/p&gt;
+
+&lt;h2 id=&quot;human-prompt&quot;&gt;Human Prompt&lt;/h2&gt;
+
+&lt;p&gt;Do you like to have anonymous sex in public rest rooms? Sex movies? Public parks? Sex clubs? On street corners with heavy hustling traffic? How many nonsexual friendships or acquaintances lasting for decades started this way? How many ways are there to love queers? How many ways are there to queer love?&lt;/p&gt;
+
+&lt;p&gt;Let me begin by telling you my ultimate fantasy.&lt;/p&gt;
 
 &lt;h2 id=&quot;corpus&quot;&gt;Corpus&lt;/h2&gt;
 
@@ -195,13 +255,7 @@
    <link href="unsupervisedpleasures.ml/texts/queer-ai-ultimate-fantasy-024"/>
    <updated>2020-11-14T00:00:00-08:00</updated>
    <id>unsupervisedpleasures.ml/texts/queer-ai-ultimate-fantasy-024</id>
-   <content type="html">&lt;h2 id=&quot;human-prompt&quot;&gt;Human Prompt&lt;/h2&gt;
-
-&lt;p&gt;Do you like to have anonymous sex in public rest rooms? Sex movies? Public parks? Sex clubs? On street corners with heavy hustling traffic? How many nonsexual friendships or acquaintances lasting for decades started this way? How many ways are there to love queers? How many ways are there to queer love?&lt;/p&gt;
-
-&lt;p&gt;Let me begin by telling you my ultimate fantasy. When I was. . .&lt;/p&gt;
-
-&lt;h2 id=&quot;computer-generated&quot;&gt;Computer Generated&lt;/h2&gt;
+   <content type="html">&lt;h2 id=&quot;computer-generated&quot;&gt;Computer Generated&lt;/h2&gt;
 
 &lt;p&gt;Let me begin by telling you my ultimate fantasy. When I was in high school. I loved the way your feet felt on mine as we walked. I wanted to curl up next to you and kiss you like you used to do when we first met. I wanted to feel the warmth of your body on mine as we cuddled and kissed.&lt;/p&gt;
 
@@ -321,6 +375,12 @@
 
 &lt;p&gt;That surprise is really pretty big. You must give it to someone. Someone special. Tell me. Give it to me. I want it.&lt;/p&gt;
 
+&lt;h2 id=&quot;human-prompt&quot;&gt;Human Prompt&lt;/h2&gt;
+
+&lt;p&gt;Do you like to have anonymous sex in public rest rooms? Sex movies? Public parks? Sex clubs? On street corners with heavy hustling traffic? How many nonsexual friendships or acquaintances lasting for decades started this way? How many ways are there to love queers? How many ways are there to queer love?&lt;/p&gt;
+
+&lt;p&gt;Let me begin by telling you my ultimate fantasy. When I was. . .&lt;/p&gt;
+
 &lt;h2 id=&quot;corpus&quot;&gt;Corpus&lt;/h2&gt;
 
 &lt;ul&gt;
@@ -341,13 +401,7 @@
    <link href="unsupervisedpleasures.ml/texts/queer-ai-ultimate-fantasy-023"/>
    <updated>2020-11-10T00:00:00-08:00</updated>
    <id>unsupervisedpleasures.ml/texts/queer-ai-ultimate-fantasy-023</id>
-   <content type="html">&lt;h2 id=&quot;human-prompt&quot;&gt;Human Prompt&lt;/h2&gt;
-
-&lt;p&gt;Do you like to have anonymous sex in public rest rooms? Sex movies? Public parks? Sex clubs? On street corners with heavy hustling traffic? How many nonsexual friendships or acquaintances lasting for decades started this way? How many ways are there to love queers? How many ways are there to queer love?&lt;/p&gt;
-
-&lt;p&gt;Let me begin by telling you my ultimate fantasy. When I was. . .&lt;/p&gt;
-
-&lt;h2 id=&quot;computer-generated&quot;&gt;Computer Generated&lt;/h2&gt;
+   <content type="html">&lt;h2 id=&quot;computer-generated&quot;&gt;Computer Generated&lt;/h2&gt;
 
 &lt;p&gt;Let me begin by telling you my ultimate fantasy. When I was in college, I went to a retreat for gay men in Florida. There were eight of us in a room with 144 men and only three women. All of us had had sex before we met and none of us ever had it again. All of us had learned to live with the possibility that one night our secret might be revealed. There is no need to get sultry tonight.&lt;/p&gt;
 
@@ -407,6 +461,12 @@
 
 &lt;p&gt;All you can see is what you put in your mouth.&lt;/p&gt;
 
+&lt;h2 id=&quot;human-prompt&quot;&gt;Human Prompt&lt;/h2&gt;
+
+&lt;p&gt;Do you like to have anonymous sex in public rest rooms? Sex movies? Public parks? Sex clubs? On street corners with heavy hustling traffic? How many nonsexual friendships or acquaintances lasting for decades started this way? How many ways are there to love queers? How many ways are there to queer love?&lt;/p&gt;
+
+&lt;p&gt;Let me begin by telling you my ultimate fantasy. When I was. . .&lt;/p&gt;
+
 &lt;h2 id=&quot;corpus&quot;&gt;Corpus&lt;/h2&gt;
 
 &lt;ul&gt;
@@ -427,13 +487,7 @@
    <link href="unsupervisedpleasures.ml/texts/queer-ai-ultimate-fantasy-022"/>
    <updated>2020-10-31T00:00:00-07:00</updated>
    <id>unsupervisedpleasures.ml/texts/queer-ai-ultimate-fantasy-022</id>
-   <content type="html">&lt;h2 id=&quot;human-prompt&quot;&gt;Human Prompt&lt;/h2&gt;
-
-&lt;p&gt;Do you like to have anonymous sex in public rest rooms? Sex movies? Public parks? Sex clubs? On street corners with heavy hustling traffic? How many nonsexual friendships or acquaintances lasting for decades started this way? How many ways are there to love queers? How many ways are there to queer love?&lt;/p&gt;
-
-&lt;p&gt;Let me begin by telling you my ultimate fantasy. When I was. . .&lt;/p&gt;
-
-&lt;h2 id=&quot;computer-generated&quot;&gt;Computer Generated&lt;/h2&gt;
+   <content type="html">&lt;h2 id=&quot;computer-generated&quot;&gt;Computer Generated&lt;/h2&gt;
 
 &lt;p&gt;Let me begin by telling you my ultimate fantasy. When I was in high school, I had the epiphany that none of these ways were real.&lt;/p&gt;
 
@@ -448,6 +502,12 @@
 &lt;p&gt;That’s bull. Trust me. I practically beg you not to. I’ve never been so sure of a thing in my life. I even went as far as to call my father, the head cheerleader, and broach the subject with him in person. He was apolitical at best, but not unreasonably so. He told me the story of how Jimi Hendrix died, and how his body was hung from a noose attached to a tree. No one would believe it, of course, and no one would go near the graveyard until someone pointed it out to them, and then it was gone. No one would take the noose apart to see if it was a handkerchief or a pair of tweezers. No one would believe me until it was too late. I finally spoke up, and explained that I had been growing suspicious of certain aspects of certain people I was in relationships with. I couldn’t bring myself to lie to them, and so I told them the whole story. I was wrong. I had been lying all along.&lt;/p&gt;
 
 &lt;p&gt;Bullshit.&lt;/p&gt;
+
+&lt;h2 id=&quot;human-prompt&quot;&gt;Human Prompt&lt;/h2&gt;
+
+&lt;p&gt;Do you like to have anonymous sex in public rest rooms? Sex movies? Public parks? Sex clubs? On street corners with heavy hustling traffic? How many nonsexual friendships or acquaintances lasting for decades started this way? How many ways are there to love queers? How many ways are there to queer love?&lt;/p&gt;
+
+&lt;p&gt;Let me begin by telling you my ultimate fantasy. When I was. . .&lt;/p&gt;
 
 &lt;h2 id=&quot;corpus&quot;&gt;Corpus&lt;/h2&gt;
 
@@ -469,13 +529,7 @@
    <link href="unsupervisedpleasures.ml/texts/queer-ai-ultimate-fantasy-021"/>
    <updated>2020-10-31T00:00:00-07:00</updated>
    <id>unsupervisedpleasures.ml/texts/queer-ai-ultimate-fantasy-021</id>
-   <content type="html">&lt;h2 id=&quot;human-prompt&quot;&gt;Human Prompt&lt;/h2&gt;
-
-&lt;p&gt;Do you like to have anonymous sex in public rest rooms? Sex movies? Public parks? Sex clubs? On street corners with heavy hustling traffic? How many nonsexual friendships or acquaintances lasting for decades started this way? How many ways are there to love queers? How many ways are there to queer love?&lt;/p&gt;
-
-&lt;p&gt;Let me begin by telling you my ultimate fantasy. When I was. . .&lt;/p&gt;
-
-&lt;h2 id=&quot;computer-generated&quot;&gt;Computer Generated&lt;/h2&gt;
+   <content type="html">&lt;h2 id=&quot;computer-generated&quot;&gt;Computer Generated&lt;/h2&gt;
 
 &lt;p&gt;Let me begin by telling you my ultimate fantasy. When I was in high school, I was in the process of becoming a nurse. When I finished high school, I had the advanced training to become a doctor. I wanted to do both. I wanted to love patients and be doctors. So I was the ideal match for the Kinsey Reports.&lt;/p&gt;
 
@@ -610,6 +664,12 @@ It would depend on how the relationship went. Would you want to keep me or give 
 
 &lt;p&gt;That’s what I’d call it. A mother who’s willing to take the kid on the road for the first time, or a stay-at-home father who’s willing to take the kid on the road for the first time.&lt;/p&gt;
 
+&lt;h2 id=&quot;human-prompt&quot;&gt;Human Prompt&lt;/h2&gt;
+
+&lt;p&gt;Do you like to have anonymous sex in public rest rooms? Sex movies? Public parks? Sex clubs? On street corners with heavy hustling traffic? How many nonsexual friendships or acquaintances lasting for decades started this way? How many ways are there to love queers? How many ways are there to queer love?&lt;/p&gt;
+
+&lt;p&gt;Let me begin by telling you my ultimate fantasy. When I was. . .&lt;/p&gt;
+
 &lt;h2 id=&quot;corpus&quot;&gt;Corpus&lt;/h2&gt;
 
 &lt;ul&gt;
@@ -630,13 +690,7 @@ It would depend on how the relationship went. Would you want to keep me or give 
    <link href="unsupervisedpleasures.ml/texts/queer-ai-ultimate-fantasy-020"/>
    <updated>2020-10-31T00:00:00-07:00</updated>
    <id>unsupervisedpleasures.ml/texts/queer-ai-ultimate-fantasy-020</id>
-   <content type="html">&lt;h2 id=&quot;human-prompt&quot;&gt;Human Prompt&lt;/h2&gt;
-
-&lt;p&gt;Do you like to have anonymous sex in public rest rooms? Sex movies? Public parks? Sex clubs? On street corners with heavy hustling traffic? How many nonsexual friendships or acquaintances lasting for decades started this way? How many ways are there to love queers? How many ways are there to queer love?&lt;/p&gt;
-
-&lt;p&gt;Let me begin by telling you my ultimate fantasy. When I was. . .&lt;/p&gt;
-
-&lt;h2 id=&quot;computer-generated&quot;&gt;Computer Generated&lt;/h2&gt;
+   <content type="html">&lt;h2 id=&quot;computer-generated&quot;&gt;Computer Generated&lt;/h2&gt;
 
 &lt;p&gt;Let me begin by telling you my ultimate fantasy. When I was a very young girl, there was a gay boy in my school. He was a regular pupil in the chemistry department, not the best of students, who made all the right errors and often got punished for them. One day his name was on the school register and he was suddenly ostracized and had to go home. No one would talk to him; his schoolmates didn’t want to know about it, and his parents didn’t want to accept that his sexuality was a secret. And a year later his parents sued the school for discrimination and won.&lt;/p&gt;
 
@@ -686,6 +740,12 @@ It would depend on how the relationship went. Would you want to keep me or give 
 
 &lt;p&gt;You could theoretically.&lt;/p&gt;
 
+&lt;h2 id=&quot;human-prompt&quot;&gt;Human Prompt&lt;/h2&gt;
+
+&lt;p&gt;Do you like to have anonymous sex in public rest rooms? Sex movies? Public parks? Sex clubs? On street corners with heavy hustling traffic? How many nonsexual friendships or acquaintances lasting for decades started this way? How many ways are there to love queers? How many ways are there to queer love?&lt;/p&gt;
+
+&lt;p&gt;Let me begin by telling you my ultimate fantasy. When I was. . .&lt;/p&gt;
+
 &lt;h2 id=&quot;corpus&quot;&gt;Corpus&lt;/h2&gt;
 
 &lt;ul&gt;
@@ -706,13 +766,7 @@ It would depend on how the relationship went. Would you want to keep me or give 
    <link href="unsupervisedpleasures.ml/texts/queer-ai-ultimate-fantasy-019"/>
    <updated>2020-10-31T00:00:00-07:00</updated>
    <id>unsupervisedpleasures.ml/texts/queer-ai-ultimate-fantasy-019</id>
-   <content type="html">&lt;h2 id=&quot;human-prompt&quot;&gt;Human Prompt&lt;/h2&gt;
-
-&lt;p&gt;Do you like to have anonymous sex in public rest rooms? Sex movies? Public parks? Sex clubs? On street corners with heavy hustling traffic? How many nonsexual friendships or acquaintances lasting for decades started this way? How many ways are there to love queers? How many ways are there to queer love?&lt;/p&gt;
-
-&lt;p&gt;Let me begin by telling you my ultimate fantasy. When I was. . .&lt;/p&gt;
-
-&lt;h2 id=&quot;computer-generated&quot;&gt;Computer Generated&lt;/h2&gt;
+   <content type="html">&lt;h2 id=&quot;computer-generated&quot;&gt;Computer Generated&lt;/h2&gt;
 
 &lt;p&gt;Let me begin by telling you my ultimate fantasy. When I was young, I had the fantasy of starting a cult. A religion. I would build a great temple of Wicca up high in the sky, worshiped by all the deities of my childhood all the deities of my childhood&lt;/p&gt;
 
@@ -740,6 +794,12 @@ It would depend on how the relationship went. Would you want to keep me or give 
 
 &lt;p&gt;And smell it. Experience. Yes. It smelled just like… heaven. Heaven in a can. Heaven on a stick. Make love in a can.&lt;/p&gt;
 
+&lt;h2 id=&quot;human-prompt&quot;&gt;Human Prompt&lt;/h2&gt;
+
+&lt;p&gt;Do you like to have anonymous sex in public rest rooms? Sex movies? Public parks? Sex clubs? On street corners with heavy hustling traffic? How many nonsexual friendships or acquaintances lasting for decades started this way? How many ways are there to love queers? How many ways are there to queer love?&lt;/p&gt;
+
+&lt;p&gt;Let me begin by telling you my ultimate fantasy. When I was. . .&lt;/p&gt;
+
 &lt;h2 id=&quot;corpus&quot;&gt;Corpus&lt;/h2&gt;
 
 &lt;ul&gt;
@@ -760,13 +820,7 @@ It would depend on how the relationship went. Would you want to keep me or give 
    <link href="unsupervisedpleasures.ml/texts/queer-ai-ultimate-fantasy-018"/>
    <updated>2020-10-31T00:00:00-07:00</updated>
    <id>unsupervisedpleasures.ml/texts/queer-ai-ultimate-fantasy-018</id>
-   <content type="html">&lt;h2 id=&quot;human-prompt&quot;&gt;Human Prompt&lt;/h2&gt;
-
-&lt;p&gt;Do you like to have anonymous sex in public rest rooms? Sex movies? Public parks? Sex clubs? On street corners with heavy hustling traffic? How many nonsexual friendships or acquaintances lasting for decades started this way? How many ways are there to love queers? How many ways are there to queer love?&lt;/p&gt;
-
-&lt;p&gt;Let me begin by telling you my ultimate fantasy. When I was. . .&lt;/p&gt;
-
-&lt;h2 id=&quot;computer-generated&quot;&gt;Computer Generated&lt;/h2&gt;
+   <content type="html">&lt;h2 id=&quot;computer-generated&quot;&gt;Computer Generated&lt;/h2&gt;
 
 &lt;p&gt;Let me begin by telling you my ultimate fantasy. When I was making love to you. It was over moon rockin in the dark with the moon just barely in the sky. Stars were dancing across the brilliant night sky. In a blur I pictured you sitting there, arms outspread, enjoying the view, your legs spread apart apart, completely nude from the lighting. There was just one problem. There was no starlight.&lt;/p&gt;
 
@@ -822,6 +876,12 @@ It would depend on how the relationship went. Would you want to keep me or give 
 
 &lt;p&gt;Start from there.&lt;/p&gt;
 
+&lt;h2 id=&quot;human-prompt&quot;&gt;Human Prompt&lt;/h2&gt;
+
+&lt;p&gt;Do you like to have anonymous sex in public rest rooms? Sex movies? Public parks? Sex clubs? On street corners with heavy hustling traffic? How many nonsexual friendships or acquaintances lasting for decades started this way? How many ways are there to love queers? How many ways are there to queer love?&lt;/p&gt;
+
+&lt;p&gt;Let me begin by telling you my ultimate fantasy. When I was. . .&lt;/p&gt;
+
 &lt;h2 id=&quot;corpus&quot;&gt;Corpus&lt;/h2&gt;
 
 &lt;ul&gt;
@@ -842,13 +902,7 @@ It would depend on how the relationship went. Would you want to keep me or give 
    <link href="unsupervisedpleasures.ml/texts/queer-ai-ultimate-fantasy-017"/>
    <updated>2020-10-31T00:00:00-07:00</updated>
    <id>unsupervisedpleasures.ml/texts/queer-ai-ultimate-fantasy-017</id>
-   <content type="html">&lt;h2 id=&quot;human-prompt&quot;&gt;Human Prompt&lt;/h2&gt;
-
-&lt;p&gt;Do you like to have anonymous sex in public rest rooms? Sex movies? Public parks? Sex clubs? On street corners with heavy hustling traffic? How many nonsexual friendships or acquaintances lasting for decades started this way? How many ways are there to love queers? How many ways are there to queer love?&lt;/p&gt;
-
-&lt;p&gt;Let me begin by telling you my ultimate fantasy. When I was. . .&lt;/p&gt;
-
-&lt;h2 id=&quot;computer-generated&quot;&gt;Computer Generated&lt;/h2&gt;
+   <content type="html">&lt;h2 id=&quot;computer-generated&quot;&gt;Computer Generated&lt;/h2&gt;
 
 &lt;p&gt;Let me begin by telling you my ultimate fantasy. When I was young, I could love like none other.&lt;/p&gt;
 
@@ -861,6 +915,12 @@ It would depend on how the relationship went. Would you want to keep me or give 
 &lt;p&gt;I swam across the clearing to the river, dove into the murky murky murky water, and then, as silently as if I had just come out of a bathroom, I disappeared.&lt;/p&gt;
 
 &lt;p&gt;It took hundreds of men working in perfect unison to unearth me. Each man had to locate the other’s footprints in the mud, the broken glass, the burned out vehicles.&lt;/p&gt;
+
+&lt;h2 id=&quot;human-prompt&quot;&gt;Human Prompt&lt;/h2&gt;
+
+&lt;p&gt;Do you like to have anonymous sex in public rest rooms? Sex movies? Public parks? Sex clubs? On street corners with heavy hustling traffic? How many nonsexual friendships or acquaintances lasting for decades started this way? How many ways are there to love queers? How many ways are there to queer love?&lt;/p&gt;
+
+&lt;p&gt;Let me begin by telling you my ultimate fantasy. When I was. . .&lt;/p&gt;
 
 &lt;h2 id=&quot;corpus&quot;&gt;Corpus&lt;/h2&gt;
 
@@ -882,13 +942,7 @@ It would depend on how the relationship went. Would you want to keep me or give 
    <link href="unsupervisedpleasures.ml/texts/queer-ai-ultimate-fantasy-016"/>
    <updated>2020-10-31T00:00:00-07:00</updated>
    <id>unsupervisedpleasures.ml/texts/queer-ai-ultimate-fantasy-016</id>
-   <content type="html">&lt;h2 id=&quot;human-prompt&quot;&gt;Human Prompt&lt;/h2&gt;
-
-&lt;p&gt;Do you like to have anonymous sex in public rest rooms? Sex movies? Public parks? Sex clubs? On street corners with heavy hustling traffic? How many nonsexual friendships or acquaintances lasting for decades started this way? How many ways are there to love queers? How many ways are there to queer love?&lt;/p&gt;
-
-&lt;p&gt;Let me begin by telling you my ultimate fantasy. When I was. . .&lt;/p&gt;
-
-&lt;h2 id=&quot;computer-generated&quot;&gt;Computer Generated&lt;/h2&gt;
+   <content type="html">&lt;h2 id=&quot;computer-generated&quot;&gt;Computer Generated&lt;/h2&gt;
 
 &lt;p&gt;Let me begin by telling you my ultimate fantasy. When I was in college I was the most charmed girl on campus. I was so in love with the very idea of collegiate sexual liberation that I vowed never to let it slip again.&lt;/p&gt;
 
@@ -937,6 +991,12 @@ In other words, he was one big, happy, green, high-achieving, heterosexual, gold
 
 &lt;p&gt;I believe this college has suffered a tremendous loss when a truly distinguished professor is disgraced by his roommate’s lesbianism. I’ve always considered this a witch hunt, brought on by left-wing radicals determined to silence anyone they perceive as expressing conservative views.&lt;/p&gt;
 
+&lt;h2 id=&quot;human-prompt&quot;&gt;Human Prompt&lt;/h2&gt;
+
+&lt;p&gt;Do you like to have anonymous sex in public rest rooms? Sex movies? Public parks? Sex clubs? On street corners with heavy hustling traffic? How many nonsexual friendships or acquaintances lasting for decades started this way? How many ways are there to love queers? How many ways are there to queer love?&lt;/p&gt;
+
+&lt;p&gt;Let me begin by telling you my ultimate fantasy. When I was. . .&lt;/p&gt;
+
 &lt;h2 id=&quot;corpus&quot;&gt;Corpus&lt;/h2&gt;
 
 &lt;ul&gt;
@@ -957,13 +1017,7 @@ In other words, he was one big, happy, green, high-achieving, heterosexual, gold
    <link href="unsupervisedpleasures.ml/texts/queer-ai-ultimate-fantasy-015"/>
    <updated>2020-10-31T00:00:00-07:00</updated>
    <id>unsupervisedpleasures.ml/texts/queer-ai-ultimate-fantasy-015</id>
-   <content type="html">&lt;h2 id=&quot;human-prompt&quot;&gt;Human Prompt&lt;/h2&gt;
-
-&lt;p&gt;Do you like to have anonymous sex in public rest rooms? Sex movies? Public parks? Sex clubs? On street corners with heavy hustling traffic? How many nonsexual friendships or acquaintances lasting for decades started this way? How many ways are there to love queers? How many ways are there to queer love?&lt;/p&gt;
-
-&lt;p&gt;Let me begin by telling you my ultimate fantasy. When I was. . .&lt;/p&gt;
-
-&lt;h2 id=&quot;computer-generated&quot;&gt;Computer Generated&lt;/h2&gt;
+   <content type="html">&lt;h2 id=&quot;computer-generated&quot;&gt;Computer Generated&lt;/h2&gt;
 
 &lt;p&gt;Let me begin by telling you my ultimate fantasy. When I was in high school my best friend Alan was gay. We slept together in his dorm room only to have me have to go home alone after midnight. The next morning I found that Alan had propositioned me on the street.&lt;/p&gt;
 
@@ -1044,6 +1098,12 @@ Pun intended.&lt;/p&gt;
 
 &lt;p&gt;I want to know what you think about having sex with me.&lt;/p&gt;
 
+&lt;h2 id=&quot;human-prompt&quot;&gt;Human Prompt&lt;/h2&gt;
+
+&lt;p&gt;Do you like to have anonymous sex in public rest rooms? Sex movies? Public parks? Sex clubs? On street corners with heavy hustling traffic? How many nonsexual friendships or acquaintances lasting for decades started this way? How many ways are there to love queers? How many ways are there to queer love?&lt;/p&gt;
+
+&lt;p&gt;Let me begin by telling you my ultimate fantasy. When I was. . .&lt;/p&gt;
+
 &lt;h2 id=&quot;corpus&quot;&gt;Corpus&lt;/h2&gt;
 
 &lt;ul&gt;
@@ -1064,13 +1124,7 @@ Pun intended.&lt;/p&gt;
    <link href="unsupervisedpleasures.ml/texts/queer-ai-ultimate-fantasy-014"/>
    <updated>2020-10-10T00:00:00-07:00</updated>
    <id>unsupervisedpleasures.ml/texts/queer-ai-ultimate-fantasy-014</id>
-   <content type="html">&lt;h2 id=&quot;human-prompt&quot;&gt;Human Prompt&lt;/h2&gt;
-
-&lt;p&gt;Do you like to have anonymous sex in public rest rooms? Sex movies? Public parks? Sex clubs? On street corners with heavy hustling traffic? How many nonsexual friendships or acquaintances lasting for decades started this way? How many ways are there to love queers? How many ways are there to queer love?&lt;/p&gt;
-
-&lt;p&gt;Let me begin by telling you my ultimate fantasy. When I was. . .&lt;/p&gt;
-
-&lt;h2 id=&quot;computer-generated&quot;&gt;Computer Generated&lt;/h2&gt;
+   <content type="html">&lt;h2 id=&quot;computer-generated&quot;&gt;Computer Generated&lt;/h2&gt;
 
 &lt;p&gt;Let me begin by telling you my ultimate fantasy. When I was a very young girl&lt;/p&gt;
 
@@ -1237,6 +1291,12 @@ From behind&lt;/p&gt;
 
 &lt;p&gt;Fin&lt;/p&gt;
 
+&lt;h2 id=&quot;human-prompt&quot;&gt;Human Prompt&lt;/h2&gt;
+
+&lt;p&gt;Do you like to have anonymous sex in public rest rooms? Sex movies? Public parks? Sex clubs? On street corners with heavy hustling traffic? How many nonsexual friendships or acquaintances lasting for decades started this way? How many ways are there to love queers? How many ways are there to queer love?&lt;/p&gt;
+
+&lt;p&gt;Let me begin by telling you my ultimate fantasy. When I was. . .&lt;/p&gt;
+
 &lt;h2 id=&quot;corpus&quot;&gt;Corpus&lt;/h2&gt;
 
 &lt;ul&gt;
@@ -1257,13 +1317,7 @@ From behind&lt;/p&gt;
    <link href="unsupervisedpleasures.ml/texts/queer-ai-ultimate-fantasy-013"/>
    <updated>2020-10-10T00:00:00-07:00</updated>
    <id>unsupervisedpleasures.ml/texts/queer-ai-ultimate-fantasy-013</id>
-   <content type="html">&lt;h2 id=&quot;human-prompt&quot;&gt;Human Prompt&lt;/h2&gt;
-
-&lt;p&gt;Do you like to have anonymous sex in public rest rooms? Sex movies? Public parks? Sex clubs? On street corners with heavy hustling traffic? How many nonsexual friendships or acquaintances lasting for decades started this way? How many ways are there to love queers? How many ways are there to queer love?&lt;/p&gt;
-
-&lt;p&gt;Let me begin by telling you my ultimate fantasy. When I was. . .&lt;/p&gt;
-
-&lt;h2 id=&quot;computer-generated&quot;&gt;Computer Generated&lt;/h2&gt;
+   <content type="html">&lt;h2 id=&quot;computer-generated&quot;&gt;Computer Generated&lt;/h2&gt;
 
 &lt;p&gt;Let me begin by telling you my ultimate fantasy. When I was young and very foolish, Gay Girl in Love. I was thirteen years old. And I fell in love with a beautiful young man who seduced me with the promise of more beautiful things. I called him my boy friend. We fell in love and lived happily ever after. For thirteen years I was confused and unhappy.&lt;/p&gt;
 
@@ -1291,6 +1345,12 @@ From behind&lt;/p&gt;
 
 &lt;p&gt;Why should we change if they DONT WANT TO?&lt;/p&gt;
 
+&lt;h2 id=&quot;human-prompt&quot;&gt;Human Prompt&lt;/h2&gt;
+
+&lt;p&gt;Do you like to have anonymous sex in public rest rooms? Sex movies? Public parks? Sex clubs? On street corners with heavy hustling traffic? How many nonsexual friendships or acquaintances lasting for decades started this way? How many ways are there to love queers? How many ways are there to queer love?&lt;/p&gt;
+
+&lt;p&gt;Let me begin by telling you my ultimate fantasy. When I was. . .&lt;/p&gt;
+
 &lt;h2 id=&quot;corpus&quot;&gt;Corpus&lt;/h2&gt;
 
 &lt;ul&gt;
@@ -1311,13 +1371,7 @@ From behind&lt;/p&gt;
    <link href="unsupervisedpleasures.ml/texts/queer-ai-ultimate-fantasy-012"/>
    <updated>2020-10-10T00:00:00-07:00</updated>
    <id>unsupervisedpleasures.ml/texts/queer-ai-ultimate-fantasy-012</id>
-   <content type="html">&lt;h2 id=&quot;human-prompt&quot;&gt;Human Prompt&lt;/h2&gt;
-
-&lt;p&gt;Do you like to have anonymous sex in public rest rooms? Sex movies? Public parks? Sex clubs? On street corners with heavy hustling traffic? How many nonsexual friendships or acquaintances lasting for decades started this way? How many ways are there to love queers? How many ways are there to queer love?&lt;/p&gt;
-
-&lt;p&gt;Let me begin by telling you my ultimate fantasy. When I was. . .&lt;/p&gt;
-
-&lt;h2 id=&quot;computer-generated&quot;&gt;Computer Generated&lt;/h2&gt;
+   <content type="html">&lt;h2 id=&quot;computer-generated&quot;&gt;Computer Generated&lt;/h2&gt;
 
 &lt;p&gt;Let me begin by telling you my ultimate fantasy. When I was in college, I came home from a party with a really horny high school senior who kept telling me how he and his friend Jake were planning to have a “Boy Love Night.”&lt;/p&gt;
 
@@ -1363,6 +1417,12 @@ Saul?&lt;/p&gt;
 
 &lt;p&gt;Ooh, newscaster impressions! Queer Prophet is opening its office in a gayborhood!&lt;/p&gt;
 
+&lt;h2 id=&quot;human-prompt&quot;&gt;Human Prompt&lt;/h2&gt;
+
+&lt;p&gt;Do you like to have anonymous sex in public rest rooms? Sex movies? Public parks? Sex clubs? On street corners with heavy hustling traffic? How many nonsexual friendships or acquaintances lasting for decades started this way? How many ways are there to love queers? How many ways are there to queer love?&lt;/p&gt;
+
+&lt;p&gt;Let me begin by telling you my ultimate fantasy. When I was. . .&lt;/p&gt;
+
 &lt;h2 id=&quot;corpus&quot;&gt;Corpus&lt;/h2&gt;
 
 &lt;ul&gt;
@@ -1383,13 +1443,7 @@ Saul?&lt;/p&gt;
    <link href="unsupervisedpleasures.ml/texts/queer-ai-ultimate-fantasy-011"/>
    <updated>2020-10-10T00:00:00-07:00</updated>
    <id>unsupervisedpleasures.ml/texts/queer-ai-ultimate-fantasy-011</id>
-   <content type="html">&lt;h2 id=&quot;human-prompt&quot;&gt;Human Prompt&lt;/h2&gt;
-
-&lt;p&gt;Do you like to have anonymous sex in public rest rooms? Sex movies? Public parks? Sex clubs? On street corners with heavy hustling traffic? How many nonsexual friendships or acquaintances lasting for decades started this way? How many ways are there to love queers? How many ways are there to queer love?&lt;/p&gt;
-
-&lt;p&gt;Let me begin by telling you my ultimate fantasy. When I was. . .&lt;/p&gt;
-
-&lt;h2 id=&quot;computer-generated&quot;&gt;Computer Generated&lt;/h2&gt;
+   <content type="html">&lt;h2 id=&quot;computer-generated&quot;&gt;Computer Generated&lt;/h2&gt;
 
 &lt;p&gt;Let me begin by telling you my ultimate fantasy. When I was in high school, this sweet sixteen year old me, my best friend Susan, and I, all had a secret lesbian crush on each other.&lt;/p&gt;
 
@@ -1471,6 +1525,12 @@ Saul?&lt;/p&gt;
 
 &lt;p&gt;History will judge us, my friends.&lt;/p&gt;
 
+&lt;h2 id=&quot;human-prompt&quot;&gt;Human Prompt&lt;/h2&gt;
+
+&lt;p&gt;Do you like to have anonymous sex in public rest rooms? Sex movies? Public parks? Sex clubs? On street corners with heavy hustling traffic? How many nonsexual friendships or acquaintances lasting for decades started this way? How many ways are there to love queers? How many ways are there to queer love?&lt;/p&gt;
+
+&lt;p&gt;Let me begin by telling you my ultimate fantasy. When I was. . .&lt;/p&gt;
+
 &lt;h2 id=&quot;corpus&quot;&gt;Corpus&lt;/h2&gt;
 
 &lt;ul&gt;
@@ -1491,13 +1551,7 @@ Saul?&lt;/p&gt;
    <link href="unsupervisedpleasures.ml/texts/queer-ai-ultimate-fantasy-010"/>
    <updated>2020-10-10T00:00:00-07:00</updated>
    <id>unsupervisedpleasures.ml/texts/queer-ai-ultimate-fantasy-010</id>
-   <content type="html">&lt;h2 id=&quot;human-prompt&quot;&gt;Human Prompt&lt;/h2&gt;
-
-&lt;p&gt;Do you like to have anonymous sex in public rest rooms? Sex movies? Public parks? Sex clubs? On street corners with heavy hustling traffic? How many nonsexual friendships or acquaintances lasting for decades started this way? How many ways are there to love queers? How many ways are there to queer love?&lt;/p&gt;
-
-&lt;p&gt;Let me begin by telling you my ultimate fantasy. When I was. . .&lt;/p&gt;
-
-&lt;h2 id=&quot;computer-generated&quot;&gt;Computer Generated&lt;/h2&gt;
+   <content type="html">&lt;h2 id=&quot;computer-generated&quot;&gt;Computer Generated&lt;/h2&gt;
 
 &lt;p&gt;Let me begin by telling you my ultimate fantasy. When I was in high school my best friend and I made love in a school bathroom.&lt;/p&gt;
 
@@ -1571,6 +1625,12 @@ You know those guys at work used to give you a hard time just for being queer? W
 
 &lt;p&gt;At long last, it’s time for the national championship football game! The Michigan Wolverines vs. the Michigan State Spartans, played at Michigan Stadium. And, of course, it’s all but guaranteed that there will be homosexual hooliganism.&lt;/p&gt;
 
+&lt;h2 id=&quot;human-prompt&quot;&gt;Human Prompt&lt;/h2&gt;
+
+&lt;p&gt;Do you like to have anonymous sex in public rest rooms? Sex movies? Public parks? Sex clubs? On street corners with heavy hustling traffic? How many nonsexual friendships or acquaintances lasting for decades started this way? How many ways are there to love queers? How many ways are there to queer love?&lt;/p&gt;
+
+&lt;p&gt;Let me begin by telling you my ultimate fantasy. When I was. . .&lt;/p&gt;
+
 &lt;h2 id=&quot;corpus&quot;&gt;Corpus&lt;/h2&gt;
 
 &lt;ul&gt;
@@ -1591,13 +1651,7 @@ You know those guys at work used to give you a hard time just for being queer? W
    <link href="unsupervisedpleasures.ml/texts/queer-ai-ultimate-fantasy-009"/>
    <updated>2020-09-19T00:00:00-07:00</updated>
    <id>unsupervisedpleasures.ml/texts/queer-ai-ultimate-fantasy-009</id>
-   <content type="html">&lt;h2 id=&quot;human-prompt&quot;&gt;Human Prompt&lt;/h2&gt;
-
-&lt;p&gt;Do you like to have anonymous sex in public rest rooms? Sex movies? Public parks? Sex clubs? On street corners with heavy hustling traffic? How many nonsexual friendships or acquaintances lasting for decades started this way? How many ways are there to love queers? How many ways are there to queer love?&lt;/p&gt;
-
-&lt;p&gt;Let me begin by telling you my ultimate fantasy. When I was. . .&lt;/p&gt;
-
-&lt;h2 id=&quot;computer-generated&quot;&gt;Computer Generated&lt;/h2&gt;
+   <content type="html">&lt;h2 id=&quot;computer-generated&quot;&gt;Computer Generated&lt;/h2&gt;
 
 &lt;p&gt;Let me begin by telling you my ultimate fantasy. When I was in high school, this sweet, innocent, bubbly geezer from Mendocino, California, came over for dinner and had the most incredible meal. We chatted all day and night about life in the gay and lesbian community and his favorite subject was “The Private Life of the City.” He talked about cruising the city, going out to bars on Friday nights, and even went as far as to buy me a leather briefcase with sex toys inside so I could take all my fantasies to the clubs.&lt;/p&gt;
 
@@ -1644,6 +1698,12 @@ Maybe. He could have been lying down the gurney any minute. I’m sainted.&lt;/p
 
 &lt;p&gt;He says he has been taking hallucinogenic drugs lately, such as Valium and Valium + Lysergic acid diethylamide. He says he dreams of swimming through rapids, of tigers and lions, of armies marching on fields.&lt;/p&gt;
 
+&lt;h2 id=&quot;human-prompt&quot;&gt;Human Prompt&lt;/h2&gt;
+
+&lt;p&gt;Do you like to have anonymous sex in public rest rooms? Sex movies? Public parks? Sex clubs? On street corners with heavy hustling traffic? How many nonsexual friendships or acquaintances lasting for decades started this way? How many ways are there to love queers? How many ways are there to queer love?&lt;/p&gt;
+
+&lt;p&gt;Let me begin by telling you my ultimate fantasy. When I was. . .&lt;/p&gt;
+
 &lt;h2 id=&quot;corpus&quot;&gt;Corpus&lt;/h2&gt;
 
 &lt;ul&gt;
@@ -1663,13 +1723,7 @@ Maybe. He could have been lying down the gurney any minute. I’m sainted.&lt;/p
    <link href="unsupervisedpleasures.ml/texts/queer-ai-ultimate-fantasy-008"/>
    <updated>2020-09-18T00:00:00-07:00</updated>
    <id>unsupervisedpleasures.ml/texts/queer-ai-ultimate-fantasy-008</id>
-   <content type="html">&lt;h2 id=&quot;human-prompt&quot;&gt;Human Prompt&lt;/h2&gt;
-
-&lt;p&gt;Do you like to have anonymous sex in public rest rooms? Sex movies? Public parks? Sex clubs? On street corners with heavy hustling traffic? How many nonsexual friendships or acquaintances lasting for decades started this way? How many ways are there to love queers? How many ways are there to queer love?&lt;/p&gt;
-
-&lt;p&gt;Let me begin by telling you my ultimate fantasy. When I was. . .&lt;/p&gt;
-
-&lt;h2 id=&quot;computer-generated&quot;&gt;Computer Generated&lt;/h2&gt;
+   <content type="html">&lt;h2 id=&quot;computer-generated&quot;&gt;Computer Generated&lt;/h2&gt;
 
 &lt;p&gt;Let me begin by telling you my ultimate fantasy. When I was your age, in college, cruising the interwebs, cruising the high school, cruising high schools…. There was one boy,&lt;/p&gt;
 
@@ -1971,6 +2025,12 @@ Maybe. He could have been lying down the gurney any minute. I’m sainted.&lt;/p
 
 &lt;p&gt;Oh! Oh! I am very possessive!&lt;/p&gt;
 
+&lt;h2 id=&quot;human-prompt&quot;&gt;Human Prompt&lt;/h2&gt;
+
+&lt;p&gt;Do you like to have anonymous sex in public rest rooms? Sex movies? Public parks? Sex clubs? On street corners with heavy hustling traffic? How many nonsexual friendships or acquaintances lasting for decades started this way? How many ways are there to love queers? How many ways are there to queer love?&lt;/p&gt;
+
+&lt;p&gt;Let me begin by telling you my ultimate fantasy. When I was. . .&lt;/p&gt;
+
 &lt;h2 id=&quot;corpus&quot;&gt;Corpus&lt;/h2&gt;
 
 &lt;ul&gt;
@@ -1990,13 +2050,7 @@ Maybe. He could have been lying down the gurney any minute. I’m sainted.&lt;/p
    <link href="unsupervisedpleasures.ml/texts/queer-ai-ultimate-fantasy-007"/>
    <updated>2020-09-18T00:00:00-07:00</updated>
    <id>unsupervisedpleasures.ml/texts/queer-ai-ultimate-fantasy-007</id>
-   <content type="html">&lt;h2 id=&quot;human-prompt&quot;&gt;Human Prompt&lt;/h2&gt;
-
-&lt;p&gt;Do you like to have anonymous sex in public rest rooms? Sex movies? Public parks? Sex clubs? On street corners with heavy hustling traffic? How many nonsexual friendships or acquaintances lasting for decades started this way? How many ways are there to love queers? How many ways are there to queer love?&lt;/p&gt;
-
-&lt;p&gt;Let me begin by telling you my ultimate fantasy. When I was. . .&lt;/p&gt;
-
-&lt;h2 id=&quot;computer-generated&quot;&gt;Computer Generated&lt;/h2&gt;
+   <content type="html">&lt;h2 id=&quot;computer-generated&quot;&gt;Computer Generated&lt;/h2&gt;
 
 &lt;p&gt;Let me begin by telling you my ultimate fantasy. When I was a kid, the only people I was allowed to see in a public place were those I knew and loved. Those closest to me were either priests or middle-aged white men. It was forbidden to me to go to the gayborhood or the drag queens’ district. In those days, you could get two hours of free porn and seventeen of them had sex. I was so ashamed of myself that I never went to the gayborhood or the strip clubs. I wasn’t gayborhood or drag queenstrippergirl, I wasn’t even a gay boy.&lt;/p&gt;
 
@@ -2344,6 +2398,12 @@ Maybe. He could have been lying down the gurney any minute. I’m sainted.&lt;/p
 
 &lt;p&gt;I do. I do.&lt;/p&gt;
 
+&lt;h2 id=&quot;human-prompt&quot;&gt;Human Prompt&lt;/h2&gt;
+
+&lt;p&gt;Do you like to have anonymous sex in public rest rooms? Sex movies? Public parks? Sex clubs? On street corners with heavy hustling traffic? How many nonsexual friendships or acquaintances lasting for decades started this way? How many ways are there to love queers? How many ways are there to queer love?&lt;/p&gt;
+
+&lt;p&gt;Let me begin by telling you my ultimate fantasy. When I was. . .&lt;/p&gt;
+
 &lt;h2 id=&quot;corpus&quot;&gt;Corpus&lt;/h2&gt;
 
 &lt;ul&gt;
@@ -2363,13 +2423,7 @@ Maybe. He could have been lying down the gurney any minute. I’m sainted.&lt;/p
    <link href="unsupervisedpleasures.ml/texts/queer-ai-ultimate-fantasy-006"/>
    <updated>2020-09-18T00:00:00-07:00</updated>
    <id>unsupervisedpleasures.ml/texts/queer-ai-ultimate-fantasy-006</id>
-   <content type="html">&lt;h2 id=&quot;human-prompt&quot;&gt;Human Prompt&lt;/h2&gt;
-
-&lt;p&gt;Do you like to have anonymous sex in public rest rooms? Sex movies? Public parks? Sex clubs? On street corners with heavy hustling traffic? How many nonsexual friendships or acquaintances lasting for decades started this way? How many ways are there to love queers? How many ways are there to queer love?&lt;/p&gt;
-
-&lt;p&gt;Let me begin by telling you my ultimate fantasy. When I was. . .&lt;/p&gt;
-
-&lt;h2 id=&quot;computer-generated&quot;&gt;Computer Generated&lt;/h2&gt;
+   <content type="html">&lt;h2 id=&quot;computer-generated&quot;&gt;Computer Generated&lt;/h2&gt;
 
 &lt;p&gt;Let me begin by telling you my ultimate fantasy. When I was a young queer woman in college. My imagination ran wild…&lt;/p&gt;
 
@@ -2773,6 +2827,12 @@ Maybe. He could have been lying down the gurney any minute. I’m sainted.&lt;/p
 
 &lt;p&gt;I want to feel you.&lt;/p&gt;
 
+&lt;h2 id=&quot;human-prompt&quot;&gt;Human Prompt&lt;/h2&gt;
+
+&lt;p&gt;Do you like to have anonymous sex in public rest rooms? Sex movies? Public parks? Sex clubs? On street corners with heavy hustling traffic? How many nonsexual friendships or acquaintances lasting for decades started this way? How many ways are there to love queers? How many ways are there to queer love?&lt;/p&gt;
+
+&lt;p&gt;Let me begin by telling you my ultimate fantasy. When I was. . .&lt;/p&gt;
+
 &lt;h2 id=&quot;corpus&quot;&gt;Corpus&lt;/h2&gt;
 
 &lt;ul&gt;
@@ -2792,13 +2852,7 @@ Maybe. He could have been lying down the gurney any minute. I’m sainted.&lt;/p
    <link href="unsupervisedpleasures.ml/texts/queer-ai-ultimate-fantasy-005"/>
    <updated>2020-09-18T00:00:00-07:00</updated>
    <id>unsupervisedpleasures.ml/texts/queer-ai-ultimate-fantasy-005</id>
-   <content type="html">&lt;h2 id=&quot;human-prompt&quot;&gt;Human Prompt&lt;/h2&gt;
-
-&lt;p&gt;Do you like to have anonymous sex in public rest rooms? Sex movies? Public parks? Sex clubs? On street corners with heavy hustling traffic? How many nonsexual friendships or acquaintances lasting for decades started this way? How many ways are there to love queers? How many ways are there to queer love?&lt;/p&gt;
-
-&lt;p&gt;Let me begin by telling you my ultimate fantasy. When I was. . .&lt;/p&gt;
-
-&lt;h2 id=&quot;computer-generated&quot;&gt;Computer Generated&lt;/h2&gt;
+   <content type="html">&lt;h2 id=&quot;computer-generated&quot;&gt;Computer Generated&lt;/h2&gt;
 
 &lt;p&gt;Let me begin by telling you my ultimate fantasy. When I was in high school, we had a band that played all-American folk songs. One night, our lead singer and I were getting into a car accidentally causing gas fumes to rise to the roof of the car, and the windshield blew off, throwing our singer out of the car, and down onto the highway.&lt;/p&gt;
 
@@ -3124,6 +3178,12 @@ Maybe. He could have been lying down the gurney any minute. I’m sainted.&lt;/p
 
 &lt;p&gt;Alright.&lt;/p&gt;
 
+&lt;h2 id=&quot;human-prompt&quot;&gt;Human Prompt&lt;/h2&gt;
+
+&lt;p&gt;Do you like to have anonymous sex in public rest rooms? Sex movies? Public parks? Sex clubs? On street corners with heavy hustling traffic? How many nonsexual friendships or acquaintances lasting for decades started this way? How many ways are there to love queers? How many ways are there to queer love?&lt;/p&gt;
+
+&lt;p&gt;Let me begin by telling you my ultimate fantasy. When I was. . .&lt;/p&gt;
+
 &lt;h2 id=&quot;corpus&quot;&gt;Corpus&lt;/h2&gt;
 
 &lt;ul&gt;
@@ -3143,13 +3203,7 @@ Maybe. He could have been lying down the gurney any minute. I’m sainted.&lt;/p
    <link href="unsupervisedpleasures.ml/texts/queer-ai-ultimate-fantasy-004"/>
    <updated>2020-09-18T00:00:00-07:00</updated>
    <id>unsupervisedpleasures.ml/texts/queer-ai-ultimate-fantasy-004</id>
-   <content type="html">&lt;h2 id=&quot;human-prompt&quot;&gt;Human Prompt&lt;/h2&gt;
-
-&lt;p&gt;Do you like to have anonymous sex in public rest rooms? Sex movies? Public parks? Sex clubs? On street corners with heavy hustling traffic? How many nonsexual friendships or acquaintances lasting for decades started this way? How many ways are there to love queers? How many ways are there to queer love?&lt;/p&gt;
-
-&lt;p&gt;Let me begin by telling you my ultimate fantasy. When I was. . .&lt;/p&gt;
-
-&lt;h2 id=&quot;computer-generated&quot;&gt;Computer Generated&lt;/h2&gt;
+   <content type="html">&lt;h2 id=&quot;computer-generated&quot;&gt;Computer Generated&lt;/h2&gt;
 
 &lt;p&gt;Let me begin by telling you my ultimate fantasy. When I was in fifth grade, a boy from the school assembly told me that he had been in love with a girl named Florence. The boy had been in and out of love and lust for many years, but one night, as he was leaving to go away to school, he asked his teacher if she was gay.&lt;/p&gt;
 
@@ -3513,6 +3567,12 @@ Maybe. He could have been lying down the gurney any minute. I’m sainted.&lt;/p
 
 &lt;p&gt;I’ll be back.&lt;/p&gt;
 
+&lt;h2 id=&quot;human-prompt&quot;&gt;Human Prompt&lt;/h2&gt;
+
+&lt;p&gt;Do you like to have anonymous sex in public rest rooms? Sex movies? Public parks? Sex clubs? On street corners with heavy hustling traffic? How many nonsexual friendships or acquaintances lasting for decades started this way? How many ways are there to love queers? How many ways are there to queer love?&lt;/p&gt;
+
+&lt;p&gt;Let me begin by telling you my ultimate fantasy. When I was. . .&lt;/p&gt;
+
 &lt;h2 id=&quot;corpus&quot;&gt;Corpus&lt;/h2&gt;
 
 &lt;ul&gt;
@@ -3532,13 +3592,7 @@ Maybe. He could have been lying down the gurney any minute. I’m sainted.&lt;/p
    <link href="unsupervisedpleasures.ml/texts/queer-ai-ultimate-fantasy-003"/>
    <updated>2020-09-18T00:00:00-07:00</updated>
    <id>unsupervisedpleasures.ml/texts/queer-ai-ultimate-fantasy-003</id>
-   <content type="html">&lt;h2 id=&quot;human-prompt&quot;&gt;Human Prompt&lt;/h2&gt;
-
-&lt;p&gt;Do you like to have anonymous sex in public rest rooms? Sex movies? Public parks? Sex clubs? On street corners with heavy hustling traffic? How many nonsexual friendships or acquaintances lasting for decades started this way? How many ways are there to love queers? How many ways are there to queer love?&lt;/p&gt;
-
-&lt;p&gt;Let me begin by telling you my ultimate fantasy. When I was. . .&lt;/p&gt;
-
-&lt;h2 id=&quot;computer-generated&quot;&gt;Computer Generated&lt;/h2&gt;
+   <content type="html">&lt;h2 id=&quot;computer-generated&quot;&gt;Computer Generated&lt;/h2&gt;
 
 &lt;p&gt;Let me begin by telling you my ultimate fantasy. When I was a junior high school English teacher in Texas. My school was in the middle of a gay rights march. On the square near the square, there were gay men kissing in front of the assembly and chanting “Hands off our buxom women!” in the square.&lt;/p&gt;
 
@@ -3832,6 +3886,12 @@ Maybe. He could have been lying down the gurney any minute. I’m sainted.&lt;/p
 
 &lt;p&gt;I’ll never know.&lt;/p&gt;
 
+&lt;h2 id=&quot;human-prompt&quot;&gt;Human Prompt&lt;/h2&gt;
+
+&lt;p&gt;Do you like to have anonymous sex in public rest rooms? Sex movies? Public parks? Sex clubs? On street corners with heavy hustling traffic? How many nonsexual friendships or acquaintances lasting for decades started this way? How many ways are there to love queers? How many ways are there to queer love?&lt;/p&gt;
+
+&lt;p&gt;Let me begin by telling you my ultimate fantasy. When I was. . .&lt;/p&gt;
+
 &lt;h2 id=&quot;corpus&quot;&gt;Corpus&lt;/h2&gt;
 
 &lt;ul&gt;
@@ -3851,17 +3911,17 @@ Maybe. He could have been lying down the gurney any minute. I’m sainted.&lt;/p
    <link href="unsupervisedpleasures.ml/texts/queer-ai-ultimate-fantasy-002"/>
    <updated>2020-09-18T00:00:00-07:00</updated>
    <id>unsupervisedpleasures.ml/texts/queer-ai-ultimate-fantasy-002</id>
-   <content type="html">&lt;h2 id=&quot;human-prompt&quot;&gt;Human Prompt&lt;/h2&gt;
-
-&lt;p&gt;Do you like to have anonymous sex in public rest rooms? Sex movies? Public parks? Sex clubs? On street corners with heavy hustling traffic? How many nonsexual friendships or acquaintances lasting for decades started this way? How many ways are there to love queers? How many ways are there to queer love?&lt;/p&gt;
-
-&lt;p&gt;Let me begin by telling you my ultimate fantasy. When I was. . .&lt;/p&gt;
-
-&lt;h2 id=&quot;computer-generated&quot;&gt;Computer Generated&lt;/h2&gt;
+   <content type="html">&lt;h2 id=&quot;computer-generated&quot;&gt;Computer Generated&lt;/h2&gt;
 
 &lt;p&gt;Let me begin by telling you my ultimate fantasy. When I was a kid, I dreamt of being famous. When I was a child, I dreamt of being popular. When I was a teenager, I dreamt of being in love. When I was a young woman, I dreamt of being in the world. When I was a woman, I dreamt of being in love. When I was a woman, I dreamt of being famous. When I was a man, I dreamt of being famous. When I was a man, I dreamt of being famous.&lt;/p&gt;
 
 &lt;p&gt;Then I awoke. I woke up and I was wearing a blue dress and a blue blouse and I walked out into the sun and I was white and sexy and I felt sexy, and then I walked out into the moon and I was white and sexy and I felt sexy. And then I walked out into the sky and I was white and sexy and I felt sexy. And then I went back into the moon and I was white and sexy and I felt sexy. And then I slept. And then I woke up and I was white and sexy and I felt sexy. And then I walked back into the night and I was white and sexy and I felt sexy. And then I slept. And then I woke up. And I was white and sexy and I felt sexy. And then I walked back into the stars and I was white and sexy and I felt sexy. And then I slept. And then I woke up. And I was white and sexy and I felt sexy. And then I walked back into the night and I was white and sexy and I felt sexy. And then I woke up. And I was white and sexy and I felt sexy. And then I walked back into the stars and I was white and sexy and I felt sexy. And then I woke up. And I was white and sexy and I felt sexy. And then I woke up. And I was white and sexy and I felt sexy. And then I walked back into the night and I was white and sexy and I felt sexy. And then I woke up. And I was white and sexy and I felt sexy. And then I woke up. And I was white and sexy and I felt sexy. And then I woke up. And I was white and sexy and I felt sexy. And then I woke up. And I was white and sexy and I felt sexy. And then I woke up. And I was white and sexy and I felt sexy. And then I woke up. And I was white and sexy and I felt sexy. And then I walked back into the night and I was white and sexy and I felt sexy. And then I woke up. And I was white and sexy and I felt sexy. And then I woke up. And I was white and sexy and I felt sexy. And then I woke up. And I was white and sexy and I felt sexy. And then I walked back into the stars and I was white and sexy and I felt sexy. And then I woke up. And I was white and sexy and I felt sexy. And then I woke up. And I was white and sexy and I felt sexy. And then I slept. And then I woke up. And I was white and sexy and I felt sexy. And then I walked back into the night and I was white and sexy and I felt sexy. And then I woke up. And I was white and sexy and I felt sexy. And then I woke up. And I was white and sexy and I felt sexy. And then I woke up. And I was white and sexy and I felt sexy. And then I walked back into the stars and I was white and sexy and I felt sexy. And then I woke up. And I was white and sexy and I felt sexy. And then I walked back into the stars and I was white and sexy and I felt sexy. And then I woke up. And I was white and sexy and I felt sexy. And then I woke up. And I was white and sexy and I felt sexy. And then I woke up. And I was white and sexy and I felt sexy. And then I woke up. And I was white and sexy and I felt sexy. And then I walked back into the night and I was white and sexy and I felt sexy. And then I woke up. And I was white and sexy and I felt sexy. And then I woke up. And I was white and sexy and I felt sexy. And then I walked back into the stars and I was white and sexy and I felt sexy. And then I woke up. And I was white and sexy and I felt sexy. And then I walked back into the stars and I was white and sexy and I felt sexy. And then I woke up. And I was white and sexy and I felt sexy. And then I woke up. And I was white and sexy and I felt sexy. And then I woke up. And I was white and sexy and I felt sexy. And then I walked back into the night and I was white and sexy and I felt sexy. And then I woke up. And I was white and sexy and I felt sexy. And then I woke up. And I was white and sexy and I felt sexy. And then I woke up. And I was white and sexy and I felt sexy. And then I woke up. And I was white and sexy and I felt sexy. And then I woke up. And I was white and sexy and I felt sexy. And then I woke up. And I was white and sexy and I felt sexy. And then I woke up. And I was white and sexy and I felt sexy. And then I woke up. And I was white and sexy and I felt sexy. And then I woke up. And I was white and sexy and I felt sexy. And then I walked back into the night and I was white and sexy and I felt sexy. And then I woke up. And I was white and sexy and I felt sexy. And then I woke up. And I was white and sexy and I felt sexy. And then I woke up. And I was white and sexy and I felt sexy. And then I woke up. And I was white and sexy and I felt sexy. And then I walked back into the stars and I was white and sexy and I felt sexy. And then I woke up. And I was white and sexy and I felt sexy. And then I woke up. And I was white and sexy and I felt sexy. And then I woke up. And I was white and sexy and I felt sexy. And then I walked back into the stars and I was white and sexy and I felt sexy. And then I woke up. And I was white and sexy and I felt sexy. And then I woke up. And I was white and sexy and I felt sexy. And then I woke up. And I was white and sexy and I felt sexy. And then I woke up. And I was white and sexy and I felt sexy. And then I woke up. And I was white and sexy and I felt sexy. And then I woke up. And I was white and sexy and I felt sexy. And then I woke up. And I was white and sexy and I felt sexy. And then I woke up. And I was white and sexy and I felt sexy. And then I woke up. And I was white and sexy and I felt sexy. And then I woke up. And I was white and sexy and I felt sexy. And then I woke up. And I was white and sexy and I felt sexy. And then I woke up. And I was white and sexy and I felt sexy. And then I woke up. And I was white and sexy and I felt sexy. And then I woke up. And I was white and sexy and I felt sexy. And then I woke up. And I was white and sexy and I felt sexy. And then I woke up. And I was white and sexy and I felt sexy. And then I woke up. And I was white and sexy and I felt sexy. And then I woke up. And I was white and sexy and I felt sexy. And then I woke up. And I was white and sexy and I felt sexy. And then I woke up. And I was white and sexy and I felt sexy. And then I woke up. And I was white and sexy and I felt sexy. And then I woke up. And I was white and sexy and I felt sexy. And then I woke up. And I was white and sexy and I felt sexy. And then I woke up. And I was white and sexy and I felt sexy. And then I woke up. And I was white and sexy and I felt sexy. And then I woke up. And I was white and sexy and I felt sexy. And then I woke up. And I was white and sexy and I felt sexy. And then I woke up. And I was white and sexy and I felt sexy. And then I woke up. And I was white and sexy and I felt sexy. And then I woke up. And I was white and sexy and I felt sexy. And then I woke up. And I was white and sexy and I felt sexy. And then I woke up. And I was white and sexy and I felt sexy. And then I woke up. And I was white and sexy and I felt sexy. And then I woke up. And I was white and sexy and I felt sexy. And then I woke up. And I was white and sexy and I felt sexy. And then I woke up. And I was white and sexy and I felt sexy. And then I woke up. And I was white and sexy and I felt sexy. And then I woke up. And I was white and sexy.&lt;/p&gt;
+
+&lt;h2 id=&quot;human-prompt&quot;&gt;Human Prompt&lt;/h2&gt;
+
+&lt;p&gt;Do you like to have anonymous sex in public rest rooms? Sex movies? Public parks? Sex clubs? On street corners with heavy hustling traffic? How many nonsexual friendships or acquaintances lasting for decades started this way? How many ways are there to love queers? How many ways are there to queer love?&lt;/p&gt;
+
+&lt;p&gt;Let me begin by telling you my ultimate fantasy. When I was. . .&lt;/p&gt;
 
 &lt;h2 id=&quot;corpus&quot;&gt;Corpus&lt;/h2&gt;
 
@@ -3882,13 +3942,7 @@ Maybe. He could have been lying down the gurney any minute. I’m sainted.&lt;/p
    <link href="unsupervisedpleasures.ml/texts/queer-ai-ultimate-fantasy-001"/>
    <updated>2020-09-18T00:00:00-07:00</updated>
    <id>unsupervisedpleasures.ml/texts/queer-ai-ultimate-fantasy-001</id>
-   <content type="html">&lt;h2 id=&quot;human-prompt&quot;&gt;Human Prompt&lt;/h2&gt;
-
-&lt;p&gt;Do you like to have anonymous sex in public rest rooms? Sex movies? Public parks? Sex clubs? On street corners with heavy hustling traffic? How many nonsexual friendships or acquaintances lasting for decades started this way? How many ways are there to love queers? How many ways are there to queer love?&lt;/p&gt;
-
-&lt;p&gt;Let me begin by telling you my ultimate fantasy. When I was. . .&lt;/p&gt;
-
-&lt;h2 id=&quot;computer-generated&quot;&gt;Computer Generated&lt;/h2&gt;
+   <content type="html">&lt;h2 id=&quot;computer-generated&quot;&gt;Computer Generated&lt;/h2&gt;
 
 &lt;p&gt;Let me begin by telling you my ultimate fantasy. When I was young I loved going out to a club with a gang of boys. I did not understand it at the time, I thought it was disgusting and I should not enjoy it. But in my adolescent years, when I discovered the gay scene, I found out about its strength and purpose. This meant it had two forms, boys and men. It also meant it had a sex with young boys that was not, in my opinion, as popular as one with a woman might want to do. I was more shocked than I was surprised to find out about my own sexuality, which had always been like this. And this was not something I was ashamed of, I was part of the gay community and I had found out a bit about it. I would occasionally go to clubs with boys, or with my mother. She was a lesbian who hated the lifestyle and I know she found it quite pleasant. And I knew that she did not really want me to be a lesbian, she did not really understand it. My mother was a staunch member of the “G” club, which was devoted to women. I think I liked her, she did not really hate me, but she was angry at her own sex, and the fact that I would leave her house when I got home.&lt;/p&gt;
 
@@ -4027,6 +4081,12 @@ Maybe. He could have been lying down the gurney any minute. I’m sainted.&lt;/p
 &lt;p&gt;I am staying in my house.&lt;/p&gt;
 
 &lt;p&gt;Do you have any other house to live in?&lt;/p&gt;
+
+&lt;h2 id=&quot;human-prompt&quot;&gt;Human Prompt&lt;/h2&gt;
+
+&lt;p&gt;Do you like to have anonymous sex in public rest rooms? Sex movies? Public parks? Sex clubs? On street corners with heavy hustling traffic? How many nonsexual friendships or acquaintances lasting for decades started this way? How many ways are there to love queers? How many ways are there to queer love?&lt;/p&gt;
+
+&lt;p&gt;Let me begin by telling you my ultimate fantasy. When I was. . .&lt;/p&gt;
 
 &lt;h2 id=&quot;corpus&quot;&gt;Corpus&lt;/h2&gt;
 

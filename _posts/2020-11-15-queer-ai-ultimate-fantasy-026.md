@@ -6,12 +6,6 @@ summary: GPT-2 model trained on a corpus of queer theatre
 tags: [Beastie Boy, secret, middle class, working class, middle children, Republicans, Pepperdine University, news, queer, GPT-2, RunwayML]
 ---
 
-## Human Prompt
-
-Do you like to have anonymous sex in public rest rooms? Sex movies? Public parks? Sex clubs? On street corners with heavy hustling traffic? How many nonsexual friendships or acquaintances lasting for decades started this way? How many ways are there to love queers? How many ways are there to queer love?
-
-Let me begin by telling you my ultimate fantasy.
-
 ## Computer Generated
 
 Let me begin by telling you my ultimate fantasy.
@@ -53,6 +47,12 @@ And I'm not the only one feeling this way. According to a new Pepperdine Univers
 Look, I don't necessarily think the violence is justified. But then what, exactly? What are we doing to bring people together? Why do people feel the only thing to hate about people who have something different from us is our sexuality?
 
 Listen: We're not coming here to burn the place down.
+
+## Human Prompt
+
+Do you like to have anonymous sex in public rest rooms? Sex movies? Public parks? Sex clubs? On street corners with heavy hustling traffic? How many nonsexual friendships or acquaintances lasting for decades started this way? How many ways are there to love queers? How many ways are there to queer love?
+
+Let me begin by telling you my ultimate fantasy.
 
 ## Corpus
 
