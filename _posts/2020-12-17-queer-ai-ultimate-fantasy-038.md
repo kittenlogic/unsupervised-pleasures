@@ -25,7 +25,7 @@ Let me begin by telling you my ultimate fantasy. . .
 - [Queer AI](/queerai)
 - Trained Model
 - Perplexity 0.9
-- Seed 86, 566
+- Seed 86
 
 ## Credits
 
