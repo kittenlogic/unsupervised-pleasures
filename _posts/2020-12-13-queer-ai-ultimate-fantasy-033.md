@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Queer A.I. Ultimate Fantasy 33 A Credible Person
+title: Queer A.I. Ultimate Fantasy 33 Credible Person
 description: GPT-2 model trained on a corpus of queer theatre
 summary: GPT-2 model trained on a corpus of queer theatre
 tags: [ Tom Tucker, politics, pervert, punk rock, weirdos, cops, bigots, civil rights, boogeyman, radical, gay bar, queer, GPT-2, RunwayML]
