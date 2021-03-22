@@ -1,3 +1,5 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/274f1259-f6b8-44e7-874c-5d5d87de40d5/deploy-status)](https://app.netlify.com/sites/unsupervised-pleasures/deploys)
+
 # Unsupervised Pleasures
 
 Experiments with machine learning models for text-generation using charRNN and GPT-2.

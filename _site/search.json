@@ -2,6 +2,28 @@
   
     {
 
+      "title"    : "Queer A.I. Ultimate Fantasy 46 Heartbeat",
+      "url"      : "/texts/queer-ai-ultimate-fantasy-046",
+      "category" : "",
+      "tags"     : "doctor, lover, queer, GPT-2, RunwayML",
+      "date"     : "2021-03-22 00:00:00 -0700",
+      "description" : "GPT-2 model trained on a corpus of queer theatre"
+
+    } ,
+  
+    {
+
+      "title"    : "Queer A.I. Ultimate Fantasy 45 When I&#39;m President",
+      "url"      : "/texts/queer-ai-ultimate-fantasy-045",
+      "category" : "",
+      "tags"     : "lesbian, gay, bisexual, F.B.I., school, president, America, queer, GPT-2, RunwayML",
+      "date"     : "2021-03-22 00:00:00 -0700",
+      "description" : "GPT-2 model trained on a corpus of queer theatre"
+
+    } ,
+  
+    {
+
       "title"    : "Queer A.I. Ultimate Fantasy 44 Born This Way",
       "url"      : "/texts/queer-ai-ultimate-fantasy-044",
       "category" : "",
@@ -24,10 +46,10 @@
   
     {
 
-      "title"    : "Queer A.I. Ultimate Fantasy 42 Subtle Differences",
+      "title"    : "Queer A.I. Ultimate Fantasy 42 Blue Cross",
       "url"      : "/texts/queer-ai-ultimate-fantasy-042",
       "category" : "",
-      "tags"     : "lesbian, intersex, bisexual, gay, divorce, Miami, Blue Cross, Booker T Washington, queer, GPT-2, RunwayML",
+      "tags"     : "fantasy, erotic, queer, GPT-2, RunwayML",
       "date"     : "2020-12-30 00:00:00 -0800",
       "description" : "GPT-2 model trained on a corpus of queer theatre"
 
@@ -49,7 +71,7 @@
       "title"    : "Queer A.I. Ultimate Fantasy 40 Fuck Me",
       "url"      : "/texts/queer-ai-ultimate-fantasy-040",
       "category" : "",
-      "tags"     : "queer, GPT-2, RunwayML",
+      "tags"     : "erotic, sex, queer, GPT-2, RunwayML",
       "date"     : "2020-12-30 00:00:00 -0800",
       "description" : "GPT-2 model trained on a corpus of queer theatre"
 

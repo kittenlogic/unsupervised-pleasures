@@ -3,7 +3,7 @@ layout: post
 title: Queer A.I. Ultimate Fantasy 40 Fuck Me
 description: GPT-2 model trained on a corpus of queer theatre
 summary: GPT-2 model trained on a corpus of queer theatre
-tags: [queer, GPT-2, RunwayML]
+tags: [erotic, sex, queer, GPT-2, RunwayML]
 ---
 
 ## Computer Generated
