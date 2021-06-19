@@ -2,6 +2,17 @@
   
     {
 
+      "title"    : "Queer A.I. Ultimate Fantasy 47 Orphobia",
+      "url"      : "/texts/queer-ai-ultimate-fantasy-047",
+      "category" : "",
+      "tags"     : "orphobia, biphobia, androphobia, queer, GPT-2, RunwayML",
+      "date"     : "2021-06-18 00:00:00 -0700",
+      "description" : "GPT-2 model trained on a corpus of queer theatre"
+
+    } ,
+  
+    {
+
       "title"    : "Queer A.I. Ultimate Fantasy 46 Heartbeat",
       "url"      : "/texts/queer-ai-ultimate-fantasy-046",
       "category" : "",

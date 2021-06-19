@@ -35,6 +35,7 @@ Let me begin by telling you my ultimate fantasy. . .
 - Trained Model
 - Perplexity 0.9
 - Seed 714
+
 ## Credits
 
 Prompt adapted from [A Queer History of Computing](https://rhizome.org/editorial/2013/feb/19/queer-computing-1/)
