@@ -641,7 +641,7 @@
     {
 
       "title"    : "Life After Capitalism",
-      "url"      : "/texts/philosophy-bot-vs-post-capitalism",
+      "url"      : "/texts/life-after-capitalism",
       "category" : "",
       "tags"     : "machine learning, GPT-2, RunwayML, philosophy, ethics, capitalism, apocalypse",
       "date"     : "2020-09-17 00:00:00 -0700",
@@ -652,7 +652,7 @@
     {
 
       "title"    : "Death Cults",
-      "url"      : "/texts/philosophy-bot-vs-death-cults",
+      "url"      : "/texts/death-cults",
       "category" : "",
       "tags"     : "machine learning, GPT-2, RunwayML, philosophy, ethics, apocalypse, death cults, QAnon, revolution, dominator culture, romance, will to power, pandemic",
       "date"     : "2020-09-17 00:00:00 -0700",
@@ -663,7 +663,7 @@
     {
 
       "title"    : "Queer Wittgenstein",
-      "url"      : "/texts/philosophy-bot-vs-queer-wittgenstein",
+      "url"      : "/texts/queer-wittgenstein",
       "category" : "",
       "tags"     : "machine learning, GPT-2, RunwayML, philosophy, ethics, queer, Wittgenstein",
       "date"     : "2020-09-16 00:00:00 -0700",
