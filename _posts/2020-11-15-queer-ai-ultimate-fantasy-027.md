@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Queer A.I. Ultimate Fantasy 27 Tidy Up Crispy
+title: Queer A.I. Ultimate Fantasy 27 Role Play
 description: GPT-2 model trained on a corpus of queer theatre
 summary: GPT-2 model trained on a corpus of queer theatre
-tags: ['role play', food, queer, GPT-2, RunwayML]
+tags: [role-play, fantasy, food, queer, GPT-2, RunwayML]
 ---
 
 ## Computer Generated
@@ -30,11 +30,7 @@ Yeah! Let's make Tidy Up Crispy!!
 
 I could eat this!
 
-Baking soda and water, lots of baking soda. I baked whole... let me show you... hollandaise sauce!
-
-Beeswax.
-
-And some Worcestershire sauce! And some Old Bay! And Worcestershire cheesecloth! And a little mayonnaise!
+Baking soda and water, lots of baking soda. I baked whole... let me show you... hollandaise sauce! Beeswax. And some Worcestershire sauce! And some Old Bay! And Worcestershire cheesecloth! And a little mayonnaise!
 
 I love mayo, it brightens things up.
 
@@ -42,11 +38,9 @@ Now I want your advice on this... mayonnaise!
 
 Well, not the mayo, this is the real mayo... the real mayo, made with real mayo! And it's my new fave!
 
-Homemade!
+Homemade! By me, for me!
 
 Buenos noches!
-
-Homemade! By me, for me!
 
 ## Human Prompt
 

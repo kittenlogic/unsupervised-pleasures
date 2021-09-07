@@ -10,21 +10,12 @@ tags: [Christian, Womens March, Washington, God, Jesus, Lazarus, twelve-step pro
 
 Let me begin by telling you my ultimate fantasy.
 
-This is not a recount of one night in a gay cruising bar.
+This is not a recount of one night in a gay cruising bar. This is not a recount of one drunken night in a gay bar. This is my story. My story. So I began.
 
-This is not a recount of one drunken night in a gay bar.
-
-This is my story.
-
-My story... So I began.
-
-In the summer of '89 I was in the process of becoming a fully fledged American Christian.
-
-No, really. You read that right.
-
-At the time I was working at the small boutique gift shop selling Christian girls tchotchkes and earrings. One Sunday morning I went to the Women's March on Washington. I had just come in from a retreat in Wyoming where we had conducted a sit-in protest march to commemorate the civil rights movement. I was in the process of becoming a full fledged Christian when I noticed a young black woman sitting behind a barricade reading the words from the first chapter of the Bible.
+In the summer of '89 I was in the process of becoming a fully fledged American Christian. No, really. You read that right. At the time I was working at the small boutique gift shop selling Christian girls tchotchkes and earrings. One Sunday morning I went to the Women's March on Washington. I had just come in from a retreat in Wyoming where we had conducted a sit-in protest march to commemorate the civil rights movement. I was in the process of becoming a full fledged Christian when I noticed a young black woman sitting behind a barricade reading the words from the first chapter of the Bible.
 
 "I am the way, the truth, and the life. No one goes in there saying, I am, only I'm trying."
+
 What came over me like a ton of bricks was that woman.
 
 "Away we go, let's go."
@@ -41,11 +32,7 @@ I would kiss boys and girls and think it was all wonderful. I would fall in love
 
 I was in love!
 
-And all of that was fake.
-
-The real Jesus was nowhere to be found.
-
-Fake. Jesus didn't exist.
+And all of that was fake. The real Jesus was nowhere to be found. Fake. Jesus didn't exist. All of that was wishful thinking.
 
 You fool. You fell in love with a boy in a coffee shop who knew no one and just wanted to get laid.
 
@@ -57,15 +44,9 @@ You fell in love with a temple garment and a set of Five Principles and a twelve
 
 You even fell in love with your mother.
 
-All of that was wishful thinking.
-
-The kingdom of God is not a fairy tale.
-
-And that was enough to drive me crazy. So I packed my suitcases and left. I vowed never to return.
-
 So why's everything all so so quiet now?
 
-I don't know. There are too many variables. Maybe it's all just too easy. I've never been so sure of anything in my life.
+The kingdom of God is not a fairy tale. And that was enough to drive me crazy. So I packed my suitcases and left. I vowed never to return.
 
 
 

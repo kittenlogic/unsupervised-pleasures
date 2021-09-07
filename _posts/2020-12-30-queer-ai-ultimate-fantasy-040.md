@@ -10,13 +10,9 @@ tags: [erotic, sex, queer, GPT-2, RunwayML]
 
 Let me begin by telling you my ultimate fantasy. If I could have one wish come true today, it would be that you would fuck me. Please.
 
-I don't believe you.
+I don't believe you. I am so very wrong.
 
-I am so very wrong.
-
-No you're not.
-
-But just fuck me.
+No you're not. But just fuck me.
 
 Just fuck me.
 

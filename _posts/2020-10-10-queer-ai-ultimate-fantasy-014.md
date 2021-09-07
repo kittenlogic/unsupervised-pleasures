@@ -8,31 +8,33 @@ tags: [erotic, horror, content warning, GPT-2, RunwayML, queer]
 
 ## Computer Generated
 
-Let me begin by telling you my ultimate fantasy. When I was a very young girl
+Let me begin by telling you my ultimate fantasy.
 
-Filthy habit
+Filthy habit.
 
-Stupid fucking girl
+When I was a very young girl.
+
+Stupid fucking girl.
 
 The fantasy was to slip into a boy's bed,
 
-I was the only boy
+I was the only boy,
 
-Suck the cock
+Suck the cock,
 
-I would lick, suck, fuck, fuck
+I would lick, suck, fuck, fuck,
 
-Boy would come all over me
+Boy would come all over me,
 
-I loved it
+I loved it,
 
-It felt so good
+It felt so good,
 
-I made him cum over and over
+I made him cum over and over,
 
-I called him Daddy
+I called him Daddy,
 
-He came over and over
+He came over and over,
 
 I covered his face with my
 
@@ -110,12 +112,11 @@ Hated me. Wanted me dead.
 
 Scared me to death.
 
-Every day, I made sure to check the
+Every day, I made sure to check
 
 I was the one checking
 
-And he would stand at the door, take his
-From behind
+And he would stand at the door, take his from behind.
 
 Shhhhhhh! He knew I was there.
 
@@ -123,17 +124,17 @@ So I pushed open the door and
 
 And he stepped out onto the street.
 
-I could see the blood. I could see the
+I could see the blood.
 
-Blood everywhere. Everywhere.
+I could see the blood everywhere. Everywhere.
 
 I could taste it on his lips.
 
 I ran. I ran as fast as I could,
 
-Tearing, I heard her call out
+Tearing, I heard her call out.
 
-Owwwwww! He grabbed hold of her wrist and pulled her backwards
+Owwwwww! He grabbed hold of her wrist and pulled her backwards.
 
 And he dropped to the ground.
 
@@ -159,13 +160,13 @@ Then I heard someone call out
 
 Come on! Come out!
 
-And he opened his eyes. He
+And he opened his eyes.
 
 There was no one. Just him and
 
 Nothing. Just him and the empty
 
-I threw myself at him. I
+I threw myself at him.
 
 And he lay there. I covered him in my
 

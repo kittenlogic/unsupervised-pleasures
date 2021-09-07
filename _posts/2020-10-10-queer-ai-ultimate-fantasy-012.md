@@ -3,7 +3,7 @@ layout: post
 title: Queer A.I. Ultimate Fantasy 12 Boy Love Night
 description: GPT-2 model trained on a corpus of queer theatre
 summary: GPT-2 model trained on a corpus of queer theatre
-tags: [school, college, high school, gayborhood, queer bar, bar, cabaret, karaoke, comedy, clubs, pervert, confession, Queer Rebels, Les Belle Journeys, Village Lesbian Comedy Theater, ymag, Los Angeles, New York City, San Francisco, Atlanta, GPT-2, RunwayML, queer]
+tags: [school, college, high school, pervert, confession, GPT-2, RunwayML, queer]
 ---
 
 ## Computer Generated
@@ -12,45 +12,13 @@ Let me begin by telling you my ultimate fantasy. When I was in college, I came h
 
 As I related this story to my friend, she blurted out, "What's so funny?"
 
-I thought for a moment, then said,
-"He's straight!"
-
-And
-"How are they going to get it up in here?"
-
-And
-And
-"How are they planning to get it up?"
-
-And
-
-I felt my jaw drop open.
+I thought for a moment, then said, "He's straight!" And "How are they going to get it up in here?" And "How are they planning to get it up?" I felt my jaw drop open.
 
 Don't get me wrong, I'm not trying to denigrate any of those relationships. But there are aspects that struck me as particularly perverted.
 
-Guys, I have a confession to make.
+Guys, I have a confession to make. It's late, I'm exhausted, I've got dinner to go, and I just want to be alone with my most sexual desire.
 
-It's late, I'm exhausted, I've got dinner to go, and I just want to be alone with my most sexual desire.
-
-This is it. We've all got to turn on the lights. Please join me.
-
-This is the part of the show where I explain to you why my ex-boyfriend and I have been lovers since the day we first laid eyes on each other.
-
-It has always been my dream to have my very own private lesbian bar. The only problem is, there aren't any bars in this town.
-
-Oh, there are bars! Such as in Atlanta and San Francisco, where Queer Rebels meets every third Thursday. And in New York City, we are soon to have our very own dedicated lesbian karaoke night club, Les Belle Journeys.
-
-In Los Angeles there's the now-defunct, now-defunct ymag, and soon-to-be-defunct Dyke March. Meanwhile in San Francisco, the long-vacant Golden Gate Park is home to The Village Lesbian Comedy Theater, a weekly, all-ages stand-up club.
-It's time for my very own dedicated queer cabaret club.
-
-Where the hell are these other queer bars? You all think they're great. I could never get into any of these bars in my wild youth. Where are the other queer cabarets?
-Saul?
-
-My very own dedicated queer karaoke night club.
-
-As I waited in a cab for my turn, passing gay bars and clubs that were as gay as the day they were created, I could hear the conversation going on in my cab.
-
-Ooh, newscaster impressions! Queer Prophet is opening its office in a gayborhood!
+This is it. We've all got to turn on the lights. Please join me. This is the part of the show where I explain to you why my ex-boyfriend and I have been lovers since the day we first laid eyes on each other.
 
 ## Human Prompt
 

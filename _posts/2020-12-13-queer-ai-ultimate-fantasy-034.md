@@ -14,8 +14,7 @@ I love you and I want you to be my lover, my rock, my life, my life with me as l
 
 No!
 
-Then go on.
-I want you to undo my fly buttons. Pull my blouse down. Pull my underwear all the way down. Pull my sex toy between our legs. Dry me.
+Then go on. I want you to undo my fly buttons. Pull my blouse down. Pull my underwear all the way down. Pull my sex toy between our legs. Dry me.
 
 No!
 

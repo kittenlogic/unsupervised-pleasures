@@ -14,11 +14,9 @@ Did you know that this happened?
 
 Of course I knew.
 
-I don't believe that any of you knew that. But I do.
+I don't believe that any of you knew that.
 
-All of us. I don't know how many of you knew this and didn't do something about it.
-
-I don't know how many of you didn't know this and will go to jail for eternity for not knowing it.
+I don't know how many of you knew this and didn't do something about it. I don't know how many of you didn't know this and will go to jail for eternity for not knowing it.
 
 I don't know.
 
@@ -26,33 +24,17 @@ This silence is painful.
 
 Yes.
 
-I was angry. I was confused. I cried. I reasoned. I searched. I prayed. I
-
-But I left feeling freed. I had hope.
+I was angry. I was confused. I cried. I reasoned. I searched. I prayed. But I left feeling freed. I had hope.
 
 You don't have hope.
 
-I do. What do you suppose is going to happen next? I don't know.
+I do.
 
-Who do you think is going to have sex with next? I don't know.
+What do you suppose is going to happen next?
 
-I think you.
+I don't know.
 
-But not necessarily.
-
-But I thought about you.
-
-Do you?
-
-I dreamed about you.
-
-You did too.
-
-Maybe I did.
-
-I don't think it happened.
-
-It could have happened the other way around.
+Who do you think is going to have sex with next?
 
 I don't know.
 
@@ -72,20 +54,11 @@ So how'd you feel about our having sex?
 
 I'm not sure I approve.
 
-That's not the point. The point is that you and I slept together. You know how I feel about romantic relationships. As a matter of fact, I think sex is the single worst thing a guy can do to a girl.
-Pun intended.
+What? I want to know what you think about having sex with me.
 
-As a matter of fact, I think sex is the single worst thing a guy can do to a girl.
+That's not the point. The point is that you and I slept together. You know how I feel about romantic relationships. As a matter of fact, I think sex is the single worst thing a guy can do to a girl. Pun intended.
 
-Forget that. Talk about it.
 
-I want to.
-
-Let's talk about it.
-
-What?
-
-I want to know what you think about having sex with me.
 
 ## Human Prompt
 

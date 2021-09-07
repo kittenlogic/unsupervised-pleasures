@@ -8,19 +8,11 @@ tags: [cult, religion, Tantra, Hatha Yoga, Wicca, Confucianism, Taoism, Disney, 
 
 ## Computer Generated
 
-Let me begin by telling you my ultimate fantasy. When I was young, I had the fantasy of starting a cult. A religion. I would build a great temple of Wicca up high in the sky, worshiped by all the deities of my childhood all the deities of my childhood
+Let me begin by telling you my ultimate fantasy. When I was young, I had the fantasy of starting a cult. A religion. I would build a great temple of Wicca up high in the sky, worshiped by all the deities of my childhood.
 
 Like so many other Disney princesses, I believed that I could create a pure, whole person out of nothing at all. I would imbue my being with the pure, divine spark that was Tantra, Hatha Yoga, Wicca, Confucianism, Taoism, and so forth. I would set my heart on a path of personal and professional growth that would ultimately lead me to a position of great responsibility and ultimately the crowning glory of my being: a Tenet Master.
 
-You know nothing about me.
-
-I admire you.
-
-And that's it?
-
-No, no, no. I realize you feel very strongly about certain aspects of my life that you don't share with me, but even that's not true. I believe in deep down, among the many millions of deeply held beliefs that make up the American dream, that there is one indisputable truth that I hold dear: love trumps money.
-
-We're talking about you here
+I believe deep down, among the many millions of deeply held beliefs that make up the American dream, that there is one indisputable truth that I hold dear: love trumps money.
 
 So I went shopping for a no-knead yeast bread, artisanal vanilla ice creme, and coconut shreds and I paid twenty dollars for it. Thirty dollars for an artisanal vanilla ice creme that has traces of burnt orange and tastes of coconut. Fifty for a slice of lemon with a little bit of mint floating in it. A hundred for a six-pack of beer. A super-duper brewery!
 
@@ -28,11 +20,7 @@ Now I know what you're thinking. Isn't this what normal, grown-up folks do? Grab
 
 And yet, despite my rationalizations, I was desperate for the forbidden fruit. I wanted something that would give me the shivers, the flash of a first date, the nudge in the right direction, and then, miraculously, disappear. And I found it.
 
-And when I touched it, it was as if someone had pulled me right into their arms. There was...
-
-And it was sweet and sour and...
-
-And smell it. Experience. Yes. It smelled just like... heaven. Heaven in a can. Heaven on a stick. Make love in a can.
+And when I touched it, it was as if someone had pulled me right into their arms. There was... And it was sweet and sour and... And smell it. Experience. Yes. It smelled just like... heaven. Heaven in a can. Heaven on a stick. Make love in a can.
 
 ## Human Prompt
 

@@ -3,7 +3,7 @@ layout: post
 title: Queer A.I. Ultimate Fantasy 13 Paralytic Fraternity
 description: GPT-2 model trained on a corpus of queer theatre
 summary: GPT-2 model trained on a corpus of queer theatre
-tags: [love, confusion, rejection, sexuality, society, gay, daddy issues, Rainbow PUSH, GPT-2, RunwayML, queer]
+tags: [love, bisexual, gay, lesbian, queer theory, history, sexuality, healing, strength, courage, society, gay, daddy issues, Rainbow PUSH, GPT-2, RunwayML, queer]
 ---
 
 ## Computer Generated
@@ -12,27 +12,21 @@ Let me begin by telling you my ultimate fantasy. When I was young and very fooli
 
 There is a new book out that will change your life. When I picked up this copy I figured it out months ago. Rainbow PUSHED! It has all the information you need to know about bisexuality, gay men, lesbianism, queer theory, history, sexuality, healing, strength, courage, and the power of dreams to make the world a better place. Buy it now and discover for yourself for the first time what it really is like to be queer!
 
-So why all of a sudden hate Raymond? I hate Raymond because he could be my lover, my rock.
+So why all of a sudden hate Raymond?
 
-He could rock me to sleep and then lead me on wild wild goose chases down dark alleys. He is traditional, he is American, he is Western. He could be my dad! He could rock my world!
-
-My BETTY. It would be so simple.
-
-A closeted big gay man with daddy issues would never be tolerated.
+I hate Raymond because he could be my lover, my rock. He could rock me to sleep and then lead me on wild wild goose chases down dark alleys. He is traditional, he is American, he is Western. He could be my dad! He could rock my world! It would be so simple.
 
 Could I be your imaginary friend?
 
-Filled with feelings I call Paralytic Fraternity, Raymond would reject me for all the pain and confusion I caused myself and my family. He would reject me for who I am. I would reject him for the many amazing men I have loved and missed.
+A closeted big gay man with daddy issues would never be tolerated. Filled with feelings I call Paralytic Fraternity, Raymond would reject me for all the pain and confusion I caused myself and my family. He would reject me for who I am. I would reject him for the many amazing men I have loved and missed.
 
 There are worse things than closeted big gay men with daddy issues.
 
 So what's wrong with me?
 
-My problem is not so much my past. My problem is with the way society has defined my sexuality. My problem is not
+My problem is not so much my past. My problem is with the way society has defined my sexuality. There's this idea that if you're gay you're fine, fine. It's not always easy being gay. Our society puts a value on sex and it puts a value on love above all else. Our society says if you're skinny, you're a fag. If you smell bad, you're a fruit. If you smell good to your girlfriend, you're cool. Whatever it takes to be famous!... I just don't see how any of that makes any of us wrong!
 
-There's this idea that if you're gay you're fine, fine. It's not always easy being gay. Our society puts a value on sex and it puts a value on love above all else. Our society says if you're skinny, you're a fag. If you smell bad, you're a fruit. If you smell good to your girlfriend, you're cool. Whatever it takes to be famous!... I just don't see how any of that makes any of us wrong!
-
-Why should we change if they DONT WANT TO?
+Why should we change if they DON'T WANT TO?
 
 ## Human Prompt
 

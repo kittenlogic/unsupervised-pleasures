@@ -10,7 +10,7 @@ tags: [gay, romance, queer, GPT-2, RunwayML]
 
 Let me begin by telling you my ultimate fantasy. I love a man who has nothing to do with me, is not in love with me, is not even in the romantic category. He's just plain gay.
 
-He takes no crap from me. He doesn't call me all the time to see how I am. He's never made more than a passing remark about my haircut or the color of my eye. He's not interested in our child-rearing or our falling in love. He's simply there for me when I'm at my best and when I need him most.
+He takes no crap from me. He doesn't call me all the time to see how I am. He's never made more than a passing remark about my haircut or the color of my eyes. He's not interested in our child-rearing or our falling in love. He's simply there for me when I'm at my best and when I need him most.
 
 He's not interested in our personal romances or our painful but ultimately fulfilling gay sex. He simply is... plain... gay.
 

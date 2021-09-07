@@ -14,7 +14,7 @@ Not suddenly; rather slowly over many months, years.
 
 We are separated.
 
-No. Wait, I want to go back to the house where we first met. I want to go back to the moment that made me want to lose myself. I want to go back to that week in March, when the phone rang, the appointment set, and the motherly words, "Baby, it's TUESDAY!"
+No. Wait, I want to go back to the house where we first met. I want to go back to the moment that made me want to lose myself. I want to go back to that week in March, when the phone rang, the appointment set, and the motherly words, "Baby, it's Tuesday!"
 
 I want to go back to the moment the beautiful woman on the phone asked me if I was gay. My heart skipped a beat at the memory.
 

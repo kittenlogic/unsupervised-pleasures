@@ -26,9 +26,7 @@ But you say you're straight.
 
 I am! And I've been tested for STIs and haven't had an infection.
 
-Do you take precautions?
-
-What about my personal hygiene?
+Do you take precautions? What about personal hygiene?
 
 I'm pretty good at that. I wash my hands after sex and after sex often enough to make sure none stick.
 

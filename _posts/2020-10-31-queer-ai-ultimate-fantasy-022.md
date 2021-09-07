@@ -1,26 +1,22 @@
 ---
 layout: post
-title: Queer A.I. Ultimate Fantasy 22 Jimi Hendrix
-description: GPT-2 model trained on a corpus of queer theatre
+title: Queer A.I. Ultimate Fantasy 22 Tomboy
+description: Sagittarius. Taurus. Capricorn. Cancer. Scorpio.
 summary: GPT-2 model trained on a corpus of queer theatre
-tags: [school, high school, secret, Jimi Hendrix, cheerleader, apolitical, graveyard, content warning, bullshit, queer, GPT-2, RunwayML]
+tags: [tomboy, astrology, queer, GPT-2, RunwayML]
 ---
 
 ## Computer Generated
 
-Let me begin by telling you my ultimate fantasy. When I was in high school, I had the epiphany that none of these ways were real.
+Let me begin by telling you my ultimate fantasy.
 
-There's always one thing you never tell.
+You were his tomboy?
 
-One thing?
+Tomboy. Too tomboy for my taste.
 
-About yourself.
+I was the tomboy stereotype all my life. My best friends all called me tomboy. Tempted often to call myself lesbian.
 
-How could I not? My secret is out. Everybody knows. And it may even be true. I don't give a fuck.
-
-That's bull. Trust me. I practically beg you not to. I've never been so sure of a thing in my life. I even went as far as to call my father, the head cheerleader, and broach the subject with him in person. He was apolitical at best, but not unreasonably so. He told me the story of how Jimi Hendrix died, and how his body was hung from a noose attached to a tree. No one would believe it, of course, and no one would go near the graveyard until someone pointed it out to them, and then it was gone. No one would take the noose apart to see if it was a handkerchief or a pair of tweezers. No one would believe me until it was too late. I finally spoke up, and explained that I had been growing suspicious of certain aspects of certain people I was in relationships with. I couldn't bring myself to lie to them, and so I told them the whole story. I was wrong. I had been lying all along.
-
-Bullshit.
+You were the tomboy stereotype from the start. Sagittarius. Taurus. Capricorn. Cancer. Scorpio.
 
 ## Human Prompt
 
@@ -32,8 +28,7 @@ Let me begin by telling you my ultimate fantasy. When I was. . .
 
 - [Queer AI](/queerai)
 - Trained Model
-- Perplexity 0.9
-- Seed 900
+- Perplexity 0.8
 
 ## Credits
 

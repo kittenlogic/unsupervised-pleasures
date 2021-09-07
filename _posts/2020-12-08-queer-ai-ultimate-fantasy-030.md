@@ -3,7 +3,7 @@ layout: post
 title: Queer A.I. Ultimate Fantasy 30 Tender Enough
 description: GPT-2 model trained on a corpus of queer theatre
 summary: GPT-2 model trained on a corpus of queer theatre
-tags: [doctor, priest, Jesus, pregnant, baby, love, erotic, queer, GPT-2, RunwayML]
+tags: [priest, Jesus, pregnant, baby, love, erotic, queer, GPT-2, RunwayML]
 ---
 
 ## Computer Generated
@@ -16,93 +16,57 @@ No one has to see that, not your parents, not your co-workers. Or your doctor. O
 
 The priest probably doesn't approve.
 
-The alternative
-
-What about deep-rooted?
-
-What about love?
-
-What about deep-rooted in you?
+The alternative. What about deep-rooted? What about love? What about deep-rooted in you?
 
 Your mothers, fathers.
 
-Please.
-
-Your mothers...?
-
 I want you to fuck me. Please.
 
-I can't.
-
-NO!
-
-No one can!
-
-I can't, my mother.
-
-NO!
+I can't. NO! No one can! I can't, my mother. NO!
 
 Fuck me, Father.
 
-Fucking me is wrong. It... is wrong.
-
-I don't want to, it makes me sick.
+Fucking me is wrong. It... is wrong. I don't want to, it makes me sick.
 
 I'm horny, make me horny.
 
 Make me sick?
 
-Yes.
+Yes. Fuck me. A good boy.
 
-Fuck me.
+I'm getting wet. I'm horny, make me horny.
 
-A good boy.
+Very good, very good. Slow.
 
-I'm getting wet.
+Do I look sexy in your yellow... The sexual revolution has... I... well, if only there was one thing that fucked me up good and sent me straight to Heaven. A moment of silence for what was...
 
-I'm horny, make me horny.
-
-Very good, very good. Slow. Do I look sexy in your yellow
-
-The sexual revolution has...
-
-I... well, if only there was one thing that fucked me up good and sent me straight to Heaven.
-
-A moment of silence for what was...
-
-You want to fuck me, you better fuckin'
+You want to fuck me, you better fuck.
 
 Just one minute, please. Just one minute.
 
-For whatever stupid reason.
-
-Guess what? I want to fuck you again.
+For whatever stupid reason. Guess what? I want to fuck you again.
 
 Please, fuck me. Please.
 
-My clothes are dirty.
-
-My friends called the cops.
-
-I'm scared.
+My clothes are dirty. My friends called the cops. I'm scared.
 
 There's a time and place for everything.
 
 I don't want to hear.
 
-You... dummy, why don't you kiss me? I'll do anything. Go ahead, get in a kiss, anything. I... don't know....
+You... dummy, why don't you kiss me? I'll do anything. Go ahead, get in a kiss, anything.
 
-Kiss me.
+I don't know...
 
-Please.
+Kiss me. Please.
 
-It's just that right now it's just so hard. So...
+It's just that right now it's just so hard.
 
-Are you afraid of me or am I just showing you my
+So are you afraid of me or am I just showing you my...
 
-Whatever you want. Hey, the milk's back. I took the cooler with me.
+Whatever you want.
 
-This is crazy, I am a month pregnant. I feel. So fucking. So full.
+Hey, the milk's back. I took the cooler with me. This is crazy, I am a month pregnant. I feel. So fucking. So full.
 
 I'm glad.
 

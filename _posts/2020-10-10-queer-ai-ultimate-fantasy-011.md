@@ -8,83 +8,43 @@ tags: [school, high school, gayborhood, cruising, lesbian, politically incorrect
 
 ## Computer Generated
 
-Let me begin by telling you my ultimate fantasy. When I was in high school, this sweet sixteen year old me, my best friend Susan, and I, all had a secret lesbian crush on each other.
+Let me begin by telling you my ultimate fantasy.
 
-Lover number one
+Lover number one.
 
-Our first
+When I was in high school, this sweet sixteen year old me, my best friend Susan, and I, all had a secret lesbian crush on each other. Our first.
 
-While cruising the gayborhoods of Atlanta, Florida or my best friend Joan was leaving for San Francisco for the summer, I asked,
+While cruising the gayborhoods of Atlanta, Florida, my best friend Joan was leaving for San Francisco for the summer. I asked, Why do you always have to be so politically incorrect?
 
-Why do you always have to be so politically incorrect?
+Lover number two.
 
-Lover number two
+We were both in the feminist closet. We hated each other terribly.
 
-We were both in the feminist closet
+And we began to wonder, Why do you always insist on being so politically incorrect? How dare you use the N-word in front of my ex-girlfriend. How dare you use the F-word in front of my best friend. How could you use those words to my ex-Lover in front of her best friend?
 
-Lover number two
-
-We hated each other terribly.
-
-Lover number one
-
-And we began
-
-to wonder
-
-Why do you always insist on being so politically incorrect?
-
-How dare you use the N-word in front of my ex-girlfriend.
-
-How dare you use the F-word in front of my best friend.
-
-How COULD you use those words to my ex-Lover in front of her best friend?
-
-I was so ashamed. It was my fault.
-
-It was her fault.
-
-We both fucked up.
-
-We both blamed ourselves.
+I was so ashamed. It was my fault. It was her fault. We both fucked up. We both blamed ourselves.
 
 Let's change the subject.
 
-Lover number three
+Lover number three.
 
-When I told my best friend Annie about this "fag" we had been Glorious Ann was incensed. She thought it was the most despicable thing I could possibly be doing.
+When I told my best friend Annie about this "fag" we had been Glorious. Ann was incensed. She thought it was the most despicable thing I could possibly be doing.
 
-How dare you use those words to my best friend.
-
-I am so embarrassed.
-
-I could have been killed.
-
-You could have been mauled.
-
-How dare you
+How dare you use those words to my best friend. I am so embarrassed. I could have been killed. You could have been mauled. How dare you.
 
 And yet, years later, here we are writing this book and you still insist that it all started that way. You still claim it.
 
 Queer folk, this is not going to do any good for you. I am sure you will all come to understand that our history is not as tragic as you might have thought.
 
-History is not something you can change.
-
-History is not black and white.
-
-History is not neat.
-
-History is always murky.
+History is not something you can change. History is not black and white. History is not neat. History is always murky.
 
 We can make it clearer by keeping our history in the murky.
 
 If I walked into a gay bar right now and asked the friendly waitresses if they remembered a certain "fag," they most certainly would not know. They would most certainly not be able to give me an honest answer. I would most certainly be disappointed. Most people have a hard time accepting that there might be a gay past in the first place. It almost feels like a challenge to the very fabric of reality.
 
-Lover number four
+Lover number four.
 
-In those days, you didn't even have to ask.
-
-Why do you continue to do this?
+In those days, you didn't even have to ask. Why do you continue to do this?
 
 History will judge us, my friends.
 

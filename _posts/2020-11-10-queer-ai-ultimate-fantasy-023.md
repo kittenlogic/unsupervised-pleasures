@@ -22,8 +22,6 @@ Fuck her!
 
 I've always been attracted to men. I was even attracted to boys! But one evening I realized I had fallen in love with someone completely different. No more heterosexual books or movies for me. I was an explorer. I could be anywhere and I could be anything I wanted to be with anyone I wanted to be with.
 
-Does anyone know this?
-
 Have you ever been so in love you fell in love with the entire world and suddenly regretted it the next day?
 
 I could fall in love with anyone. I could fall in love with my television, my computer, my friends. I could even fall in love with my mother. But I did what any good lover would do... I went out and FOUND HIM.
@@ -32,13 +30,9 @@ I fell in love with a man!
 
 That's right. I found a man. A true homosexual! A true HE- man! He was a stay-at-home father, a stay-at-home mother, an Amazon shopper, a stay-at-home homemaker, an Army buddy, a stay-at-home grandfather, a stay-at-home grandfather, an Amazon shopper, an Amazon homemaker, and the President of the United States.
 
-There we have it. You can finally pick and choose among the many loving arms that surround you. I believe in percentages. A big percentage. How many men are in a room with 144? How many loving arms can a man have?
+There we have it. You can finally pick and choose among the many loving arms that surround you. I believe in percentages. A big percentage. How many men are in a room with 144? How many loving arms can a man have? Is it seven? Is it five? Is it even a four?
 
-Is it seven?
-
-Is it five?
-
-Is it even a four?
+Okay, let's say I have all these wonderful and beautiful arms. But how do I know which one is which?
 
 I feel so fine. I have forty-seven loving arms. I have 144 bevy of arms.
 
@@ -54,17 +48,11 @@ Then how many miles is the width of the Grand Canyon and the length of Manhattan
 
 No.
 
-Then how many people is the mass of the sun and moon and the earth.
+Then how many people is the mass of the sun and moon and the earth?
 
-... is six.
+Is it six?
 
-Okay, let's say I have all these wonderful and beautiful arms. But how do I know which one is which?
-
-There are only six inches between a man and a woman. A woman's size doesn't matter. A woman's curves...
-
-There are curves. There are NO curves. You can't see a woman's curves.
-
-All you can see is what you put in your mouth.
+There are only six inches between a man and a woman. A woman's size doesn't matter. A woman's curves... There are curves. There are NO curves. You can't see a woman's curves. All you can see is what you put in your mouth.
 
 ## Human Prompt
 

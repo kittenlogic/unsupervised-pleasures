@@ -42,7 +42,9 @@ Sumba! We have won!
 
 You are all wrong.
 
-But I digress. Hello?
+But I digress.
+
+Hello?
 
 
 ## Human Prompt

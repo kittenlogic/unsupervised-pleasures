@@ -78,8 +78,8 @@ Let me begin by telling you my ultimate fantasy. . .
 
 - [Queer AI](/queerai)
 - Trained Model
-- Perplexity
-- Seed
+- Perplexity ?
+- Seed ?
 
 ## Credits
 

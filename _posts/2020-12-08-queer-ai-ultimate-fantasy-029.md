@@ -14,15 +14,11 @@ I want you to join me...
 
 What?
 
-My fantasy is to pick up, unpack, take everything inside me and go on a wild goose chase across America. I want to leave my clothes in the hamper, my favorite socks in the sock drawer, and my favorite shampoo bottles under the bed. What will we find?
+My fantasy is to pick up, unpack, take everything inside me and go on a wild goose chase across America. I want to leave my clothes in the hamper, my favorite socks in the sock drawer, and my favorite shampoo bottles under the bed.
 
-Rich?
+What will we find?
 
-Theres nothing between my legs but your clothes.
-
-You've seen enough of me to know that my sensual side lags behind my sexual one.
-
-I find that the more I explore my own sexuality the more aroused I become. This is called deviation.
+I find that the more I explore my own sexuality the more aroused I become. You've seen enough of me to know that my sensual side lags behind my sexual one. Theres nothing between my legs but your clothes. This is called deviation.
 
 I wouldn't want you to do this to me.
 
@@ -32,15 +28,11 @@ Our sexual fantasies are very limited, and it is the ultimate taboo to talk abou
 
 Do I have to do all of this for you?
 
-Don't you love that I care?
+Don't you love that I care? Or maybe you don't mind me showing you my clothes?
 
-Or maybe you don't mind me showing you my clothes?
+My God! Were doing it again! This is so naughty! You take this thing in your hands and work it into my pussy. Oh God yes.. do it with both hands... hard... good! Keep going... oh yes.. feel it inside you.. inside my bellybutton... inside my thighs... inside my tight little jeans... good... keep going... feeling it inside me, filling me up... oh God I want it so bad.. I want it so bad inside me.
 
-Alright... it comes out.
-
-My God! Were doing it again! This is so naughty! You take this thing in your hands and work it into my pussy. Oh God yes.. do it with both hands... hard... good! Keep going... oh yes.. feel it inside you.. inside my bellybutton.. inside my thighs.. inside my tight little jeans.. good... keep going... feeling it inside me, filling me up... oh God I want it so bad.. I want it so bad inside me..
-
-Its gone.
+Alright... it comes out. It's gone.
 
 Im giving you a blow job.
 
@@ -56,9 +48,7 @@ I'm going to turn on the shower, I'm going to take all my clothes off, I'm going
 
 You want to touch me, but don't you want to finger me?
 
-Good boy.
-
-There we are.
+Good boy. There we are.
 
 There weren't enough surprises this time.
 
@@ -66,7 +56,7 @@ I almost felt like Elise in Bluebeard.
 
 I thought Elise in Bluebeard was more dangerous.
 
-And I was wrong.
+I was wrong.
 
 When you get right down to it, Elise is the spiritual mother of kinky sex.
 

@@ -8,8 +8,7 @@ tags: [non-monogamy, cheating, gay, homophobic, father, marriage, friendship, qu
 
 ## Computer Generated
 
-Let me begin by telling you my ultimate fantasy. I Was Born This Way.
-Noted workhorse of the gay liberation movement, author of Every Little Girl a River, and the mother of Stonewall Jane.
+Let me begin by telling you my ultimate fantasy. I Was Born This Way. Noted workhorse of the gay liberation movement, author of Every Little Girl a River, and the mother of Stonewall Jane.
 
 Ah. The life of Stonewall Jane. The story of how a bunch of dykes from the Lower East Side of Manhattan came together to create a gay women's organization whose mission statement read: "A pure, unadulterated, non-committed, non-homoerotic, non-monogamy organization dedicated to the improvement of the human sex and to the organization of sex education in schools."
 
@@ -17,32 +16,19 @@ Kitty Cochrane. The name stuck. We knew it. We incorporated in the same year tha
 
 Me, I was a little afraid that if I came out, that my relationships with men would be put under a bus.
 
-There is a lot of research that suggests that being gay does in fact make you more homophobic, and that a great many gay men are still homophobic.
-
-And that some of those men are probably still in abusive relationships.
+There is a lot of research that suggests that being gay does in fact make you more homophobic, and that a great many gay men are still homophobic. And that some of those men are probably still in abusive relationships.
 
 We wanted to be real, Laurel, and we were not going to play by the rules.
 
-And I would have been ostracized from my friends.
+And I would have been ostracized from my friends. Laurel, Cathy, I have a confession to make. I was wrong about you.
 
 I think a lot of the hostility I've seen toward people who are gay comes from two places. One is from people who want us as we are. The other is from people who think that because we do things that are different from their way of life that somehow we're somehow lesser.
 
-It's such a frightening thing to think about, Kitty, because we could all be dead.
+It's such a frightening thing to think about, Kitty, because we could all be dead. So, Kitty, I'll ask you this another way. How many gay men are in abusive relationships?
 
-Laurel, Cathy, I have a confession to make. I was wrong about you.
+You're being silly. Do you have any idea how many men I've known who would sleep with me and be faithful to me no matter what? I have slept with hundreds. I have slept with thousands.
 
-So, Kitty, I'll ask you this another way. How many gay men are in abusive relationships?
-
-You're being silly.
-
-Do you have any idea how many men I've known who would sleep with me and be faithful to me no matter what? I have slept with hundreds.
-
-I have slept with thousands.
-
-And just how many straight men do you know who cheat on their wives?
-
-I'm not asking you to give me any statistics, Kitty.
-But you would know, right?
+And just how many straight men do you know who cheat on their wives? I'm not asking you to give me any statistics, Kitty. But you would know, right?
 
 Sleeping with other men has nothing whatsoever to do with a man being a good father. And the myth that men who cheat on their wives are somehow "disingenuous," as one friend put it, flies in the face of all the hard science on the matter.
 

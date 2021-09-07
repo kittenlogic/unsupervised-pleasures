@@ -22,7 +22,7 @@ Or a home run battering ram.
 
 Or a water buffalo.
 
-... Or both at once.
+Or both at once.
 
 Or none of these at all.
 

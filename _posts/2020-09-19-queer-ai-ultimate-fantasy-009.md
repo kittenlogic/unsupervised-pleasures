@@ -3,16 +3,12 @@ layout: post
 title: Queer A.I. Ultimate Fantasy 9 The Public Condom
 description: GPT-2 model trained on a corpus of queer theatre
 summary: GPT-2 model trained on a corpus of queer theatre
-tags: [sex toy, clubs, cruising, condom, gay, lesbian, Christs-for-Jesus, heaven, Christmas, tomboy, astrology, lunatic fringe, LSD, Valium, lion, tiger, dream, middle class, GPT-2, RunwayML, queer]
+tags: [sex toy, clubs, cruising, condom, gay, lesbian, Christs-for-Jesus, heaven, Christmas, GPT-2, RunwayML, queer]
 ---
 
 ## Computer Generated
 
 Let me begin by telling you my ultimate fantasy. When I was in high school, this sweet, innocent, bubbly geezer from Mendocino, California, came over for dinner and had the most incredible meal. We chatted all day and night about life in the gay and lesbian community and his favorite subject was "The Private Life of the City." He talked about cruising the city, going out to bars on Friday nights, and even went as far as to buy me a leather briefcase with sex toys inside so I could take all my fantasies to the clubs.
-
-My mouth dropped open when he told me this.
-
-No, really.
 
 He'd taken me to gay clubs and explained to me that none of the guys there used condoms and that it was the girls that used them. No one ever said anything about it being a perverted thing to do. He even went as far as to buy me a "public" condom, which was only intended for close male friends.
 
@@ -28,7 +24,7 @@ He was disappointed. He told me he had made a big mistake. He'd like to take som
 
 He couldn't?
 
-He was angry. He said he loved you very much and that you always put his best foot forward.
+He was angry. He said he loved me very much and that I always put his best foot forward.
 
 You must have been hurt, too.
 
@@ -36,22 +32,8 @@ I was in shock. I never wanted him to see what I saw. He was the most amazing, s
 
 You mean he turned gay after that?
 
-I don't know. Maybe.
-Maybe. He could have been lying down the gurney any minute. I'm sainted.
+I don't know. Maybe. Maybe. He could have been lying down the gurney any minute. I'm sainted.
 
-You were his tomboy?
-
-Tomboy. Too tomboy for my taste. I was the tomboy stereotype all my life. My best friends all called me tomboy.
-
-I don't think so. Tempted often to call myself lesbian.
-
-You were the tomboy stereotype from the start. Sagittarius. Taurus. Capricorn. Cancer. Taurus. Scorpio.
-
-"Lunatic fringe" orchard. A quiet place for the weekend. June.
-
-A friend of Harvey's has this cabin on a steep hill overlooking the Willamette River. The fire is still burning and the smell is unbearable. He tells me he has a "dream" this weekend in which he thinks he is in "The Pit." I ask him what it is he imagines himself doing there. He tells me he envisions himself leading a normal, middle-class existence. Then, he tells me, suddenly he senses something terrifying and insists I get out of bed.
-
-He says he has been taking hallucinogenic drugs lately, such as Valium and Valium + Lysergic acid diethylamide. He says he dreams of swimming through rapids, of tigers and lions, of armies marching on fields.
 
 ## Human Prompt
 

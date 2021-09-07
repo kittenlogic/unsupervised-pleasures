@@ -3,12 +3,14 @@ layout: post
 title: Queer A.I. Ultimate Fantasy 20 Ultimate Fear
 description: GPT-2 model trained on a corpus of queer theatre
 summary: GPT-2 model trained on a corpus of queer theatre
-tags: [queer, boy, mother, white, gay, gayborhood, school, high school, chemistry, stereotype, illegal, isolation, outcast, Blanche DuBois, Alan McCarthy, dyke, lesbian, homosexual, sexuality, public policy, targets, parents, secret, GPT-2, RunwayML]
+tags: [queer, boy, mother, white, gay, gayborhood, school, high school, chemistry, stereotypes, illegal, isolation, outcast, Blanche DuBois, Alan McCarthy, dyke, lesbian, homosexual, sexuality, public policy, parents, secret, GPT-2, RunwayML]
 ---
 
 ## Computer Generated
 
-Let me begin by telling you my ultimate fantasy. When I was a very young girl, there was a gay boy in my school. He was a regular pupil in the chemistry department, not the best of students, who made all the right errors and often got punished for them. One day his name was on the school register and he was suddenly ostracized and had to go home. No one would talk to him; his schoolmates didn't want to know about it, and his parents didn't want to accept that his sexuality was a secret. And a year later his parents sued the school for discrimination and won.
+Let me begin by telling you my ultimate fantasy. When I was a very young girl, there was a gay boy in my school. He was a regular pupil in the chemistry department, not the best of students, who made all the right errors and often got punished for them.
+
+One day his name was on the school register and he was suddenly ostracized and had to go home. No one would talk to him; his schoolmates didn't want to know about it, and his parents didn't want to accept that his sexuality was a secret. And a year later his parents sued the school for discrimination and won.
 
 Gay boy, by the way, that's not on. What's it like to be the only openly gay person in a small English town?
 
@@ -20,21 +22,15 @@ Isolation.
 
 In my experience, the isolation most often accompanies the coming out. When I was in high school, my best friend, a nurse, came out as gay at the end of the year. Before that, he had been polite but distant and self-centered. He told me he was straight when he was thirteen and that it had nothing to do with the things we loved.
 
-Hank Here's my son.
+It took him a long time to come around and tell his parents, who were still somewhat against his decision. I think it was a matter of being rejected so many times by so many people.
 
-It took him a long time to come around and tell his parents, who were still somewhat against his decision. I think it was a matter of being rejected so many times by so many people. When I was growing up, there wasn't even Blanche DuBois. I don't know if coming out would have made a real difference to her life.
+When I was growing up, there wasn't even Blanche DuBois. I don't know if coming out would have made a real difference to her life. Probably not, anyway. She had a very straight-White mother, and even though she was pretty open about her attraction to boys, she was perfectly content being a housewife and mother to a white kid.
 
-Probably nothing, anyway. She had a very straight-White mother, and even though she was pretty open about her attraction to boys, she was perfectly content being a housewife and mother to a white kid.
-
-Mama, there are so many stereotypes about queers out there. What about Hank?
+Mama, there are so many stereotypes about queers out there.
 
 My son is very open about his sexuality. He's not ashamed of it. In fact, he's very happy about it.
 
-Homosexuality, in general, is still a very new thing. There are so many people queer or multiracial out there. And in many parts of the country, it's illegal to be homosexual.
-
-It's still illegal in thirty states!
-
-Or in the District of Columbia.
+Homosexuality, in general, is still a very new thing. There are so many people queer or multiracial out there. And in many parts of the country, it's illegal to be homosexual. It's still illegal in thirty states! Or in the District of Columbia.
 
 Hank and I are very much in the pro-homosexual camp.
 
@@ -47,12 +43,6 @@ I think it is. I do think it's good public policy to be out front and to be as f
 You could make the same case about Alan McCarthy, who in the late fifties came out as a dyke.
 
 I wouldn't make the same argument about a mensch.
-
-I love Hank. I think he's a wonderful man. I do miss his mother, though.
-
-I could see you both becoming parents someday.
-
-I wouldn't want either one of us to give up on the kid, though.
 
 You could theoretically.
 

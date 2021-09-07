@@ -10,11 +10,11 @@ tags: [phone sex, Larry Merchant, queer, GPT-2, RunwayML]
 
 Let me begin by telling you my ultimate fantasy.
 
-He takes her to his place. She takes the elevator up. He goes through the bedroom door. She becomes aware of LIL J They kiss. He goes into the bathroom. She becomes aware of JOSHUA. They embrace. They go into the bedroom. She becomes aware of KITTY. She removes her hand from JOSHUA's neck. She lies down on the bed. She pants. She pulls her pants up. She becomes aware of RITA. She lies down on the bed. She pants. She pulls her pants up. She becomes aware of JOSHUA. She lies down on the bed. She pants. She becomes aware of KITTY. She lies down on the bed. She pants. She becomes aware of RITA. She lies down on the bed. She pants.
+He takes her to his place. She takes the elevator up. He goes through the bedroom door. She becomes aware of LIL J. They kiss. He goes into the bathroom. She becomes aware of JOSHUA. They embrace. They go into the bedroom. She becomes aware of KITTY. She removes her hand from JOSHUA's neck. She lies down on the bed. She pants. She pulls her pants up. She becomes aware of RITA. She lies down on the bed. She pants. She pulls her pants up. She becomes aware of JOSHUA. She lies down on the bed. She pants. She becomes aware of KITTY. She lies down on the bed. She pants. She becomes aware of RITA. She lies down on the bed. She pants.
 
 Lil and Joshua have sex.
 
-LIL j awakens at 4 a.m. to a phone call from KITTY.
+Lil J awakens at 4 a.m. to a phone call from KITTY.
 
 I wish I could have kept you, honey. I miss you so much.
 
@@ -26,13 +26,17 @@ I'm glad you feel that way.
 
 No more phone sex please.
 
-A phone sex alert? Who would ever want a Larry Merchant-sized dick in their mouth after that?
+A phone sex alert?
+
+Who would ever want a Larry Merchant-sized dick in their mouth after that?
 
 I want this a lot.
 
 May I have the number?
 
-The number is a bonus on my next book. HI!
+The number is a bonus on my next book.
+
+Hi!
 
 May I use it please?
 

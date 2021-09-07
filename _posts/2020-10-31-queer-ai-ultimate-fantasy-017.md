@@ -12,7 +12,9 @@ Let me begin by telling you my ultimate fantasy. When I was young, I could love 
 
 I was the fairy godmother to every little boy. They called me "Flute-Tossing Hot-Puss."
 
-Every summer, I would arrive at camp sated, my hair in a frenzied tangle, my nails in a tartarfie tangle, my fingertips laced with holy oil, my boots black with mud, and studded with golden bracelets worn backwards. My white socks were studded with lapis lazuli, and the tops of my white dresses lined with lavender shawls and fringes of ocher. To each child I gave jewel-encrusted bracelets, earrings, and earrings pendants valued at a reported $150,000.00. My favorite, a blue rhinestone,  confessor's ring, cost me just shy of a quarter million.
+Every summer, I would arrive at camp sated, my hair in a frenzied tangle, my nails in a tartarfie tangle, my fingertips laced with holy oil, my boots black with mud, and studded with golden bracelets worn backwards. My white socks were studded with lapis lazuli, and the tops of my white dresses lined with lavender shawls and fringes of ocher.
+
+To each child I gave jewel-encrusted bracelets, earrings, and earrings pendants valued at a reported $150,000.00. My favorite, a blue rhinestone, confessor's ring, cost me just shy of a quarter million.
 
 Then one day, out on the paved path that connected the camp to the forest, all the way out to the river, a flash of white illuminated the entire clearing like an ultramarine sunset.
 

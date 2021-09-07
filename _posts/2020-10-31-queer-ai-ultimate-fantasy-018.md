@@ -22,9 +22,7 @@ I want to take my clothes off in the moonlight and float naked across the cold w
 
 Take your clothes off, I want to experience sex without judgement!
 
-I had that fantasy,
-
-I had that fantasy, Lou, now turn your head around so I can see your clit.
+I had that fantasy, now turn your head around so I can see your clit.
 
 NO! I can't!! I cant turn my head around til I get my clothes off.
 

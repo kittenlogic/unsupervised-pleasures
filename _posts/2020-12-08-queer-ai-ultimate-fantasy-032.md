@@ -10,25 +10,17 @@ tags: [erotic, secret, school, high school, teacher, fraternity, prom, bar, porn
 
 Let me begin by telling you my ultimate fantasy. My lover will disappear. I have a lifetime of secrets to keep and he will never see me. I have all the proof. And what am I going to do? Abandon him? Flee to a safe place away from prying eyes and a screaming public?
 
-No. You have to be brave enough to say it. And tell the world.
+No. You have to be brave enough to say it. And tell the world. There is a world out there waiting to be heard. Queer people are not safe from the world. They are on the run. And if they run, so do we.
 
-You can't do that.
+Are you running from the facts? Or the truth?
 
-There is a world out there waiting to be heard. Queer people are not safe from the world. They are on the run. And if they run, so do we.
+I was never afraid to be unpopular. I was never afraid to flaunt my queerness. I practiced what I preached. I vowed to myself never to reveal a secret. I was never ashamed to wear my queerness proudly.
 
-Are you running from the facts?
-
-Or the truth.
-
-I was never afraid to be unpopular. I was never afraid to flaunt my queerness. I practiced what I preached. I vowed to myself never to reveal a secret. I was never ashamed to wear my queerness proudly. And what would you think if I told you I was a psychopathic serial killer? Would you wonder where I went wrong, what I could have done to make you less likely to love me?
+And what would you think if I told you I was a psychopathic serial killer? Would you wonder where I went wrong, what I could have done to make you less likely to love me?
 
 No.
 
-Or maybe you would.
-
-Or maybe not.
-
-But that's a decision you will have to make.
+Or maybe you would. Or maybe not. But that's a decision you will have to make.
 
 No.
 
@@ -44,17 +36,13 @@ No one ever told you how turned on you can be in front of a class.
 
 In class?
 
-In a gay bar. In a gay porno. On TV.
+In a gay bar. In a gay porno. On TV. I can't tell you how many nights I dreamed of being gang-raped and sodomized by my fraternity brothers. And how many nights I dreamed of being gang-raped and sodomized by my schoolmates.
 
-I can't tell you how many nights I dreamed of being gang-raped and sodomized by my fraternity brothers.
-
-And how many nights I dreamed of being gang-raped and sodomized by my schoolmates.
-
-In front of me.
+In front of me?
 
 In front of all of us.
 
-All of us.
+All of us?
 
 All of us at that school.
 
@@ -66,7 +54,7 @@ How many times have you been the object of sexual requests, whispered or whisper
 
 How many times have you been the object of drunken brawls, fistfights, and fist-fights in the street?
 
-And most gallingly of all, how many times have you been the object of a. . .
+And most gallingly of all, how many times have you been the object of a...
 
 
 ## Human Prompt

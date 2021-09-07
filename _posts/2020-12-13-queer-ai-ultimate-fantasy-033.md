@@ -14,11 +14,9 @@ Sex and romance without the fear of being judged a pervert or a pervert's wet dr
 
 A fantasy so awesome, you wouldn't believe it.
 
-I've taken you to places nobody has gone before. You walked arm in arm with your childhood sweetheart, your best friend's mother, your...
+I've taken you to places nobody has gone before. You walked arm in arm with your childhood sweetheart, your best friend's mother, poured over her shoulder to the jazz club, across the street to the farmers market, hidden in that one gay bar where you met those first few friends.
 
-Poured over her shoulder to the jazz club, across the street to the farmers market, hidden in that one gay bar where you met those first few friends...
-
-Everywhere you turned, searching, asking the same questions over and over,
+Everywhere you turned, searching, asking the same questions over and over.
 
 Queer boys and girls together in gay bars doing the same things that you and I do every day.
 
@@ -26,7 +24,9 @@ Queer boys and girls in queer leather and punk rock performing in front of thous
 
 You see, in our fantasy, there are no rules.
 
-No rules? Rules that say you can't kiss because that might spoil the fantasy.
+No rules?
+
+Rules that say you can't kiss because that might spoil the fantasy.
 
 Or that you can't flirt because that might lead to jealousy or other forbidden behaviour.
 
@@ -46,7 +46,7 @@ The gay community has been brainwashed by bigots.
 
 They've succeeded in brainwashing us into giving up our most cherished civil rights.
 
-And turning our back on the millions of wonderful people who come out of the homosexual closet each and every year. They've succeeded in brainwashing by demonizing, demonizing,
+And turning our back on the millions of wonderful people who come out of the homosexual closet each and every year. They've succeeded in brainwashing by demonizing, demonizing...
 
 You're absolutely right.
 
@@ -64,19 +64,19 @@ A GOOD PERSON.
 
 A Credible Person.
 
-And that if we chose to be like that, we it would be okay.
+And that if we chose to be like that, we would be okay.
 
 And I was happy for a time. I was happy for a time. And I still am. Because today those days are over. I don't go to sleep anymore knowing that, boogeyman, that some radical group of kids was going to demonstrate and gun down those kids just because they were gay.
 
 But that's not our reality. My brother, Joe, is dead. And those kids just got killed.
 
-Listen, Jamey. You said something really nice about my cousin last night. He's really a swell guy. Don't get cute. Respect.
+Listen, you said something really nice about my cousin last night. He's really a swell guy. Don't get cute. Respect.
 
 Joe Shepard is a walking Super-Duper Tom Tucker. He's a product of the left-wing Super-Duper Tom Tucker Academy.
 
 Don't flatter yourself into thinking you're any more than slightly tainted by those toxic waters. There are plenty more like you. You probably think you're just like them.
 
-But, Tyler, I don't look like them.
+But, I don't look like them.
 
 You think being gay is like being Mexican, black, brown, or whatever?
 
