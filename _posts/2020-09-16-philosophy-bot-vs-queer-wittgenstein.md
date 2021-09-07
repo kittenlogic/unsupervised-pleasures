@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Philosophy Bot vs Queer Wittgenstein
+title: Queer Wittgenstein
 description: GPT-2 model trained on Nietzsche, Spinoza, Schopenhauer, Bergson, William James on Wittgenstein's Homosexuality
 summary: GPT-2 model trained on Nietzsche, Spinoza, Schopenhauer, Bergson, William James on Wittgenstein's Homosexuality
 tags: [machine learning, GPT-2, RunwayML, philosophy, ethics, queer, Wittgenstein]

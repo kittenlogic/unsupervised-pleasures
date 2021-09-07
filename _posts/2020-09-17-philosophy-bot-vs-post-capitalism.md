@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Philosophy Bot Explains Life After Capitalism
+title: Life After Capitalism
 description: GPT-2 model trained on Nietzsche, Spinoza, Schopenhauer, Bergson, William James reflect on pleasure and self-emancipation after capitalism
 summary: GPT-2 model trained on Nietzsche, Spinoza, Schopenhauer, Bergson and William James reflect on pleasure and self-emancipation after capitalism
 tags: [machine learning, GPT-2, RunwayML, philosophy, ethics, capitalism, apocalypse]

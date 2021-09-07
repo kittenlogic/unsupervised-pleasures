@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Philosophy Bot vs Death Cults
+title: Death Cults
 description: GPT-2 model trained on Nietzsche, Spinoza, Schopenhauer, Bergson, William James reflect on death cults, QAnon, revolution, dominator culture, and the will to power
 summary: GPT-2 model trained on Nietzsche, Spinoza, Schopenhauer, Bergson and William James reflect on death cults, QAnon, revolution, dominator culture, and the will to power
 tags: [machine learning, GPT-2, RunwayML, philosophy, ethics, apocalypse, death cults, QAnon, revolution, dominator culture, romance, will to power, pandemic]
