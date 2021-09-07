@@ -15,21 +15,25 @@ title: Search
     padding: 1rem;
 		background: rgb(236, 237, 238);
     width: 100%;
+		height: 50px;
 		-webkit-appearance: none;
 		font-family: inherit;
 		font-size: 100%;
 		border: none;
+		border-radius: 0;
 	}
 
 	input[type=submit] {
 	  width: 100%;
+		height: 50px;
 	  background-color: #6639E4;
-	  color: white;
+	  color: #fff;
 		font-size: 1em;
 	  padding: 14px 20px;
 	  margin: 8px 0;
 	  border: none;
-	  cursor: pointer;
+		border-radius: 0;
+	  cursor: pointer;		
 	}
 
 	input[type=submit]:hover {
