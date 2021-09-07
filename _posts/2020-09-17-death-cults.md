@@ -6,7 +6,7 @@ summary: GPT-2 model trained on Nietzsche, Spinoza, Schopenhauer, Bergson and Wi
 tags: [machine learning, GPT-2, RunwayML, philosophy, ethics, apocalypse, death cults, QAnon, revolution, dominator culture, romance, will to power, pandemic]
 ---
 
-## A Conversation on death cults, revolution, dominator culture, and the will to power
+### a chat about death cults, revolution, dominator culture, and the will to power.
 
 ![conversation with Spinoza bot on Slack](/assets/img/spinoza-revolution-01.png)
 
