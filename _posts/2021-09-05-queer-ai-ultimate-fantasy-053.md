@@ -11,13 +11,9 @@ tags: [LSD, Valium, lions, tigers, dreams, middle class, queer, GPT-2, RunwayML]
 
 Let me begin by telling you my ultimate fantasy.
 
-A friend of Harvey's has this cabin on a steep hill overlooking the Willamette River. The fire is still burning and the smell is unbearable. He tells me he has a "dream" this weekend in which he thinks he is in "The Pit." I ask him what it is he imagines himself doing there. He tells me he envisions himself leading a normal, middle-class existence. Then, he tells me, suddenly he senses something terrifying and insists I get out of bed.
+A friend of Harvey's has this cabin on a steep hill overlooking the Willamette River. The fire is still burning and the smell is unbearable. He tells me he has a "dream" this weekend in which he thinks he is in "The Pit." I ask him what it is he imagines himself doing there. He tells me he envisions himself leading a normal, middle-class existence. Then, he tells me, suddenly he senses something terrifying and insists I get out of bed. He says he has been taking hallucinogenic drugs lately, such as Valium and Valium + Lysergic acid diethylamide. He says he dreams of swimming through rapids, of tigers and lions, of armies marching on fields. Lunatic fringe orchard. A quiet place for the weekend. June.
 
-He says he has been taking hallucinogenic drugs lately, such as Valium and Valium + Lysergic acid diethylamide. He says he dreams of swimming through rapids, of tigers and lions, of armies marching on fields.
-
-"Lunatic fringe" orchard. A quiet place for the weekend. June.
-
-## Human Prompt
+## Seed
 
 Do you like to have anonymous sex in public rest rooms? Sex movies? Public parks? Sex clubs? On street corners with heavy hustling traffic? How many nonsexual friendships or acquaintances lasting for decades started this way? How many ways are there to love queers? How many ways are there to queer love?
 

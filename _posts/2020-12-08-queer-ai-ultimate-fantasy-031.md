@@ -55,7 +55,7 @@ I could keep fucking anyone in the world. That's why I love you so.
 So could I. It's why I want to be your friend forever. To carry on the legacy of that friendship that which began thirty years ago and which you continue to love to this day.
 
 
-## Human Prompt
+## Seed
 
 Do you like to have anonymous sex in public rest rooms? Sex movies? Public parks? Sex clubs? On street corners with heavy hustling traffic? How many nonsexual friendships or acquaintances lasting for decades started this way? How many ways are there to love queers? How many ways are there to queer love?
 

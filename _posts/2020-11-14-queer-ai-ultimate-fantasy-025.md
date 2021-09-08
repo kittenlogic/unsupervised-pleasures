@@ -22,7 +22,7 @@ I felt a surge of desire that day I never got before. I wanted to finger myself 
 
 I asked Emily if she thought men would be interested in me because of my body. She said it was plausible. Then I thought about all the places I had gone to girls had told me they thought I was hot, so I told her it sounded plausible. She said she had to talk to you. Talk to me. I have a hard time letting go of fantasies about sex with women, even though I want to try it. But I have to face facts. When a man leaves me, he leaves his wife and child for a woman. That's a frightening thought. And even though I know it doesn't mean things are going to change, I still feel a deep kinship with that poor girl. She may not be around to see it, but I will always have that window of opportunity. That night, I had a fag. I have a secret. I only eat it after sex. I know that's a turn-on, but it's all too much trouble to get it down. Just make it a Sodom or Gomorra. Maybe that'll turn some heads.
 
-## Human Prompt
+## Seed
 
 Do you like to have anonymous sex in public rest rooms? Sex movies? Public parks? Sex clubs? On street corners with heavy hustling traffic? How many nonsexual friendships or acquaintances lasting for decades started this way? How many ways are there to love queers? How many ways are there to queer love?
 

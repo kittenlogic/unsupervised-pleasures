@@ -23,7 +23,7 @@ I want to go back to the moment the beautiful woman on the phone put her arm aro
 I want to go back to the moment the motherly words, "I love you," filled my heart and sent me dancing.
 
 
-## Human Prompt
+## Seed
 
 Do you like to have anonymous sex in public rest rooms? Sex movies? Public parks? Sex clubs? On street corners with heavy hustling traffic? How many nonsexual friendships or acquaintances lasting for decades started this way? How many ways are there to love queers? How many ways are there to queer love?
 

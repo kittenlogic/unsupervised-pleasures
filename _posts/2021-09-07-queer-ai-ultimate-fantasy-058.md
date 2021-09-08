@@ -11,21 +11,27 @@ tags: [sex, dreams, nightmares, queer, GPT-2, RunwayML]
 
 Let me begin by telling you my ultimate fantasy.
 
-Do you love me? Do you love me inside? Kiss me. Feel me. It feels so good doesn't it? Feeling your body against mine. You like that don't you? Some of my best sex. Do you want to keep going? Want to share something? We can share our clothes. Or our beds. We can share our dreams.
+Do you love me?<br/>
+Do you love me inside?<br/>
+Kiss me. Feel me.<br/>
+It feels so good doesn't it?<br/> Feeling your body against mine.<br/>
+You like that don't you?<br/> Some of my best sex.<br/>
+Do you want to keep going?<br/>
+Want to share something?<br/> We can share our clothes.<br/> Or our beds.<br/> We can share our dreams.
 
-I dreamt that tonight my bedroom door was open and two black-clad figures stood inside, one in front, holding hands. I was so turned on I nearly lost control. I ran screaming from the bedroom door. Screaming like a lion. I ran so fast I nearly knocked over the doorknob. My friends watched in horror. I ran so fast they couldn't follow. Finally I ran out of the house on my hands and knees, a callous fucker.
+I dreamt that tonight my bedroom door was open and two black-clad figures stood inside, one in front, holding hands.<br/> I was so turned on I nearly lost control.<br/> I ran screaming from the bedroom door.<br/> Screaming like a lion.<br/> I ran so fast I nearly knocked over the doorknob.<br/> My friends watched in horror.<br/> I ran so fast they couldn't follow.<br/> Finally I ran out of the house on my hands and knees, a callous fucker.
 
 What are you hiding from me?
 
 Don't you remember?
 
-Touch me, baby. Tell me everything. Do I look sexy in purple? Orange? Auburn? Bold. Curly. Tit. Round. Round. Round. Soft. Hard. Tit! Ass. Round ass, ass up, ass down.
+Touch me, baby. Tell me everything.<br/> Do I look sexy in purple? Orange? Auburn?<br/> Bold. Curly. Tit. Round. Round. Round. Soft. Hard. Tit! Ass.<br/> Round ass, ass up, ass down.
 
 Cover me in cling-film.
 
-Yesoooh! It's so humiliating, I thought I was hallucinating. I covered myself in clingfilm so I wouldn't be recognized. Now you'll see. I have no suntan lotion. I'm covered in clingfilm to keep me warm at night. Because today I had a nightmare.
+Yesoooh!<br/> It's so humiliating, I thought I was hallucinating.<br/> I covered myself in clingfilm so I wouldn't be recognized.<br/> Now you'll see.<br/> I have no suntan lotion.<br/> I'm covered in clingfilm to keep me warm at night.<br/> Because today I had a nightmare.
 
-## Human Prompt
+## Seed
 
 Do you like to have anonymous sex in public rest rooms? Sex movies? Public parks? Sex clubs? On street corners with heavy hustling traffic? How many nonsexual friendships or acquaintances lasting for decades started this way? How many ways are there to love queers? How many ways are there to queer love?
 

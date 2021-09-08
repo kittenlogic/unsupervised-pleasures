@@ -59,7 +59,7 @@ I spent the rest of my life in a state of total denial. I could not imagine how 
 So you threw in the towel. So you decided to disappear. I'm amazed you didn't leave me with a bloody nose.
 
 
-## Human Prompt
+## Seed
 
 Do you like to have anonymous sex in public rest rooms? Sex movies? Public parks? Sex clubs? On street corners with heavy hustling traffic? How many nonsexual friendships or acquaintances lasting for decades started this way? How many ways are there to love queers? How many ways are there to queer love?
 

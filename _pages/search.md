@@ -16,11 +16,13 @@ title: Search
 		background: rgb(236, 237, 238);
     width: 100%;
 		height: 50px;
-		-webkit-appearance: none;
 		font-family: inherit;
 		font-size: 100%;
 		border: none;
 		border-radius: 0;
+		-webkit-appearance: none;
+		-moz-appearance: none;
+		appearance: none;
 	}
 
 	input[type=submit] {
@@ -33,10 +35,14 @@ title: Search
 	  margin: 8px 0;
 	  border: none;
 		border-radius: 0;
-	  cursor: pointer;		
+	  cursor: pointer;
+		-webkit-appearance: none;
+		-moz-appearance: none;
+		appearance: none;		
 	}
 
-	input[type=submit]:hover {
+	input[type=submit]:hover,
+	input[type=submit]:focus {
 	  background-color: #282454;
 	}
 

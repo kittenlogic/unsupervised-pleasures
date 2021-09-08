@@ -20,7 +20,7 @@ Guys, I have a confession to make. It's late, I'm exhausted, I've got dinner to 
 
 This is it. We've all got to turn on the lights. Please join me. This is the part of the show where I explain to you why my ex-boyfriend and I have been lovers since the day we first laid eyes on each other.
 
-## Human Prompt
+## Seed
 
 Do you like to have anonymous sex in public rest rooms? Sex movies? Public parks? Sex clubs? On street corners with heavy hustling traffic? How many nonsexual friendships or acquaintances lasting for decades started this way? How many ways are there to love queers? How many ways are there to queer love?
 

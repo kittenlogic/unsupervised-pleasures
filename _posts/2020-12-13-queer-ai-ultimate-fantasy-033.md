@@ -104,7 +104,7 @@ There you have it. I told you. It really is that simple.
 And I think this little insight really hammers home just how simple it is to be me.
 
 
-## Human Prompt
+## Seed
 
 Do you like to have anonymous sex in public rest rooms? Sex movies? Public parks? Sex clubs? On street corners with heavy hustling traffic? How many nonsexual friendships or acquaintances lasting for decades started this way? How many ways are there to love queers? How many ways are there to queer love?
 

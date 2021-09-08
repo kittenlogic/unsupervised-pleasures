@@ -6,7 +6,7 @@ summary: GPT-2 model trained on Nietzsche, Spinoza, Schopenhauer, Bergson and Wi
 tags: [machine learning, GPT-2, RunwayML, philosophy, ethics, capitalism, apocalypse]
 ---
 
-## Human Prompt
+## Seed
 
 After generations of living under colonialism, white supremacy, economic insecurity, increasing austerity, crushing psychological stress, social unrest, a global pandemic, ecological catastrophe, fake news, conspiracy theories, extreme nihilism, and near climate collapse, the humans decided to end capitalism, overthrow their corrupt leaders, and begin again.
 

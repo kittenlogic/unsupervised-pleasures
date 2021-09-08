@@ -14,7 +14,7 @@ He takes no crap from me. He doesn't call me all the time to see how I am. He's 
 
 He's not interested in our personal romances or our painful but ultimately fulfilling gay sex. He simply is... plain... gay.
 
-## Human Prompt
+## Seed
 
 Do you like to have anonymous sex in public rest rooms? Sex movies? Public parks? Sex clubs? On street corners with heavy hustling traffic? How many nonsexual friendships or acquaintances lasting for decades started this way? How many ways are there to love queers? How many ways are there to queer love?
 

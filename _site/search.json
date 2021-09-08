@@ -2,6 +2,39 @@
   
     {
 
+      "title"    : "Queer A.I. Ultimate Fantasy 61 The Crucifixion",
+      "url"      : "/texts/queer-ai-ultimate-fantasy-061",
+      "category" : "",
+      "tags"     : "art, Paul Cadmus, Jesus, queer, GPT-2, RunwayML",
+      "date"     : "2021-09-08 00:00:00 -0700",
+      "description" : "GPT-2 model trained on a corpus of queer theatre"
+
+    } ,
+  
+    {
+
+      "title"    : "Queer A.I. Ultimate Fantasy 60 Gay Tony Soprano",
+      "url"      : "/texts/queer-ai-ultimate-fantasy-060",
+      "category" : "",
+      "tags"     : "Che Guevara, Tony Soprano, sex work, sex, queer, GPT-2, RunwayML",
+      "date"     : "2021-09-08 00:00:00 -0700",
+      "description" : "GPT-2 model trained on a corpus of queer theatre"
+
+    } ,
+  
+    {
+
+      "title"    : "Queer A.I. Ultimate Fantasy 59 Feels",
+      "url"      : "/texts/queer-ai-ultimate-fantasy-059",
+      "category" : "",
+      "tags"     : "surveillance, queer, GPT-2, RunwayML",
+      "date"     : "2021-09-08 00:00:00 -0700",
+      "description" : "GPT-2 model trained on a corpus of queer theatre"
+
+    } ,
+  
+    {
+
       "title"    : "Queer A.I. Ultimate Fantasy 58 Cling Film",
       "url"      : "/texts/queer-ai-ultimate-fantasy-058",
       "category" : "",

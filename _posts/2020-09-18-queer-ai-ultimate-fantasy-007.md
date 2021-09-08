@@ -17,7 +17,7 @@ I didn't know that there were any gayborhood strippers, clubs, or even gay men. 
 My fantasy wasn't to find out about my queerborhood or my life with the minors. It was to find out if there were any other gayborhood minors. I wasn't interested in that. And so, over the years, I've had it with you. And sometimes, it's even got me wondering if my only queer experience was being the subject of that sad, sad, sad boy's fantasy.
 
 
-## Human Prompt
+## Seed
 
 Do you like to have anonymous sex in public rest rooms? Sex movies? Public parks? Sex clubs? On street corners with heavy hustling traffic? How many nonsexual friendships or acquaintances lasting for decades started this way? How many ways are there to love queers? How many ways are there to queer love?
 

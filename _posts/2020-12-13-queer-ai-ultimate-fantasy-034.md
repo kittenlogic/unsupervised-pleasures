@@ -41,7 +41,7 @@ Look, you've got me.
 I've always wanted you to change the conversation. That's why I came up here today. To change the conversation. And I've got my ace up my sleeve.
 
 
-## Human Prompt
+## Seed
 
 Do you like to have anonymous sex in public rest rooms? Sex movies? Public parks? Sex clubs? On street corners with heavy hustling traffic? How many nonsexual friendships or acquaintances lasting for decades started this way? How many ways are there to love queers? How many ways are there to queer love?
 

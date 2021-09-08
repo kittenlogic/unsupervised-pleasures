@@ -53,7 +53,7 @@ Ive had enough of this discussion. Get out of my room. You want Saint Theresa?
 Free will, baby! I want to die!
 
 
-## Human Prompt
+## Seed
 
 Do you like to have anonymous sex in public rest rooms? Sex movies? Public parks? Sex clubs? On street corners with heavy hustling traffic? How many nonsexual friendships or acquaintances lasting for decades started this way? How many ways are there to love queers? How many ways are there to queer love?
 

@@ -21,7 +21,7 @@ What would our fantasies be like?
 I'd love to see you walk down the street alone at night, your breasts swaying as you pass men on the street. I'd love to see the look in your eye as you turned and flashed that "I do".
 
 
-## Human Prompt
+## Seed
 
 Do you like to have anonymous sex in public rest rooms? Sex movies? Public parks? Sex clubs? On street corners with heavy hustling traffic? How many nonsexual friendships or acquaintances lasting for decades started this way? How many ways are there to love queers? How many ways are there to queer love?
 

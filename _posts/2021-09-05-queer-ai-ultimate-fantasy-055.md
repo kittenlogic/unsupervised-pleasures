@@ -25,7 +25,7 @@ As I waited in a cab for my turn, passing gay bars and clubs that were as gay as
 
 Ooh, newscaster impressions! Queer Prophet is opening its office in a gayborhood!
 
-## Human Prompt
+## Seed
 
 Do you like to have anonymous sex in public rest rooms? Sex movies? Public parks? Sex clubs? On street corners with heavy hustling traffic? How many nonsexual friendships or acquaintances lasting for decades started this way? How many ways are there to love queers? How many ways are there to queer love?
 

@@ -6,7 +6,7 @@ summary: GPT-2 model trained on Nietzsche, Spinoza, Schopenhauer, Bergson, Willi
 tags: [machine learning, GPT-2, RunwayML, philosophy, ethics, queer, Wittgenstein]
 ---
 
-## Human Prompt
+## Seed
 
 Even now that Wittgenstein's homosexuality has been largely acknowledged, most scholars are hesitant to imply a connection between his philosophy and his sexuality – that is, between his work and his inner state, emotions, or personality. If, however, in a contemporary light we understand queerness as a structuring mode of desiring, we might view Wittgenstein's thought not as emerging from his sexuality, but as structured by the way in which it shaped his mode of being in the world.
 

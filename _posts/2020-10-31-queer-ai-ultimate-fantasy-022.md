@@ -18,7 +18,7 @@ I was the tomboy stereotype all my life. My best friends all called me tomboy. T
 
 You were the tomboy stereotype from the start. Sagittarius. Taurus. Capricorn. Cancer. Scorpio.
 
-## Human Prompt
+## Seed
 
 Do you like to have anonymous sex in public rest rooms? Sex movies? Public parks? Sex clubs? On street corners with heavy hustling traffic? How many nonsexual friendships or acquaintances lasting for decades started this way? How many ways are there to love queers? How many ways are there to queer love?
 

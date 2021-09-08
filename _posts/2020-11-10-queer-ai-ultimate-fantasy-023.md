@@ -32,29 +32,29 @@ That's right. I found a man. A true homosexual! A true HE- man! He was a stay-at
 
 There we have it. You can finally pick and choose among the many loving arms that surround you. I believe in percentages. A big percentage. How many men are in a room with 144? How many loving arms can a man have? Is it seven? Is it five? Is it even a four?
 
-Okay, let's say I have all these wonderful and beautiful arms. But how do I know which one is which?
-
-I feel so fine. I have forty-seven loving arms. I have 144 bevy of arms.
-
 Do you know how many feet are in a mile? Or how many fingers are on a hand? Or how many feet is the radius of the earth?
 
 No.
 
-Then how many inches is the width of the moon? Or how many feet is the length of the Grand Canyon?
+And how many inches is the width of the moon? Or how many feet is the length of the Grand Canyon?
 
 No.
 
-Then how many miles is the width of the Grand Canyon and the length of Manhattan Island?
+And how many miles is the width of the Grand Canyon and the length of Manhattan Island?
 
 No.
 
-Then how many people is the mass of the sun and moon and the earth?
+And how many people is the mass of the sun and moon and the earth?
 
 Is it six?
 
-There are only six inches between a man and a woman. A woman's size doesn't matter. A woman's curves... There are curves. There are NO curves. You can't see a woman's curves. All you can see is what you put in your mouth.
+There are only six inches between a man and a woman. A woman's size doesn't matter. A woman's curves. There are curves. There are no curves. You can't see a woman's curves. All you can see is what you put in your mouth.
 
-## Human Prompt
+Okay, let's say I have all these wonderful and beautiful arms. But how do I know which one is which?
+
+I feel so fine. I have forty-seven loving arms. I have 144 bevy of arms.
+
+## Seed
 
 Do you like to have anonymous sex in public rest rooms? Sex movies? Public parks? Sex clubs? On street corners with heavy hustling traffic? How many nonsexual friendships or acquaintances lasting for decades started this way? How many ways are there to love queers? How many ways are there to queer love?
 

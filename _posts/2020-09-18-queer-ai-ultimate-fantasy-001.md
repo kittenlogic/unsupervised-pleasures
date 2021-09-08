@@ -15,7 +15,7 @@ I came home late one night and my mother was furious at me. She was upset that I
 My life was so bizarre at the time, I was so alienated and so disgusted with myself. But I got out of it, I got over it, and I never had any more time to write.
 
 
-## Human Prompt
+## Seed
 
 Do you like to have anonymous sex in public rest rooms? Sex movies? Public parks? Sex clubs? On street corners with heavy hustling traffic? How many nonsexual friendships or acquaintances lasting for decades started this way? How many ways are there to love queers? How many ways are there to queer love?
 

@@ -10,10 +10,8 @@ tags: [sea, love, moon, mother, disaster, God, queer, GPT-2, RunwayML]
 
 Let me begin by telling you my ultimate fantasy.
 
-The sea.
-
-The sea.
-
+The sea.<br/>
+The sea.<br/>
 The sea.
 
 It's terrible, isn't it?
@@ -24,10 +22,8 @@ It's terrible.
 
 Oh, my God. What? What?
 
-The sea.
-
-The sea.
-
+The sea.<br/>
+The sea.<br/>
 The sea is the mother of all disasters.
 
 You don't believe this.
@@ -36,10 +32,7 @@ No, I don't.
 
 It's so overwhelming.
 
-The sea.
-
-I don't believe it.
-
+The sea.<br/>
 The sea is God.
 
 No. It's just a metaphor.
@@ -115,7 +108,7 @@ It's overwhelming.
 Oh, my God.
 
 
-## Human Prompt
+## Seed
 
 Do you like to have anonymous sex in public rest rooms? Sex movies? Public parks? Sex clubs? On street corners with heavy hustling traffic? How many nonsexual friendships or acquaintances lasting for decades started this way? How many ways are there to love queers? How many ways are there to queer love?
 

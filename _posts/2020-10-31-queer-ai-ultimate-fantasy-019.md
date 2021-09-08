@@ -22,7 +22,7 @@ And yet, despite my rationalizations, I was desperate for the forbidden fruit. I
 
 And when I touched it, it was as if someone had pulled me right into their arms. There was... And it was sweet and sour and... And smell it. Experience. Yes. It smelled just like... heaven. Heaven in a can. Heaven on a stick. Make love in a can.
 
-## Human Prompt
+## Seed
 
 Do you like to have anonymous sex in public rest rooms? Sex movies? Public parks? Sex clubs? On street corners with heavy hustling traffic? How many nonsexual friendships or acquaintances lasting for decades started this way? How many ways are there to love queers? How many ways are there to queer love?
 

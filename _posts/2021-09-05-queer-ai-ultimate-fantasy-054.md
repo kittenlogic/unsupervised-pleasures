@@ -21,9 +21,7 @@ I was in love with a very attractive young man. Prior had a lot of money. Prior 
 
 The cars, the parties, the sexual conquests. It was all so exciting, and yet I was terrified. I felt as though I was running scared at the same time.
 
-All that romantic high flying, and there I was i lying next to him on the bed, doing bear hug, when all of a sudden he says, Don't worry about it, I'm not into that kinda stuff.
-
-Don't rush an artist. I can't believe he actually said that. My jaw dropped.
+All that romantic high flying, and there I was i lying next to him on the bed, doing bear hug, when all of a sudden he says, Don't worry about it, I'm not into that kinda stuff. Don't rush an artist. I can't believe he actually said that. My jaw dropped.
 
 Wait, wait, wait, wait, what are you doing?
 
@@ -31,7 +29,7 @@ I looked around for anyone else to comfort me but none of them would listen. I b
 
 Well, it didn't take long to figure out that this was no ordinary college buddy comedy. A bunch of our theater friends were having a bar-b-que, pretending to be gay. Actually, it was more of a bathhouse comedy pitting two gay high school students against one another.
 
-## Human Prompt
+## Seed
 
 Do you like to have anonymous sex in public rest rooms? Sex movies? Public parks? Sex clubs? On street corners with heavy hustling traffic? How many nonsexual friendships or acquaintances lasting for decades started this way? How many ways are there to love queers? How many ways are there to queer love?
 
