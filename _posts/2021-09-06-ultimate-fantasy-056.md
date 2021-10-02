@@ -9,57 +9,40 @@ tags: [AIDS, love, sex, gay bar, hospital, queer, GPT-2, RunwayML]
 
 ## Computer Generated
 
-Let me begin by telling you my ultimate fantasy.
+Let me begin by telling you my ultimate fantasy.<br/>
+My idealized idealized sexual partner.<br/>
+Imagine me. My lover.<br/>
+Me and you in the Amazon.<br/>
+We meet in a bar.<br/>
+We go to a gay bar.<br/>
+And I fall in love.<br/>
 
-My idealized idealized sexual partner.
+Orgasm<br/>
+After<br/>
+We have sex.
 
-Imagine me. My lover.
+Orgasm<br/>
+After<br/>
+Kissing.
 
-Me and you in the Amazon.
+Orgasm<br/>
+After<br/>
+I fall in love.
 
-We meet in a bar.
+The love object.
 
-We go to a gay bar.
-
-And I fall in love.
-
-Orgasm
-
-After
-
-We have sex
-
-Orgasm
-
-After
-
-Kissing
-
-Orgasm
-
-After
-
-I fall in love
-
-The love object
-
-No, really.
-
-Maybe not.
-
-Maybe we do.
-
-Wait, let me think.
-
-Maybe we don't.
-
+No, really.<br/>
+Maybe not.<br/>
+Maybe we do.<br/>
+Wait, let me think.<br/>
+Maybe we don't.<br/>
 Maybe we did.
 
 Whatever the fuck you want to call it, I fell in love with you the way you wanted me to, the way you said you wanted me.
 
 For three days I could tell you were falling in love, but the love never stopped.
 
-The love never stopped either.
+My love never stopped either.
 
 My skin crawled all over.
 

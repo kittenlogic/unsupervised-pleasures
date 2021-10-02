@@ -9,36 +9,21 @@ tags: [death, orgasm, divine, queer, GPT-2, RunwayML]
 
 ## Computer Generated
 
-Let me begin by telling you my ultimate fantasy.
-
-The tomb, the tomb all the way up there.
-
-This is where we'll lie together.
-
-Suck each other to death.
-
-Orgasm together.
-
-Dirty love.
-
-Deep throating.
-
-Scary sex.
-
-The feeling is so real...
-
-You never get tired of the sound, the smell.
-
-Orbiting the moons of Jupiter.
-
-The smell of urine in a swimming pool.
-
-Orbiting the soles of feet.
-
-The taste...
-
-Relax, the taste is divine.
-
+Let me begin by telling you my ultimate fantasy.<br/>
+The tomb, the tomb all the way up there.<br/>
+This is where we'll lie together.<br/>
+Suck each other to death.<br/>
+Orgasm together.<br/>
+Dirty love.<br/>
+Deep throating.<br/>
+Scary sex.<br/>
+The feeling is so real...<br/>
+You never get tired of the sound, the smell.<br/>
+Orbiting the moons of Jupiter.<br/>
+The smell of urine in a swimming pool.<br/>
+Orbiting the soles of feet.<br/>
+The taste...<br/>
+Relax, the taste is divine.<br/>
 The smell of a foot in a pool of urine is divine.
 
 

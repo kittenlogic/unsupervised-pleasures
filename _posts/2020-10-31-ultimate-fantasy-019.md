@@ -3,7 +3,7 @@ layout: post
 title: Ultimate Fantasy 19 Tenet Master
 description: GPT-2 model trained on a corpus of queer theatre
 summary: GPT-2 model trained on a corpus of queer theatre
-tags: [cult, religion, Tantra, Hatha Yoga, Wicca, Confucianism, Taoism, Disney, food, forbidden fruit, heaven, whiskey, rationalization, GPT-2, RunwayML, queer]
+tags: [cult, religion, Tantra, Hatha Yoga, Wicca, Confucianism, Taoism, Disney, food, forbidden fruit, heaven, whiskey, American, GPT-2, RunwayML, queer]
 ---
 
 ## Computer Generated
@@ -18,9 +18,9 @@ So I went shopping for a no-knead yeast bread, artisanal vanilla ice creme, and 
 
 Now I know what you're thinking. Isn't this what normal, grown-up folks do? Grab a bottle of whisky and go for a fiver. No gym? No diet?
 
-And yet, despite my rationalizations, I was desperate for the forbidden fruit. I wanted something that would give me the shivers, the flash of a first date, the nudge in the right direction, and then, miraculously, disappear. And I found it.
+And yet, despite my rationalizations, I was desperate for the forbidden fruit. I wanted something that would give me the shivers, the flash of a first date, the nudge in the right direction, and then, miraculously, disappear. And I found it. And when I touched it, it was as if someone had pulled me right into their arms.
 
-And when I touched it, it was as if someone had pulled me right into their arms. There was... And it was sweet and sour and... And smell it. Experience. Yes. It smelled just like... heaven. Heaven in a can. Heaven on a stick. Make love in a can.
+And it was sweet and sour and... And smell it. It smelled just like... heaven. Heaven in a can. Heaven on a stick. Make love in a can.
 
 ## Seed
 

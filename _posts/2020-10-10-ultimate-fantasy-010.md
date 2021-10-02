@@ -10,11 +10,7 @@ tags: [school, college, football, Michigan Wolverines, Gay Wildcats, homosexual,
 
 Let me begin by telling you my ultimate fantasy.
 
-At long last, the season is finally here, and it's finally time for the national championship football game. This year, it's the Michigan versus Michigan State game, played at Michigan Stadium. 
-
-And, of course, it's all but guaranteed that there will be homosexual hooliganism. Most of the Michigan players on the field are wearing colors of the homosexual pride flag, as are most of the Michigan State Spartans.
-
-This year's Michigan Wolverines have been renamed the "Gay Wildcats."
+At long last, the season is finally here, and it's finally time for the national championship football game. This year, it's the Michigan versus Michigan State game, played at Michigan Stadium. This year's Michigan Wolverines have been renamed the "Gay Wildcats."And, of course, it's all but guaranteed that there will be homosexual hooliganism. Most of the Michigan players on the field are wearing colors of the homosexual pride flag, as are most of the Michigan State Spartans. 
 
 ## Seed
 

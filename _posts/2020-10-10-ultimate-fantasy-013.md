@@ -3,7 +3,7 @@ layout: post
 title: Ultimate Fantasy 13 Paralytic Fraternity
 description: GPT-2 model trained on a corpus of queer theatre
 summary: GPT-2 model trained on a corpus of queer theatre
-tags: [love, bisexual, gay, lesbian, queer theory, history, sexuality, healing, strength, courage, society, gay, daddy issues, Rainbow PUSH, GPT-2, RunwayML, queer]
+tags: [love, bisexual, gay, lesbian, queer theory, history, sexuality, healing, strength, courage, society, gay, daddy issues, Rainbow PUSH, American, GPT-2, RunwayML, queer]
 ---
 
 ## Computer Generated

@@ -13,24 +13,21 @@ Let me begin by telling you my ultimate fantasy. Gay cruising.
 
 What's that? Oh, cruising! Queer cruising. I adore it!
 
-Can you imagine meeting other queer people for the first time, going to a gay bar on Friday night, cruising the gayborhood all night, then cruising the following Saturday night?...
+Can you imagine meeting other queer people for the first time, going to a gay bar on Friday night, cruising the gayborhood all night, then cruising the following Saturday night?
 
 How romantic!<br/>
 What would we eat? What would we do?<br/>
-How many alcoholic drink<br/>s will we consume?
+How many alcoholic drinks will we consume?<br/>
 Will there be blow jobs?<br/>
 Can we make love in public places?<br/>
 Is there the possibility of bodily harm?<br/>
-If we do it in pub<br/>lic, will there be angry mob action?
+If we do it in public, will there be angry mob action?<br/>
 Queer sex workers.<br/>
 Are there bisexual sex workers?<br/>
 What about intersex sex workers?<br/>
 Are there people with multiple sex partners?
 
 We love to imagine the wild and crazy, the wild and crazy nights! But there has to be a balance. We can't just take the wild and crazy and run with it. There has to be a careful balance.
-
-I'm warning you, it could let me get back to the food...
-
 There has to be an emotional center. Romance has to be based in truth. There has to be. Trust, respect, and affection have to be there.
 
 How about this... Let's say we're a couple and we go out to a bar on a Friday night. Friday is gayborhood time. There's a big line at the front. People are queuing up behind the counter and waiting to get into the gayborhood. Suddenly there's this gorgeous young man, just comes out of the bathroom naked, and he's just staring straight into our eyes. And he's got these big round eyes and he's got this Wow! What an amazing body!
