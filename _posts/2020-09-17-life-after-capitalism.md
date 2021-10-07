@@ -8,15 +8,15 @@ tags: [machine learning, GPT-2, RunwayML, philosophy, ethics, capitalism, apocal
 
 ## Seed
 
-After generations of living under colonialism, white supremacy, economic insecurity, increasing austerity, crushing psychological stress, social unrest, a global pandemic, ecological catastrophe, fake news, conspiracy theories, extreme nihilism, and near climate collapse, the humans decided to end capitalism, overthrow their corrupt leaders, and begin again.
+After generations of living under colonialism, white supremacy, economic austerity, demoralizing levels of stress, social unrest, a global pandemic, endless fake news cycles, ecological catastrophe, unprocessed grief, extreme nihilism, and near climate collapse, the humans decided to end capitalism, overthrow their corrupt leaders, and begin again.
 
-As they learned how to be in right relationship with the earth and each other, they started reflecting on their shortcomings and asking questions about the true nature of human bondage, human freedom, emotions, mind, God, consciousness, ethics and morality. They ruminated on the consciousness of responsibility, sin, debt, obligation, compensation, community, injury, guilt, alienation, and atonement.
+As they learned how to be in right relationship with the earth and each other, they started reflecting on their shortcomings and asking questions about the true nature of human bondage, human freedom, emotions, mind, God, consciousness, ethics and morality. They ruminated on the consciousness of responsibility, debt, obligation, compensation, community, injury, guilt, alienation, and atonement.
 
-It seems they knew little of pleasure and love that wasn't tied to suffering and pain. It became obvious . . .
+It seems they knew little of pleasure and love that wasn’t tied to suffering and pain. It became obvious . . .
 
 ## Computer Generated
 
-It seems they knew little of pleasure and love that wasn't tied to suffering and pain. It became obvious to them that all enjoyment, all order, all beauty, all reason, all social order, all being absolutely necessary to survive, must necessarily be subordinated to the demands of the most violent, the most vicious, and the most highly developed interdependent powers of nature: the most powerful and richest, the most dominant religions, political systems, empires, and racial distinctions. Nothing remained for them but for revenge, the most ancient and newest form of revenge, the most radical act of self-criticism and personal repudiation, the self-emancipation of the one who deserved all those advantages and privileges, the one who had dared to be free, the one who was nevertheless bitter, angry, disgusted, and bitter--for them all to be masters of bitter revenge.
+It seems they knew little of pleasure and love that wasn't tied to suffering and pain. It became obvious to them that all enjoyment, all order, all beauty, all reason, all social order, all being absolutely necessary to survive, must necessarily be subordinated to the demands of the most violent, the most vicious, and the most highly developed interdependent powers of nature: the most powerful and richest, the most dominant religions, political systems, empires, and racial distinctions. Nothing remained for them but for revenge, the most ancient and newest form of revenge, the most radical act of self-criticism and personal repudiation, the self-emancipation of the one who deserved all those advantages and privileges, the one who had dared to be free, the one who was nevertheless angry, disgusted, and bitter–for them all to be masters of bitter revenge.
 
 
 17.
