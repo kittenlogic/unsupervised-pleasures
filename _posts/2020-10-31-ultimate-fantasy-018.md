@@ -20,46 +20,6 @@ I want to go to the edge of a lake where the waves crash against the metal deck,
 
 I want to take my clothes off in the moonlight and float naked across the cold waters of the Dead Sea.
 
-Take your clothes off, I want to experience sex without judgement!
-
-I had that fantasy, now turn your head around so I can see your clit.
-
-NO! I can't!! I cant turn my head around til I get my clothes off.
-
-Do you want me to turn my head around and see your clit?
-
-Yes!
-
-I want to turn my head around and stroke your nipple until you squirt.
-
-NO!
-
-I want to turn my head around and taste your clit.
-
-Yes!!
-
-Suck on it, I want to taste your pussy!
-
-Yes!!
-
-Suck on it, I want to taste your asshole!
-
-Yes!!
-
-Suck on it, I want to taste your clit, asshole, boot, and whatever you've got stuck up your bum!
-
-Don't touch it!
-
-I want to taste your asshole, boot, pussy, boot spur, and whatever you've got stuck up your bum!
-
-Don't touch it!
-
-It tastes so good, lets eat it.
-
-What are we going to eat?
-
-Start from there.
-
 ## Seed
 
 Do you like to have anonymous sex in public rest rooms? Sex movies? Public parks? Sex clubs? On street corners with heavy hustling traffic? How many nonsexual friendships or acquaintances lasting for decades started this way? How many ways are there to love queers? How many ways are there to queer love?

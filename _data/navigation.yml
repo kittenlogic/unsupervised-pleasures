@@ -1,6 +1,8 @@
 links:
-- title: Texts
+- title: Home
   url: /
+- title: Texts
+  url: /texts
 - title: Corpora
   url: /corpora
 - title: About

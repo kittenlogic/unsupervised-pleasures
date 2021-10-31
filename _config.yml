@@ -1,7 +1,7 @@
 site: GPT2
-url: unsupervisedpleasures.ml
+url: unsupervisedpleasures.com
 title: Unsupervised Pleasures
-description: Machine Learning Experimenets with GPT-2.
+description: Experiments in machine learning with GPT-X and VQGAN-CLIP.
 twitter:
   username: "@queermachines"
   card: summary
@@ -11,7 +11,7 @@ author:
   name: "@queermachines"
   avatar:
   email: "queermachines@gmail.com"
-  url: unsupervisedpleasures.ml
+  url: unsupervisedpleasures.com
 permalink: pretty
 
 baseurl: ""

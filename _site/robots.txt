@@ -1,2 +1,2 @@
 User-agent: *
-Sitemap: unsupervisedpleasures.ml/sitemap.xml
+Sitemap: unsupervisedpleasures.com/sitemap.xml
