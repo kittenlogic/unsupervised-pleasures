@@ -6,7 +6,10 @@ summary: GPT-2 model trained on a corpus of queer theatre
 tags: [summer camp, sunset, water, mud, river, unearth, rhinestone, GPT-2, RunwayML, queer]
 ---
 
-## Computer Generated
+<div style="margin-top:1em;padding:100% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/648208361?h=3347734c6f&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="murky-cryengine"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
+<figcaption>I swam across the clearing to the river, dove into the murky murky murky water, and then, as silently as if I had just come out of a bathroom, I disappeared. It took hundreds of men working in perfect unison to unearth me.</figcaption>
+<hr/>
+<br/>
 
 Let me begin by telling you my ultimate fantasy. When I was young, I could love like none other.
 

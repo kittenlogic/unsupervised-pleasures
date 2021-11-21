@@ -1,8 +1,8 @@
-[![Netlify Status](https://api.netlify.com/api/v1/badges/274f1259-f6b8-44e7-874c-5d5d87de40d5/deploy-status)](https://app.netlify.com/sites/unsupervised-pleasures/deploys)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/0ccd8f5d-34be-49ca-bbd5-cc3722a25883/deploy-status)](https://app.netlify.com/sites/unsupervisedpleasures/deploys)
 
 # Unsupervised Pleasures
 
-Experiments with machine learning models for text-generation using charRNN and GPT-2.
+Experiments with machine learning models with GPT-X and VQGAN-CLIP.
 
 ### Features
 

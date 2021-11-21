@@ -6,7 +6,12 @@ summary: GPT-2 model trained on a corpus of queer theatre
 tags: [moon, stars, water, air, static, erotic, Dead Sea, judgement, GPT-2, RunwayML, queer]
 ---
 
-## Computer Generated
+
+<div style="padding:96.77% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/648205621?h=14e331f051&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="haloeffect-starlight"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
+<figcaption>Stars were dancing across the brilliant night sky. In a blur I pictured you sitting there, arms outspread, enjoying the view, your legs spread apart apart, completely nude from the lighting. There was just one problem. There was no starlight.</figcaption>
+<hr/>
+<br/>
+
 
 Let me begin by telling you my ultimate fantasy. When I was making love to you. It was over moon rockin in the dark with the moon just barely in the sky. Stars were dancing across the brilliant night sky. In a blur I pictured you sitting there, arms outspread, enjoying the view, your legs spread apart apart, completely nude from the lighting. There was just one problem. There was no starlight.
 
@@ -19,6 +24,10 @@ I want to go to a secluded spot on a wooden pier where the waves crash against t
 I want to go to the edge of a lake where the waves crash against the metal deck, and the wind is so strong that the sail of a ship can be seen twirling in the air.
 
 I want to take my clothes off in the moonlight and float naked across the cold waters of the Dead Sea.
+
+<div style="margin-top:2em;padding:100% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/648206134?h=dc0c9a4ac8&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="haloeffect-deadsea"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
+<figcaption>I want to take my clothes off in the moonlight and float naked across the cold waters of the Dead Sea.</figcaption>
+<br/>
 
 ## Seed
 

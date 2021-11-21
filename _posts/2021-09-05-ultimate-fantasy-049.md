@@ -6,7 +6,8 @@ summary: GPT-2 model trained on a corpus of queer theatre
 tags: [sea, love, moon, mother, disaster, God, queer, GPT-2, RunwayML]
 ---
 
-## Computer Generated
+
+<div style="margin-bottom:2em;padding:100% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/648205157?h=6aeb1d6a6b&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="thesea"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
 
 Let me begin by telling you my ultimate fantasy.
 
@@ -28,6 +29,9 @@ I can't imagine what it must be like on the other side.<br/>
 That's why I'm here. It's so clear. I love it here.<br/> There's no one else.
 
 I love you.
+
+<div style="margin:2em 0;padding:100% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/648204782?h=99c2b4448c&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="moon-queer-vulvic-volumetric"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
+
 
 The moon is the mother of all the gods.<br/>
 That's a lie.<br/>
