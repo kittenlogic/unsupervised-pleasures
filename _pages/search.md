@@ -28,7 +28,7 @@ title: Search
 	input[type=submit] {
 	  width: 100%;
 		height: 50px;
-	  background-color: #6639E4;
+	  background-color: #282454;
 	  color: #fff;
 		font-size: 1em;
 	  padding: 14px 20px;
@@ -43,7 +43,7 @@ title: Search
 
 	input[type=submit]:hover,
 	input[type=submit]:focus {
-	  background-color: #282454;
+	  background-color: #000;
 	}
 
 	#search-results {

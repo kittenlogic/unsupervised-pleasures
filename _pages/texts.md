@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Texts
-description: Experiments in machine learning with GPT-X and VQGAN-CLIP
+description: Experiments in machine learning.
 ---
 
 <section class="posts" style="padding-left:0;">

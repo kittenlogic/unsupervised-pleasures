@@ -11,8 +11,6 @@ tags: [cult, religion, Tantra, Hatha Yoga, Wicca, Confucianism, Taoism, Disney, 
 <br/>
 <hr/>
 
-## Computer Generated
-
 Let me begin by telling you my ultimate fantasy. When I was young, I had the fantasy of starting a cult. A religion. I would build a great temple of Wicca up high in the sky, worshiped by all the deities of my childhood.
 
 Like so many other Disney princesses, I believed that I could create a pure, whole person out of nothing at all. I would imbue my being with the pure, divine spark that was Tantra, Hatha Yoga, Wicca, Confucianism, Taoism, and so forth. I would set my heart on a path of personal and professional growth that would ultimately lead me to a position of great responsibility and ultimately the crowning glory of my being: a Tenet Master.
