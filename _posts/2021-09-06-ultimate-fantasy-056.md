@@ -1,13 +1,10 @@
 ---
 layout: post
 title: Ultimate Fantasy 56 The Love Object
-
-description: GPT-2 model trained on a corpus of queer theatre
-summary: GPT-2 model trained on a corpus of queer theatre
+description: My idealized idealized sexual partner
+summary: My idealized idealized sexual partner
 tags: [AIDS, love, sex, gay bar, hospital, queer, GPT-2, RunwayML]
 ---
-
-## Computer Generated
 
 Let me begin by telling you my ultimate fantasy.<br/>
 My idealized idealized sexual partner.<br/>
@@ -40,16 +37,11 @@ Maybe we did.
 
 Whatever the fuck you want to call it, I fell in love with you the way you wanted me to, the way you said you wanted me.
 
-For three days I could tell you were falling in love, but the love never stopped.
-
-My love never stopped either.
-
-My skin crawled all over.
-
-When I finally did go to the hospital I told them I had AIDS.
-
-You still love me, love.
-
+For three days I could tell you were falling in love, but the love never stopped.<br/>
+My love never stopped either.<br/>
+My skin crawled all over.<br/>
+When I finally did go to the hospital I told them I had AIDS.<br/>
+You still love me, love.<br/>
 And I was in the emergency room.
 
 ## Seed

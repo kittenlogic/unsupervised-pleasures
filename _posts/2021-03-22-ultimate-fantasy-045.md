@@ -1,12 +1,10 @@
 ---
 layout: post
 title: Ultimate Fantasy 45 When I'm President
-description: GPT-2 model trained on a corpus of queer theatre
-summary: GPT-2 model trained on a corpus of queer theatre
+description: If I get to be president of the United States...
+summary: If I get to be president of the United States...
 tags: [lesbian, gay, bisexual, F.B.I., school, president, America, queer, GPT-2, RunwayML]
 ---
-
-## Computer Generated
 
 Let me begin by telling you my ultimate fantasy.
 

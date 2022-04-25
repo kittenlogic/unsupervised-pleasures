@@ -6,7 +6,7 @@ summary: GPT-2 model trained on a corpus of queer theatre
 tags: [school, college, Wild West, discovery, lesbian, sinner, sex-segregated, one-night-stand, sex, gold-digging, Methodist, drag, administration, witch hunt, conservative, left-wing, radical, cancel culture, GPT-2, RunwayML, queer]
 ---
 
-## Computer Generated
+
 
 Let me begin by telling you my ultimate fantasy. When I was in college I was the most charmed girl on campus. I was so in love with the very idea of collegiate sexual liberation that I vowed never to let it slip again.
 

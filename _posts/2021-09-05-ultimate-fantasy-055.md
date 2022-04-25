@@ -1,13 +1,10 @@
 ---
 layout: post
 title: Ultimate Fantasy 55 Queer Prophet
-
-description: GPT-2 model trained on a corpus of queer theatre
-summary: GPT-2 model trained on a corpus of queer theatre
+description: Where the hell are these other queer bars?
+summary: Where the hell are these other queer bars?
 tags: [gayborhood, queer bar, bar, cabaret, karaoke, comedy clubs, Queer Rebels, Les Belle Journeys, Village Lesbian Comedy Theater, ymag, Los Angeles, New York City, San Francisco, Atlanta, queer, GPT-2, RunwayML]
 ---
-
-## Computer Generated
 
 Let me begin by telling you my ultimate fantasy.
 

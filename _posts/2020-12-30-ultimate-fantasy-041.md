@@ -6,7 +6,7 @@ summary: GPT-2 model trained on a corpus of queer theatre
 tags: [phone sex, Larry Merchant, queer, GPT-2, RunwayML]
 ---
 
-## Computer Generated
+
 
 Let me begin by telling you my ultimate fantasy.
 

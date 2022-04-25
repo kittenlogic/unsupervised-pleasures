@@ -6,7 +6,7 @@ summary: GPT-2 model trained on a corpus of queer theatre
 tags: [school, high school, gay, queer, angry, romantic, sex, GPT-2, RunwayML ]
 ---
 
-## Computer Generated
+
 
 Let me begin by telling you my ultimate fantasy. When I was in high school my best friend Alan was gay. We slept together in his dorm room only to have me have to go home alone after midnight. The next morning I found that Alan had propositioned me on the street.
 

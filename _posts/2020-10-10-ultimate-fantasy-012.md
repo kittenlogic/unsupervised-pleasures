@@ -6,7 +6,7 @@ summary: GPT-2 model trained on a corpus of queer theatre
 tags: [school, college, high school, pervert, confession, GPT-2, RunwayML, queer]
 ---
 
-## Computer Generated
+
 
 Let me begin by telling you my ultimate fantasy. When I was in college, I came home from a party with a really horny high school senior who kept telling me how he and his friend Jake were planning to have a "Boy Love Night."
 

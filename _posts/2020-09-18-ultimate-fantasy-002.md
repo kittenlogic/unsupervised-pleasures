@@ -6,7 +6,7 @@ summary: GPT-2 model trained on a corpus of queer theatre
 tags: [famous, white, sexy, stars, moon, GPT-2, RunwayML, queer]
 ---
 
-## Computer Generated
+
 
 Let me begin by telling you my ultimate fantasy. When I was a kid, I dreamt of being famous. When I was a child, I dreamt of being popular. When I was a teenager, I dreamt of being in love. When I was a young woman, I dreamt of being in the world. When I was a woman, I dreamt of being in love. When I was a woman, I dreamt of being famous. When I was a man, I dreamt of being famous. When I was a man, I dreamt of being famous.
 

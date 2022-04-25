@@ -6,7 +6,7 @@ summary: GPT-2 model trained on a corpus of queer theatre
 tags: [gay, homosexual, Miami, Detroit, San Francisco, converted, confused, reformed, queer, GPT-2, RunwayML]
 ---
 
-## Computer Generated
+
 
 Let me begin by telling you my ultimate fantasy. Not that I'm exaggerating when I say it's a gay communal fantasy.
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Life After Capitalism
+title: Philosophy 3 Life After Capitalism
 description: GPT-2 model trained on Nietzsche, Spinoza, Schopenhauer, Bergson, William James reflect on pleasure and self-emancipation after capitalism
 summary: GPT-2 model trained on Nietzsche, Spinoza, Schopenhauer, Bergson and William James reflect on pleasure and self-emancipation after capitalism
 tags: [machine learning, GPT-2, RunwayML, philosophy, ethics, capitalism, apocalypse]
@@ -16,7 +16,7 @@ It seems they knew little of pleasure and love that wasn’t tied to suffering a
 
 ## Computer Generated
 
-It seems they knew little of pleasure and love that wasn't tied to suffering and pain. It became obvious to them that all enjoyment, all order, all beauty, all reason, all social order, all being absolutely necessary to survive, must necessarily be subordinated to the demands of the most violent, the most vicious, and the most highly developed interdependent powers of nature: the most powerful and richest, the most dominant religions, political systems, empires, and racial distinctions. Nothing remained for them but for revenge, the most ancient and newest form of revenge, the most radical act of self-criticism and personal repudiation, the self-emancipation of the one who deserved all those advantages and privileges, the one who had dared to be free, the one who was nevertheless angry, disgusted, and bitter–for them all to be masters of bitter revenge.
+It became obvious to them that all enjoyment, all order, all beauty, all reason, all social order, all being absolutely necessary to survive, must necessarily be subordinated to the demands of the most violent, the most vicious, and the most highly developed interdependent powers of nature: the most powerful and richest, the most dominant religions, political systems, empires, and racial distinctions. Nothing remained for them but for revenge, the most ancient and newest form of revenge, the most radical act of self-criticism and personal repudiation, the self-emancipation of the one who deserved all those advantages and privileges, the one who had dared to be free, the one who was nevertheless angry, disgusted, and bitter–for them all to be masters of bitter revenge.
 
 
 17.

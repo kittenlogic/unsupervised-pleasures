@@ -6,7 +6,7 @@ summary: GPT-2 model trained on a corpus of queer theatre
 tags: [ Tom Tucker, politics, pervert, punk rock, weirdos, cops, bigots, civil rights, boogeyman, radical, gay bar, queer, GPT-2, RunwayML]
 ---
 
-## Computer Generated
+
 
 Let me begin by telling you my ultimate fantasy.
 

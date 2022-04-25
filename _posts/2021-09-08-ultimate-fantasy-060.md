@@ -1,13 +1,10 @@
 ---
 layout: post
 title: Ultimate Fantasy 60 Gay Tony Soprano
-
-description: GPT-2 model trained on a corpus of queer theatre
-summary: GPT-2 model trained on a corpus of queer theatre
+description: A fantasy in which queers never existed.
+summary: A fantasy in which queers never existed.
 tags: [Che Guevara, Tony Soprano, sex work, sex, queer, GPT-2, RunwayML]
 ---
-
-## Computer Generated
 
 Let me begin by telling you my ultimate fantasy. A fantasy in which queers never existed. What if queers never existed? In which the experience of queer sex was as exotic, reducible, and downright criminal as any other kind of sex work. In which johns and girls in leather suits took turns fucking.
 

@@ -1,12 +1,10 @@
 ---
 layout: post
 title: Ultimate Fantasy 51 Kentucky
-description: GPT-2 model trained on a corpus of queer theatre
-summary: GPT-2 model trained on a corpus of queer theatre
+description: There's a sort of suburban fantasy in Kentucky.
+summary: There's a sort of suburban fantasy in Kentucky.
 tags: [suburbs, Kentucky, doctor, sexologist, queer, GPT-2, RunwayML]
 ---
-
-## Computer Generated
 
 Let me begin by telling you my ultimate fantasy.
 

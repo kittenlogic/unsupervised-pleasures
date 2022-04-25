@@ -6,7 +6,7 @@ summary: GPT-2 model trained on a corpus of queer theatre
 tags: [school, junior high, high school, gay rights, sex, Homo-Bimbo, GPT-2, RunwayML, queer]
 ---
 
-## Computer Generated
+
 
 Let me begin by telling you my ultimate fantasy. When I was a junior high school English teacher in Texas. My school was in the middle of a gay rights march. On the square near the square, there were gay men kissing in front of the assembly and chanting "Hands off our buxom women!" in the square.
 

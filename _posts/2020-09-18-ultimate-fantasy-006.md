@@ -6,7 +6,7 @@ summary: GPT-2 model trained on a corpus of queer theatre
 tags: [queer, erotic, poetry, secret, sex, lover, monster, angry, GPT-2, RunwayML]
 ---
 
-## Computer Generated
+
 
 Let me begin by telling you my ultimate fantasy.
 

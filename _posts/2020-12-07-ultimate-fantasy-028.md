@@ -6,7 +6,7 @@ summary: GPT-2 model trained on a corpus of queer theatre
 tags: [Doris Day, Martin Luther King, Woody Allen, Hollywood, television, queer, GPT-2, RunwayML]
 ---
 
-## Computer Generated
+
 
 Let me begin by telling you my ultimate fantasy. My personal fable. It goes something like this.
 

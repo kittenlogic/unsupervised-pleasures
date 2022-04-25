@@ -6,7 +6,7 @@ summary: GPT-2 model trained on a corpus of queer theatre
 tags: [love, bisexual, gay, lesbian, queer theory, history, sexuality, healing, strength, courage, society, gay, daddy issues, Rainbow PUSH, American, GPT-2, RunwayML, queer]
 ---
 
-## Computer Generated
+
 
 Let me begin by telling you my ultimate fantasy. When I was young and very foolish, Gay Girl in Love. I was thirteen years old. And I fell in love with a beautiful young man who seduced me with the promise of more beautiful things. I called him my boy friend. We fell in love and lived happily ever after. For thirteen years I was confused and unhappy.
 

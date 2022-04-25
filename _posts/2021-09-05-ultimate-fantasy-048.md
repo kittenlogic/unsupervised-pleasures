@@ -1,12 +1,10 @@
 ---
 layout: post
 title: Ultimate Fantasy 48 The Perfect Plot
-description: GPT-2 model trained on a corpus of queer theatre
-summary: GPT-2 model trained on a corpus of queer theatre
+description: Everybody in the theater says it has the perfect plot
+summary: Everybody in the theater says it has the perfect plot
 tags: [Christian, Tom Cruise, school, Greek tragedy, queer, GPT-2, RunwayML]
 ---
-
-## Computer Generated
 
 Let me begin by telling you my ultimate fantasy.
 

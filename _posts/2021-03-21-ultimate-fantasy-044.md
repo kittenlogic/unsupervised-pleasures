@@ -1,12 +1,10 @@
 ---
 layout: post
 title: Ultimate Fantasy 44 Born This Way
-description: GPT-2 model trained on a corpus of queer theatre
-summary: GPT-2 model trained on a corpus of queer theatre
+description: A pure, unadulterated, non-committed, non-homoerotic, non-monogamy organization
+summary: A pure, unadulterated, non-committed, non-homoerotic, non-monogamy organization
 tags: [non-monogamy, cheating, gay, homophobic, father, marriage, friendship, queer, GPT-2, RunwayML]
 ---
-
-## Computer Generated
 
 Let me begin by telling you my ultimate fantasy. I Was Born This Way. Noted workhorse of the gay liberation movement, author of Every Little Girl a River, and the mother of Stonewall Jane.
 

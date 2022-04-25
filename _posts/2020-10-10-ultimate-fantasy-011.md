@@ -6,7 +6,7 @@ summary: GPT-2 model trained on a corpus of queer theatre
 tags: [school, high school, gayborhood, cruising, lesbian, politically incorrect, feminist closet, history, Atlanta, Florida, GPT-2, RunwayML, queer]
 ---
 
-## Computer Generated
+
 
 Let me begin by telling you my ultimate fantasy.
 

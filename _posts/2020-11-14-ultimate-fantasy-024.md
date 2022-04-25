@@ -6,7 +6,7 @@ summary: GPT-2 model trained on a corpus of queer theatre
 tags: [school, high school, sex, erotic, content warning, queer, GPT-2, RunwayML]
 ---
 
-## Computer Generated
+
 
 Let me begin by telling you my ultimate fantasy. When I was in high school, I loved the way your feet felt on mine as we walked. I wanted to curl up next to you and kiss you like you used to do when we first met. I wanted to feel the warmth of your body on mine as we cuddled and kissed.
 

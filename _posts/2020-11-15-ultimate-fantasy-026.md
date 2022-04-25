@@ -6,7 +6,7 @@ summary: GPT-2 model trained on a corpus of queer theatre
 tags: [Beastie Boys, secret, middle class, working class, middle children, Republicans, Pepperdine University, Chico, Detroit, Chicago, Colorado, Texas, AIDS, prom, news, queer, GPT-2, RunwayML]
 ---
 
-## Computer Generated
+
 
 Let me begin by telling you my ultimate fantasy.
 

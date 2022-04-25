@@ -1,13 +1,10 @@
 ---
 layout: post
 title: Ultimate Fantasy 52 Blow-Up Doll
-
-description: GPT-2 model trained on a corpus of queer theatre
-summary: GPT-2 model trained on a corpus of queer theatre
+description: Now say you're a blow-up doll.
+summary: Now say you're a blow-up doll.
 tags: [imaginary, queer, GPT-2, RunwayML]
 ---
-
-## Computer Generated
 
 Let me begin by telling you my ultimate fantasy.
 

@@ -6,8 +6,6 @@ summary: GPT-2 model trained on a corpus of queer theatre
 tags: [cancer, party, dying, death, queer, GPT-2, RunwayML]
 ---
 
-## Computer Generated
-
 Let me begin by telling you my ultimate fantasy.
 
 I was in a garden party and I went down and met an old man who was dying of cancer. He was very kind to me and he was asking me how I was doing.

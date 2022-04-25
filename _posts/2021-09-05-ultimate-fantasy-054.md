@@ -1,13 +1,10 @@
 ---
 layout: post
 title: Ultimate Fantasy 54 Bathhouse Comedy
-
-description: GPT-2 model trained on a corpus of queer theatre
-summary: GPT-2 model trained on a corpus of queer theatre
+description: This was no ordinary college buddy comedy
+summary: This was no ordinary college buddy comedy
 tags: [school, high school, college, sex, money, power, comedy, bathhouse, theater, bar-b-que, artist, queer, GPT-2, RunwayML]
 ---
-
-## Computer Generated
 
 Let me begin by telling you my ultimate fantasy. When I was in high school my best friend and I made love in a school bathroom.
 

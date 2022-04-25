@@ -1,14 +1,14 @@
 ---
 layout: post
 title: Ultimate Fantasy 46 Heartbeat
-description: GPT-2 model trained on a corpus of queer theatre
-summary: GPT-2 model trained on a corpus of queer theatre
+description: I want to go back to the moment
+summary: I want to go back to the moment
 tags: [doctor, lover, queer, GPT-2, RunwayML]
 ---
 
-## Computer Generated
+Let me begin by telling you my ultimate fantasy.
 
-Let me begin by telling you my ultimate fantasy. My lover and I have been lovers for many years. He is a doctor. I admire his precision. I want to work with him on a large project. His specialty is bone marrow. We have many years together, many children. We have a home, a life together. But something happens that changes everything. He leaves.
+My lover and I have been lovers for many years. He is a doctor. I admire his precision. I want to work with him on a large project. His specialty is bone marrow. We have many years together, many children. We have a home, a life together. But something happens that changes everything. He leaves.
 
 Not suddenly; rather slowly over many months, years.
 

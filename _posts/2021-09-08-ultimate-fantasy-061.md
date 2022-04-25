@@ -1,13 +1,10 @@
 ---
 layout: post
 title: Ultimate Fantasy 61 The Crucifixion
-
-description: GPT-2 model trained on a corpus of queer theatre
-summary: GPT-2 model trained on a corpus of queer theatre
+description: There's a painting by Paul Cadmus at the top of this page
+summary: There's a painting by Paul Cadmus at the top of this page
 tags: [art, Paul Cadmus, Jesus, queer, GPT-2, RunwayML]
 ---
-
-## Computer Generated
 
 Let me begin by telling you my ultimate fantasy.<br/>
 There's a painting by Paul Cadmus at the top of this page.<br/>

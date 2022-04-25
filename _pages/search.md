@@ -28,12 +28,12 @@ title: Search
 	input[type=submit] {
 	  width: 100%;
 		height: 50px;
-	  background-color: #282454;
-	  color: #fff;
+		background-color: #fff;
+		color: #000;
 		font-size: 1em;
 	  padding: 14px 20px;
 	  margin: 8px 0;
-	  border: none;
+	  border: 2px solid #000;
 		border-radius: 0;
 	  cursor: pointer;
 		-webkit-appearance: none;
@@ -43,7 +43,8 @@ title: Search
 
 	input[type=submit]:hover,
 	input[type=submit]:focus {
-	  background-color: #000;
+	  background-color: #ff00ff;
+		color: #000;
 	}
 
 	#search-results {

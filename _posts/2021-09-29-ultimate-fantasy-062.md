@@ -1,13 +1,10 @@
 ---
 layout: post
 title: Ultimate Fantasy 62 Queer Cruising
-
-description: GPT-2 model trained on a corpus of queer theatre
-summary: GPT-2 model trained on a corpus of queer theatre
+description: Cruising the gayborhood all night
+summary: Cruising the gayborhood all night
 tags: [gayborhood, sex workers, American, queer, GPT-2, RunwayML]
 ---
-
-## Computer Generated
 
 Let me begin by telling you my ultimate fantasy. Gay cruising.
 

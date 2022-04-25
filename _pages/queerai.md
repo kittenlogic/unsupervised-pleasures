@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Queer AI 1.0
+title: Queer AI v2
 ---
 
 ### Corpus

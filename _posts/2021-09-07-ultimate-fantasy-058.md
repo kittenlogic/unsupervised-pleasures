@@ -1,13 +1,10 @@
 ---
 layout: post
 title: Ultimate Fantasy 58 Cling Film
-
-description: GPT-2 model trained on a corpus of queer theatre
-summary: GPT-2 model trained on a corpus of queer theatre
+description: I dreamt that tonight my bedroom door was open and two black-clad figures stood inside
+summary: I dreamt that tonight my bedroom door was open and two black-clad figures stood inside
 tags: [sex, dreams, nightmares, queer, GPT-2, RunwayML]
 ---
-
-## Computer Generated
 
 Let me begin by telling you my ultimate fantasy.
 

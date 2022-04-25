@@ -1,9 +1,8 @@
 ---
 layout: post
 title: Ultimate Fantasy 57 The Tomb
-
-description: GPT-2 model trained on a corpus of queer theatre
-summary: GPT-2 model trained on a corpus of queer theatre
+description: This is where we will lie together. Suck each other to death. Orgasm together. Dirty love. Deep throating. Scary sex.
+summary: This is where we will lie together. Suck each other to death. Orgasm together. Dirty love. Deep throating. Scary sex.
 tags: [death, orgasm, divine, queer, GPT-2, RunwayML]
 ---
 
@@ -11,7 +10,6 @@ tags: [death, orgasm, divine, queer, GPT-2, RunwayML]
 
 <figcaption>The tomb. This is where we’ll lie together. Suck each other to death. Orgasm together. Dirty love. Deep throating. Scary sex.</figcaption>
 <hr/>
-<br/>
 
 Let me begin by telling you my ultimate fantasy.<br/>
 The tomb, the tomb all the way up there.<br/>

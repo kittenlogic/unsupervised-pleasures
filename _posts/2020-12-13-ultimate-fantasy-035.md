@@ -6,7 +6,7 @@ summary: GPT-2 model trained on a corpus of queer theatre
 tags: [Christian, Womens March, Washington, God, Jesus, Lazarus, twelve-step program, coffee shop, love, gay, queer, GPT-2, RunwayML]
 ---
 
-## Computer Generated
+
 
 Let me begin by telling you my ultimate fantasy.
 

@@ -1,13 +1,10 @@
 ---
 layout: post
 title: Ultimate Fantasy 59 Feels
-
-description: GPT-2 model trained on a corpus of queer theatre
-summary: GPT-2 model trained on a corpus of queer theatre
+description: It's just that now I'm being watched.
+summary: It's just that now I'm being watched.
 tags: [surveillance, queer, GPT-2, RunwayML]
 ---
-
-## Computer Generated
 
 Let me begin by telling you my ultimate fantasy.
 

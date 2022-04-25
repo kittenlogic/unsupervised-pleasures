@@ -6,7 +6,7 @@ summary: GPT-2 model trained on a corpus of queer theatre
 tags: [school, bisexual, heterosexual, lover, pride, control, die alone, GPT-2, RunwayML, queer]
 ---
 
-## Computer Generated
+
 
 Let me begin by telling you my ultimate fantasy. When I was in fifth grade, a boy from the school assembly told me that he had been in love with a girl named Florence. The boy had been in and out of love and lust for many years, but one night, as he was leaving to go away to school, he asked his teacher if she was gay.
 

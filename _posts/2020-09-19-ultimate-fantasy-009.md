@@ -6,7 +6,7 @@ summary: GPT-2 model trained on a corpus of queer theatre
 tags: [sex toy, clubs, cruising, condom, gay, lesbian, Christs-for-Jesus, heaven, Christmas, GPT-2, RunwayML, queer]
 ---
 
-## Computer Generated
+
 
 Let me begin by telling you my ultimate fantasy. When I was in high school, this sweet, innocent, bubbly geezer from Mendocino, California, came over for dinner and had the most incredible meal. We chatted all day and night about life in the gay and lesbian community and his favorite subject was "The Private Life of the City." He talked about cruising the city, going out to bars on Friday nights, and even went as far as to buy me a leather briefcase with sex toys inside so I could take all my fantasies to the clubs.
 
