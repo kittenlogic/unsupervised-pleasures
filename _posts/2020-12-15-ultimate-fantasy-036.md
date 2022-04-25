@@ -1,12 +1,10 @@
 ---
 layout: post
 title: Ultimate Fantasy 36 Safe Sex
-description: GPT-2 model trained on a corpus of queer theatre
-summary: GPT-2 model trained on a corpus of queer theatre
+description: Then what do you know about safe sex?
+summary: Then what do you know about safe sex?
 tags: [safe sex, sex, STIs, bisexual, mistress, queer, GPT-2, RunwayML]
 ---
-
-
 
 Let me begin by telling you my ultimate fantasy.
 

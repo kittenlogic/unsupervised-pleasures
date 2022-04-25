@@ -1,12 +1,10 @@
 ---
 layout: post
 title: Ultimate Fantasy 43 Libertine Saint Theresa
-description: GPT-2 model trained on a corpus of queer theatre
-summary: GPT-2 model trained on a corpus of queer theatre
+description: You mean you'd rather die than fuck a faggot?
+summary: You mean you'd rather die than fuck a faggot?
 tags: [cancer, condoms, free will, St Theresa, Viagra, gay, queer, GPT-2, RunwayML]
 ---
-
-
 
 Let me begin by telling you my ultimate fantasy.
 

@@ -1,12 +1,10 @@
 ---
 layout: post
 title: Ultimate Fantasy 35 American Christian
-description: GPT-2 model trained on a corpus of queer theatre
-summary: GPT-2 model trained on a corpus of queer theatre
+description: In the summer of '89 I was in the process of becoming a fully fledged American Christian
+summary: In the summer of '89 I was in the process of becoming a fully fledged American Christian
 tags: [Christian, Womens March, Washington, God, Jesus, Lazarus, twelve-step program, coffee shop, love, gay, queer, GPT-2, RunwayML]
 ---
-
-
 
 Let me begin by telling you my ultimate fantasy.
 

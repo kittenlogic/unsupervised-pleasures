@@ -1,12 +1,10 @@
 ---
 layout: post
 title: Ultimate Fantasy 26 Middle Class Homo
-description: GPT-2 model trained on a corpus of queer theatre
-summary: GPT-2 model trained on a corpus of queer theatre
+description: Most people don't realize how much more commonplace it is to love queers
+summary: Most people don't realize how much more commonplace it is to love queers
 tags: [Beastie Boys, secret, middle class, working class, middle children, Republicans, Pepperdine University, Chico, Detroit, Chicago, Colorado, Texas, AIDS, prom, news, queer, GPT-2, RunwayML]
 ---
-
-
 
 Let me begin by telling you my ultimate fantasy.
 

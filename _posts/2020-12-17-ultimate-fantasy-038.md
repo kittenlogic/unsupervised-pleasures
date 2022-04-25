@@ -1,12 +1,10 @@
 ---
 layout: post
 title: Ultimate Fantasy 38 Plain Gay
-description: GPT-2 model trained on a corpus of queer theatre
-summary: GPT-2 model trained on a corpus of queer theatre
+description: He's just plain gay.
+summary: He's just plain gay.
 tags: [gay, romance, queer, GPT-2, RunwayML]
 ---
-
-
 
 Let me begin by telling you my ultimate fantasy. I love a man who has nothing to do with me, is not in love with me, is not even in the romantic category. He's just plain gay.
 

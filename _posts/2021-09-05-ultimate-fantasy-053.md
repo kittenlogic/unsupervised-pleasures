@@ -1,18 +1,18 @@
 ---
 layout: post
 title: Ultimate Fantasy 53 Lunatic Fringe Orchard
-
-description: GPT-2 model trained on a corpus of queer theatre
-summary: GPT-2 model trained on a corpus of queer theatre
+description: He envisions himself leading a normal, middle-class existence..
+summary: He envisions himself leading a normal, middle-class existence...
 tags: [LSD, Valium, lions, tigers, dreams, middle class, queer, GPT-2, RunwayML]
 ---
 
-<div style="padding:100% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/648200022?h=4d38722941&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="Lunatic Fringe Orchard"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
-<figcaption>He envisions himself leading a normal, middle-class existence. LSD dreams of swimming through rapids, of tigers and lions, of armies marching on fields. Lunatic fringe orchard. A quiet place for the weekend.</figcaption>
+
+Let me begin by telling you my ultimate fantasy. A friend of Harvey's has this cabin on a steep hill overlooking the Willamette River. The fire is still burning and the smell is unbearable. He tells me he has a "dream" this weekend in which he thinks he is in "The Pit." I ask him what it is he imagines himself doing there. He tells me he envisions himself leading a normal, middle-class existence. Then, he tells me, suddenly he senses something terrifying and insists I get out of bed. He says he has been taking hallucinogenic drugs lately, such as Valium and Valium + Lysergic acid diethylamide. He says he dreams of swimming through rapids, of tigers and lions, of armies marching on fields. Lunatic fringe orchard. A quiet place for the weekend. June.
 
 <hr/>
 
-Let me begin by telling you my ultimate fantasy. A friend of Harvey's has this cabin on a steep hill overlooking the Willamette River. The fire is still burning and the smell is unbearable. He tells me he has a "dream" this weekend in which he thinks he is in "The Pit." I ask him what it is he imagines himself doing there. He tells me he envisions himself leading a normal, middle-class existence. Then, he tells me, suddenly he senses something terrifying and insists I get out of bed. He says he has been taking hallucinogenic drugs lately, such as Valium and Valium + Lysergic acid diethylamide. He says he dreams of swimming through rapids, of tigers and lions, of armies marching on fields. Lunatic fringe orchard. A quiet place for the weekend. June.
+<div style="padding:100% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/648200022?h=4d38722941&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="Lunatic Fringe Orchard"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
+<figcaption>He envisions himself leading a normal, middle-class existence. LSD dreams of swimming through rapids, of tigers and lions, of armies marching on fields. Lunatic fringe orchard. A quiet place for the weekend.</figcaption>
 
 ## Seed
 

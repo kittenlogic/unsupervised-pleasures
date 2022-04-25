@@ -1,12 +1,10 @@
 ---
 layout: post
 title: Ultimate Fantasy 32 All of Us
-description: GPT-2 model trained on a corpus of queer theatre
-summary: GPT-2 model trained on a corpus of queer theatre
+description: Queer people are not safe from the world.
+summary: Queer people are not safe from the world.
 tags: [erotic, secret, school, high school, teacher, fraternity, prom, bar, porno, queer, GPT-2, RunwayML]
 ---
-
-
 
 Let me begin by telling you my ultimate fantasy. My lover will disappear. I have a lifetime of secrets to keep and he will never see me. I have all the proof. And what am I going to do? Abandon him? Flee to a safe place away from prying eyes and a screaming public?
 

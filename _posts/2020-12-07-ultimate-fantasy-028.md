@@ -1,12 +1,10 @@
 ---
 layout: post
 title: Ultimate Fantasy 28 Epiphany
-description: GPT-2 model trained on a corpus of queer theatre
-summary: GPT-2 model trained on a corpus of queer theatre
+description: My story's so compelling it makes non-fiction look like history.
+summary: My story's so compelling it makes non-fiction look like history.
 tags: [Doris Day, Martin Luther King, Woody Allen, Hollywood, television, queer, GPT-2, RunwayML]
 ---
-
-
 
 Let me begin by telling you my ultimate fantasy. My personal fable. It goes something like this.
 

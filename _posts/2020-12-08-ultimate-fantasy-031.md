@@ -1,14 +1,14 @@
 ---
 layout: post
 title: Ultimate Fantasy 31 Friendship
-description: GPT-2 model trained on a corpus of queer theatre
-summary: GPT-2 model trained on a corpus of queer theatre
+description: I want to be your friend forever
+summary: I want to be your friend forever
 tags: [friendship, taboo, mother, men, sex, love, kissing, legacy, queer, GPT-2, RunwayML]
 ---
 
+Let me begin by telling you my ultimate fantasy.
 
-
-Let me begin by telling you my ultimate fantasy. It's not for everyone. But for me it's a beginning, not a middle, not a destination. I want you to be my friend for the next thirty years or so, not just because I want to but because you want to. I want to hang on to that friendship as long as I can 'cause it's that friendship that keeps me going. It may not be the friendship that's making all the difference in the world, but that's the friendship I have. And that's what I want. That's what you have to understand about me. I am monogamous.
+It's not for everyone. But for me it's a beginning, not a middle, not a destination. I want you to be my friend for the next thirty years or so, not just because I want to but because you want to. I want to hang on to that friendship as long as I can 'cause it's that friendship that keeps me going. It may not be the friendship that's making all the difference in the world, but that's the friendship I have. And that's what I want. That's what you have to understand about me. I am monogamous.
 
 I know.
 

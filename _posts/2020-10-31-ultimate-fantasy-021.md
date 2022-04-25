@@ -1,12 +1,10 @@
 ---
 layout: post
 title: Ultimate Fantasy 21 Why We Marry
-description: GPT-2 model trained on a corpus of queer theatre
-summary: GPT-2 model trained on a corpus of queer theatre
+description: This evening has all the trappings of a slumber party.
+summary: This evening has all the trappings of a slumber party.
 tags: [Kinsey, high school, doctor, nurse, heteronormative, slumber party, queer, GPT-2, RunwayML]
 ---
-
-
 
 Let me begin by telling you my ultimate fantasy.
 

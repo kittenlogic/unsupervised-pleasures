@@ -1,12 +1,10 @@
 ---
 layout: post
 title: Ultimate Fantasy 29 Deviation
-description: GPT-2 model trained on a corpus of queer theatre
-summary: GPT-2 model trained on a corpus of queer theatre
+description: A wild goose chase across America
+summary: A wild goose chase across America
 tags: [sex, sexuality, sensuality, taboo, Elise, Bluebeard, water, kink, erotic, queer, GPT-2, RunwayML]
 ---
-
-
 
 Let me begin by telling you my ultimate fantasy
 

@@ -1,12 +1,10 @@
 ---
 layout: post
 title: Ultimate Fantasy 20 Ultimate Fear
-description: GPT-2 model trained on a corpus of queer theatre
-summary: GPT-2 model trained on a corpus of queer theatre
+description: Isolation
+summary: Isolation
 tags: [queer, boy, mother, white, gay, gayborhood, school, high school, chemistry, stereotypes, illegal, isolation, outcast, Blanche DuBois, Alan McCarthy, dyke, lesbian, homosexual, sexuality, public policy, parents, secret, GPT-2, RunwayML]
 ---
-
-
 
 Let me begin by telling you my ultimate fantasy. When I was a very young girl, there was a gay boy in my school. He was a regular pupil in the chemistry department, not the best of students, who made all the right errors and often got punished for them.
 

@@ -1,14 +1,15 @@
 ---
 layout: post
 title: Ultimate Fantasy 40 Fuck Me
-description: GPT-2 model trained on a corpus of queer theatre
-summary: GPT-2 model trained on a corpus of queer theatre
+description: If I could have one wish come true today, it would be that you would fuck me. 
+summary: If I could have one wish come true today, it would be that you would fuck me.
 tags: [erotic, sex, queer, GPT-2, RunwayML]
 ---
 
 
+Let me begin by telling you my ultimate fantasy.
 
-Let me begin by telling you my ultimate fantasy. If I could have one wish come true today, it would be that you would fuck me. Please.
+If I could have one wish come true today, it would be that you would fuck me. Please.
 
 I don't believe you. I am so very wrong.
 

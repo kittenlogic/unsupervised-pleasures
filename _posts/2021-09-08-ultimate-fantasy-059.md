@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Ultimate Fantasy 59 Feels
-description: It's just that now I'm being watched.
-summary: It's just that now I'm being watched.
+description: It's just that now I'm being watched...
+summary: It's just that now I'm being watched...
 tags: [surveillance, queer, GPT-2, RunwayML]
 ---
 

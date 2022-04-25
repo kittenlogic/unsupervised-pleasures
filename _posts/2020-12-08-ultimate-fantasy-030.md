@@ -1,12 +1,10 @@
 ---
 layout: post
 title: Ultimate Fantasy 30 Tender Enough
-description: GPT-2 model trained on a corpus of queer theatre
-summary: GPT-2 model trained on a corpus of queer theatre
+description: What about deep-rooted? What about love?
+summary: What about deep-rooted? What about love?
 tags: [priest, Jesus, pregnant, baby, love, erotic, queer, GPT-2, RunwayML]
 ---
-
-
 
 Let me begin by telling you my ultimate fantasy.
 

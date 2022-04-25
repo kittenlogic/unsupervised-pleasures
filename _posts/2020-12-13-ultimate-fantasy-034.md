@@ -1,12 +1,10 @@
 ---
 layout: post
 title: Ultimate Fantasy 34 The Conversation
-description: GPT-2 model trained on a corpus of queer theatre
-summary: GPT-2 model trained on a corpus of queer theatre
+description: I love you and I want you to be my lover
+summary: I love you and I want you to be my lover
 tags: [erotic, sex, consent, queer, GPT-2, RunwayML]
 ---
-
-
 
 Let me begin by telling you my ultimate fantasy.
 

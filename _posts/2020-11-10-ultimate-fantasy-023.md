@@ -1,12 +1,10 @@
 ---
 layout: post
 title: Ultimate Fantasy 23 144 Loving Arms
-description: GPT-2 model trained on a corpus of queer theatre
-summary: GPT-2 model trained on a corpus of queer theatre
+description: When I was in college, I went to a retreat for gay men in Florida...
+summary: When I was in college, I went to a retreat for gay men in Florida...
 tags: [school, secret, college, trance, stay-at-home, Florida, Grand Canyon, Manhattan Island, Amazon, sun, moon, earth, gay, queer, GPT-2, RunwayML]
 ---
-
-
 
 Let me begin by telling you my ultimate fantasy. When I was in college, I went to a retreat for gay men in Florida. There were eight of us in a room with 144 men and only three women. All of us had had sex before we met and none of us ever had it again. All of us had learned to live with the possibility that one night our secret might be revealed. There is no need to get sultry tonight.
 

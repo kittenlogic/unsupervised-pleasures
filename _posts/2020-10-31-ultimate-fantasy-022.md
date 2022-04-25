@@ -2,11 +2,9 @@
 layout: post
 title: Ultimate Fantasy 22 Tomboy
 description: Sagittarius. Taurus. Capricorn. Cancer. Scorpio.
-summary: GPT-2 model trained on a corpus of queer theatre
+summary: Sagittarius. Taurus. Capricorn. Cancer. Scorpio.
 tags: [tomboy, astrology, queer, GPT-2, RunwayML]
 ---
-
-
 
 Let me begin by telling you my ultimate fantasy.
 

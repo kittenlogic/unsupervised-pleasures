@@ -1,12 +1,10 @@
 ---
 layout: post
 title: Ultimate Fantasy 27 Role Play
-description: GPT-2 model trained on a corpus of queer theatre
-summary: GPT-2 model trained on a corpus of queer theatre
+description: What is it like to be the straight lady who fakes?
+summary: What is it like to be the straight lady who fakes?
 tags: [role-play, fantasy, food, queer, GPT-2, RunwayML]
 ---
-
-
 
 Let me begin by telling you my ultimate fantasy.
 

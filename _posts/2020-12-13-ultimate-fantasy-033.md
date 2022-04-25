@@ -1,12 +1,10 @@
 ---
 layout: post
 title: Ultimate Fantasy 33 Credible Person
-description: GPT-2 model trained on a corpus of queer theatre
-summary: GPT-2 model trained on a corpus of queer theatre
+description: Sex and romance without the fear of being judged a pervert or a pervert's wet dream.
+summary: Sex and romance without the fear of being judged a pervert or a pervert's wet dream.
 tags: [ Tom Tucker, politics, pervert, punk rock, weirdos, cops, bigots, civil rights, boogeyman, radical, gay bar, queer, GPT-2, RunwayML]
 ---
-
-
 
 Let me begin by telling you my ultimate fantasy.
 

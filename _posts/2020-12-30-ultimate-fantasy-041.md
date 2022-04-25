@@ -1,12 +1,10 @@
 ---
 layout: post
 title: Ultimate Fantasy 41 Phone Sex
-description: GPT-2 model trained on a corpus of queer theatre
-summary: GPT-2 model trained on a corpus of queer theatre
+description: A phone sex alert?
+summary: A phone sex alert?
 tags: [phone sex, Larry Merchant, queer, GPT-2, RunwayML]
 ---
-
-
 
 Let me begin by telling you my ultimate fantasy.
 
