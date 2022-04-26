@@ -1,12 +1,10 @@
 ---
 layout: post
 title: Ultimate Fantasy 6 Secret Lover
-description: GPT-2 model trained on a corpus of queer theatre
-summary: GPT-2 model trained on a corpus of queer theatre
+description: What if you could have one secret lover?
+summary: What if you could have one secret lover?
 tags: [queer, erotic, poetry, secret, sex, lover, monster, angry, GPT-2, RunwayML]
 ---
-
-
 
 Let me begin by telling you my ultimate fantasy.
 
@@ -26,7 +24,7 @@ Of course not. That's one secret. One lover. One secret lover.
 
 Could you please leave out the "one"?
 
-It's just that you don't know how to be a good lover.
+It's just that you don't know how to be a good lover. 
 
 Are you going to make love to me or are you just going to sit and wait for me?
 

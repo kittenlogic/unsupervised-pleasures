@@ -1,12 +1,10 @@
 ---
 layout: post
 title: Ultimate Fantasy 1 Club Life and Mothers
-description: GPT-2 model trained on a corpus of queer theatre
-summary: GPT-2 model trained on a corpus of queer theatre
+description: When I was young I loved going out to a club with a gang of boys.
+summary: When I was young I loved going out to a club with a gang of boys.
 tags: [clubs, gay, sex, sexuality, angry, lesbian, Presbyterian, marriage, children, community, GPT-2, RunwayML, queer]
 ---
-
-
 
 Let me begin by telling you my ultimate fantasy. When I was young I loved going out to a club with a gang of boys. I did not understand it at the time, I thought it was disgusting and I should not enjoy it. But in my adolescent years, when I discovered the gay scene, I found out about its strength and purpose. This meant it had two forms, boys and men. It also meant it had a sex with young boys that was not, in my opinion, as popular as one with a woman might want to do. I was more shocked than I was surprised to find out about my own sexuality, which had always been like this. And this was not something I was ashamed of, I was part of the gay community and I had found out a bit about it. I would occasionally go to clubs with boys, or with my mother. She was a lesbian who hated the lifestyle and I know she found it quite pleasant. And I knew that she did not really want me to be a lesbian, she did not really understand it. My mother was a staunch member of the "G" club, which was devoted to women. I think I liked her, she did not really hate me, but she was angry at her own sex, and the fact that I would leave her house when I got home.
 

@@ -1,22 +1,20 @@
 ---
 layout: post
 title: Ultimate Fantasy 11 Gay History
-description: GPT-2 model trained on a corpus of queer theatre
-summary: GPT-2 model trained on a corpus of queer theatre
+description: Gay history in four parts
+summary: Gay history in four parts
 tags: [school, high school, gayborhood, cruising, lesbian, politically incorrect, feminist closet, history, Atlanta, Florida, GPT-2, RunwayML, queer]
 ---
 
-
-
 Let me begin by telling you my ultimate fantasy.
 
-Lover number one.
+### Lover number one.
 
 When I was in high school, this sweet sixteen year old me, my best friend Susan, and I, all had a secret lesbian crush on each other. Our first.
 
 While cruising the gayborhoods of Atlanta, Florida, my best friend Joan was leaving for San Francisco for the summer. I asked, Why do you always have to be so politically incorrect?
 
-Lover number two.
+### Lover number two.
 
 We were both in the feminist closet. We hated each other terribly.
 
@@ -26,7 +24,7 @@ I was so ashamed. It was my fault. It was her fault. We both fucked up. We both 
 
 Let's change the subject.
 
-Lover number three.
+### Lover number three.
 
 When I told my best friend Annie about this "fag" we had been Glorious. Ann was incensed. She thought it was the most despicable thing I could possibly be doing.
 
@@ -42,7 +40,7 @@ We can make it clearer by keeping our history in the murky.
 
 If I walked into a gay bar right now and asked the friendly waitresses if they remembered a certain "fag," they most certainly would not know. They would most certainly not be able to give me an honest answer. I would most certainly be disappointed. Most people have a hard time accepting that there might be a gay past in the first place. It almost feels like a challenge to the very fabric of reality.
 
-Lover number four.
+### Lover number four.
 
 In those days, you didn't even have to ask. Why do you continue to do this?
 

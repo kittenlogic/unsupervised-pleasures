@@ -10,14 +10,15 @@ title: Search
 	}
 
 	input[type=text] {
-		font-size: normal;
+		font-size: 1em;
     outline: none;
     padding: 1rem;
 		background: rgb(236, 237, 238);
+		color: #ff00ff;
     width: 100%;
 		height: 50px;
 		font-family: inherit;
-		font-size: 100%;
+    font-weight: 500;
 		border: none;
 		border-radius: 0;
 		-webkit-appearance: none;

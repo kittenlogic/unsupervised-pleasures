@@ -2,14 +2,14 @@
 
 # Unsupervised Pleasures
 
-Experiments with machine learning models with GPT-X and VQGAN-CLIP.
+DIY community library and practice space using queer methodologies, glitch feminism, decolonial and other non-normative frameworks to create datasets, machine learning models, bots, zines, publications, texts and art with AI.
 
 ### Features
 
 - Responsive design
 - Inline CSS
 - Anchor headings
-- Search
+- Search (Lunr.js)
 - Tags & tag pages
 - Security headers (for Netlify hosting)
 - 404 page
@@ -18,7 +18,7 @@ Experiments with machine learning models with GPT-X and VQGAN-CLIP.
 - Robots.txt
 - Atom & Json feeds
 - Sass
-- Seo optimized (Twitter cards, Facebook Open Graph, Schema.org)
+- SEO optimized (Twitter cards, Facebook Open Graph, Schema.org)
 - Ultra fast (Only ~5kb of CSS)
 - Sidebar navigation
 

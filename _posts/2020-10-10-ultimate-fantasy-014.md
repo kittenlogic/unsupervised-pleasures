@@ -1,12 +1,10 @@
 ---
 layout: post
 title: Ultimate Fantasy 14 Filthy Habit
-description: GPT-2 model trained on a corpus of queer theatre
-summary: GPT-2 model trained on a corpus of queer theatre
+description: Erotic horror story
+summary: Erotic horror story
 tags: [erotic, horror, content warning, GPT-2, RunwayML, queer]
 ---
-
-
 
 Let me begin by telling you my ultimate fantasy.
 

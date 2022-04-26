@@ -1,12 +1,10 @@
 ---
 layout: post
 title: Ultimate Fantasy 5 Hotline Miami
-description: GPT-2 model trained on a corpus of queer theatre
-summary: GPT-2 model trained on a corpus of queer theatre
+description: Hotline Miami?
+summary: Hotline Miami?
 tags: [queer, Miami, paranoia, sex, GPT-2, RunwayML]
 ---
-
-
 
 Let me begin by telling you my ultimate fantasy.
 
@@ -20,7 +18,7 @@ Oh come on! It's not true!
 
 It was the most exciting thing I've ever had. It's true!
 
-"Hotline Miami"?
+Hotline Miami?
 
 Give me the straight answer. Don't give me that. Let's all just talk about what's real right now.
 

@@ -1,16 +1,14 @@
 ---
 layout: post
 title: Ultimate Fantasy 10 Homosexual Hooliganism
-description: GPT-2 model trained on a corpus of queer theatre
-summary: GPT-2 model trained on a corpus of queer theatre
+description: Michigan Wolverines have been renamed the Gay Wildcats.
+summary: Michigan Wolverines have been renamed the Gay Wildcats.
 tags: [school, college, football, Michigan Wolverines, Gay Wildcats, homosexual, GPT-2, RunwayML, queer]
 ---
 
-
-
 Let me begin by telling you my ultimate fantasy.
 
-At long last, the season is finally here, and it's finally time for the national championship football game. This year, it's the Michigan versus Michigan State game, played at Michigan Stadium. This year's Michigan Wolverines have been renamed the "Gay Wildcats."And, of course, it's all but guaranteed that there will be homosexual hooliganism. Most of the Michigan players on the field are wearing colors of the homosexual pride flag, as are most of the Michigan State Spartans. 
+At long last, the season is finally here, and it's finally time for the national championship football game. This year, it's the Michigan versus Michigan State game, played at Michigan Stadium. This year's Michigan Wolverines have been renamed the "Gay Wildcats." And, of course, it's all but guaranteed that there will be homosexual hooliganism. Most of the Michigan players on the field are wearing colors of the homosexual pride flag, as are most of the Michigan State Spartans.
 
 ## Seed
 

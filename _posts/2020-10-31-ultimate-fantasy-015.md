@@ -1,12 +1,10 @@
 ---
 layout: post
 title: Ultimate Fantasy 15 Pun Intended
-description: GPT-2 model trained on a corpus of queer theatre
-summary: GPT-2 model trained on a corpus of queer theatre
+description: Who do you think is going to have sex with next?
+summary: Who do you think is going to have sex with next?
 tags: [school, high school, gay, queer, angry, romantic, sex, GPT-2, RunwayML ]
 ---
-
-
 
 Let me begin by telling you my ultimate fantasy. When I was in high school my best friend Alan was gay. We slept together in his dorm room only to have me have to go home alone after midnight. The next morning I found that Alan had propositioned me on the street.
 

@@ -1,12 +1,10 @@
 ---
 layout: post
 title: Ultimate Fantasy 7 The Gayborhood
-description: GPT-2 model trained on a corpus of queer theatre
-summary: GPT-2 model trained on a corpus of queer theatre
+description: There are plenty of things you don't know.
+summary: There are plenty of things you don't know.
 tags: [queer, gay, gayborhood, stripper, drag, disco, middle-aged white men, priest, GPT-2, RunwayML]
 ---
-
-
 
 Let me begin by telling you my ultimate fantasy. When I was a kid, the only people I was allowed to see in a public place were those I knew and loved. Those closest to me were either priests or middle-aged white men. It was forbidden to me to go to the gayborhood or the drag queens' district. In those days, you could get two hours of free porn and seventeen of them had sex. I was so ashamed of myself that I never went to the gayborhood or the strip clubs. I wasn't gayborhood or drag queen stripper girl, I wasn't even a gay boy.
 

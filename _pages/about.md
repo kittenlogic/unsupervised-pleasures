@@ -3,9 +3,10 @@ layout: page
 title: About
 ---
 
+<hr/>
 ## Unsupervised Pleasures
 
-Unsupervised Pleasures is a DIY community library and practice space for people interested in using queer methodologies, glitch feminism, decolonial and other non-normative frameworks to build relationships and un/make things with AI that center pleasure and refuse a normative picture of the world.
+Unsupervised Pleasures is a DIY community library and practice space for people interested in using queer methodologies, glitch feminism, decolonial and other non-normative frameworks to make friends and un/make things with AI.
 
 <hr/>
 
@@ -17,7 +18,8 @@ We are artists interested in working with texts and AI using our own archives an
 - Making AI more accessible and pleasurable for beginners in a supportive environment.
 - Centering historically excluded and misrepresented people and knowledge, respectfully and consensually.
 - Developing deeper practice with queer, glitch feminism, and decolonial methodologies.
-- Focusing primarily on language models (GPT-J) and mutlimodal AI using language prompts (VQGan+Clip)
+- Developing a culture where slowness is a feature, not a bug.
+- Focusing primarily on language models (GPT-J) and multimodal AI using language prompts (VQGan+Clip)
 - Setting up guidelines for preparing datasets that protect the bodies of knowledge of our communities.
 - Building machine learning models trained with our datasets.
 - Releasing Discord bots, Twitter bots, and other bots trained on our models.
@@ -31,3 +33,5 @@ We are artists interested in working with texts and AI using our own archives an
 [Sarah Ciston](https://sarahciston.github.io), a PhD candidate in Media Arts and Practice at USC who is developing an Intersectional AI Toolkit. Sarah is a self-described "poet-programmer who loves building community through creative-critical code".  
 
 Sarah and Emily both love making zines, building language bots, and are actively working on creating their first dataset collection focused on an ethics of care and mutual aid, and philosophies rooted in love and reciprocity. There will be more to come.
+
+<hr/>
