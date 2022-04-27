@@ -18,7 +18,7 @@ We are artists interested in working with texts and AI using our own archives an
 - Making AI more accessible and pleasurable for beginners in a supportive environment.
 - Centering historically excluded and misrepresented people and knowledge, respectfully and consensually.
 - Developing deeper practice with queer, glitch feminism, and decolonial methodologies.
-- Developing a culture where slowness is a feature, not a bug.
+- Developing a work culture where slowness is a feature, not a bug.
 - Focusing primarily on language models (GPT-J) and multimodal AI using language prompts (VQGan+Clip)
 - Setting up guidelines for preparing datasets that protect the bodies of knowledge of our communities.
 - Building machine learning models trained with our datasets.

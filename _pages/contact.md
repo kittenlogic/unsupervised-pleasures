@@ -13,4 +13,4 @@ queermachines[at]gmail[dot]com
 
 ### Newsletter
 
-Get project news. No spam.
+<a data-eo-form-toggle-id="5f44c8c5-c5c0-11ec-9258-0241b9615763" href="#">Subscribe</a>

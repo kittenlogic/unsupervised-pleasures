@@ -1,10 +1,11 @@
 <header role="banner">
-      <img src="/assets/img/pulsar.jpg" alt="Unsupervised Pleasures logo" class="mobile-hidden img-responsive"/>
-      <nav role="navigation">
-<ul>
-   {% for item in site.data.navigation.links %}
-      <li><a href="{{ item.url }}" {% if item.url == page.url %} class="active"{% endif %}>{{ item.title }}</a></li>
-   {% endfor %}
-</ul>
-</nav>
+  <img src="/assets/img/pulsar.jpg" alt="Unsupervised Pleasures logo" class="mobile-hidden img-responsive"/>
+  <nav role="navigation">
+    <ul>
+       {% for item in site.data.navigation.links %}
+          <li><a href="{{ item.url }}" {% if item.url == page.url %} class="active"{% endif %}>{{ item.title }}</a></li>
+       {% endfor %}
+       <li><a data-eo-form-toggle-id="5f44c8c5-c5c0-11ec-9258-0241b9615763" href="#">Newsletter</a></li>
+    </ul>
+  </nav>
 </header>
