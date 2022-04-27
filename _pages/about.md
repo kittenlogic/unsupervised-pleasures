@@ -14,11 +14,11 @@ Unsupervised Pleasures is a DIY community library and practice space for people 
 
 We are artists interested in working with texts and AI using our own archives and “small data”. We want to explore ways of practicing care and support through our technological ecosystems. We want to deepen how we bring queer, glitch feminist, and decolonial methodologies into our everyday lives and work. We want to experiment with glitch, error, and infecting the larger AI systems with a plurality of stories as a strategy of resistance. We are curious to learn if/how these approaches can help us find openings, write new narratives, and create spaces that can hold us in ways that these systems were not designed to.
 
-## Project Goals
+## Our Goals
 - Making AI more accessible and pleasurable for beginners in a supportive environment.
 - Centering historically excluded and misrepresented people and knowledge, respectfully and consensually.
 - Developing deeper practice with queer, glitch feminism, and decolonial methodologies.
-- Developing a work culture where slowness is a feature, not a bug.
+- Developing a culture of collaboration where working slowly is a feature, not a bug.
 - Focusing primarily on language models (GPT-J) and multimodal AI using language prompts (VQGan+Clip)
 - Setting up guidelines for preparing datasets that protect the bodies of knowledge of our communities.
 - Building machine learning models trained with our datasets.
@@ -33,5 +33,11 @@ We are artists interested in working with texts and AI using our own archives an
 [Sarah Ciston](https://sarahciston.github.io), a PhD candidate in Media Arts and Practice at USC who is developing an Intersectional AI Toolkit. Sarah is a self-described "poet-programmer who loves building community through creative-critical code".  
 
 Sarah and Emily both love making zines, building language bots, and are actively working on creating their first dataset collection focused on an ethics of care and mutual aid, and philosophies rooted in love and reciprocity. There will be more to come.
+
+<hr/>
+
+## How can I learn more?
+
+<a class="btn btn-primary" data-eo-form-toggle-id="5f44c8c5-c5c0-11ec-9258-0241b9615763" href="#">Join Us</a>
 
 <hr/>

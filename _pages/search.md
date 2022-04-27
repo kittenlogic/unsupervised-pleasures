@@ -44,7 +44,7 @@ title: Search
 
 	input[type=submit]:hover,
 	input[type=submit]:focus {
-	  background-color: #ff00ff;
+	  background-color: #f8cdff;
 		color: #000;
 	}
 

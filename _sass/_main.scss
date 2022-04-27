@@ -118,7 +118,7 @@ h1,h2,h3,h4,h5 {
 h1 {
   font-size: 2em;
   letter-spacing: 2px;
-  font-weight: 300;
+  font-weight: 400;
 }
 h2{
 	font-size: 1.5em;
@@ -201,14 +201,14 @@ strong, b {
 .round-logo{
 	border: 1px dotted;
   border-radius: 50%;
-	max-width: 380px;
+	max-width: 360px;
 	margin: 1em auto;
 	display: block;
 	}
 .flex-center {
-    align-items: center;
-    display: flex;
-    justify-content: center;
+  align-items: center;
+  display: flex;
+  justify-content: center;
 }
 .col {
     margin: 1em;
