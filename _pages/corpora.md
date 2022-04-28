@@ -11,8 +11,8 @@ title: Corpora
 
 <hr/>
 
-## Philosophy AI
+## Philosophy, Bro
 
- **Philosophy AI** is a GPT-2 machine learning model trained on texts sourced from [Project Gutenberg](https://www.gutenberg.org/) by the philosophers Baruch Spinoza, William James, Friedrich Wilhelm Nietzsche, Arthur Schopenhauer, and Henri Bergson. // [>> Philosophy AI Corpus](/philosophy)
+ **Philosophy, Bro** is a GPT-2 machine learning model trained on texts sourced from [Project Gutenberg](https://www.gutenberg.org/) by the philosophers Baruch Spinoza, William James, Friedrich Wilhelm Nietzsche, Arthur Schopenhauer, and Henri Bergson. // [>> Philosophy, Bro Corpus](/philosophy)
 
 <hr/>

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Philosophy v1
+title: Philosophy, Bro v1
 ---
 
 ### Corpus

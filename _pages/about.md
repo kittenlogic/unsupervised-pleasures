@@ -15,10 +15,10 @@ Unsupervised Pleasures is a DIY community library and practice space for people 
 We are artists interested in working with texts and AI using our own archives and “small data”. We want to explore ways of practicing care and support through our technological ecosystems. We want to deepen how we bring queer, glitch feminist, and decolonial methodologies into our everyday lives and work. We want to experiment with glitch, error, and infecting the larger AI systems with a plurality of stories as a strategy of resistance. We are curious to learn if/how these approaches can help us find openings, write new narratives, and create spaces that can hold us in ways that these systems were not designed to.
 
 ## Our Goals
+
 - Making AI more accessible and pleasurable for beginners in a supportive environment.
 - Centering historically excluded and misrepresented people and knowledge, respectfully and consensually.
 - Developing deeper practice with queer, glitch feminism, and decolonial methodologies.
-- Developing a culture of collaboration where working slowly is a feature, not a bug.
 - Focusing primarily on language models (GPT-J) and multimodal AI using language prompts (VQGan+Clip)
 - Setting up guidelines for preparing datasets that protect the bodies of knowledge of our communities.
 - Building machine learning models trained with our datasets.

@@ -5,7 +5,7 @@ title: Contact
 
 ### Email
 
-queermachines[at]gmail[dot]com
+hello@unsupervisedpleasures.com
 
 ### Follow
 
