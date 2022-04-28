@@ -6,11 +6,6 @@ summary: This is where we will lie together. Suck each other to death. Orgasm to
 tags: [death, orgasm, divine, queer, GPT-2, RunwayML]
 ---
 
-<div style="padding:100% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/648207657?h=c1339abe6d&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="the-tomb"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
-
-<figcaption>The tomb. This is where we’ll lie together. Suck each other to death. Orgasm together. Dirty love. Deep throating. Scary sex.</figcaption>
-<hr/>
-
 Let me begin by telling you my ultimate fantasy.<br/>
 The tomb, the tomb all the way up there.<br/>
 This is where we'll lie together.<br/>
@@ -28,6 +23,11 @@ The taste...<br/>
 Relax, the taste is divine.<br/>
 The smell of a foot in a pool of urine is divine.
 
+<hr/>
+
+<div style="padding:100% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/648207657?h=c1339abe6d&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="the-tomb"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
+
+<figcaption>The tomb. This is where we’ll lie together. Suck each other to death. Orgasm together. Dirty love. Deep throating. Scary sex.</figcaption>
 
 ## Seed
 

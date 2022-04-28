@@ -1,7 +1,7 @@
 site: unsupervisedpleasures
 url: unsupervisedpleasures.com
 title: Unsupervised Pleasures
-description: Experiments in machine learning with GPT-X and VQGAN-CLIP.
+description: DIY community practice space using queer methodologies, glitch feminism, decolonial and other non-normative frameworks to un/make things with AI.
 twitter:
   username: "@queermachines"
   card: summary
@@ -10,7 +10,7 @@ author:
   twitter: "@queermachines"
   name: "@queermachines"
   avatar:
-  email: "queermachines@gmail.com"
+  email: "hello@unsupervisedpleasures.com"
   url: unsupervisedpleasures.com
 permalink: pretty
 
