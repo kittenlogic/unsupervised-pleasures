@@ -61,6 +61,10 @@ SALOME BY OSCAR WILDE
 
 BELLE REPREIEVE BY BLOOLIPS AND SPLIT BRITCHES
 
+### Credits
+
+Compiled by [Ben Lerchin](https://benlerchin.com) for [Queer AI](https://queer.ai)
+
 ### Training Notes
 
 - RunwayML

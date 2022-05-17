@@ -26,6 +26,6 @@ Conversation with a Spinoza chat bot about death cults, revolution, dominator cu
 
 ## Corpus
 
-- [Philosophy Bot](/philosophy)
+- [Philosophy, Bro](/philosophy)
 - Perplexity: 0.5
 - Seed: 1000

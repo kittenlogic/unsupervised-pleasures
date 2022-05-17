@@ -13,5 +13,7 @@ links:
   url: /contact
 - title: Search
   url: /search
+- title: Newsletter
+  url: /newsletter  
 - title: Rss
   url: /atom.xml

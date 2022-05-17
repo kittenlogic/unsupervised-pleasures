@@ -49,7 +49,7 @@ At this juncture we had better hold fast to the kernel of the matter, to the ele
 
 ## Corpus
 
-- [Philosophy Bot](/philosophy)
+- [Philosophy, Bro](/philosophy)
 - Perplexity Score: 71.19
 
 ## Credits
