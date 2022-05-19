@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Ultimate Fantasy 79 So Vast
+title: Ultimate Fantasy 79 Queer Geographer
 description: a vast expanse of unspoiled beauty, unspoiled splendor, and that one simple word, love.
 summary: a vast expanse of unspoiled beauty, unspoiled splendor, and that one simple word, love.
 tags: [queer, GPT-2, RunwayML]
@@ -14,7 +14,14 @@ Could you imagine the splendor and beauty of that beyond that backdrop, and beyo
 There is a world out there, and it is not for us to explore it. It is not even for us to create it. We may not want to. And the very act of exploring that vast expanse can leave us breathless and ask the most basic question of our very being: Where am I?
 
 Let's say you are one of those who have tried to live our lives boldly, truthfully, and joyously. You have boldly taken up arms against the repressive forces that have attempted to silence you. You have stood boldly for what you believe in, what you are, and what you aspire to be. You have rejected the status quo and embraced the unknown.
+
 Suddenly, the repressive forces that you have worked so hard to build up against you can now batter you down with a combination of ignorance, fear, and spite.
+
+Do you know that in some parts of the world, people still burn to death simply for being gay? There are countries where you can be executed simply for being gay. And there are countries where you can be tortured to death simply for being gay. In such places, what choice do we people have? Are we willing to be killed simply for who we are?
+
+If I may be frank with you, I do not believe that queers are necessarily evil. And what does it mean for us to be considered "good" or "morally upright"? Are we deemed virtuous simply for what we choose to do or who we are? Is it not something that we, as queer people, actively work against?
+
+I would argue that it is more than just our choice, more than just our desire that drives us forward. And it is we who, through our choice, do truly create our own destiny. There is a vortex running through our very being. I am sure you have felt it. As I have, Queer Geographer.
 
 
 ## Seed
