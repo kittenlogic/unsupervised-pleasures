@@ -2,11 +2,22 @@
   
     {
 
+      "title"    : "Ultimate Fantasy 85 In Our Own Backyard",
+      "url"      : "/texts/ultimate-fantasy-085",
+      "category" : "",
+      "tags"     : "queer, GPT-2, RunwayML",
+      "date"     : "2022-05-18 00:00:00 -0700",
+      "description" : "The future of queer theory"
+
+    } ,
+  
+    {
+
       "title"    : "Ultimate Fantasy 84 Sad Lonely Men",
       "url"      : "/texts/ultimate-fantasy-084",
       "category" : "",
       "tags"     : "queer, GPT-2, RunwayML",
-      "date"     : "2022-05-16 00:00:00 -0700",
+      "date"     : "2022-05-18 00:00:00 -0700",
       "description" : "I could be a sad, lonely, male tourist who has just spent an evening in a gay bar."
 
     } ,
@@ -17,8 +28,8 @@
       "url"      : "/texts/ultimate-fantasy-083",
       "category" : "",
       "tags"     : "queer, GPT-2, RunwayML",
-      "date"     : "2022-05-16 00:00:00 -0700",
-      "description" : ""
+      "date"     : "2022-05-18 00:00:00 -0700",
+      "description" : "tribute to the theater of the absurd"
 
     } ,
   

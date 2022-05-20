@@ -29,7 +29,7 @@ No.
 
 ## Seed
 
-What does it mean for sexuality to be lived as oriented? What difference does it make what or who we are oriented toward in the very direction of our desire? If orientation is a matter of how we reside in space, then sexual orientation might also be a matter of residence, of how we inhabit spaces, and who or what we inhabit spaces with. After all, queer geographers have shown us how spaces are sexualized.1 If we foreground the concept of “orientation,” then we can retheorize this sexualization of space as well as the spatiality of sexual desire. What would it mean for queer studies if we were to pose the question of the orientation of sexual orientation as a phenomenological question?
+What does it mean for sexuality to be lived as oriented? What difference does it make what or who we are oriented toward in the very direction of our desire? If orientation is a matter of how we reside in space, then sexual orientation might also be a matter of residence, of how we inhabit spaces, and who or what we inhabit spaces with. After all, queer geographers have shown us how spaces are sexualized. If we foreground the concept of “orientation,” then we can retheorize this sexualization of space as well as the spatiality of sexual desire. What would it mean for queer studies if we were to pose the question of the orientation of sexual orientation as a phenomenological question?
 
 Let me begin by telling you my ultimate fantasy. . .
 
