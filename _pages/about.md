@@ -32,7 +32,7 @@ We are artists interested in working with texts and AI using our own archives an
 
 [Sarah Ciston](https://sarahciston.github.io), a PhD candidate in Media Arts and Practice at USC who is developing an Intersectional AI Toolkit. Sarah is a self-described "poet-programmer who loves building community through creative-critical code".  
 
-Sarah and Emily both love making zines, building language bots, and are actively working on creating their first dataset collection focused on an ethics of care and mutual aid, and philosophies rooted in love and reciprocity. There will be more to come.
+Sarah and Emily both love making zines, building language bots, and are actively working on creating their first dataset collection focused on an ethics of care and mutual aid, and philosophies rooted in love and reciprocity.
 
 <hr/>
 

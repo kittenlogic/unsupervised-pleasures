@@ -29,7 +29,9 @@ There has to be an emotional center. Romance has to be based in truth. There has
 
 How about this... Let's say we're a couple and we go out to a bar on a Friday night. Friday is gayborhood time. There's a big line at the front. People are queuing up behind the counter and waiting to get into the gayborhood. Suddenly there's this gorgeous young man, just comes out of the bathroom naked, and he's just staring straight into our eyes. And he's got these big round eyes and he's got this Wow! What an amazing body!
 
-You know what they say, if it has wings, it's a bird. His eyes are blue, like two balloons stuck together. His hands are covered in glitter. His feet are covered in glitter. His arms are covered in glitter. His mouth is covered in glitter. His tongue is glitter. His feet are covered in glitter. His hands are covered in sparkly glitter. His hair is silver. His hair is wild and curly and beautiful and it's blowing in all directions. All night long people are staring and people are taking photos and people are taking videos. Say what you want about this young American gentleman. He just came out of the bathroom naked and he's staring straight into our beautiful eyes.
+You know what they say, if it has wings, it's a bird.
+
+His eyes are blue, like two balloons stuck together. His hands are covered in glitter. His feet are covered in glitter. His arms are covered in glitter. His mouth is covered in glitter. His tongue is glitter. His hair is silver. His hair is wild and curly and beautiful and it's blowing in all directions. All night long people are staring and people are taking photos and people are taking videos. Say what you want about this young American gentleman. He just came out of the bathroom naked and he's staring straight into our beautiful eyes.
 
 We could disappear.
 You mean disappear?

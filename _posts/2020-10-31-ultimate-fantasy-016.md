@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Ultimate Fantasy 16 College was an All-Out War
+title: Ultimate Fantasy 16 All-Out War
 description: College was the Wild West. Lovers threw themselves into the unknown...
 summary: College was the Wild West. Lovers threw themselves into the unknown...
 tags: [school, college, Wild West, discovery, lesbian, sinner, sex-segregated, one-night-stand, sex, gold-digging, Methodist, drag, administration, witch hunt, conservative, left-wing, radical, cancel culture, GPT-2, RunwayML, queer]
