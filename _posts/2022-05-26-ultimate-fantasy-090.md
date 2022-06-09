@@ -10,7 +10,7 @@ Let me begin by telling you my ultimate fantasy. I am a gorgeous young woman in 
 
 I have practiced these actions on myself and have found that, when I do them, my clitoris turns from one end of the penis to the other in a rhythmic dance. I call it anovulation. All of this may sound very dramatic, and it is, but it is also possible for me to be truly satisfied. I have found that, in order to be satisfied, I have to have something to hide. Desire turns to insatiable. The more I hide, the more I want. This is why I hang on. Look closely. My skin has begun to turn golden.
 
-As you can see, in this chapter, I share a number of stories from my experiences of becoming-queer, of methodological anarchism. These stories are not true, for I am in agreement with the notion that there is no such thing as a true story. Nor do they follow a single line of direction or desire; they connect to each other in many ways. In sharing these stories, I do not have a simple message or a particular argument to convey. Like Ursula Le Guin, I wish, instead of looking for a message when we read a story, instead of looking up, we could think about the words, the sounds, the smells that emanate from a story.
+In sharing these stories, I do not have a simple message or a particular argument to convey. Like Ursula Le Guin, I wish, instead of looking for a message when we read a story, instead of looking up, we could think about the words, the sounds, the smells that emanate from a story.
 
 
 

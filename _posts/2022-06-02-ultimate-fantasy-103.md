@@ -6,15 +6,18 @@ summary: My dear friend Oprah, don't disappoint me.
 tags: [queer, GPT-2, RunwayML]
 ---
 
+Let me begin by telling you my ultimate fantasy.
+
 I AM GOING TO BE A PART OF EVERYTHING!!
 
 That's too bad.<br/>
-Don't be alarmed.<br/>
-I just mean that you are not going to be happy living among the dead. There is much that needs to be done here, much that needs to be said, before you can move on to something more permanent.
 
-And before that, before I can give you a definite answer, you must be prepared to give up on me.<br/>
-You are not prepared.<br/>
-I don't think you are.<br/>
+Don't be alarmed. I just mean that you are not going to be happy living among the dead. There is much that needs to be done here, much that needs to be said, before you can move on to something more permanent.
+
+And before that, before I can give you a definite answer, you must be prepared to give up on me.
+
+You are not prepared.
+I don't think you are.
 Then what are you?
 
 My dear friend Oprah, don't disappoint me. You know I love you, that I missed you terribly when you were away, and I came back to you this time looking very much like the woman I was when you came to visit me in my sleep. Now that you are back, Oprah, I can scarcely wait to meet you and spend some quality time together. But, darling, before we get to that, just one thing tell me one thing, and only one thing, and it must be true.

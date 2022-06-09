@@ -53,7 +53,7 @@ I'm so frightened! This is killing me. What can I do?
 It is your problem, not theirs. Here are a few suggestions:<br/>
 Stop masturbating.<br/>
 Stop saying you want to.<br/>
-Stop using words like "orientation," "orientation," and even the feminine "bi" in your sex-positive marketing.<br/>
+Stop using words like "orientation," "orientation" and even the feminine "bi" in your sex-positive marketing.<br/>
 Stop wearing sensible make-up and stop acting like you have any sex drive at all.<br/>
 Stop eating junk food and drink lots of water.<br/>
 Stop having casual sex.<br/>
