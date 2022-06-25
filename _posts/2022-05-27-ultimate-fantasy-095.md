@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Ultimate Fantasy 95 Divine Love
-description:
-summary:
+description: I have spent the last sixteen years of my life pretending to be a woman.
+summary: I have spent the last sixteen years of my life pretending to be a woman.
 tags: [queer, GPT-2, RunwayML]
 ---
 

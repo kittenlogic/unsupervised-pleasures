@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Ultimate Fantasy 83 Latex Stockings
+title: Ultimate Fantasy 83 Unnaturally Sexual
 description: tribute to the theater of the absurd
 summary: tribute to the theater of the absurd
 tags: [queer, GPT-2, RunwayML]
