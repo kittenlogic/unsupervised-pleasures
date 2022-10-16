@@ -6,7 +6,7 @@ title: About
 <hr/>
 ## Unsupervised Pleasures
 
-Unsupervised Pleasures is a DIY community library and practice space for people interested in using queer methodologies, glitch feminism, decolonial and other non-normative frameworks to make friends and un/make things with AI.
+Unsupervised Pleasures is a a community of AI practicioners interested in ethical experimentation, p2p education, and DIY cultural production.
 
 <hr/>
 
@@ -19,24 +19,26 @@ We are artists interested in working with texts and AI using our own archives an
 - Making AI more accessible and pleasurable for beginners in a supportive environment.
 - Centering historically excluded and misrepresented people and knowledge, respectfully and consensually.
 - Developing deeper practice with queer, glitch feminism, and decolonial methodologies.
-- Focusing primarily on language models (GPT-J) and multimodal AI using language prompts (VQGan+Clip)
+-  Working primarily with language models; training custom models from "scratch" + finetuning large language models (BLOOM, GPT-J)
 - Setting up guidelines for preparing datasets that protect the bodies of knowledge of our communities.
-- Building machine learning models trained with our datasets.
+- Creating _Love Corpora_, a collection of datasources featuring texts that orient towards life and liberation; made with community input and contributor consent.
+- Making machine learning models trained with our custom dataset
 - Releasing Discord bots, Twitter bots, and other bots trained on our models.
 - Creating art, zines and art publications.
-- Making (some of) our dataset library publicly available.
+- Making a publicly available datasource library from _Love Corpora_.
 
 ## Who is tending this garden?
 
 [Emily Martinez](https://somethingnothing.me), a new media artist working with machine learning, queer technologies, and consensual tech. Emily is a 1st generation immigrant/refugee (Cuba > Miami) and a self-taught coder who believes in the tactical misuse of technology. Their art has been exhibited internationally, mostly thru collaborations with [Anxious to Make](https://anxioustomake.ga) and [Queer AI](https://queer.ai). They started Unsupervised Pleasures as part of their [ML5.js Fellowship](https://processingfoundation.org/fellowships) project to document some of their research and experiments with GPT-2.
 
-[Sarah Ciston](https://sarahciston.github.io), a PhD candidate in Media Arts and Practice at USC who is developing an [Intersectional AI Toolkit](https://intersectionalai.com). Sarah is a self-described "poet-programmer who loves building community through creative-critical code".  
+[Sarah Ciston](https://sarahciston.github.io) is a self-described poet-programmer who loves building community through critical-creative code and bringing [Intersectional approaches to AI](https://intersectionalai.com). They are a PhD candidate in Media Arts and Practice at USC and Artistic Research Resident at [AI Anarchies](https://www.adk.de/en/academy/young-academy/ai-anarchies/) in Berlin.
 
-Sarah and Emily both love making zines, building language bots, and are actively working on creating their first dataset collection focused on an ethics of care and mutual aid, and philosophies rooted in love and reciprocity.
 
 <hr/>
 
-## How can I learn more?
+## Want to get involved?
+
+<a class="btn btn-primary" href="https://ultimatefantasy.club/" >Support</a>
 
 <a class="btn btn-primary" data-eo-form-toggle-id="5f44c8c5-c5c0-11ec-9258-0241b9615763" href="#">Join Us</a>
 
