@@ -8,8 +8,7 @@ tags: [queer, GPT-2, RunwayML]
 
 Let me begin by telling you my ultimate fantasy. My ideal scenario is that one day all of us will be able to look up and see only a sky so vast, so vast that it encompasses the entire known universe. And there, on that brilliant white backdrop, will be no men, no men at work in the offices of big corporations, no men at home in the beds of happily married women. There will be no men at work in the homes of white middle-class families, no men at home among the artists and the cubicle-dwelling scientists. And just beyond that backdrop will be a vast expanse of unspoiled beauty, unspoiled splendor, and that one simple word, love.
 
-Let me repeat that one more time. Imagine the beauty and splendor of that beyond that backdrop, that beyond the nearly-hexagonal city-state of San Francisco, where I now live and work.
-Could you imagine the splendor and beauty of that beyond that backdrop, and beyond me, the nearly-homeless, nearly-impotent gay man who craves love and fulfillment but fears the judgment of those he loves, and fears judgment himself? Could you?
+Let me repeat that one more time. Imagine the beauty and splendor of that beyond that backdrop, that beyond the nearly-hexagonal city-state of San Francisco, where I now live and work. Could you imagine the splendor and beauty of that beyond that backdrop, and beyond me, the nearly-homeless, nearly-impotent gay who craves love and fulfillment but fears the judgment of those they love, and fears judgment them self? Could you?
 
 There is a world out there, and it is not for us to explore it. It is not even for us to create it. We may not want to. And the very act of exploring that vast expanse can leave us breathless and ask the most basic question of our very being: Where am I?
 

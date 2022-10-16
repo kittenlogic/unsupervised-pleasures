@@ -1,14 +1,14 @@
 ---
 layout: post
-title: Ultimate Fantasy 42 Blue Cross
+title: Ultimate Fantasy 42 For Real
 description:  I want you to imagine how I would feel if you were a man and I were a woman.
 summary:  I want you to imagine how I would feel if you were a man and I were a woman.
 tags: [fantasy, erotic, queer, GPT-2, RunwayML]
 ---
 
-Let me begin by telling you my ultimate fantasy. 
+Let me begin by telling you my ultimate fantasy.
 
-It has nothing to do with Blue Cross. This is for real.
+This is for real.
 
 I want you to imagine how I would feel if you were a man and I were a woman. Imagine kissing, holding hands, doing intimate body poses. How would we feel? How could we love? How could we live our lives? What would our fantasies be like?
 

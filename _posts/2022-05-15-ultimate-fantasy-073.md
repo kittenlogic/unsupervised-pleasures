@@ -16,6 +16,7 @@ We can't liberate the body if we don't liberate subjectivation.
 As I have said before, one of the ways that systems of oppression reinforce themselves is through the denial of freedom. I can't go back in time and deny my sexual predation. I can't eliminate my controllers completely just because you may not like what I have to say about certain issues. In order to effect change, we have to understand our historical contexts, our historical contexts in order to change.
 
 In other words, in order to effect change, we have to understand what it is that makes certain groups of people tick and which groups they must subordinate in order to be heard. We have to understand The Order in order to effect change. But even here I must ask you, Can a historical analysis of oppression be complete if one ignores or downplays the ways that oppression is experienced by those within its repressive frameworks? Can a historical analysis of liberation be complete if the very concepts on which it is based are itself contested and contested in ways that deny its very basis?
+
 Well, maybe not.
 
 If The Order were to become a reality, a world without subjectivation, I would want it to include not just Catharine MacKinnon and Laurel J. Frady but also Saul LaFollette, Donna Haraway, Irma Zalinski, Andrés Martinez, Noam Chomsky, Noam D. Gluck, Noam Heuser, Noam Heuser, Noam K. White, Noam Manes, Murray Bookchin, Noam N. Weiss, Noam Rosenberg, Noam S. Yudkowsky, Noam T. Wu, and Zbigniew Brzezin.

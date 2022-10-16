@@ -11,9 +11,11 @@ links:
   url: /about
 - title: Contact
   url: /contact
+- title: Support
+  url: /love  
 - title: Search
   url: /search
 - title: Newsletter
-  url: /newsletter  
+  url: /newsletter
 - title: Rss
   url: /atom.xml

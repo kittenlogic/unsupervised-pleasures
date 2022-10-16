@@ -141,9 +141,13 @@ video {
 	max-height: 100%;
 	box-sizing: border-box;
 }
-.gay {
-	font-family: 'GayAmerican';
+h1.gay {
+	font-family: 'GayAmerican', sans-serif;
 	font-size: 3em;
+}
+h2.gay {
+	font-family: 'GayAmerican', sans-serif;
+	font-size: 2.5em;
 }
 
 .post p, p {
