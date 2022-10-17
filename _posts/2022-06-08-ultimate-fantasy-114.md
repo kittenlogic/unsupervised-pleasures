@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Ultimate Fantasy 74 Insurance
+title: Ultimate Fantasy 114 Insurance
 description: Here are a few suggestions
 summary: Here are a few suggestions
 tags: [queer, GPT-2, RunwayML]
