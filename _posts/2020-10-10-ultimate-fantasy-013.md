@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Ultimate Fantasy 13 Paralytic Fraternity
+title: Ultimate Fantasy 13 Daddy Issues
 description: There are worse things than closeted big gay men with daddy issues.
 summary: There are worse things than closeted big gay men with daddy issues.
 tags: [love, bisexual, gay, lesbian, queer theory, history, sexuality, healing, strength, courage, society, gay, daddy issues, Rainbow PUSH, American, GPT-2, RunwayML, queer]

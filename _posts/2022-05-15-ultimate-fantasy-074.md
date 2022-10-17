@@ -8,7 +8,7 @@ tags: [queer, GPT-2, RunwayML]
 
 Let me begin by telling you my ultimate fantasy. I have a fantasy in which I am one of three human beings with the same sex who have just had a marvelous sexual experience. I call it an "Oxytocin Dream."
 
-You mean, are we talking about a surge of epinephrine coursing through my body, a kind of high that puts me in a pleasant stupor and puts out a forest of lights?
+We are talking about a surge of epinephrine coursing through my body, a kind of high that puts me in a pleasant stupor and puts out a forest of lights.
 An epinephrine surge! Then, the most wonderful thing happens. I become a nonhuman being.
 
 Nonhuman being?
@@ -42,32 +42,6 @@ Now let's get down to brass tacks. Is your penis stiff or has it become hard?
 
 It's becoming hard.
 
-How come? Are you on medication?
-
-My insurance company will deny my bisexuality claims.
-
-Well, I'm not the only one. Several prominent psychologists have come out against same-sex attraction.
-
-I'm so frightened! This is killing me. What can I do?
-
-It is your problem, not theirs. Here are a few suggestions:<br/>
-Stop masturbating.<br/>
-Stop saying you want to.<br/>
-Stop using words like "orientation" and even the feminine "bi" in your sex-positive marketing.<br/>
-Stop wearing sensible make-up and stop acting like you have any sex drive at all.<br/>
-Stop eating junk food and drink lots of water.<br/>
-Stop having casual sex.<br/>
-Stop wearing tight clothing.<br/>
-Stop letting your hair grow out.<br/>
-Stop laughing when you see people in gay porn.<br/>
-Stop using the word "gay" in your sex-positive marketing.<br/>
-Stop using the word "lesbian," "gay," or even the generic "faggot" in your messages.<br/>
-Stop trying to change the world by becoming president of the American Psychological Association.<br/>
-Stop being a good mother.<br/>
-Stop being a good friend.<br/>
-Stop feeling guilty if your lover doesn't want to see you anymore.<br/>
-Stop enjoying yourself.
-
 Crappy brain cells don't help matters, do they?
 
 Don't worry. I'm here to help.<br/>
@@ -75,7 +49,6 @@ Don't worry. I'm here to help.<br/>
 Are you all right?
 
 Nice bump. That's better.
-
 
 
 ## Seed

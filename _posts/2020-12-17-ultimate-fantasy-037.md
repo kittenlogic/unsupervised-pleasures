@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Ultimate Fantasy 37 Unicorn Gnome Vampire Ram Buffalo
+title: Ultimate Fantasy 37 Gay Love Story
 description: Make it a gay love story. A love story between men.
 summary: Make it a gay love story. A love story between men.
 tags: [unicorn, gnome, vampire, buffalo, gay, love, jail, family, queer, GPT-2, RunwayML]
