@@ -7,7 +7,7 @@ title: Corpora
 
 ## Love Corpora
 
-**Love Corpora** will be a collection of datasources featuring texts that orient towards life and liberation. It will include, but not be limited to works that center queer love, an ethics of care, and practices of commoning and mutual aid. We will create this collection with community input and contributor consent. We also plan to turn this into a publicly available library with full transparency about its contents, licensing terms, and collection methodologies. // <a href="https://ultimatefantasy.club/" target="_blank" rel="noopener">>> Please Support</a>
+**Love Corpora** will be a collection of datasources featuring texts that orient towards life and liberation. It will include, but not be limited to works that center queer love, an ethics of care, and practices of commoning and mutual aid. We will create this collection with community input and contributor consent. We also plan to turn this into a publicly available library with full transparency about its contents, licensing terms, and collection methodologies. // [>> Please Support](/love)
 
 <hr/>
 
