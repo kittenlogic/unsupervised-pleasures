@@ -29,7 +29,7 @@ We are artists interested in working with texts and AI using our own archives an
 
 ## Who is tending this garden?
 
-[Emily Martinez](https://somethingnothing.me), a new media artist working with machine learning, queer technologies, and consensual tech. Emily is a 1st generation immigrant/refugee (Cuba > Miami) and a self-taught coder who believes in the tactical misuse of technology. Their art has been exhibited internationally, mostly thru collaborations with [Anxious to Make](https://anxioustomake.ga) and [Queer AI](https://queer.ai). They started Unsupervised Pleasures as part of their [ML5.js Fellowship](https://processingfoundation.org/fellowships) project to document some of their research and experiments with GPT-2.
+[Emily Martinez](https://somethingnothing.me), a new media artist working with machine learning, queer technologies, and consensual tech. Emily is a 1st generation immigrant/refugee (Cuba > Miami) and a self-taught coder who believes in the tactical misuse of technology. Her art has been exhibited internationally, mostly thru collaborations with [Anxious to Make](https://anxioustomake.ga) and [Queer AI](https://queer.ai). She started Unsupervised Pleasures as part of her [ML5.js Fellowship](https://processingfoundation.org/fellowships) project to document some of her research and experiments with GPT-2.
 
 [Sarah Ciston](https://sarahciston.github.io) is a self-described poet-programmer who loves building community through critical-creative code and bringing [Intersectional approaches to AI](https://intersectionalai.com). They are a PhD candidate in Media Arts and Practice at USC and Artistic Research Resident at [AI Anarchies](https://www.adk.de/en/academy/young-academy/ai-anarchies/) in Berlin.
 
@@ -38,7 +38,7 @@ We are artists interested in working with texts and AI using our own archives an
 
 ## Want to get involved?
 
-<a class="btn btn-primary" href="https://ultimatefantasy.club/" >Support</a>
+<a class="btn btn-primary" href="/love" >Support</a>
 
 <a class="btn btn-primary" data-eo-form-toggle-id="5f44c8c5-c5c0-11ec-9258-0241b9615763" href="#">Join Us</a>
 

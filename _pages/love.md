@@ -24,7 +24,7 @@ layout: default
 
       <h2 class="mt-1 text-center gay">Who benefits?</h2>
 
-      <p class="mb-1 text-justify">We want to develop a model that can serve anyone with a desire to work with "small data" and their own cultural archives. We also want to develop a respectful process for doing this work that can be replicated or adapted to meet the needs of different communities.</p>
+      <p class="mb-1 text-justify">We want to develop a model that can serve anyone with a desire to work with "small data" and their own cultural archives. We also want to develop a respectful process for doing this work that can be replicated or adapted to meet the needs of different communities. <a href="/about">Learn more.</a></p>
 
       <h2 class="mt-1 text-center gay">How do we create a respectful Love Corpora?</h2>
 
