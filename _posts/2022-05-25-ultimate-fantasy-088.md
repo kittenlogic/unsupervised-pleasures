@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Ultimate Fantasy 88 Good Little Sissy
+title: Ultimate Fantasy 88 Wonderful Childhood
 description:
 summary:
 tags: [queer, GPT-2, RunwayML]
@@ -10,7 +10,7 @@ Let me begin by telling you my ultimate fantasy.
 
 I never had a childhood.
 
-I had a wonderful childhood. My childhood was filled with fairy tales, unicorns, princesses, and stelettes. It was all so very exciting and yet utterly terrifying. The land was lush and the trees were red and the sky blue. There was a cottage nearby that we called the Well of the Fairy Godmother. It was a spring wonderland and the spring blossomed so thick and the air so rich with promise that it seemed the very heavens themselves were calling us home.
+I had a wonderful childhood. My childhood was filled with fairy tales, unicorns, princesses, and stilettos. It was all so very exciting and yet utterly terrifying. The land was lush and the trees were red and the sky blue. There was a cottage nearby that we called the Well of the Fairy Godmother. It was a spring wonderland and the spring blossomed so thick and the air so rich with promise that it seemed the very heavens themselves were calling us home.
 
 I grew up believing that fairy tales were just a bunch of pretty stories that children told to frighten themselves into sleeping through school. It was a constant battle to keep my mind off the white noise of nursery rhymes and Hello Kitty greeting cards. As I got older I began to question everything I had been taught, from Winnie the Pooh to the value of Chantal from Les Miserables.
 

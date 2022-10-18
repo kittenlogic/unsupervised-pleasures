@@ -2,7 +2,7 @@
 layout: default
 ---
 
-<section class="posts">
+<section>
   <div class="flex-center">
     <div class="col">
       <h1 class="mb-1 text-center gay">Tired of Bias in AI? Let's Make Love Corpora!</h1>
@@ -28,7 +28,13 @@ layout: default
 
       <h2 class="mt-1 text-center gay">Who benefits?</h2>
 
-      <p class="mb-1 text-justify">One goal is to develop a model that can serve anyone with a desire to work with "small data" and their own cultural archives. Another one is to develop a respectful process for doing this work that can be replicated or adapted to meet the particular needs of diverse communities. <a href="/about">Learn more.</a></p>
+      <p class="mb-1 text-justify">Artists, story tellers, educators, writers, and other curious humans will enjoy:</p>
+      <ul class="ul-circle">
+      <li>accessible documentation, tools, and methodologies that can serve anyone with a desire to work with "small data" and their own cultural archives.</li>
+      <li>a respectful process for doing this work that can be replicated or adapted to meet the particular needs of diverse communities.</li>
+      <li>DIY publications, zines, bots, and whatever else we make together.</li>
+      </ul>
+      <p class="mb-1 text-justify"><a href="/about">Learn more.</a></p>
 
       <h2 class="mt-1 text-center gay">How do we create a respectful Love Corpora?</h2>
 

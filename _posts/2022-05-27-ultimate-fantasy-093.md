@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Ultimate Fantasy 93 Garden of Fuck
+title: Ultimate Fantasy 93 Joy of Discovery
 description: This is not a story about coming out or coming out late.
 summary: This is not a story about coming out or coming out late.
 tags: [queer, GPT-2, RunwayML]
