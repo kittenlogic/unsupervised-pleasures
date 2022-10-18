@@ -7,7 +7,7 @@ layout: default
     <div class="col">
       <h1 class="mb-1 text-center gay">Tired of Bias in AI? Let's Make Love Corpora!</h1>
 
-      <p class="mb-1 text-justify"><em>Love Corpora</em> will be a collection of datasources featuring texts that orient towards life and liberation. It will include, but not be limited to works that center decolonial perspectives on queerness, an ethics of care, and practices of commoning and mutual aid. We will create this collection with community input and contributor consent. We also plan to turn this into a publicly available library with full transparency about its contents, licensing terms, and collection methodologies.</p>
+      <p class="mb-1 text-justify"><em>Love Corpora</em> will be a collection of datasources featuring texts that orient towards life and liberation. It will include, but not be limited to works that center decolonial perspectives, queer love, an ethics of care, and practices of commoning and mutual aid. We will create this collection with community input and contributor consent. We also plan to turn this into a publicly available library with full transparency about its contents, licensing terms, and collection methodologies.</p>
 
       <h2 class="mt-1 text-center gay">Why love?</h2>
 

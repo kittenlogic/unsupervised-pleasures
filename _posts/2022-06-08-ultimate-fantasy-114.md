@@ -27,7 +27,6 @@ Stop wearing tight clothing.<br/>
 Stop letting your hair grow out.<br/>
 Stop laughing when you see people in gay porn.<br/>
 Stop using the word "gay" in your sex-positive marketing.<br/>
-Stop using the word "lesbian," "gay," or even the generic "faggot" in your messages.<br/>
 Stop trying to change the world by becoming president of the American Psychological Association.<br/>
 Stop being a good mother.<br/>
 Stop being a good friend.<br/>
