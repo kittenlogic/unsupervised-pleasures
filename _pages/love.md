@@ -7,7 +7,7 @@ layout: default
     <div class="col">
       <h1 class="mb-1 text-center gay">Tired of Bias in AI? Let's Make Love Corpora!</h1>
 
-      <p class="mb-1 text-justify"><em>Love Corpora</em> will be a collection of datasources featuring texts that orient towards life and liberation. It will include, but not be limited to works that center queer love, an ethics of care, and practices of commoning and mutual aid. We will create this collection with community input and contributor consent. We also plan to turn this into a publicly available library with full transparency about its contents, licensing terms, and collection methodologies.</p>
+      <p class="mb-1 text-justify"><em>Love Corpora</em> will be a collection of datasources featuring texts that orient towards life and liberation. It will include, but not be limited to works that center decolonial perspectives on queerness, an ethics of care, and practices of commoning and mutual aid. We will create this collection with community input and contributor consent. We also plan to turn this into a publicly available library with full transparency about its contents, licensing terms, and collection methodologies.</p>
 
       <h2 class="mt-1 text-center gay">Why love?</h2>
 
@@ -20,15 +20,19 @@ layout: default
 
       <h2 class="mt-1 text-center gay">What inspired Love Corpora?</h2>
 
-      <p class="mb-1 text-justify">In short: The crisis of imagination that literally underlies the incredibly bias, large language, machine learning models that big tech companies spend millions of dollars to make and deploy into the world without the input or consent of the people they are harming with these technologies at every step – from resource exploitation to human exploitation (e.g. data labeling) to proliferating violent ideologies with the outputs produced by these so-called "intelligence"s.</p>
+      <p class="mb-1 text-justify">Two things:
+
+      1. Emily's longing to collaborate more with people interested in working with AI, storytelling, and their own cultural archives.
+
+      2. The crisis of imagination that literally underlies the incredibly bias, large language, machine learning models that big tech companies spend millions of dollars to make and deploy into the world without the input or consent of the people they are harming with these technologies at every step – from resource exploitation (e.g. mineral extraction) to human exploitation (e.g. data labeling) to proliferating violent ideologies with the outputs produced by these so-called "intelligence"s.</p>
 
       <h2 class="mt-1 text-center gay">Who benefits?</h2>
 
-      <p class="mb-1 text-justify">We want to develop a model that can serve anyone with a desire to work with "small data" and their own cultural archives. We also want to develop a respectful process for doing this work that can be replicated or adapted to meet the needs of different communities. <a href="/about">Learn more.</a></p>
+      <p class="mb-1 text-justify">One goal is to develop a model that can serve anyone with a desire to work with "small data" and their own cultural archives. Another one is to develop a respectful process for doing this work that can be replicated or adapted to meet the particular needs of diverse communities. <a href="/about">Learn more.</a></p>
 
       <h2 class="mt-1 text-center gay">How do we create a respectful Love Corpora?</h2>
 
-      <p class="mb-1 text-justify">The vision is to create a library of data sources with and by a plurality of voices. This will be a very slow process, with working groups and much deliberation over many critical details we will encounter along the way. Building trust with and uplifting others already doing this important work is foundational. Deep respect and admiration for <a href="https://dreamingbeyond.ai" target="_blank" rel="noopener">Dreaming Beyond AI</a>, <a href="https://www.indigenous-ai.net" target="_blank" rel="noopener">Indigenous AI</a>, <a href="https://www.aixdesign.co/" target="_blank" rel="noopener">AI x Design</a>, <a href="https://computationalmama.xyz/" target="_blank" rel="noopener">Computational Mama</a>, <a href="https://yasminmorgan.com/works/queering-the-machine-eye.html" target="_blank" rel="noopener">Yasmin Morgan</a>, <a href="https://www.hau4.de/en/the-house-of-monstress-intelligenzia/" target="_blank" rel="noopener">House of Monstress Intelligenzia</a>, <a href="https://www.decontextualize.com/" target="_blank" rel="noopener">Allison Parrish</a>, <a href="https://www.stephaniedinkins.com" class="link-fancy" target="_blank" rel="noopener">Stephanie Dinkins</a>, <a href="https://mimionuoha.com" class="link-fancy" target="_blank" rel="noopener">Mimi Onuoha</a>, to name a few.</p>  
+      <p class="mb-1 text-justify">The dream is to explore the possibilities of creating new knowledge–relationships using AI, with and by a plurality of voices. This will be a very slow process, with working groups and much deliberation over many critical decision points we will encounter along the way. Building trust with and uplifting others already doing this important work is foundational. Deep respect and admiration for <a href="https://dreamingbeyond.ai" target="_blank" rel="noopener">Dreaming Beyond AI</a>, <a href="https://www.indigenous-ai.net" target="_blank" rel="noopener">Indigenous AI</a>, <a href="https://www.aixdesign.co/" target="_blank" rel="noopener">AI x Design</a>, <a href="https://computationalmama.xyz/" target="_blank" rel="noopener">Computational Mama</a>, <a href="https://yasminmorgan.com/works/queering-the-machine-eye.html" target="_blank" rel="noopener">Yasmin Morgan</a>, <a href="https://www.hau4.de/en/the-house-of-monstress-intelligenzia/" target="_blank" rel="noopener">House of Monstress Intelligenzia</a>, <a href="https://www.decontextualize.com/" target="_blank" rel="noopener">Allison Parrish</a>, <a href="https://www.stephaniedinkins.com" class="link-fancy" target="_blank" rel="noopener">Stephanie Dinkins</a>, <a href="https://mimionuoha.com" class="link-fancy" target="_blank" rel="noopener">Mimi Onuoha</a>, to name a few.</p>  
 
       <p class="mb-1 text-justify">It is also important to note that this is not an attempt to create a monolithic collection. We do not wish to appropriate texts from bodies of cultures. Nor do we wish to extract knowledge that should be protected from machine learning algorithms and further exploitation. The integrity of this project is dependent on the level of humility, responsibility, and consent taken to see it through.</p>
 
@@ -42,7 +46,7 @@ layout: default
         <a class="btn btn-primary" href="#">Add to Wish List</a>
       </div>
 
-      <h2 class="mt-1 text-center gay">Please consider donating to our fundraiser.</h2>
+      <h2 class="mt-1 text-center gay">Please donate to our fundraiser.</h2>
 
       <p class="mb-1 text-justify"> Help us challenge the capitalist, racist, transphobic, homophobic, misogynistic, xenophobic, settler-colonial, ableist, ageist ideologies baked into machine learning datasets and models. Help us create new datasets and tools that center historically excluded and misrepresented people and knowledge – respectfully – with consent and citations.</p>
 
