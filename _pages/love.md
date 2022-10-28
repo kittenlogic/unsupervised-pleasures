@@ -20,11 +20,12 @@ layout: default
 
       <h2 class="mt-1 text-center gay">What inspired Love Corpora?</h2>
 
-      <p class="mb-1 text-justify">Two things:
+      <p class="mb-1 text-justify">Two things:</p>
+      <ul class="ul-circle">
+      <li>A longing to collaborate more with people interested in working with AI, storytelling, and their own cultural archives.</li>
 
-      1. Emily's longing to collaborate more with people interested in working with AI, storytelling, and their own cultural archives.
-
-      2. The crisis of imagination that literally underlies the incredibly bias, large language, machine learning models that big tech companies spend millions of dollars to make and deploy into the world without the input or consent of the people they are harming with these technologies at every step – from resource exploitation (e.g. mineral extraction) to human exploitation (e.g. data labeling) to proliferating violent ideologies with the outputs produced by these so-called "intelligence"s.</p>
+      <li>The crisis of imagination that literally underlies the incredibly bias, large language, machine learning models that big tech companies spend millions of dollars to make and deploy into the world without the input or consent of the people they are harming along the way.</li>
+      </ul>
 
       <h2 class="mt-1 text-center gay">Who benefits?</h2>
 
