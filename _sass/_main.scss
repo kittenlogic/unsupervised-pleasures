@@ -352,6 +352,22 @@ a:active.btn:after {
   left: 1px;
 }
 
+.airtable-embed {
+  height: 2400px;
+}
+
+@media screen and (min-width: 433px ) and (max-width: 700px ) {
+  .airtable-embed {
+    height: 2700px;
+  }
+}
+
+@media screen and (max-width: 432px ) {
+  .airtable-embed {
+    height: 2800px;
+  }
+}
+
 @media screen and (max-width: 533px ) {
 	header li {
 	  display: inline-block;

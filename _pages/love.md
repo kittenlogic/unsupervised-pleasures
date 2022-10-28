@@ -9,6 +9,10 @@ layout: default
 
       <p class="mb-1 text-justify"><em>Love Corpora</em> will be a collection of datasources featuring texts that orient towards life and liberation. It will include, but not be limited to works that center decolonial perspectives, queer love, an ethics of care, and practices of commoning and mutual aid. We will create this collection with community input and contributor consent. We also plan to turn this into a publicly available library with full transparency about its contents, licensing terms, and collection methodologies.</p>
 
+      <div class="center-block py-1">
+        <a class="btn btn-primary" href="/makelove">Contribute 💕</a>
+      </div>
+
       <h2 class="mt-1 text-center gay">Why love?</h2>
 
       <div class="mt-1">
@@ -24,7 +28,7 @@ layout: default
       <ul class="ul-circle">
       <li>A longing to collaborate more with people interested in working with AI, storytelling, and their own cultural archives.</li>
 
-      <li>The crisis of imagination that literally underlies the incredibly bias, large language, machine learning models that big tech companies spend millions of dollars to make and deploy into the world without the input or consent of the people they are harming along the way.</li>
+      <li>The crisis of imagination that literally underlies the machine learning models that big tech companies spend millions of dollars to make and deploy into the world without the input or consent of the people they are harming along the way.</li>
       </ul>
 
       <h2 class="mt-1 text-center gay">Who benefits?</h2>
@@ -39,7 +43,7 @@ layout: default
 
       <h2 class="mt-1 text-center gay">How do we create a respectful Love Corpora?</h2>
 
-      <p class="mb-1 text-justify">The dream is to explore the possibilities of creating new knowledge–relationships using AI, with and by a plurality of voices. This will be a very slow process, with working groups and much deliberation over many critical decision points we will encounter along the way. Building trust with and uplifting others already doing this important work is foundational. Deep respect and admiration for <a href="https://dreamingbeyond.ai" target="_blank" rel="noopener">Dreaming Beyond AI</a>, <a href="https://www.indigenous-ai.net" target="_blank" rel="noopener">Indigenous AI</a>, <a href="https://www.aixdesign.co/" target="_blank" rel="noopener">AI x Design</a>, <a href="https://computationalmama.xyz/" target="_blank" rel="noopener">Computational Mama</a>, <a href="https://yasminmorgan.com/works/queering-the-machine-eye.html" target="_blank" rel="noopener">Yasmin Morgan</a>, <a href="https://www.hau4.de/en/the-house-of-monstress-intelligenzia/" target="_blank" rel="noopener">House of Monstress Intelligenzia</a>, <a href="https://www.decontextualize.com/" target="_blank" rel="noopener">Allison Parrish</a>, <a href="https://www.stephaniedinkins.com" class="link-fancy" target="_blank" rel="noopener">Stephanie Dinkins</a>, <a href="https://mimionuoha.com" class="link-fancy" target="_blank" rel="noopener">Mimi Onuoha</a>, to name a few.</p>  
+      <p class="mb-1 text-justify">The dream is to explore the possibilities of creating new knowledge–relationships using AI, with and by a plurality of voices. This will be a very slow process, with working groups and much deliberation over many critical decision points we will encounter along the way. Building trust with and uplifting others already doing this important work is foundational. Deep respect and admiration for <a href="https://dreamingbeyond.ai" target="_blank" rel="noopener">Dreaming Beyond AI</a>, <a href="https://www.indigenous-ai.net" target="_blank" rel="noopener">Indigenous AI</a>, <a href="https://www.aixdesign.co/" target="_blank" rel="noopener">AI x Design</a>, <a href="https://computationalmama.xyz/" target="_blank" rel="noopener">Computational Mama</a>, <a href="https://yasminmorgan.com/works/queering-the-machine-eye.html" target="_blank" rel="noopener">Yasmin Morgan</a>, <a href="https://xin-xin.info/teaching/" target="_blank" rel="noopener">Xin Xin</a>, <a href="https://www.hau4.de/en/the-house-of-monstress-intelligenzia/" target="_blank" rel="noopener">House of Monstress Intelligenzia</a>, <a href="https://www.decontextualize.com/" target="_blank" rel="noopener">Allison Parrish</a>, <a href="https://www.stephaniedinkins.com" class="link-fancy" target="_blank" rel="noopener">Stephanie Dinkins</a>, <a href="https://mimionuoha.com" class="link-fancy" target="_blank" rel="noopener">Mimi Onuoha</a>, to name a few.</p>  
 
       <p class="mb-1 text-justify">It is also important to note that this is not an attempt to create a monolithic collection. We do not wish to appropriate texts from bodies of cultures. Nor do we wish to extract knowledge that should be protected from machine learning algorithms and further exploitation. The integrity of this project is dependent on the level of humility, responsibility, and consent taken to see it through.</p>
 
@@ -50,7 +54,7 @@ layout: default
       <p class="mb-1 text-justify">We're compiling a wish list of data sources. We welcome recommendations for any texts, authors, poems, songs, stories, podcasts, video/audio transcripts, archives, etc. We are especially interested in sources that orient towards life and liberation and center historically excluded people's histories and decolonial perspectives <em>in multiple languages</em>. Topics of interest: all of them!</p>
 
       <div class="center-block py-1">
-        <a class="btn btn-primary" href="#">Add to Wish List</a>
+        <a class="btn btn-primary" href="/makelove">Add to Wish List</a>
       </div>
 
       <h2 class="mt-1 text-center gay">Please donate to our fundraiser.</h2>
@@ -58,7 +62,7 @@ layout: default
       <p class="mb-1 text-justify"> Help us challenge the capitalist, racist, transphobic, homophobic, misogynistic, xenophobic, settler-colonial, ableist, ageist ideologies baked into machine learning datasets and models. Help us create new datasets and tools that center historically excluded and misrepresented people and knowledge – respectfully – with consent and citations.</p>
 
       <div class="center-block py-1">
-        <a class="btn btn-primary" href="https://ultimatefantasy.club/" target="_blank" rel="noopener">Support</a>
+        <a class="btn btn-primary" href="https://ultimatefantasy.club/" target="_blank" rel="noopener">Support 🍞</a>
       </div>
 
     </div>
