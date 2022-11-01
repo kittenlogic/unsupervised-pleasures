@@ -19,7 +19,7 @@ layout: default
         <div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/760676280?h=37ce943548&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479&amp;title=0&amp;byline=0&amp;portrait=0" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="Year of Revelation _ Forget Dreams"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
       </div>
       <div class="mb-1">
-        <figcaption>Text, audio and human avatar are 100% AI generated. Script adapted from Ultimate Fantasy no.111 and no.112.</figcaption>
+        <figcaption>Text, audio and human avatar are 100% AI generated. Script adapted from Ultimate Fantasy <a href="/texts/ultimate-fantasy-111" >no.111</a> and <a href="/texts/ultimate-fantasy-112" >no.112</a>.</figcaption>
       </div>
 
       <h2 class="mt-1 text-center gay">What inspired Love Corpora?</h2>
@@ -33,7 +33,7 @@ layout: default
 
       <h2 class="mt-1 text-center gay">Who benefits?</h2>
 
-      <p class="mb-1 text-justify">Artists, story tellers, educators, writers, and other curious humans will enjoy:</p>
+      <p class="mb-1 text-justify">Artists, storytellers, educators, writers, and other curious humans will enjoy:</p>
       <ul class="ul-circle">
       <li>accessible documentation, tools, and methodologies that can serve anyone with a desire to work with "small data" and their own cultural archives.</li>
       <li>a respectful process for doing this work that can be replicated or adapted to meet the particular needs of diverse communities.</li>
