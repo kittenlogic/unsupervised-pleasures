@@ -51,7 +51,7 @@ layout: default
 
       <h2 class="mt-1 text-center gay">What would you love to see in Love Corpora?</h2>
 
-      <p class="mb-1 text-justify"><span class="lead">We're compiling a wish list of data sources and welcome your  recommendations.</span> Please share your favorite texts, authors, poems, songs, stories, podcasts, video/audio transcripts, archives, etc. We are especially interested in sources that orient towards life and center historically excluded people's histories and perspectives <em>in multiple languages</em>. Topics of interest: all of them!</p>
+      <p class="mb-1 text-justify"><span class="lead">We're compiling a wish list of data sources and welcome your recommendations.</span> Please share your favorite texts, authors, poems, songs, stories, podcasts, video/audio transcripts, archives, etc. We are especially interested in sources that orient towards life and center historically excluded people's histories and perspectives <em>in multiple languages</em>. Topics of interest: all of them!</p>
 
       <div class="center-block py-1">
         <a class="btn btn-primary" href="/makelove">Add to Wish List</a>
