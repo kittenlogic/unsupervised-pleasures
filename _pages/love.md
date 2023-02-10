@@ -19,10 +19,10 @@ layout: default
         <div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/766291539?h=4e73ace470&badge=0&autopause=0&player_id=0&app_id=58479&title=0&byline=0&portrait=0" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="Year of Revelation _ Forget Dreams"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
       </div>
       <div class="mb-1">
-        <figcaption>Text, audio and human avatar are 100% AI generated. Script adapted from Ultimate Fantasy <a href="/texts/ultimate-fantasy-111" >no.111</a> and <a href="/texts/ultimate-fantasy-112" >no.112</a>.</figcaption>
+        <figcaption>Text, audio and human avatar are 100% AI generated. Script adapted from Ultimate Fantasy <a href="/texts/ultimate-fantasy-111" >no.111</a> and <a href="/texts/ultimate-fantasy-112" >no.112</a>. Turn on closed captions for English.</figcaption>
       </div>
 
-      <p class="mb-1 text-justify"><span class="lead">Love Corpora was inspired by the two opposing forces of love and fear manifesting as:</span></p>
+      <p class="mb-1 text-justify"><span class="lead">Love Corpora is inspired by:</span></p>
 
       <ul class="ul-circle">
         <li>A longing to collaborate more with people interested in working with AI, storytelling, and their own cultural archives.</li>
@@ -36,12 +36,12 @@ layout: default
       <li>accessible documentation, tools, and methodologies that can serve anyone with a desire to work with "small data" and their own cultural archives.</li>
       <li>a respectful process for doing this work that can be replicated or adapted to meet the particular needs of diverse communities.</li>
       <li>DIY publications, zines, bots, and whatever else we make together.</li>
-      <li><a href="/about">Mush more!</a></li>
+      <li><a href="/about">Much more!</a></li>
       </ul>
 
       <h2 class="mt-1 text-center gay">How do we create a respectful Love Corpora?</h2>
 
-      <p class="mb-1 text-justify"><span class="lead">The dream is to explore the possibilities of creating new knowledge–relationships using AI, with and by a plurality of voices.</span> This will be a very slow process, with working groups and careful deliberation over many critical decision points we will encounter along the way.</p>
+      <p class="mb-1 text-justify"><span class="lead">The dream is to explore the possibilities of creating new knowledge–relationships using AI, with and by a plurality of voices.</span> This will be a very slow process, with working groups and careful deliberation over the decisions we make along the way.</p>
 
       <p class="mb-1 text-justify">This is not an attempt to create a monolithic collection. We do not wish to appropriate texts from bodies of cultures. Nor do we wish to extract knowledge that should be protected from machine learning algorithms or further exploitation. The integrity of this project is dependent on the level of humility, responsibility, and consent taken to see it through.</p>
 
