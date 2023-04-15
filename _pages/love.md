@@ -7,7 +7,7 @@ layout: default
     <div class="col">
       <h1 class="mb-1 text-center gay">Tired of Bias in AI? Let's Make Love Corpora!</h1>
 
-      <p class="mb-1 text-justify"><span class="lead"><em>Love Corpora</em> will be a collection of datasources featuring texts that orient towards life and liberation.</span> It will include, but not be limited to works that center decolonial perspectives, queer love, an ethics of care, and practices of commoning and mutual aid. We will create this collection with community input and contributor consent. We also plan to turn this into a publicly available library with full transparency about its contents, licensing terms, and collection methodologies.</p>
+      <p class="mb-1 text-justify"><span class="lead"><em>Love Corpora</em> will be a collection of datasources featuring texts that orient towards life and liberation.</span> It will include, but not be limited to works that center decolonial perspectives, queer love, an ethics of embodiment and care, and practices of commoning and mutual aid. We will create this collection with community input and contributor consent. We also plan to turn this into a publicly available library with full transparency about its contents, licensing terms, and collection methodologies.</p>
 
       <div class="center-block py-1">
         <a class="btn btn-primary m-05" href="/makelove">Add to Wish List 💕</a> <a class="btn btn-primary m-05" href="https://ultimatefantasy.club/" target="_blank" rel="noopener">Donate 🍞</a>
