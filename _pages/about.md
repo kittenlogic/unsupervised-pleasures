@@ -6,7 +6,7 @@ title: About
 <hr/>
 ## Unsupervised Pleasures
 
-Unsupervised Pleasures is a a community of AI practicioners interested in ethical experimentation, p2p education, and DIY cultural production.
+Unsupervised Pleasures is a community of AI practicioners interested in ethical experimentation, p2p education, and DIY cultural production.
 
 <hr/>
 
@@ -21,10 +21,10 @@ We are artists interested in working with texts and AI using our own archives an
 - Developing deeper practice with queer, feminist, and decolonial methodologies.
 - Working primarily with language models 
 - Working with "no code" tools that lower barrier to entry and allow to prototype and test ideas with ease
-- Finetuning Large Language Models (BLOOM, GPT-J, others)
-- Setting up guidelines for preparing datasets that protect the bodies of knowledge of our communities.
+- Setting up guidelines for preparing datasets that respect the contributors and protect their data sources.
 - Creating _Love Corpora_, a collection of datasources featuring texts that orient towards life and liberation; made with community input and contributor consent.
-- Making machine learning models trained with our custom datasets
+- Finetuning Large Language Models (BLOOM, GPT-J, others) with our custom datasets
+- Making machine learning models from "scratch" trained with our custom datasets
 - Releasing bots trained on our models.
 - Creating art, zines and art publications.
 - Making a publicly available datasource library from _Love Corpora_.
@@ -42,7 +42,7 @@ We are artists interested in working with texts and AI using our own archives an
 
 ## Want to get involved?
 
-<a class="btn btn-primary" href="/love">Contribute</a>
+<a class="btn btn-primary" href="/love">Contribute 🤓</a>
 
 <a class="btn btn-primary" data-eo-form-toggle-id="5f44c8c5-c5c0-11ec-9258-0241b9615763" href="#">Follow Along</a>
 
