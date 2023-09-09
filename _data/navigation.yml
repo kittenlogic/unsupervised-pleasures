@@ -1,18 +1,18 @@
 links:
 - title: Home
   url: /
-- title: Texts
-  url: /texts
+- title: About
+  url: /about
+- title: Research
+  url: /love      
 - title: Corpora
   url: /corpora
 - title: Collections
   url: /collections
-- title: About
-  url: /about
+- title: Archive
+  url: /texts  
 - title: Contact
   url: /contact
-- title: Support
-  url: /love  
 - title: Search
   url: /search
 - title: Newsletter

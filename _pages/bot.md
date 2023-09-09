@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Doing Queer Magic...
+title: Undoing AI Magic...
 ---
 
 ## a bot at the intersection of queer liberation and where giant tech companies fail

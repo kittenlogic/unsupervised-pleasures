@@ -19,20 +19,16 @@ We are artists interested in working with texts and AI using our own archives an
 - Making AI more accessible and pleasurable for beginners in a supportive environment.
 - Centering historically excluded and misrepresented people and knowledge, respectfully and consensually.
 - Developing deeper practice with queer, feminist, and decolonial methodologies.
-- Working primarily with language models 
-- Working with "no code" tools that lower barrier to entry and allow to prototype and test ideas with ease
+- Working with language models 
+- Working with "no code" tools that lower barrier to entry and allow us to prototype and test ideas with ease
 - Setting up guidelines for preparing datasets that respect the contributors and protect their data sources.
-- Creating _Love Corpora_, a collection of datasources featuring texts that orient towards life and liberation; made with community input and contributor consent.
-- Finetuning Large Language Models (BLOOM, GPT-J, others) with our custom datasets
-- Making machine learning models from "scratch" trained with our custom datasets
-- Releasing bots trained on our models.
-- Creating art, zines and art publications.
-- Making a publicly available datasource library from _Love Corpora_.
+- Making machine learning models from "scratch" and fine-tuning LLMs with our custom datasets
+- Creating zines 
 
 ## Who is tending this garden?
 
 <img src="https://ultimatefantasy.club/img/emily.jpg" alt="photo of Emily Martinez" width="auto" height="100" class="img-circle">
-[Emily Martinez](https://somethingnothing.me) is a new media artist working with machine learning, queer methodologies, and consensual tech. She is a 1st generation Miami Cuban and a self-taught coder who believes in the tactical misuse of technology. She started Unsupervised Pleasures as part of her [ML5.js Fellowship](https://processingfoundation.org/fellowships) project to document some of her research and experiments with GPT-2.
+[Emily Martinez](https://somethingnothing.me) is a new media artist, 1st generation immigrant/refugee (Cuba > Miami), and a self-taught coder who believes in the tactical misuse of technology. She started Unsupervised Pleasures as part of her [ML5.js Fellowship](https://processingfoundation.org/fellowships) project to document some of her research and experiments with LLMs.
 
 <img src="https://ultimatefantasy.club/img/sarah.jpg" alt="photo of Sarah Ciston" width="auto" height="100" class="img-circle">
 [Sarah Ciston](https://sarahciston.github.io) is a self-described poet-programmer who loves building community through critical-creative code and bringing [Intersectional approaches to AI](https://intersectionalai.com). They are a PhD candidate in Media Arts and Practice at USC and Artistic Research Resident at [AI Anarchies](https://www.adk.de/en/academy/young-academy/ai-anarchies/) in Berlin.

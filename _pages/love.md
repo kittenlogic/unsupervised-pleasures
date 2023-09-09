@@ -7,10 +7,10 @@ layout: default
     <div class="col">
       <h1 class="mb-1 text-center gay">Tired of Bias in AI? Let's Make Love Corpora!</h1>
 
-      <p class="mb-1 text-justify"><span class="lead"><em>Love Corpora</em> will be a collection of datasources featuring texts that orient towards life and liberation.</span> It will include, but not be limited to works that center queer love, decolonial perspectives, an ethics of embodiment and care, and practices of commoning and mutual aid. We will create this collection with community input and contributor consent. We also plan to turn this into a publicly available library with full transparency about its contents, licensing terms, and collection methodologies.</p>
+      <p class="mb-1 text-justify"><em>Love Corpora</em> will be a collection of datasources featuring texts that orient towards life and liberation. It will include, but not be limited to works that center queer love, an ethics of embodiment, and decolonial perspectives. We will create this collection with community input and contributor consent. Metadata will provide full transparency about contents, licensing terms, and collection methodologies.</p>
 
       <div class="center-block py-1">
-        <a class="btn btn-primary m-05" href="/makelove">Add to Wish List 💕</a> <a class="btn btn-primary m-05" href="https://ultimatefantasy.club/" target="_blank" rel="noopener">Donate 🍞</a>
+        <a class="btn btn-primary m-05" href="/makelove">Add to Wish List 💕</a>
       </div>
 
       <h2 class="mt-1 text-center gay">What inspired Love Corpora?</h2>
@@ -45,7 +45,7 @@ layout: default
 
       <p class="mb-1 text-justify">This is not an attempt to create a monolithic collection. We do not wish to appropriate texts from bodies of cultures. Nor do we wish to extract knowledge that should be protected from machine learning algorithms or further exploitation. The integrity of this project is dependent on the level of humility, responsibility, and consent taken to see it through.</p>
 
-      <p>Building trust with and uplifting others already doing this important work is foundational. Deep respect and admiration for <a href="https://dreamingbeyond.ai" target="_blank" rel="noopener">Dreaming Beyond AI</a>, <a href="https://www.indigenous-ai.net" target="_blank" rel="noopener">Indigenous AI</a>, <a href="https://www.aixdesign.co/" target="_blank" rel="noopener">AI x Design</a>, <a href="https://computationalmama.xyz/" target="_blank" rel="noopener">Computational Mama</a>, <a href="https://yasminmorgan.com/works/queering-the-machine-eye.html" target="_blank" rel="noopener">Yasmin Morgan</a>, <a href="https://xin-xin.info/teaching/" target="_blank" rel="noopener">Xin Xin</a>, <a href="https://www.hau4.de/en/the-house-of-monstress-intelligenzia/" target="_blank" rel="noopener">House of Monstress Intelligenzia</a>, <a href="https://www.decontextualize.com/" target="_blank" rel="noopener">Allison Parrish</a>, <a href="https://www.stephaniedinkins.com" class="link-fancy" target="_blank" rel="noopener">Stephanie Dinkins</a>, <a href="https://mimionuoha.com" class="link-fancy" target="_blank" rel="noopener">Mimi Onuoha</a>, to name a few.</p>
+      <p>Building trust with and uplifting others already doing this important work is foundational. Deep respect and admiration for <a href="https://dreamingbeyond.ai" target="_blank" rel="noopener">Dreaming Beyond AI</a>, <a href="https://www.indigenous-ai.net" target="_blank" rel="noopener">Indigenous AI</a>, <a href="https://www.aixdesign.co/" target="_blank" rel="noopener">AI x Design</a>, <a href="https://computationalmama.xyz/" target="_blank" rel="noopener">Computational Mama</a>, <a href="https://yasminmorgan.com/works/queering-the-machine-eye.html" target="_blank" rel="noopener">Yasmin Morgan</a>, <a href="https://xin-xin.info/teaching/" target="_blank" rel="noopener">Xin Xin</a>, <a href="https://www.hau4.de/en/the-house-of-monstress-intelligenzia/" target="_blank" rel="noopener">House of Monstress Intelligenzia</a>, <a href="https://www.decontextualize.com/" target="_blank" rel="noopener">Allison Parrish</a>, <a href="https://www.stephaniedinkins.com" class="link-fancy" target="_blank" rel="noopener">Stephanie Dinkins</a>, <a href="https://mimionuoha.com" class="link-fancy" target="_blank" rel="noopener">Mimi Onuoha</a>, <a href="http://www.katygero.com/" class="link-fancy" target="_blank" rel="noopener">Katy Gero</a> to name a few.</p>
 
       <p class="mb-1 text-justify">Much care will be given to the processes of working in open collaborations that are inclusive, transparent and accountable to the bodies of knowledge and people we are in community with or wish to serve.</p>  
 
@@ -57,13 +57,6 @@ layout: default
         <a class="btn btn-primary" href="/makelove">Add to Wish List</a>
       </div>
 
-      <h2 class="mt-1 text-center gay">Please donate to our fundraiser.</h2>
-
-      <p class="mb-1 text-justify"> Help us challenge the capitalist, racist, transphobic, homophobic, misogynistic, xenophobic, settler-colonial, ableist ideologies baked into machine learning datasets and models. Help us create new datasets and tools that center historically excluded and misrepresented people and knowledge – respectfully – with consent and citations.</p>
-
-      <div class="center-block py-1">
-        <a class="btn btn-primary" href="https://ultimatefantasy.club/" target="_blank" rel="noopener">Donate 🍞</a>
-      </div>
 
     </div>
   </div>

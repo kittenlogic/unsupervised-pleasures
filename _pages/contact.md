@@ -9,8 +9,6 @@ hello@unsupervisedpleasures.com
 
 ## The Vortex
 
-[@aipleasures](https://twitter.com/aipleasures) <br/>
-[@queermachines](https://twitter.com/queermachines) <br/>
 [@queerai](https://instgram.com/queerai)
 
 ## Newsletter
