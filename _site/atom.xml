@@ -4,13 +4,70 @@
  <title>Unsupervised Pleasures</title>
  <link href="unsupervisedpleasures.com/atom.xml" rel="self"/>
  <link href="unsupervisedpleasures.com/"/>
- <updated>2023-09-09T00:41:18-07:00</updated>
+ <updated>2024-07-05T21:15:17-07:00</updated>
  <id>unsupervisedpleasures.com</id>
  <author>
    <name>@queermachines</name>
    <email>hello@unsupervisedpleasures.com</email>
  </author>
 
+ 
+ <entry>
+   <title>Año de la Revelación, Olvidar los Sueños</title>
+   <link href="unsupervisedpleasures.com/texts/forget-dreams"/>
+   <updated>2023-06-25T00:00:00-07:00</updated>
+   <id>unsupervisedpleasures.com/texts/forget-dreams</id>
+   <content type="html">&lt;div class=&quot;mt-1&quot;&gt;
+  &lt;div style=&quot;padding:56.25% 0 0 0;position:relative;&quot;&gt;&lt;iframe src=&quot;https://player.vimeo.com/video/766291539?h=4e73ace470&amp;amp;badge=0&amp;amp;autopause=0&amp;amp;player_id=0&amp;amp;app_id=58479&amp;amp;title=0&amp;amp;byline=0&amp;amp;portrait=0&quot; frameborder=&quot;0&quot; allow=&quot;autoplay; fullscreen; picture-in-picture&quot; allowfullscreen=&quot;&quot; style=&quot;position:absolute;top:0;left:0;width:100%;height:100%;&quot; title=&quot;Year of Revelation _ Forget Dreams&quot;&gt;&lt;/iframe&gt;&lt;/div&gt;&lt;script src=&quot;https://player.vimeo.com/api/player.js&quot;&gt;&lt;/script&gt;
+&lt;/div&gt;
+&lt;div class=&quot;mb-1&quot;&gt;
+  &lt;figcaption&gt;Turn on closed captions for English.&lt;/figcaption&gt;
+&lt;/div&gt;
+
+&lt;p&gt;El texto, el audio y el avatar humano son 100% generados por IA. Guión adaptado de Fantasía Definitiva &lt;a href=&quot;/texts/ultimate-fantasy-111&quot;&gt;no.111&lt;/a&gt; y &lt;a href=&quot;/texts/ultimate-fantasy-112&quot;&gt;no.112&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h2 id=&quot;seed&quot;&gt;Seed&lt;/h2&gt;
+
+&lt;p&gt;¿Qué pasa cuando dejas de soñar? ¿Cuando no puedes ver un futuro para ti, para tus seres queridos, para todos los seres sensibles y no sensibles de este planeta? ¿Cuándo día tras día te afliges? ¿Cuando día tras día sientes tus sentidos embotados, tus sentimientos adormecidos, tu espíritu encogiéndose y marchitándose? ¿Cuando el tiempo se convierte en un infierno personal de sus propios mapas mentales distorsionados y bucles traumáticos? ¿Cuándo ya no puedes recibir la luz del amor? ¿Cuando tu corazón deja de emanar su luz propia?&lt;/p&gt;
+
+&lt;h2 id=&quot;corpus&quot;&gt;Corpus&lt;/h2&gt;
+
+&lt;p&gt;GPT-3.5 ?&lt;/p&gt;
+
+&lt;h2 id=&quot;credits&quot;&gt;Credits&lt;/h2&gt;
+
+&lt;p&gt;Prompt sourced from Fantasía Definitiva &lt;a href=&quot;/texts/ultimate-fantasy-111&quot;&gt;no.111&lt;/a&gt; y &lt;a href=&quot;/texts/ultimate-fantasy-112&quot;&gt;no.112&lt;/a&gt;&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Why Love?</title>
+   <link href="unsupervisedpleasures.com/texts/why-love"/>
+   <updated>2022-11-11T00:00:00-08:00</updated>
+   <id>unsupervisedpleasures.com/texts/why-love</id>
+   <content type="html">&lt;div class=&quot;mt-1&quot;&gt;
+  &lt;div class=&quot;video&quot;&gt;
+    &lt;div style=&quot;padding:56.25% 0 0 0;position:relative;&quot;&gt;&lt;iframe src=&quot;https://player.vimeo.com/video/770068990?badge=0&amp;amp;autopause=0&amp;amp;player_id=0&amp;amp;app_id=58479&amp;amp;byline=0&amp;amp;portrait=0&quot; frameborder=&quot;0&quot; allow=&quot;autoplay; fullscreen; picture-in-picture; clipboard-write&quot; style=&quot;position:absolute;top:0;left:0;width:100%;height:100%;&quot; title=&quot;Why Love Corpora?&quot;&gt;&lt;/iframe&gt;&lt;/div&gt;&lt;script src=&quot;https://player.vimeo.com/api/player.js&quot;&gt;&lt;/script&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;mb-1&quot;&gt;
+  &lt;figcaption&gt;Turn on closed captions for English.&lt;/figcaption&gt;
+&lt;/div&gt;
+
+&lt;p&gt;Voiceover actor is an AI avatar named Nina. Voice AI is using a “Spanish (ES) - Puerto Rican” accent, speaking English.&lt;/p&gt;
+
+&lt;p&gt;Background video was generated using a custom StyleGAN2 model that Emily trained on a collection of 1000+ wildfires in 2021&lt;/p&gt;
+
+&lt;h2 id=&quot;corpus&quot;&gt;Corpus&lt;/h2&gt;
+
+&lt;p&gt;None&lt;/p&gt;
+
+&lt;h2 id=&quot;credits&quot;&gt;Credits&lt;/h2&gt;
+
+&lt;p&gt;Original script written by Emily Martinez.&lt;/p&gt;
+
+</content>
+ </entry>
  
  <entry>
    <title>Ultimate Fantasy 114 Insurance</title>

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Texts
+title: Archive
 description: Experiments in machine learning.
 ---
 

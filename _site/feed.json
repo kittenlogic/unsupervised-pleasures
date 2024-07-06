@@ -17,6 +17,54 @@
 "items": [
     
         {
+            "id": "unsupervisedpleasures.com/texts/forget-dreams",
+            "title": "Año de la Revelación, Olvidar los Sueños",
+            "summary": "¿Qué pasa cuando dejas de soñar?",
+            "content_text": "    Turn on closed captions for English.El texto, el audio y el avatar humano son 100% generados por IA. Guión adaptado de Fantasía Definitiva no.111 y no.112.Seed¿Qué pasa cuando dejas de soñar? ¿Cuando no puedes ver un futuro para ti, para tus seres queridos, para todos los seres sensibles y no sensibles de este planeta? ¿Cuándo día tras día te afliges? ¿Cuando día tras día sientes tus sentidos embotados, tus sentimientos adormecidos, tu espíritu encogiéndose y marchitándose? ¿Cuando el tiempo se convierte en un infierno personal de sus propios mapas mentales distorsionados y bucles traumáticos? ¿Cuándo ya no puedes recibir la luz del amor? ¿Cuando tu corazón deja de emanar su luz propia?CorpusGPT-3.5 ?CreditsPrompt sourced from Fantasía Definitiva no.111 y no.112",
+            "content_html": "<div class=\"mt-1\">  <div style=\"padding:56.25% 0 0 0;position:relative;\"><iframe src=\"https://player.vimeo.com/video/766291539?h=4e73ace470&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479&amp;title=0&amp;byline=0&amp;portrait=0\" frameborder=\"0\" allow=\"autoplay; fullscreen; picture-in-picture\" allowfullscreen=\"\" style=\"position:absolute;top:0;left:0;width:100%;height:100%;\" title=\"Year of Revelation _ Forget Dreams\"></iframe></div><script src=\"https://player.vimeo.com/api/player.js\"></script></div><div class=\"mb-1\">  <figcaption>Turn on closed captions for English.</figcaption></div><p>El texto, el audio y el avatar humano son 100% generados por IA. Guión adaptado de Fantasía Definitiva <a href=\"/texts/ultimate-fantasy-111\">no.111</a> y <a href=\"/texts/ultimate-fantasy-112\">no.112</a>.</p><h2 id=\"seed\">Seed</h2><p>¿Qué pasa cuando dejas de soñar? ¿Cuando no puedes ver un futuro para ti, para tus seres queridos, para todos los seres sensibles y no sensibles de este planeta? ¿Cuándo día tras día te afliges? ¿Cuando día tras día sientes tus sentidos embotados, tus sentimientos adormecidos, tu espíritu encogiéndose y marchitándose? ¿Cuando el tiempo se convierte en un infierno personal de sus propios mapas mentales distorsionados y bucles traumáticos? ¿Cuándo ya no puedes recibir la luz del amor? ¿Cuando tu corazón deja de emanar su luz propia?</p><h2 id=\"corpus\">Corpus</h2><p>GPT-3.5 ?</p><h2 id=\"credits\">Credits</h2><p>Prompt sourced from Fantasía Definitiva <a href=\"/texts/ultimate-fantasy-111\">no.111</a> y <a href=\"/texts/ultimate-fantasy-112\">no.112</a></p>",
+            "url": "unsupervisedpleasures.com/texts/forget-dreams",
+            
+            
+            
+            "tags": ["machine learning","GPT-3"],
+            
+            "date_published": "2023-06-25T00:00:00-07:00",
+            "date_modified": "2023-06-25T00:00:00-07:00",
+            
+                "author":  {
+                "name": "@queermachines",
+                "url": "unsupervisedpleasures.com",
+                "avatar": null
+                }
+                
+            
+        },
+    
+        {
+            "id": "unsupervisedpleasures.com/texts/why-love",
+            "title": "Why Love?",
+            "summary": "Inspiration for Love Corpora, a collection of data sources featuring texts that orient towards life and liberation",
+            "content_text": "          Turn on closed captions for English.Voiceover actor is an AI avatar named Nina. Voice AI is using a “Spanish (ES) - Puerto Rican” accent, speaking English.Background video was generated using a custom StyleGAN2 model that Emily trained on a collection of 1000+ wildfires in 2021CorpusNoneCreditsOriginal script written by Emily Martinez.",
+            "content_html": "<div class=\"mt-1\">  <div class=\"video\">    <div style=\"padding:56.25% 0 0 0;position:relative;\"><iframe src=\"https://player.vimeo.com/video/770068990?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479&amp;byline=0&amp;portrait=0\" frameborder=\"0\" allow=\"autoplay; fullscreen; picture-in-picture; clipboard-write\" style=\"position:absolute;top:0;left:0;width:100%;height:100%;\" title=\"Why Love Corpora?\"></iframe></div><script src=\"https://player.vimeo.com/api/player.js\"></script>  </div></div><div class=\"mb-1\">  <figcaption>Turn on closed captions for English.</figcaption></div><p>Voiceover actor is an AI avatar named Nina. Voice AI is using a “Spanish (ES) - Puerto Rican” accent, speaking English.</p><p>Background video was generated using a custom StyleGAN2 model that Emily trained on a collection of 1000+ wildfires in 2021</p><h2 id=\"corpus\">Corpus</h2><p>None</p><h2 id=\"credits\">Credits</h2><p>Original script written by Emily Martinez.</p>",
+            "url": "unsupervisedpleasures.com/texts/why-love",
+            
+            
+            
+            "tags": ["machine learning","StyleGAN2","text-to-video","Synthesia"],
+            
+            "date_published": "2022-11-11T00:00:00-08:00",
+            "date_modified": "2022-11-11T00:00:00-08:00",
+            
+                "author":  {
+                "name": "@queermachines",
+                "url": "unsupervisedpleasures.com",
+                "avatar": null
+                }
+                
+            
+        },
+    
+        {
             "id": "unsupervisedpleasures.com/texts/ultimate-fantasy-114",
             "title": "Ultimate Fantasy 114 Insurance",
             "summary": "Here are a few suggestions",
@@ -819,54 +867,6 @@
             
             
             "tags": ["Bangkok","Durban","International Brigades","CIA","queer","GPT-2","RunwayML"],
-            
-            "date_published": "2022-05-16T00:00:00-07:00",
-            "date_modified": "2022-05-16T00:00:00-07:00",
-            
-                "author":  {
-                "name": "@queermachines",
-                "url": "unsupervisedpleasures.com",
-                "avatar": null
-                }
-                
-            
-        },
-    
-        {
-            "id": "unsupervisedpleasures.com/texts/ultimate-fantasy-080",
-            "title": "Ultimate Fantasy 80 The Zoos",
-            "summary": "I will be a part of a queer family, The Zoos",
-            "content_text": "Let me begin by telling you my ultimate fantasy. My fantasy is that I will be a part of a queer family. My family will be the Zoos, my family will be exotic, mysterious, sexual, smart, beautiful, long lived and, most of all, they will all love me just the same. My family will be simple, straightforward, kind, accepting, giving, brilliant, wise. I will be safe, I will be loved, and my family will be heaven on earth.Let me tell you what I think will happen. First there will be no horses. Then there will be no visitors. Then there will be no zoos. Then I, you, will have to find our way together in a world of our own. It may seem that way at first, but the more I think about it, the more I realize that it’s not at all what I want. I also realize that it is not what many others want. I see my dream as a call to arms. Let us all rally around the Princess. Let us join together to rescue her from the evil clutches of the mansplainer and his syphilitic slave. Let us join together to free ourselves from the yoke of ignorance and bijection and return to the matre d’ and laissez faire idealism that made America what it is.SeedWhat does it mean for sexuality to be lived as oriented? What difference does it make what or who we are oriented toward in the very direction of our desire? If orientation is a matter of how we reside in space, then sexual orientation might also be a matter of residence, of how we inhabit spaces, and who or what we inhabit spaces with. After all, queer geographers have shown us how spaces are sexualized. If we foreground the concept of “orientation,” then we can retheorize this sexualization of space as well as the spatiality of sexual desire. What would it mean for queer studies if we were to pose the question of the orientation of sexual orientation as a phenomenological question?Let me begin by telling you my ultimate fantasy. . .Corpus  Queer AI  Trained Model  Perplexity 0.9  Seed 973CreditsPrompt adapted from Queer Phenomenology by Sara Ahmed",
-            "content_html": "<p>Let me begin by telling you my ultimate fantasy. My fantasy is that I will be a part of a queer family. My family will be the Zoos, my family will be exotic, mysterious, sexual, smart, beautiful, long lived and, most of all, they will all love me just the same. My family will be simple, straightforward, kind, accepting, giving, brilliant, wise. I will be safe, I will be loved, and my family will be heaven on earth.</p><p>Let me tell you what I think will happen. First there will be no horses. Then there will be no visitors. Then there will be no zoos. Then I, you, will have to find our way together in a world of our own. It may seem that way at first, but the more I think about it, the more I realize that it’s not at all what I want. I also realize that it is not what many others want. I see my dream as a call to arms. Let us all rally around the Princess. Let us join together to rescue her from the evil clutches of the mansplainer and his syphilitic slave. Let us join together to free ourselves from the yoke of ignorance and bijection and return to the matre d’ and laissez faire idealism that made America what it is.</p><h2 id=\"seed\">Seed</h2><p>What does it mean for sexuality to be lived as oriented? What difference does it make what or who we are oriented toward in the very direction of our desire? If orientation is a matter of how we reside in space, then sexual orientation might also be a matter of residence, of how we inhabit spaces, and who or what we inhabit spaces with. After all, queer geographers have shown us how spaces are sexualized. If we foreground the concept of “orientation,” then we can retheorize this sexualization of space as well as the spatiality of sexual desire. What would it mean for queer studies if we were to pose the question of the orientation of sexual orientation as a phenomenological question?</p><p>Let me begin by telling you my ultimate fantasy. . .</p><h2 id=\"corpus\">Corpus</h2><ul>  <li><a href=\"/queerai\">Queer AI</a></li>  <li>Trained Model</li>  <li>Perplexity 0.9</li>  <li>Seed 973</li></ul><h2 id=\"credits\">Credits</h2><p>Prompt adapted from <a href=\"https://www.dukeupress.edu/queer-phenomenology\">Queer Phenomenology by Sara Ahmed</a></p>",
-            "url": "unsupervisedpleasures.com/texts/ultimate-fantasy-080",
-            
-            
-            
-            "tags": ["queer","GPT-2","RunwayML"],
-            
-            "date_published": "2022-05-16T00:00:00-07:00",
-            "date_modified": "2022-05-16T00:00:00-07:00",
-            
-                "author":  {
-                "name": "@queermachines",
-                "url": "unsupervisedpleasures.com",
-                "avatar": null
-                }
-                
-            
-        },
-    
-        {
-            "id": "unsupervisedpleasures.com/texts/ultimate-fantasy-079",
-            "title": "Ultimate Fantasy 79 Queer Geographer",
-            "summary": "a vast expanse of unspoiled beauty, unspoiled splendor, and that one simple word, love.",
-            "content_text": "Let me begin by telling you my ultimate fantasy. My ideal scenario is that one day all of us will be able to look up and see only a sky so vast, so vast that it encompasses the entire known universe. And there, on that brilliant white backdrop, will be no men, no men at work in the offices of big corporations, no men at home in the beds of happily married women. There will be no men at work in the homes of white middle-class families, no men at home among the artists and the cubicle-dwelling scientists. And just beyond that backdrop will be a vast expanse of unspoiled beauty, unspoiled splendor, and that one simple word, love.Let me repeat that one more time. Imagine the beauty and splendor beyond that backdrop, beyond the nearly-hexagonal city-state of San Francisco, where I now live and work. Could you imagine the splendor and beauty of that beyond, and beyond me, the nearly-homeless, nearly-impotent gay who craves love and fulfillment but fears the judgment of those they love, and fears judgment them self? Could you?There is a world out there, and it is not for us to explore. It is not even for us to create. We may not want to. And the very act of exploring that vast expanse can leave us breathless and asking the most basic question of our very being: Where am I?Let’s say you are one of those who have tried to live our lives boldly, truthfully, and joyously. You have boldly taken up arms against the repressive forces that have attempted to silence you. You have stood boldly for what you believe in, what you are, and what you aspire to be. You have rejected the status quo and embraced the unknown.Suddenly, the repressive forces that you have worked so hard to build up against you can now batter you down with a combination of ignorance, fear, and spite.Do you know that in some parts of the world, people still burn to death simply for being gay? There are countries where you can be executed simply for being gay. And there are countries where you can be tortured to death simply for being gay. In such places, what choice do we people have? Are we willing to be killed simply for who we are?If I may be frank with you, I do not believe that queers are necessarily evil. And what does it mean for us to be considered “good” or “morally upright”? Are we deemed virtuous simply for what we choose to do or who we are? Is it not something that we, as queer people, actively work against?I would argue that it is more than just our choice, more than just our desire that drives us forward. And it is we who, through our choice, do truly create our own destiny. There is a vortex running through our very being. I am sure you have felt it. As I have, Queer Geographer.SeedWhat does it mean for sexuality to be lived as oriented? What difference does it make what or who we are oriented toward in the very direction of our desire? If orientation is a matter of how we reside in space, then sexual orientation might also be a matter of residence, of how we inhabit spaces, and who or what we inhabit spaces with. After all, queer geographers have shown us how spaces are sexualized. If we foreground the concept of “orientation,” then we can retheorize this sexualization of space as well as the spatiality of sexual desire. What would it mean for queer studies if we were to pose the question of the orientation of sexual orientation as a phenomenological question?Let me begin by telling you my ultimate fantasy. . .Corpus  Queer AI  Trained Model  Perplexity 0.9  Seed 974CreditsPrompt adapted from Queer Phenomenology by Sara Ahmed",
-            "content_html": "<p>Let me begin by telling you my ultimate fantasy. My ideal scenario is that one day all of us will be able to look up and see only a sky so vast, so vast that it encompasses the entire known universe. And there, on that brilliant white backdrop, will be no men, no men at work in the offices of big corporations, no men at home in the beds of happily married women. There will be no men at work in the homes of white middle-class families, no men at home among the artists and the cubicle-dwelling scientists. And just beyond that backdrop will be a vast expanse of unspoiled beauty, unspoiled splendor, and that one simple word, love.</p><p>Let me repeat that one more time. Imagine the beauty and splendor beyond that backdrop, beyond the nearly-hexagonal city-state of San Francisco, where I now live and work. Could you imagine the splendor and beauty of that beyond, and beyond me, the nearly-homeless, nearly-impotent gay who craves love and fulfillment but fears the judgment of those they love, and fears judgment them self? Could you?</p><p>There is a world out there, and it is not for us to explore. It is not even for us to create. We may not want to. And the very act of exploring that vast expanse can leave us breathless and asking the most basic question of our very being: Where am I?</p><p>Let’s say you are one of those who have tried to live our lives boldly, truthfully, and joyously. You have boldly taken up arms against the repressive forces that have attempted to silence you. You have stood boldly for what you believe in, what you are, and what you aspire to be. You have rejected the status quo and embraced the unknown.</p><p>Suddenly, the repressive forces that you have worked so hard to build up against you can now batter you down with a combination of ignorance, fear, and spite.</p><p>Do you know that in some parts of the world, people still burn to death simply for being gay? There are countries where you can be executed simply for being gay. And there are countries where you can be tortured to death simply for being gay. In such places, what choice do we people have? Are we willing to be killed simply for who we are?</p><p>If I may be frank with you, I do not believe that queers are necessarily evil. And what does it mean for us to be considered “good” or “morally upright”? Are we deemed virtuous simply for what we choose to do or who we are? Is it not something that we, as queer people, actively work against?</p><p>I would argue that it is more than just our choice, more than just our desire that drives us forward. And it is we who, through our choice, do truly create our own destiny. There is a vortex running through our very being. I am sure you have felt it. As I have, Queer Geographer.</p><h2 id=\"seed\">Seed</h2><p>What does it mean for sexuality to be lived as oriented? What difference does it make what or who we are oriented toward in the very direction of our desire? If orientation is a matter of how we reside in space, then sexual orientation might also be a matter of residence, of how we inhabit spaces, and who or what we inhabit spaces with. After all, queer geographers have shown us how spaces are sexualized. If we foreground the concept of “orientation,” then we can retheorize this sexualization of space as well as the spatiality of sexual desire. What would it mean for queer studies if we were to pose the question of the orientation of sexual orientation as a phenomenological question?</p><p>Let me begin by telling you my ultimate fantasy. . .</p><h2 id=\"corpus\">Corpus</h2><ul>  <li><a href=\"/queerai\">Queer AI</a></li>  <li>Trained Model</li>  <li>Perplexity 0.9</li>  <li>Seed 974</li></ul><h2 id=\"credits\">Credits</h2><p>Prompt adapted from <a href=\"https://www.dukeupress.edu/queer-phenomenology\">Queer Phenomenology by Sara Ahmed</a></p>",
-            "url": "unsupervisedpleasures.com/texts/ultimate-fantasy-079",
-            
-            
-            
-            "tags": ["queer","GPT-2","RunwayML"],
             
             "date_published": "2022-05-16T00:00:00-07:00",
             "date_modified": "2022-05-16T00:00:00-07:00",

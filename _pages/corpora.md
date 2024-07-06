@@ -7,7 +7,7 @@ title: Corpora
 
 ## Love Corpora
 
-**Love Corpora** will be a collection of datasources featuring texts that orient towards life and liberation. It will include, but not be limited to works that center queer love, an ethics of embodiment, and decolonial perspectives. We will create this collection with community input and contributor consent. Metadata will provide full transparency about contents, licensing terms, and collection methodologies. // [>> Contribute](/love)
+**Love Corpora** will be a collection of datasources featuring texts that orient towards life and liberation. This collection will be created with community input and contributor consent. Metadata will provide full transparency about contents, licensing terms, and collection methodologies. // [>> Learn More](/love)
 
 <hr/>
 
