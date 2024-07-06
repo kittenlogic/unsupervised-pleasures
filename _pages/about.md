@@ -19,6 +19,6 @@ Unsupervised Pleasures is a DIY community practice space co-designed and co-faci
 <hr/>
 <a class="btn btn-primary mb-1" href="/texts">Experiments 🐓</a>
 <a class="btn btn-primary mb-1" href="/research">Collab Research 🦀</a>
-<a class="btn btn-primary" data-eo-form-toggle-id="5f44c8c5-c5c0-11ec-9258-0241b9615763" href="#">Newsletter 🐠</a>
+<a class="btn btn-primary mb-1" href="https://linktr.ee/queerai">News 🐠</a>
 
 <hr/>

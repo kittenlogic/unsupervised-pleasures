@@ -5,11 +5,12 @@ title: Contact
 
 ## Email
 
-hello@unsupervisedpleasures.com
+queermachines[at]gmail[dot]com
 
 ## The Vortex
 
-[@queerai](https://instgram.com/queerai)
+[@queerai](https://instagram.com/queerai)
+
 
 ## Newsletter
 

@@ -59,7 +59,7 @@ We are artists interested in working with texts and AI using our own archives an
     <div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/770068990?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479&amp;byline=0&amp;portrait=0" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write" style="position:absolute;top:0;left:0;width:100%;height:100%;" title="Why Love Corpora?"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
   </div>
   <div class="mt-1">
-    <a class="btn btn-primary" target="_blank" ref="noopener" href="/love">Learn More</a>
+    <a class="btn btn-primary" href="/love">Learn More</a>
   </div>
 </div>
 

@@ -3,14 +3,14 @@ links:
   url: /
 - title: About
   url: /about
+- title: Experiments
+  url: /texts 
 - title: Research
   url: /research      
 - title: Corpora
   url: /corpora
 - title: Collections
-  url: /collections
-- title: Archive
-  url: /texts  
+  url: /collections 
 - title: Contact
   url: /contact
 - title: Search
