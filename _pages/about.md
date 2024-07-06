@@ -7,7 +7,7 @@ title: About
 
 Unsupervised Pleasures is the personal archive of Emily Martinez's experiments with LLMs and generative AI models. 
 
-Unsupervised Pleasures is also a DIY collaborative research hub co-designed, co-led, and co-facilitated with Sarah Ciston. Together, we explore playful, consensual, and critical approaches to AI.
+Unsupervised Pleasures is a DIY community practice space co-designed and co-facilitated with Sarah Ciston. Together, we explore playful, consensual, and critical approaches to AI.
 
 <hr/>
 
