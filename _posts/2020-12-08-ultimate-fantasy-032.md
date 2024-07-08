@@ -24,7 +24,9 @@ No.
 
 Are you going to live your life like it is or are you going to discover that it isn't true?
 
-I can't tell you how many nights I craved the closeness of a good, long lesbian night out on the town. I even had my high school prom dress made just for the occasion. I even had my high school prom dress made for two.
+I can't tell you how many nights I craved the closeness of a good, long lesbian night out on the town. 
+
+I even had my high school prom dress made just for the occasion. I even had my high school prom dress made for two.
 
 I can't tell you how many nights I dreamed of strapping on my red leather prom dress and heading out into the frigid night air.
 
@@ -53,6 +55,10 @@ How many times have you been the object of sexual requests, whispered or whisper
 How many times have you been the object of drunken brawls, fistfights, and fist-fights in the street?
 
 And most gallingly of all, how many times have you been the object of a...
+
+<div class="video">
+<div style="padding:100% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/661039447?title=0&amp;byline=0&amp;portrait=0&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write" style="position:absolute;top:0;left:0;width:100%;height:100%;" title="Lesbian Night Out on the Town"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
+</div>
 
 
 ## Seed

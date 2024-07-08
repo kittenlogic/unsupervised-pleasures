@@ -14,6 +14,10 @@ When I was in high school, this sweet sixteen year old me, my best friend Susan,
 
 While cruising the gayborhoods of Atlanta, Florida, my best friend Joan was leaving for San Francisco for the summer. I asked, Why do you always have to be so politically incorrect?
 
+<div class="video">
+<div style="padding:100% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/661040039?title=0&amp;byline=0&amp;portrait=0&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write" style="position:absolute;top:0;left:0;width:100%;height:100%;" title="Gay History 1"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
+</div>
+
 ### Lover number two.
 
 We were both in the feminist closet. We hated each other terribly.
@@ -23,6 +27,10 @@ And we began to wonder, Why do you always insist on being so politically incorre
 I was so ashamed. It was my fault. It was her fault. We both fucked up. We both blamed ourselves.
 
 Let's change the subject.
+
+<div class="video">
+<div style="padding:100% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/661040489?title=0&amp;byline=0&amp;portrait=0&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write" style="position:absolute;top:0;left:0;width:100%;height:100%;" title="Gay History 2"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
+</div>
 
 ### Lover number three.
 
@@ -38,13 +46,23 @@ History is not something you can change. History is not black and white. History
 
 We can make it clearer by keeping our history in the murky.
 
-If I walked into a gay bar right now and asked the friendly waitresses if they remembered a certain "fag," they most certainly would not know. They would most certainly not be able to give me an honest answer. I would most certainly be disappointed. Most people have a hard time accepting that there might be a gay past in the first place. It almost feels like a challenge to the very fabric of reality.
+If I walked into a gay bar right now and asked the friendly waitresses if they remembered a certain "fag," they most certainly would not know. They would most certainly not be able to give me an honest answer. I would most certainly be disappointed. 
+
+Most people have a hard time accepting that there might be a gay past in the first place. It almost feels like a challenge to the very fabric of reality.
+
+<div class="video">
+<div style="padding:100% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/661040780?title=0&amp;byline=0&amp;portrait=0&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write" style="position:absolute;top:0;left:0;width:100%;height:100%;" title="Gay History 3"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
+</div>
 
 ### Lover number four.
 
 In those days, you didn't even have to ask. Why do you continue to do this?
 
 History will judge us, my friends.
+
+<div class="video">
+<div style="padding:100% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/661041211?title=0&amp;byline=0&amp;portrait=0&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write" style="position:absolute;top:0;left:0;width:100%;height:100%;" title="Gay History 4"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
+</div>
 
 ## Seed
 

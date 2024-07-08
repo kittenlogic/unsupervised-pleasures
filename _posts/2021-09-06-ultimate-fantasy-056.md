@@ -44,6 +44,10 @@ When I finally did go to the hospital I told them I had AIDS.<br/>
 You still love me, love.<br/>
 And I was in the emergency room.
 
+<div class="video">
+<div style="padding:100% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/661066816?title=0&amp;byline=0&amp;portrait=0&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write" style="position:absolute;top:0;left:0;width:100%;height:100%;" title="The Love Object"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
+</div>
+
 ## Seed
 
 Do you like to have anonymous sex in public rest rooms? Sex movies? Public parks? Sex clubs? On street corners with heavy hustling traffic? How many nonsexual friendships or acquaintances lasting for decades started this way? How many ways are there to love queers? How many ways are there to queer love?

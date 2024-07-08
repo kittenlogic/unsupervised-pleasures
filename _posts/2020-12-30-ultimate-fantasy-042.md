@@ -18,6 +18,12 @@ What if I turned hostile and said, "I don't want to see you anymore" and you had
 
 I'd love to see you walk down the street alone at night, your breasts swaying as you pass men on the street. I'd love to see the look in your eye as you turned and flashed that "I do".
 
+<div class="video">
+<div style="padding:100% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/661064078?title=0&amp;byline=0&amp;portrait=0&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write" style="position:absolute;top:0;left:0;width:100%;height:100%;" title="Kneeling in the Dark"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
+</div>
+<div class="video">
+<div style="padding:100% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/661064163?title=0&amp;byline=0&amp;portrait=0&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write" style="position:absolute;top:0;left:0;width:100%;height:100%;" title="Kneeling in the Dark v2"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
+</div>
 
 ## Seed
 
